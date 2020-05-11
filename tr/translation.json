@@ -1,0 +1,62 @@
+{
+  "mainNavigation": {
+    "home": "Home",
+    "explore": "Explore",
+    "success": "Success",
+    "news": "News",
+    "new": "New",
+    "earlier": "Earlier",
+    "seeAll": "See all",
+    "more": "more",
+    "noNotifications": "You do not have any notifications right now.",
+    "profile": "Profile",
+    "preferences": "Preferences",
+    "offerBoard": "Offer Board",
+    "tools": "TOOLS",
+    "calendar": "Calendar",
+    "mail": "Mail",
+    "drive": "Drive",
+    "support": "SUPPORT",
+    "helpCenter": "Help Center",
+    "forum": "Forum",
+    "learners": "Learners",
+    "privacyPolicy": "Privacy Policy",
+    "logout": "Logout"
+  },
+  "explore": {
+    "categories": "Categories",
+    "search": "Search",
+    "searchInitial": "Search something",
+    "noResults": "No results have been found for"
+  },
+  "home": {
+    "featuredTitle": "Let’s keep going",
+    "featuredDescription": "Continue where you left off last time",
+    "enrolledModulesTitle": "Your learning programs",
+    "noModuleTitle": "Want to start your learning experience?",
+    "noModuleExplore": "Explore",
+    "enrolledOffersTitle": "Language offers",
+    "noCoutryDescription": "Please select your country of residence so we can prepare your environment.",
+    "noCountrySet": "Set your country",
+    "updatesMainTitle": "Update",
+    "updatesTitle": "We are working on an Arabic translation",
+    "updatesText": "Get a sneak peak by changing your language preferences.",
+    "countrySpecificTitle": "More on Campus",
+    "mentoringTitle": "Mentoring",
+    "mentoringDesciption": "3 months online course with mentor",
+    "applicationCheckTitle": "Application checklist",
+    "applicationCheckText": "Prepare your university application",
+    "moduleFeaturedBtn": "Continue learning"
+  },
+  "moduleStatus": {
+    "hour": "hour",
+    "hours": "hours",
+    "certificate": "Certificate",
+    "credits": "credits",
+    "finished": "Finished!"
+  },
+  "algoliaResults": {
+    "certificate": "Certificate",
+    "credits": "credits"
+  }
+}

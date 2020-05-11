@@ -1,0 +1,62 @@
+{
+  "mainNavigation": {
+    "home": "الصفحة الرئيسية",
+    "explore": "أكتشف",
+    "success": "نجاح",
+    "news": "أخبار",
+    "new": "جديد",
+    "earlier": "سابقا",
+    "seeAll": "اظهار الكل",
+    "more": "أكثر",
+    "noNotifications": "ليش لديك اي اخطارات الأن ",
+    "profile": "الملف الشخصي",
+    "preferences": "التفضيلات ",
+    "offerBoard": "لوح العروض",
+    "tools": "الأدوات",
+    "calendar": "التقويم ",
+    "mail": "بريد",
+    "drive": "مساحة حفظ البيانات",
+    "support": "الدعم",
+    "helpCenter": "مركز المساعدة",
+    "forum": "المنتدى",
+    "learners": "المتعلمين",
+    "privacyPolicy": "سياسة الخصوصية",
+    "logout": "تسجيل الخروج"
+  },
+  "explore": {
+    "categories": "فئات",
+    "search": "بحث",
+    "searchInitial": "البحث الأولي",
+    "noResults": "لا نتائج"
+  },
+  "home": {
+    "featuredTitle": "إستمر",
+    "featuredDescription": "استمر من حيث توقفت في المرة الأخيرة",
+    "enrolledModulesTitle": "برامج التعلم الخاصة بك",
+    "noModuleTitle": "تريد أن تبدأ تجربة التعلم الخاصة بك؟برامج التعلم الخاصة بك",
+    "noModuleExplore": "استكشاف",
+    "enrolledOffersTitle": "عروض اللغة",
+    "noCoutryDescription": "يرجى تحديد بلد إقامتك حتى نتمكن من إعداد البيئة الخاصة بك",
+    "noCountrySet": "حدد بلدك",
+    "updatesMainTitle": "تحديث",
+    "updatesTitle": "نحن نعمل على الترجمة",
+    "updatesText": "احصل على فرصة سريعة من خلال تغيير تفضيلات لغتك",
+    "countrySpecificTitle": "المزيد على المنصة",
+    "mentoringTitle": "إرشاد",
+    "mentoringDesciption": "دورة 3 أشهر عبر الإنترنت مع مرشد",
+    "applicationCheckTitle": "قائمة التحضير للجامعة",
+    "applicationCheckText": "إعداد طلب جامعتك",
+    "moduleFeaturedBtn": "استمر في التعلم"
+  },
+  "moduleStatus": {
+    "hour": "ساعة",
+    "hours": "ساعات",
+    "certificate": "شهادة",
+    "credits": "الاعتمادات",
+    "finished": "تم الانتهاء من الدورة!"
+  },
+  "algoliaResults": {
+    "certificate": "شهادة",
+    "credits": "الاعتمادات"
+  }
+}

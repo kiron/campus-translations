@@ -1,0 +1,65 @@
+{
+  "title": "Welcome ",
+  "description": "At Kiron we believe in the power of free online learning. We work to make digital education available to refugees worldwide, underserved communities in the Middle East and other people facing barriers to higher education.",
+  "step01": {
+    "title": "Your Profile",
+    "description": "Let’s add some information to your profile first:",
+    "labelFirstName": "First Name *",
+    "placeholderFirstName": "write your first name here",
+    "labelLastName": "Last Name *",
+    "placeholderLastName": "write your last name here",
+    "labelNickname": "Nickname",
+    "placeholderNickname": "write your nickname here",
+    "errorInput": "Please use alphanumeric characters (A-Z, or a-z)",
+    "label01": "Where are you from? *",
+    "placeholder01": "country of origin",
+    "label02": "Where do you live now? *",
+    "placeholder02": "country of residence",
+    "label03": "Gender",
+    "placeholder03": "male / female / other",
+    "label04": "Your phone number",
+    "label05": "Enter your date of birth",
+    "required": "* required field",
+    "button": "Next",
+    "errorText": "This field is required",
+    "labelContactByWhatsapp": "Would you like us to contact you via Whatsapp?",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "step02": {
+    "title": "Document Guide",
+    "documentAlternate": {
+      "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
+      "part02": "Kiron Help Center",
+      "part03": "for more information.",
+      "part04": "Kiron will store your documents safely on our servers and they will not be shared with others. ",
+      "part05": "Learn more about why we need your document "
+    },
+    "uploadButton": "Upload document",
+    "notNowButton": "Not now"
+  },
+  "step03": {
+    "title": "Upload document",
+    "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
+    "description02": "recommendations ",
+    "description03": "for uploading in the best quality.",
+    "upload": "Click here or drop files to upload your document.",
+    "button": "Send",
+    "modal": {
+      "yes": "DO",
+      "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
+      "no": "DON’T",
+      "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
+    }
+  },
+  "step04": {
+    "title": "Great!",
+    "description": "We are verifying your document and will send you an email when we’re done. You can already start studying your first course right away!",
+    "button": "Go to Kiron Campus"
+  },
+  "step04Skip": {
+    "description": "Ok, you can do this later. Go to your profile to upload documents at any time.",
+    "button": "Go to Kiron Campus"
+  }
+}
