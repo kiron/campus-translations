@@ -46,7 +46,82 @@
     "mentoringDesciption": "3 months online course with mentor",
     "applicationCheckTitle": "Application checklist",
     "applicationCheckText": "Prepare your university application",
-    "moduleFeaturedBtn": "Continue learning"
+    "moduleFeaturedBtn": "Continue learning",
+    "conferenceTitle": "Join our first conference!",
+    "conferenceDescription": "Do you have a story to tell? Do you want to hear other people’s stories? We are gathering participants for the Virtual Refugee Conference!"
+  },
+  "success": {
+    "introTitle": "Your success story!",
+    "introDescription": "Come back daily and finish courses for more!",
+    "titleNew": "What's new?",
+    "courseVer": "✓ Verified!",
+    "courseVerificationPend": "Verification pending",
+    "verifyCta": "VERIFY",
+    "autoVerified": "Auto-verified",
+    "imgAlt": "Your success story",
+    "visit": "visit",
+    "daysVisited": "days visited",
+    "courseComplete": "course completed",
+    "coursesComplete": "courses completed",
+    "first": "1st",
+    "shortProgram": "Short Program",
+    "completed": "completed",
+    "finishedCourses": "Finished courses",
+    "toBeVerified": "to be verified",
+    "coursesFinishedSingular": "course finished",
+    "coursesFinishedPlural": "courses finished",
+    "coursesLeftSingular": "course left",
+    "coursesLeftPlural": "courses left",
+    "language": {
+      "en": "English",
+      "de": "German",
+      "progressPopup": "Most universities require an official C1 Language certificate from one of the following institutes: Goethe, DSH, TestDAF, and TELC . We will support you in the process.",
+      "currentLevel": "Current Level",
+      "languageProgress": "language progress",
+      "btnDesc": "Have you finished a course?",
+      "btnLabel": "Add a Certificate",
+      "btnLabelCertificate": "Certificates",
+      "confirmDelete": "Are you sure you want to delete it?",
+      "save": "Save",
+      "cancel": "Cancel",
+      "addCourse": "Add a course",
+      "other": "Other",
+      "level": "Level",
+      "courseName": "Course name",
+      "titleOfCeritificate": "Title of your certificate",
+      "certificateDate": "Certificate date",
+      "certificateDateDesc": "Adding a certificate will help with your application to university.",
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "transcriptOfRecords": {
+    "description": "Great! You already have a lot of verified courses. Download a PDF with a list of your achievements. You can attach it to your CV or university applications.",
+    "btnRequest": "Request a TOR",
+    "btnDownload": "Download Certificates",
+    "form": {
+      "title": "Transcript of Records",
+      "description": "The Transcript of Records is a document from Kiron, which lists all the courses you completed that have been verified by the Kiron team.<br />You can use it to prove that you are studying online with Kiron. For example, you can add it to your CV to show certain skills and support your application for a job or a spot at a university.<br /> Once you continue studying at a regular offline university, you can try to have the course credits you earned with Kiron recognized at the faculty where you are studying.<br />",
+      "verificationWarning": "Only completed and verified courses will appear on your Transcript. Please make sure that all courses you want on the Transcript are completed and verified before sending the request.",
+      "reasonTitle": "What would you like to use the Transcript of Records for? (multi-select)",
+      "btnCancel": "Cancel",
+      "btnRequest": "Request TOR",
+      "requestTitle": "Request History",
+      "statusColumnHeading": "Status",
+      "timeRequestedColumnHeading": "Requested",
+      "btnClose": "Close",
+      "timeElapsed": "ago",
+      "statusCreated": "Created",
+      "statusInProgress": "Processing",
+      "statusReady": "Ready",
+      "statusDeclined": "Declined"
+    }
+  },
+  "fileUpload": {
+    "description": "Click here or drop files to upload your certificate.<br />(You can also upload your certificate later)",
+    "exampleDesc": "Please click on the image to see an example of a certificate in a new tab",
+    "verificationExample": "Verification example",
+    "save": "Save"
   },
   "moduleStatus": {
     "hour": "hour",
@@ -58,5 +133,10 @@
   "algoliaResults": {
     "certificate": "Certificate",
     "credits": "credits"
+  },
+  "dateInput": {
+    "day": "Day:",
+    "month": "Month:",
+    "year": "Year:"
   }
 }
