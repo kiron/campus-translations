@@ -67,7 +67,7 @@
     "button": "Send",
     "modal": {
       "yes": "DO",
-      "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
+      "yesDescription": "Sadece resmi belgeleri indirin. Sizin tam adınız, doğum tarihiniz ve şu anki tarih net bir şekilde görülmeli.",
       "no": "DON’T",
       "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
     }
