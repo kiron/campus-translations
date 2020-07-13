@@ -1,3 +1,4 @@
+
 {
   "mainNavigation": {
     "home": "Home",
@@ -27,7 +28,11 @@
     "categories": "Categories",
     "search": "Search",
     "searchInitial": "Search something",
-    "noResults": "No results have been found for"
+    "noResults": "No results have been found for",
+    "promotedModules": {
+      "title": "Get Started",
+      "subtitle": "Most Kiron students start their learning journey here"
+    }
   },
   "home": {
     "featuredTitle": "Let’s keep going",
@@ -42,13 +47,9 @@
     "updatesTitle": "We are working on an Arabic translation",
     "updatesText": "Get a sneak peak by changing your language preferences.",
     "countrySpecificTitle": "More on Campus",
-    "mentoringTitle": "Mentoring",
-    "mentoringDesciption": "3 months online course with mentor",
     "applicationCheckTitle": "Application checklist",
     "applicationCheckText": "Prepare your university application",
-    "moduleFeaturedBtn": "Continue learning",
-    "conferenceTitle": "Join our first conference!",
-    "conferenceDescription": "Do you have a story to tell? Do you want to hear other people’s stories? We are gathering participants for the Virtual Refugee Conference!"
+    "moduleFeaturedBtn": "Continue learning"
   },
   "success": {
     "introTitle": "Your success story!",
@@ -96,26 +97,7 @@
     }
   },
   "transcriptOfRecords": {
-    "description": "Great! You already have a lot of verified courses. Download a PDF with a list of your achievements. You can attach it to your CV or university applications.",
-    "btnRequest": "Request a TOR",
-    "btnDownload": "Download Certificates",
-    "form": {
-      "title": "Transcript of Records",
-      "description": "The Transcript of Records is a document from Kiron, which lists all the courses you completed that have been verified by the Kiron team.<br />You can use it to prove that you are studying online with Kiron. For example, you can add it to your CV to show certain skills and support your application for a job or a spot at a university.<br /> Once you continue studying at a regular offline university, you can try to have the course credits you earned with Kiron recognized at the faculty where you are studying.<br />",
-      "verificationWarning": "Only completed and verified courses will appear on your Transcript. Please make sure that all courses you want on the Transcript are completed and verified before sending the request.",
-      "reasonTitle": "What would you like to use the Transcript of Records for? (multi-select)",
-      "btnCancel": "Cancel",
-      "btnRequest": "Request TOR",
-      "requestTitle": "Request History",
-      "statusColumnHeading": "Status",
-      "timeRequestedColumnHeading": "Requested",
-      "btnClose": "Close",
-      "timeElapsed": "ago",
-      "statusCreated": "Created",
-      "statusInProgress": "Processing",
-      "statusReady": "Ready",
-      "statusDeclined": "Declined"
-    }
+    "descriptionSupport": "Great, you already have a lot of verified courses! If you are applying for university you can request a PDF with a list of your achievements. Please contact Kiron support"
   },
   "fileUpload": {
     "description": "Click here or drop files to upload your certificate.<br />(You can also upload your certificate later)",
@@ -138,5 +120,80 @@
     "day": "Day:",
     "month": "Month:",
     "year": "Year:"
+  },
+  "shortProgram": {
+    "loading": "Loading Skill Booster Program",
+    "studyTrack": "Study Track Module",
+    "skillBooster": "Skill Booster Program",
+    "notFoundTitle": "Unknown module",
+    "notFoundDesc": "This module does not exist or does not belong to your study track. Please return to your study overview to view a list of all modules available to you.",
+    "certificateDownload": "Download Certificate",
+    "certificatePreview": "This is a preview of",
+    "certificateStart": "Start this program today to get access to all of the units",
+    "btnStart": "Start this program",
+    "certificateModule": "This is a module in your online study track",
+    "certificateCredit": "Credit Points:",
+    "certificateImgAlt": "Kiron Certificate",
+    "certficateBtnUnenroll": "Unenroll",
+    "certficateBtnContinue": "Continue Learning",
+    "certificateBtnStart": "Start learning",
+    "certificateFinishText": "You're on your way! <1/>Finish all the units to get a certificate.",
+    "certificateProgress": "Progress:",
+    "certificateCounter": "You've finished {{0}} of {{1}} units",
+    "removeYes": "Yes",
+    "removeNo": "No",
+    "removeTitle": "Unenroll from course",
+    "removeQuestion": "Are you sure you want to unenroll from this course?",
+    "addModuleSuccess": "Success",
+    "addModuleBtnContinue": "Continue browsing",
+    "addModuleBtnStart": "Start first unit now",
+    "addModuleText": "This skill booster program has been added to your home tab",
+    "enrollModuleBtnNo": "Not now",
+    "enrollModuleBtnStart": "Start learning",
+    "enrollModuleText": "Hi {{1}}, this is part of our learning program <3>{{3}}</3>. Do you want to start it to learn about <5>{{5}}</5>?",
+    "showContent": "Show extra content",
+    "hideContent": "Hide extra content",
+    "titleModule": "Module",
+    "titleSkillBooster": "Skill Booster Program",
+    "titleUnits": "units",
+    "titleDesc": "Description",
+    "downloadTranscriptBtn": "Download transcript",
+    "unitComplete":	"Unit <1/> Complete!",
+    "rateHelp": "Help other students by rating this course",
+    "notNow": "Not now",
+    "rate": "Rate",
+    "thankYou": "Thank you",
+    "addComment": "Add a Comment",
+    "send": "Send",
+    "thanksTitle": "Wonderful job!",
+    "thanksSubtitle": "You made us proud",
+    "thanksShare": "Let everyone else know!",
+    "nextUnitTitle": "Up next...",
+    "nextUnitSkipTitle": "Finish this unit",
+    "nextUnitContinue": "Continue learning",
+    "nextUnitCta": "What can I learn next?",
+    "nextUnitCertificate": "You earned a certificate",
+    "nextUnitDownload": "Download now",
+    "feedbackLike":	"What did you like most about it?",
+    "feedbackDislike": "What didn’t you like about it?",
+    "feedbackNext": "Next",
+    "feedbackLoading": "Loading lesson"
+  },
+  "unitCard": {
+    "liveUnit": "Live Unit",
+    "kironUnit": "Kiron Unit",
+    "externalUnit": "External Unit",
+    "started": "Started!",
+    "completed": "Completed!",
+    "live": "LIVE",
+    "provided": "Provided by",
+    "hoursAbbreviation": "hrs.",
+    "weeksAbbreviation": "w",
+    "multiplier": "x"
+  },
+  "courseraProgress": {
+    "title": "Coursera Progress",
+    "subtitle": "Why isn't my Coursera progress updated on Kiron Campus?",
+    "body": "It can take 2-3 days before your Coursera progress shows up on Kiron Campus. This doesn't mean your progress isn't being tracked. Please check back soon to see your updated progress!"
   }
 }

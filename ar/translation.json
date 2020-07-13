@@ -27,7 +27,11 @@
     "categories": "فئات",
     "search": "بحث",
     "searchInitial": "البحث الأولي",
-    "noResults": "لا نتائج"
+    "noResults": "لا نتائج",
+    "promotedModules": {
+      "title": "البدء",
+      "subtitle": "يبدأ معظم طلاب كايرون رحلة التعلم الخاصة بهم هنا"
+    }
   },
   "home": {
     "featuredTitle": "إستمر",
@@ -42,13 +46,9 @@
     "updatesTitle": "نحن نعمل على الترجمة",
     "updatesText": "احصل على فرصة سريعة من خلال تغيير تفضيلات لغتك",
     "countrySpecificTitle": "المزيد على المنصة",
-    "mentoringTitle": "إرشاد",
-    "mentoringDesciption": "دورة 3 أشهر عبر الإنترنت مع مرشد",
     "applicationCheckTitle": "قائمة التحضير للجامعة",
     "applicationCheckText": "إعداد طلب جامعتك",
-    "moduleFeaturedBtn": "استمر في التعلم",
-    "conferenceTitle": "إنضم إلينا في مؤتمرنا الأول",
-    "conferenceDescription": "هل لديك قصة لترويها؟ هل تريد سماع قصص أشخاص آخرين؟ نحن بصدد جمع مشاركين لمؤتمر اللاجئين الافتراضي!"
+    "moduleFeaturedBtn": "استمر في التعلم"
   },
   "success": {
     "introTitle": "قصة نجاحك!",
@@ -96,26 +96,7 @@
     }
   },
   "transcriptOfRecords": {
-    "description": "عظيم! لديك بالفعل العديد من الدورات التدريبية التي تم التحقق منها. قم بتنزيل ملف PDF يحتوي على قائمة بإنجازاتك. يمكنك إرفاقها بسيرتك الذاتية أو طلبات الجامعة.",
-    "btnRequest": "طلب TOR",
-    "btnDownload": "تنزيل الشهادات",
-    "form": {
-      "title": "نسخة من السجلات",
-      "description": "نسخة السجلات هي وثيقة من كايرون، تسرد جميع الدورات التي أكملتها والتي تم التحقق منها من قبل فريق كيرون. <br /> يمكنك استخدامها لإثبات أنك تدرس عبر الإنترنت مع كيرون. على سبيل المثال ، يمكنك إضافته إلى سيرتك الذاتية لإظهار مهارات معينة ودعم طلبك للحصول على وظيفة أو مكان في الجامعة. <br /> بمجرد متابعة الدراسة في جامعة عادية غير متصلة بالإنترنت ، يمكنك محاولة الحصول على أرصدة الدورة حصلت عليه مع كايرون معترف به في الكلية التي تدرس بها. <br />",
-      "verificationWarning": "ستظهر فقط الدورات المكتملة والتي تم التحقق منها في النص الخاص بك. يرجى التأكد من اكتمال جميع الدورات التدريبية التي تريدها في النص والتحقق منها قبل إرسال الطلب.",
-      "reasonTitle": "في ماذا تريد استخدام نسخة السجلات؟ (تحديد متعدد)",
-      "btnCancel": "إلغاء",
-      "btnRequest": "طلب TOR",
-      "requestTitle": "سجل الطلبات",
-      "statusColumnHeading": "الحالة",
-      "timeRequestedColumnHeading": "تم طلب",
-      "btnClose": "إغلاق",
-      "timeElapsed": "منذ",
-      "statusCreated": "تم إنشاؤها",
-      "statusInProgress": "تحت المعالجة",
-      "statusReady": "جاهز",
-      "statusDeclined": "تم الرفض"
-    }
+    "descriptionSupport": "عظيم، لديك بالفعل العديد من الدورات التدريبية التى تم التحقق منها! إذا كنت تقوم بالتقديم للجامعة تستطيع الآن طلب الحصول على ملف PDF يحتوي على قائمة بإنجازاتك. رجاءً قم بالتواصل مع كايرون للدعم الإضافي"
   },
   "fileUpload": {
     "description": "انقر هنا أو أسقط الملفات لتحميل شهادتك. <br /> (يمكنك أيضًا تحميل شهادتك لاحقًا)",
@@ -138,5 +119,84 @@
     "day": "يوم:",
     "month": "شهر:",
     "year": "سنة:"
+  },
+  "shortProgram": {
+    "loading": "جاري تحميل برنامج تقوية المهارة",
+    "studyTrack": "وحدة مسار الدراسة",
+    "skillBooster": "برنامج تقوية المهارة",
+    "notFoundTitle": "وحدة غير معروفة",
+    "notFoundDesc": "هذه الوحدة غير موجودة أو لا تنتمي إلى مسار دراستك. يرجى إلقاء نظرة عامة على دراستك لعرض قائمة بجميع الوحدات المتاحة لك.",
+    "certificateDownload": "تحميل الشهادة",
+    "certificatePreview": " معاينة",
+    "certificateStart": "ابدأ هذا البرنامج اليوم للوصول إلى جميع الوحدات",
+    "btnStart": "ابدأ هذا البرنامج",
+    "certificateModule": "هذه وحدة في مسار دراستك عبر الإنترنت",
+    "certificateCredit": "نقاط المعادلة:",
+    "certificateImgAlt": "شهادة كايرون",
+    "certficateBtnUnenroll": "إلغاء التسجيل",
+    "certficateBtnContinue": "مواصلة التعلم",
+    "certificateBtnStart": "ابدا بالتعلم",
+    "certificateFinishText": "أنت في طريقك! <1 /> قم بإنهاء جميع الوحدات للحصول على شهادة",
+    "certificateProgress": "التقدم:",
+    "certificateCounter": "لقد انتهيت من {{0}} من {{1}} وحدة",
+    "removeYes": "نعم",
+    "removeNo": "لا",
+    "removeTitle": "إلغاء التسجيل من الدورة التدريبية",
+    "removeQuestion": "هل أنت متأكد أنك تريد إلغاء التسجيل في هذه الدورة؟",
+    "addModuleSuccess": "نجاح",
+    "addModuleBtnContinue": "تابع التصفح",
+    "addModuleBtnStart": "ابدأ الوحدة الأولى الآن",
+    "addModuleText": "تمت إضافة برنامج تعزيز المهارات هذا إلى علامة التبويب الرئيسية الخاصة بك",
+    "enrollModuleBtnNo": "ليس الان",
+    "enrollModuleBtnStart": "ابدا بالتعلم",
+    "enrollModuleText": "مرحبًا {{1}} ، هذا جزء من برنامج التعلم <3>{{3}}</3>. هل تريد البدء في التعرف على <5>{{5}}</5>؟",
+    "showContent": "إظهار محتوى إضافي",
+    "hideContent": "إخفاء المحتوى الإضافي",
+    "titleModule": "الوحدة",
+    "titleSkillBooster": "برنامج تقوية المهارة",
+    "titleUnits": "الوحدات",
+    "titleDesc": "الوصف",
+    "downloadTranscriptBtn": "تنزيل نسخة",
+    "unitComplete":	"تم إكمال <1 /> الوحدة!",
+    "rateHelp": "قم بمساعدة الطلاب الآخرين وقيّم المساق الآن",
+    "notNow": "ليس الآن",
+    "rate": "قيّم ",
+    "thankYou": "شكراً",
+    "addComment": "قم بإضافة تعليق",
+    "send": "أرسل",
+    "thanksTitle": "عمل رائع!",
+    "thanksSubtitle": "فخورون بك",
+    "thanksShare": "شارك مع الآخرين!",
+    "nextUnitTitle": "التالي...",
+    "nextUnitSkipTitle": "قم بإنهاء هذه الوحدة",
+    "nextUnitContinue": "استمر بالتعلّم ",
+    "nextUnitCta": "ما الذي يمكنني تعلمه لاحقاً؟",
+    "nextUnitCertificate": "استحققت شهادة ",
+    "nextUnitDownload": "قم بالتحميل الأن ",
+    "feedbackLike":	"ما الذي أعجبك بشكل كبير؟ ",
+    "feedbackDislike": "ما الذي لم يعجبك؟ ",
+    "feedbackNext":	"التالي",
+    "feedbackLoading": "تحميل الدرس "
+  },
+  "unitCard": {
+    "liveUnit": "الوحدة المباشرة",
+    "kironUnit": "وحدة كايرون",
+    "externalUnit": "الوحدة الخارجية",
+    "started": "بدأت!",
+    "completed": "منجز!",
+    "live": "مباشر",
+    "provided": "مقدمة من",
+    "hoursAbbreviation": "ساعة",
+    "hoursAbbreviation_2": "ساعات",
+    "hoursAbbreviation_3": "ساعات",
+    "weeksAbbreviation": "أسبوع",
+    "weeksAbbreviation_2": "أسابيع",
+    "weeksAbbreviation_3": "أسابيع",
+    "multiplier": "×"
+  },
+  "courseraProgress": {
+    "title": "تقدم  كورسيرا",
+    "subtitle": "لماذا لا يتم تحديث تقدم الخاص بي لكورسيرا على  كايرون؟",
+    "body": "يمكن أن يستغرق الأمر ٢-٣ أيام قبل ظهور تقدم كورسيرا على كايرون. هذا لا يعني أنه لم يتم تتبع تقدمك. يرجى التحقق مرة أخرى قريبًا لتستطيع رؤية تقدمك المحدث!"
   }
 }

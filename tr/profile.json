@@ -1,0 +1,71 @@
+{
+  "header": {
+    "imgSave": "Save",
+    "imgDelete": "Delete",
+    "imgReplace": "Replace",
+    "imgTitle": "Upload your profile picture",
+    "imgInputLabel": "I allow my image to be shown to other Kiron students & staff",
+    "imgUploadMsg": "Upload your profile picture"
+  },
+  "editBox": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit"
+  },
+  "languageSwitch": {
+    "title": "Language",
+    "descText": "We are gradually introducing translations for Arabic to Kiron Campus.",
+    "descSubText": "You can change language to Arabic to get a sneak peak."
+  },
+  "personalInfo": {
+    "title": "Personal Information",
+    "popup": "Personal Information is helpful for us to know our students better and provide specific services, e.g. study places for female students",
+    "nickname": "Nickname",
+    "country": "Country of Origin",
+    "countryPlaceholder": "Select a nationality",
+    "birthday": "Date of Birth",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "location": {
+    "title": "Location",
+    "popup": "Some of our services are only available in certain areas. Knowing your location allows us to send you the right infos.",
+    "infoMsg": "We will not refer any sensitive information to a third party; however, in order to offer tailor-made workshops or events close to you, we need your location details.",
+    "country": "Country",
+    "countryPlaceholder": "Select a country",
+    "city": "City",
+    "none": "None",
+    "btnLabel": "Find other students"
+  },
+  "contactDetails": {
+    "title": "Contact information",
+    "popup": "We will need your private email if you have to reset your kiron email account. We will contact you via phone for additional services.",
+    "infoMsg": "Kiron does not share your contact details with anybody without your permission.",
+    "phone": "Phone number",
+    "can": "can",
+    "cannnot": "cannot",
+    "whatsapp": "contact me via WhatsApp Messenger on this number.",
+    "whatsappCheck": "Kiron can contact me via WhatsApp Messenger on this number",
+    "email": "Private email",
+    "emailMsg": "Have a new <1>private</1> email address? You can change it here. We will send you a confirmation email to this address - <2>please confirm</2> it within the next days."
+  },
+  "certificate": {
+    "title": "Certificate of Enrollment",
+    "desc": "Do you need to prove that you are a student with Kiron?",
+    "downloadDesc": "Download your Certificate of Enrollment!",
+    "btnLabel": "Download here",
+    "downloadPlease": "Please",
+    "clickHere": "click here",
+    "downloadLink": "to upload a status document in order to download certificate of enrollment."   
+  },
+  "COEContainer": {
+    "question": "What are you planning to use your certificate for in the next six months?",
+    "info": "To download the certificate of enrollment, please select one or several uses of the certificate of enrollment above.",
+    "downloadLng": "Download in",
+    "en": "English",
+    "de": "German",
+    "fr": "French"
+  }
+}
