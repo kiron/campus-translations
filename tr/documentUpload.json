@@ -1,29 +1,29 @@
 {
   "reviewInProgress": {
-    "title": "Review in Progress",
-    "hello": "Hello, ",
-    "descriptionJSX": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days. In the meantime, you can already select your modules on the <1>Explore Page</1> or see other learners in your area <3>on the Community Page</3>."
+    "title": "İnceleme Sürüyor",
+    "hello": "Merhaba, ",
+    "descriptionJSX": "Belgenizi yüklediğiniz için teşekkür ederiz. Şimdi inceliyoruz ve önümüzdeki üç gün içinde bizden bir e-posta alacaksınız. Bu arada, modüllerinizi <1> Keşfetme Sayfası </1> üzerinde zaten seçebilir veya Topluluk Sayfasında </3> bölgenizdeki <3> diğer öğrencileri görebilirsiniz."
   },
-  "uploadDocumentTitle": "Upload document",
-  "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
-  "description02": "recommendations ",
-  "description03": "for uploading in the best quality.",
-  "upload": "Click here or drop files to upload your document.",
-  "button": "Send",
-  "buttonContinue": "Continue studying",
-  "uploadSuccessfulDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days.",
+  "uploadDocumentTitle": "Doküman yükle",
+  "description01": "Belgenizi tarayın veya bir fotoğraf çekin ve buraya yükleyin. Gerekli tüm bilgilerin açıkça görülebildiğinden emin olun. Kontrol edin",
+  "description02": "tavsiyeler ",
+  "description03": "en iyi kalitede yükleme için.",
+  "upload": "Belgenizi yüklemek için burayı tıklayın veya dosyaları bırakın.",
+  "button": "Gönder",
+  "buttonContinue": "Çalışmaya devam",
+  "uploadSuccessfulDescription": "Belgenizi yüklediğiniz için teşekkür ederiz. Şimdi inceliyoruz ve önümüzdeki üç gün içinde bizden bir e-posta alacaksınız.",
   "modal": {
-    "yes": "DO",
-    "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
-    "no": "DON’T",
-    "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
+    "yes": "YAPMAK",
+    "yesDescription": "Yalnızca resmi belgeleri yükleyin. Tam adınız, doğum tarihiniz ve son kullanma tarihi açıkça görülebilir olmalıdır.",
+    "no": "DO dEĞİL",
+    "noDescription": "Özgeçmişiniz, resminiz, bayrak veya başka herhangi bir fotoğraf gibi resmi bir belge olmayan hiçbir şey yüklemeyin."
   },
-  "doucmentGuideTitle": "Document Guide",
+  "doucmentGuideTitle": "Belge Kılavuzu",
   "documentAlternate": {
-    "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
-    "part02": "Kiron Help Center",
-    "part03": "for more information.",
-    "part04": "Kiron will store your documents safely on our servers and they will not be shared with others. ",
-    "part05": "Learn more about why we need your document "
+    "part01": "Bu belgelerinden birine sahip değil misiniz? Sorun değil, benzer bir belge yükleyebilir ve inceleyeceğiz. Tıklamak",
+    "part02": "Kiron Yardım Merkezi",
+    "part03": "daha fazla bilgi için.",
+    "part04": "Kiron, belgelerinizi sunucularımızda güvenli bir şekilde saklayacak ve başkalarıyla paylaşılmayacaktır.",
+    "part05": "Belgenize neden ihtiyaç duyduğumuz hakkında daha fazla bilgi edinin"
   }
 }
