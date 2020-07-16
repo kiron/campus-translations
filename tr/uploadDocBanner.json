@@ -1,11 +1,11 @@
 {
-  "invalidText": "Oops, it doesn’t look like you’ve uploaded the right document.",
-  "invalidBtn": "Upload documents again",
-  "invalidWhyUpload": "Why do I need to upload my documents?",
-  "reviewText": "Our team is currently reviewing your document.",
-  "noUploadText": "Please verify your account to get access to unlimited free courses and certificates.",
-  "noUploadTime": "It only takes 5 minutes.",
-  "noUploadBtn": "Verify documents",
-  "noUploadImgAlt": "Upload your documents to gain refugee status",
-  "noUploadEligible": "Not eligible? You can still study with us for free."
+  "invalidText": "Eyvah, görünen o ki yanlış belgeyi yükledin.",
+  "invalidBtn": "Belgeleri tekrar yükle",
+  "invalidWhyUpload": "Neden belgelerimi yüklemeliyim?",
+  "reviewText": "Ekibimiz şu an belgeni inceliyor.",
+  "noUploadText": "Ücretsiz kurslara ve sertifikalara sınırsız erişim için lütfen hesabını doğrula.",
+  "noUploadTime": "Yalnızca 5 dakikanı alacak.",
+  "noUploadBtn": "Belgeleri doğrula",
+  "noUploadImgAlt": "Mülteci statüsünü elde etmek için belgelerini yükle ",
+  "noUploadEligible": "Mülteci statüsünü elde etmek için belgelerini yükle."
 }
