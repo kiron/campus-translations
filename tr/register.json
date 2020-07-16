@@ -1,32 +1,32 @@
 {
-  "pleaseWait": "Please wait...",
+  "pleaseWait": "Lütfen bekle...",
   "initial": {
-    "googleButton": "Continue with Google",
-    "emailButton": "Register with email",
-    "termsText": "By continuing, you agree to our",
-    "termsLink": "Privacy Policy/Terms of Service",
-    "alreadyUserTitle": "Already a user?",
-    "alreadyUserLink": "Log in",
+    "googleButton": "Google ile devam et",
+    "emailButton": "Eposta ile kayıt ol",
+    "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
+    "termsLink": "Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı",
+    "alreadyUserTitle": "Zaten Kullanıcı mısın?",
+    "alreadyUserLink": "Oturum aç",
     "or": "or"
   },
   "registerWithEmail": {
-    "labelEmail": "Email",
-    "labelPassword": "Your password",
-    "buttonRegister": "Register",
-    "alreadyUserTitle": "Already a user?",
-    "alreadyUserLink": "Log in",
-    "errorEmail": "Must be a valid email address and can't contain spaces",
-    "errorKironEmail": "Please use 'Continue with Google' to log in",
-    "errorEmailTaken": "This email is already taken",
-    "errorShortPassword": "Your password should have at least 6 characters",
-    "emailSentTitle": "Almost done!",
-    "emailSentDescription01": "Check your email.",
-    "emailSentDescription02": "We sent you a link to activate your account.",
-    "termsText": "By continuing, you agree to our",
-    "termsLink": "Privacy Policy/Terms of Service"
+    "labelEmail": "Eposta",
+    "labelPassword": "Parolan",
+    "buttonRegister": "Kayıt ol",
+    "alreadyUserTitle": "Zaten Kullanıcı mısın?",
+    "alreadyUserLink": "Oturum aç",
+    "errorEmail": "Geçerli bir e-posta adresi olmalı ve boşluk içermemeli",
+    "errorKironEmail": "Lütfen giriş yapmak için 'Google ile devam edin' seçeneğini kullan",
+    "errorEmailTaken": "Bu eposta adresi daha önce alındı",
+    "errorShortPassword": "Parolan en az 6 karakter içermeli",
+    "emailSentTitle": "Neredeyse Bitti!",
+    "emailSentDescription01": "Epostanı Adresini Kontrol Et.",
+    "emailSentDescription02": "Sana hesabını etkinleştirmen için bir bağlantı gönderdik.",
+    "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
+    "termsLink": "Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı"
   },
   "registerConfirmed": {
-    "title": "Almost done!",
-    "description": "We are preparing your account..."
+    "title": "Neredeyse Bitti!",
+    "description": "Hesabını hazırlıyoruz..."
   }
 }
