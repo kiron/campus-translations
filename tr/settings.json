@@ -1,25 +1,25 @@
 {
-  "title": "Data Sharing",
-  "info": "These settings show the data you have allowed Kiron to share with specific third parties. Use the `View` button to see the details of, or revoke, that consent.",
-  "infoConsent": "You have not accepted any consent requests yet.",
-  "linkView": "View",
-  "linkCancel": "Cancel",
-  "linkBack": "Go back",
-  "linkAccept": "Accept",
-  "noInfo": "Sorry, there is no information available",
-  "linkBackSettings": "Back to settings",
+  "title": "Bilgi paylaşımı",
+  "info": "Bu ayarlar, Kiron'un bazı üçüncü kişilerle paylaşmasına izin verdiğin verileri göstermektedir. Detayları görmek veya izni geri almak için 'İnceleyin' butonunu kullan.",
+  "infoConsent": "Onay isteğini henüz kabul etmedin.",
+  "linkView": "Görüntüle",
+  "linkCancel": "İptal",
+  "linkBack": "Geri git",
+  "linkAccept": "Kabul et",
+  "noInfo": "Üzgünüz, geçerli bilgi bulunmamaktadır ",
+  "linkBackSettings": "Ayarlara geri dön",
   "titleReceived": "We have received your agreement for",
-  "linkGoSettings": "Go to settings",
-  "linkRevoke": "Revoke",
+  "linkGoSettings": "Ayarlara git",
+  "linkRevoke": "Geri almak ",
   "revokeConsent": {
-    "yes": "Yes",
-    "no": "No",
-    "title": "Are you sure you want to revoke this consent?",
-    "desc": "By revoking this consent you might lose access to some of the services provided by Kiron.",
-    "goToSettings": "Go to Settings",
-    "revoked": "Revoked"
+    "yes": "Evet",
+    "no": "Hayır",
+    "title": "Bu izni geri almak istediğinden emin misin? ",
+    "desc": "Bu izni geri alarak Kiron'un sağladığı bazı hizmetlere erişimi kaybedebilirsin.",
+    "goToSettings": "Ayarlara git",
+    "revoked": "Geri alındı"
   },
   "listItem": {
-    "view": "View"
+    "view": "Görüntüle"
   }
 }
