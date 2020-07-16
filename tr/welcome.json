@@ -1,16 +1,16 @@
 {
   "slideOne": {
-    "title": "Discover",
-    "content": "Discover Kiron Campus and get access to online courses for free"
+    "title": "Keşfet",
+    "content": "Kiron Kampüs'ü keşfet ve online kurslara ücretsiz eriş"
   },
   "slideTwo": {
-    "title": "Learn",
-    "content": "You can choose what you want to study: Web Design, Python, Online Business, Psychology, IT skills, English, and many more!"
+    "title": "Öğren",
+    "content": "Neyi öğrenmek iştiyorsan seçebilirsin: Web Tasarımı, Python, Online İşletme, Psikoloji, bilgisayar becerileri, İngilizce ve çok daha fazlası!"
   },
   "slideThree": {
-    "title": "Connect",
-    "content": "More than 6.000 students around the world are a part of Kiron. Share your study experience with them."
+    "title": "",
+    "content": "Kiron'un dünya genelinde 6000'den fazla öğrencisi var. Bu eğitim deneyimini onlarla paylaş."
   },
-  "buttonActive": "Get Started",
-  "buttonLoading": "Loading"
+  "buttonActive": "Başla",
+  "buttonLoading": "Yükleniyor"
 }
