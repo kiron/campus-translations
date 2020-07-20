@@ -18,7 +18,7 @@
     "createAccountLink": "Kaydol",
     "passwordReset": "Kısa bir süre içinde Kiron Google Hesabın için yeni bir şifre içeren bir e-posta alacaksın",
     "sessionTerminated": "Çıkış yaptın.",
-    "wrongGoogleAccount": "Kampüse erişmek için yanlış Google hesabını kullandın. Lütfen bir sonraki adımda \ "@ students.kiron.ngo \" hesabını seçtiğinden emin ol!",
+    "wrongGoogleAccount": "Kampüse erişmek için yanlış Google hesabını kullandın. Lütfen bir sonraki adımda \"@students.kiron.ngo\" hesabını seçtiğinden emin ol!",
     "logout": "Çıkış yaptın.",
     "loginFailed": "Oturum açılamadı, lütfen tekrar dene."
   },
