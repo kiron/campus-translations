@@ -44,9 +44,9 @@
     "popup": "Kiron e-posta hesabını sıfırlaman gerekirse özel e-postana ihtiyacımız olacak. Ek hizmetler için seninle telefon aracılığıyla iletişim kuracağız.",
     "infoMsg": "Kiron, iletişim bilgilerini iznin olmadan kimseyle paylaşmaz.",
     "phone": "Telefon numarası",
-    "can": "iletişim kurabilir",
-    "cannnot": "iletişim kuramaz",
-    "whatsapp": "contact me via WhatsApp Messenger on this number.",
+    "can": "Yes",
+    "cannnot": "No",
+    "whatsapp": "",
     "whatsappCheck": "Kiron, WhatsApp Messenger aracılığıyla benimle iletişim kurabilir.",
     "email": "Özel Eposta",
     "emailMsg": "Yeni bir <1>özel</1> eposta adresin mi var? Burada değiştirebilirsin. Bu adrese bir onay epostası göndereceğiz- <2>lütfen önümüzdeki günlerde onayla</2>."
