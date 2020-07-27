@@ -1,0 +1,28 @@
+{
+    "featuredTitle": "إستمر",
+    "featuredDescription": "استمر من حيث توقفت في المرة الأخيرة",
+    "enrolledModulesTitle": "برامج التعلم الخاصة بك",
+    "noModuleTitle": "تريد أن تبدأ تجربة التعلم الخاصة بك؟برامج التعلم الخاصة بك",
+    "noModuleExplore": "استكشاف",
+    "enrolledOffersTitle": "عروض اللغة",
+    "noCoutryDescription": "يرجى تحديد بلد إقامتك حتى نتمكن من إعداد البيئة الخاصة بك",
+    "noCountrySet": "حدد بلدك",
+    "updatesMainTitle": "تحديث",
+    "updatesTitle": "نحن نعمل على الترجمة",
+    "updatesText": "احصل على فرصة سريعة من خلال تغيير تفضيلات لغتك",
+    "countrySpecificTitle": "المزيد على المنصة",
+    "applicationCheckTitle": "قائمة التحضير للجامعة",
+    "applicationCheckText": "إعداد طلب جامعتك",
+    "moduleFeaturedBtn": "استمر في التعلم",
+    "streakWeeks": {
+        "congratulation": "تهانينا!",
+        "achievement": "لقد تعلمت",
+        "firstAchievementWeek": "ابدأ خطك الآن",
+        "achievementWeeks": "أسابيع متتالية",
+        "buttonCta": "استمر في التألق!",
+        "headline": "نشاطك",
+        "subtitle": "تعلم كل أسبوع لتجمع المزيد من الإنجازات",
+        "shareText": "لقد تعلمت ",
+        "shareTextEnd": " أسابيع متتالية مع كايرون!"
+    }
+}
