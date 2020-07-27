@@ -1,28 +1,4 @@
 {
-  "mainNavigation": {
-    "home": "الصفحة الرئيسية",
-    "explore": "أكتشف",
-    "success": "نجاح",
-    "news": "أخبار",
-    "new": "جديد",
-    "earlier": "سابقا",
-    "seeAll": "اظهار الكل",
-    "more": "أكثر",
-    "noNotifications": "ليش لديك اي اخطارات الأن ",
-    "profile": "الملف الشخصي",
-    "preferences": "التفضيلات ",
-    "offerBoard": "لوح العروض",
-    "tools": "الأدوات",
-    "calendar": "التقويم ",
-    "mail": "بريد",
-    "drive": "مساحة حفظ البيانات",
-    "support": "الدعم",
-    "helpCenter": "مركز المساعدة",
-    "forum": "المنتدى",
-    "learners": "المتعلمين",
-    "privacyPolicy": "سياسة الخصوصية",
-    "logout": "تسجيل الخروج"
-  },
   "explore": {
     "categories": "فئات",
     "search": "بحث",
@@ -32,23 +8,6 @@
       "title": "البدء",
       "subtitle": "يبدأ معظم طلاب كايرون رحلة التعلم الخاصة بهم هنا"
     }
-  },
-  "home": {
-    "featuredTitle": "إستمر",
-    "featuredDescription": "استمر من حيث توقفت في المرة الأخيرة",
-    "enrolledModulesTitle": "برامج التعلم الخاصة بك",
-    "noModuleTitle": "تريد أن تبدأ تجربة التعلم الخاصة بك؟برامج التعلم الخاصة بك",
-    "noModuleExplore": "استكشاف",
-    "enrolledOffersTitle": "عروض اللغة",
-    "noCoutryDescription": "يرجى تحديد بلد إقامتك حتى نتمكن من إعداد البيئة الخاصة بك",
-    "noCountrySet": "حدد بلدك",
-    "updatesMainTitle": "تحديث",
-    "updatesTitle": "نحن نعمل على الترجمة",
-    "updatesText": "احصل على فرصة سريعة من خلال تغيير تفضيلات لغتك",
-    "countrySpecificTitle": "المزيد على المنصة",
-    "applicationCheckTitle": "قائمة التحضير للجامعة",
-    "applicationCheckText": "إعداد طلب جامعتك",
-    "moduleFeaturedBtn": "استمر في التعلم"
   },
   "success": {
     "introTitle": "قصة نجاحك!",
@@ -84,7 +43,7 @@
       "confirmDelete": "هل أنت متأكد أنك تريد حذف ذلك؟",
       "save": "حفظ",
       "cancel": "إلغاء",
-      "addCourse": "أضف دورة",
+      "addCourse": "إضافة شهادة",
       "other": "آخر",
       "level": "المستوى",
       "courseName": "اسم الدورة التدريبية",
@@ -157,7 +116,7 @@
     "titleUnits": "الوحدات",
     "titleDesc": "الوصف",
     "downloadTranscriptBtn": "تنزيل نسخة",
-    "unitComplete":	"تم إكمال <1 /> الوحدة!",
+    "unitComplete": "تم إكمال <1 /> الوحدة!",
     "rateHelp": "قم بمساعدة الطلاب الآخرين وقيّم المساق الآن",
     "notNow": "ليس الآن",
     "rate": "قيّم ",
@@ -173,9 +132,9 @@
     "nextUnitCta": "ما الذي يمكنني تعلمه لاحقاً؟",
     "nextUnitCertificate": "استحققت شهادة ",
     "nextUnitDownload": "قم بالتحميل الأن ",
-    "feedbackLike":	"ما الذي أعجبك بشكل كبير؟ ",
+    "feedbackLike": "ما الذي أعجبك بشكل كبير؟ ",
     "feedbackDislike": "ما الذي لم يعجبك؟ ",
-    "feedbackNext":	"التالي",
+    "feedbackNext": "التالي",
     "feedbackLoading": "تحميل الدرس "
   },
   "unitCard": {

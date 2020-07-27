@@ -1,29 +1,4 @@
-
 {
-  "mainNavigation": {
-    "home": "Home",
-    "explore": "Explore",
-    "success": "Success",
-    "news": "News",
-    "new": "New",
-    "earlier": "Earlier",
-    "seeAll": "See all",
-    "more": "more",
-    "noNotifications": "You do not have any notifications right now.",
-    "profile": "Profile",
-    "preferences": "Preferences",
-    "offerBoard": "Offer Board",
-    "tools": "TOOLS",
-    "calendar": "Calendar",
-    "mail": "Mail",
-    "drive": "Drive",
-    "support": "SUPPORT",
-    "helpCenter": "Help Center",
-    "forum": "Forum",
-    "learners": "Learners",
-    "privacyPolicy": "Privacy Policy",
-    "logout": "Logout"
-  },
   "explore": {
     "categories": "Categories",
     "search": "Search",
@@ -33,23 +8,6 @@
       "title": "Get Started",
       "subtitle": "Most Kiron students start their learning journey here"
     }
-  },
-  "home": {
-    "featuredTitle": "Let’s keep going",
-    "featuredDescription": "Continue where you left off last time",
-    "enrolledModulesTitle": "Your learning programs",
-    "noModuleTitle": "Want to start your learning experience?",
-    "noModuleExplore": "Explore",
-    "enrolledOffersTitle": "Language offers",
-    "noCoutryDescription": "Please select your country of residence so we can prepare your environment.",
-    "noCountrySet": "Set your country",
-    "updatesMainTitle": "Update",
-    "updatesTitle": "We are working on an Arabic translation",
-    "updatesText": "Get a sneak peak by changing your language preferences.",
-    "countrySpecificTitle": "More on Campus",
-    "applicationCheckTitle": "Application checklist",
-    "applicationCheckText": "Prepare your university application",
-    "moduleFeaturedBtn": "Continue learning"
   },
   "success": {
     "introTitle": "Your success story!",
@@ -85,7 +43,7 @@
       "confirmDelete": "Are you sure you want to delete it?",
       "save": "Save",
       "cancel": "Cancel",
-      "addCourse": "Add a course",
+      "addCourse": "Add a certificate",
       "other": "Other",
       "level": "Level",
       "courseName": "Course name",
@@ -158,7 +116,7 @@
     "titleUnits": "units",
     "titleDesc": "Description",
     "downloadTranscriptBtn": "Download transcript",
-    "unitComplete":	"Unit <1/> Complete!",
+    "unitComplete": "Unit <1/> Complete!",
     "rateHelp": "Help other students by rating this course",
     "notNow": "Not now",
     "rate": "Rate",
@@ -174,7 +132,7 @@
     "nextUnitCta": "What can I learn next?",
     "nextUnitCertificate": "You earned a certificate",
     "nextUnitDownload": "Download now",
-    "feedbackLike":	"What did you like most about it?",
+    "feedbackLike": "What did you like most about it?",
     "feedbackDislike": "What didn’t you like about it?",
     "feedbackNext": "Next",
     "feedbackLoading": "Loading lesson"
