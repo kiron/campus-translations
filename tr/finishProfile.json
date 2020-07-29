@@ -20,7 +20,7 @@
   "label05": "Doğum tarihinizi girin",
   "required": "* zorunlu alan",
   "button": "Sonraki",
-  "buttonLoading": "Preparing your Profile",
+  "buttonLoading": "Profilini hazırlıyoruz.",
   "errorText": "Bu alan gereklidir",
   "labelContactByWhatsapp": "Sizinle Whatsapp aracılığıyla iletişim kurmamızı ister misiniz?",
   "male": "erkek",
