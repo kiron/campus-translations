@@ -19,7 +19,7 @@
   "moduleFeaturedBtn": "Öğrenmeye devam et",
   "streakWeeks": {
     "congratulation": "Tebrikler!",
-    "achievement": "hafta boyunca aktiftin",
+    "achievement": "",
     "firstAchievementWeek": "Yeni serinize şimdi başlayın!",
     "achievementWeeks": "hafta",
     "achievementWeeks_plural": "hafta arka arkaya",
@@ -27,7 +27,7 @@
     "headline": "Senin aktifliğin",
     "subtitle": "Başarılarını artırmak için her hafta öğrenmeye devam et.",
     "shareText": "I have learned",
-    "shareTextEnd": "weeks in a row on Kiron! "
+    "shareTextEnd": "weeks in a row on Kiron! ",
     "sharetextFull": "Kiron'da üst üste {{1}} hafta öğrendim!"
   }
 }

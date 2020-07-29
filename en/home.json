@@ -27,6 +27,7 @@
     "headline": "Your activity",
     "subtitle": "Learn every week to collect achievements",
     "shareText": "I have learned ",
-    "shareTextEnd": " weeks in a row on Kiron! "
+    "shareTextEnd": " weeks in a row on Kiron! ",
+    "sharetextFull": "I have learned {{1}} weeks in a row on Kiron!"
   }
 }
