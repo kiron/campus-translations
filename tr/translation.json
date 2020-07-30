@@ -86,7 +86,7 @@
     "notFoundTitle": "Bilinmeyen modül",
     "notFoundDesc": "Bu modül yok ya da senin eğitim programına dahil değil. Sana sunulan tüm modüllerin listesini görüntülemek için çalışma genel görünümüne dönün.",
     "certificateDownload": "Sertifikayı İndir",
-    "certificatePreview": "bu <2>{{2}}</2> bir önizlemesi",
+    "certificatePreview": "bu <2>{{2}}</2> nin bir önizlemesi",
     "certificateStart": "Tüm ünitelere erişmek için bugün bu programa başla",
     "btnStart": "Bu programa başla",
     "certificateModule": "Bu Study Trackine dahil bir modüldür",
