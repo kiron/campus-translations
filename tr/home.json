@@ -8,7 +8,7 @@
   "noCoutryDescription": "Eğitim ortamını ayarlayabilmemiz için lütfen yaşadığın ülkeyi seç",
   "noCountrySet": "Ülkeni seç ",
   "updatesMainTitle": "Güncelleme ",
-  "updatesTitle": "Arapça çevirisi için çalışıyoruz ",
+  "updatesTitle": "Arapça ve Türkçe çeviri için çalışıyoruz",
   "updatesText": "Dil tercihlerini değiştirerek göz atabilirsin",
   "countrySpecificTitle": "Daha fazlası Kampüs'te",
   "referralShareText": "Join me at Kiron",
@@ -19,15 +19,18 @@
   "applicationCheckText": "Üniversite başvurunu hazırla ",
   "moduleFeaturedBtn": "Öğrenmeye devam et",
   "streakWeeks": {
-    "congratulation": "Congratulations!",
-    "achievement": "You were active for",
-    "firstAchievementWeek": "Start your new streak now!",
-    "achievementWeeks": "week",
-    "achievementWeeks_plural": "weeks in a row",
-    "buttonCta": "Keep on rocking!",
-    "headline": "Your activity",
-    "subtitle": "Learn every week to collect achievements",
-    "shareText": "I have learned ",
-    "shareTextEnd": " weeks in a row on Kiron! "
+    "congratulation": "Tebrikler!",
+    "achievement": "Arka arkaya",
+    "firstAchievementWeek": "Yeni serinize şimdi başlayın!",
+    "homepageAchievement": "hafta arka arkaya",
+    "homepageAchievement_plural": "hafta arka arkaya",
+    "achievementWeeks": "hafta boyunca aktiftin",
+    "achievementWeeks_plural": "hafta boyunca aktiftin",
+    "buttonCta": "Aynen devam et!",
+    "headline": "Senin aktifliğin",
+    "subtitle": "Başarılarını artırmak için her hafta öğrenmeye devam et.",
+    "shareText": "I have learned",
+    "shareTextEnd": "weeks in a row on Kiron! ",
+    "sharetextFull": "Kiron'da üst üste {{1}} hafta öğrendim!"
   }
 }

@@ -55,7 +55,7 @@
     }
   },
   "transcriptOfRecords": {
-    "descriptionSupport": "Great, you already have a lot of verified courses! If you are applying for university you can request a PDF with a list of your achievements. Please contact Kiron support"
+    "descriptionSupport": "Harika, zaten çok fazla onaylanmış kursun var! Üniversiteye başvuruyorsan, başarılarının listesini içeren bir PDF talep edebilirsin. Lütfen Kiron destek ile iletişime geç."
   },
   "fileUpload": {
     "description": "Sertifikanı yüklemek için buraya tıkla ya da dosyaları buraya sürükle <br />(Sertifikanı daha sonra da yükleyebilirsin)",
@@ -86,7 +86,7 @@
     "notFoundTitle": "Bilinmeyen modül",
     "notFoundDesc": "Bu modül yok ya da senin eğitim programına dahil değil. Sana sunulan tüm modüllerin listesini görüntülemek için çalışma genel görünümüne dönün.",
     "certificateDownload": "Sertifikayı İndir",
-    "certificatePreview": "This is a preview of",
+    "certificatePreview": "bu <2>{{2}}</2> nin bir önizlemesi",
     "certificateStart": "Tüm ünitelere erişmek için bugün bu programa başla",
     "btnStart": "Bu programa başla",
     "certificateModule": "Bu Study Trackine dahil bir modüldür",
@@ -103,7 +103,7 @@
     "removeTitle": "Kurs kaydını sil",
     "removeQuestion": "Bu kurstan ayrılmak istediğinize emin misiniz?",
     "addModuleSuccess": "Başarılı",
-    "addModuleBtnContinue": "Continue browsing",
+    "addModuleBtnContinue": "Göz atmaya devam et",
     "addModuleBtnStart": "İlk üniteye şimdi başla",
     "addModuleText": "Bu Skill Booster programı ana sayfanıza eklendi",
     "enrollModuleBtnNo": "Şimdi değil",
@@ -128,7 +128,7 @@
     "thanksShare": "Haydi herkese bunu duyur!",
     "nextUnitTitle": "Sırada...",
     "nextUnitSkipTitle": "Bu üniteyi bitir",
-    "nextUnitContinue": "Continue learning",
+    "nextUnitContinue": "Öğrenmeye devam et",
     "nextUnitCta": "Şimdi ne öğrenebilirim?",
     "nextUnitCertificate": "Bir sertifika kazandın",
     "nextUnitDownload": "Şimdi indir",
@@ -142,7 +142,7 @@
     "kironUnit": "Kiron Ünitesi",
     "externalUnit": "Harici Ünite",
     "started": "Başladı!",
-    "completed": "Completed!",
+    "completed": "Bitti!",
     "live": "CANLI",
     "provided": "tarafından sağlanmıştır",
     "hoursAbbreviation": "hrs.",
