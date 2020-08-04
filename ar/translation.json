@@ -145,7 +145,7 @@
     "completed": "منجز!",
     "live": "مباشر",
     "provided": "مقدمة من",
-    "courseProvider": " مقدمة من<1>{{1}}</1>",
+    "courseProvider": " مقدمة من <1>{{1}}</1>",
     "hoursAbbreviation": "ساعة",
     "hoursAbbreviation_2": "ساعات",
     "hoursAbbreviation_3": "ساعات",
