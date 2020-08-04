@@ -31,7 +31,6 @@
     "coursesFinishedPlural": "Bitirilen kurslar",
     "coursesLeftSingular": "Kalan kurs ",
     "coursesLeftPlural": "Kalan kurslar",
-    "language": {
       "en": "İngilizce",
       "de": "Almanca",
       "progressPopup": "Çoğu üniversite aşağıdaki kurumlardan birinden resmi bir C1 Dil Sertifikası istemektedir: Goethe, DSG, TestDAF, ve TELC. Sana bu süreçte destek olacağız.",
@@ -81,7 +80,7 @@
   },
   "shortProgram": {
     "loading": "Skill Booster programı yükleniyor",
-    "studyTrack": "Study Track modülü yükleniyor",
+    "studyTrack": "Study Track modülü",
     "skillBooster": "Skill Booster programı",
     "notFoundTitle": "Bilinmeyen modül",
     "notFoundDesc": "Bu modül yok ya da senin eğitim programına dahil değil. Sana sunulan tüm modüllerin listesini görüntülemek için çalışma genel görünümüne dönün.",
