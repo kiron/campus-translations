@@ -108,7 +108,7 @@
     "addModuleText": "This skill booster program has been added to your home tab",
     "enrollModuleBtnNo": "Not now",
     "enrollModuleBtnStart": "Start learning",
-    "enrollModuleText": "Hi {{1}}, this is part of our learning program <3>{{3}}</3>. Do you want to start it to learn about <5>{{5}}</5>?",
+    "enrollModuleText": "Hi {{0}}, this is part of our learning program <1>{{1}}</1>. Do you want to start it to learn about <3>{{3}}</3>?",
     "showContent": "Show extra content",
     "hideContent": "Hide extra content",
     "titleModule": "Module",
