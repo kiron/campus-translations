@@ -31,6 +31,7 @@
     "coursesFinishedPlural": "Bitirilen kurslar",
     "coursesLeftSingular": "Kalan kurs ",
     "coursesLeftPlural": "Kalan kurslar",
+    "language": {
       "en": "İngilizce",
       "de": "Almanca",
       "progressPopup": "Çoğu üniversite aşağıdaki kurumlardan birinden resmi bir C1 Dil Sertifikası istemektedir: Goethe, DSG, TestDAF, ve TELC. Sana bu süreçte destek olacağız.",
