@@ -1,4 +1,4 @@
-# campus-translations
+# campus-translations hello
 The translations for Kiron Campus
 
 Help out Kiron by creating a Pull Request to this repository with your chosen language.
