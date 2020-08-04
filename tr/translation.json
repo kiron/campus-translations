@@ -31,6 +31,7 @@
     "coursesFinishedPlural": "Bitirilen kurslar",
     "coursesLeftSingular": "Kalan kurs ",
     "coursesLeftPlural": "Kalan kurslar",
+    "language": {
       "en": "İngilizce",
       "de": "Almanca",
       "progressPopup": "Çoğu üniversite aşağıdaki kurumlardan birinden resmi bir C1 Dil Sertifikası istemektedir: Goethe, DSG, TestDAF, ve TELC. Sana bu süreçte destek olacağız.",
@@ -110,7 +111,7 @@
     "enrollModuleText": "Merhaba {{1}},bu bizim eğitim programımızın bir parçası. <3>{{3}}</3>. Hakkında bilgi almaya başlatmak istiyor musun <5>{{5}}</5>?",
     "showContent": "Ekstra içeriği göster",
     "hideContent": "Ekstra içeriği gizle",
-    "titleModule": "Modül",
+    "titleModule": "",
     "titleSkillBooster": "Skill Booster programı",
     "titleUnits": "Üniteler",
     "titleDesc": "Açıklama",
@@ -144,6 +145,7 @@
     "completed": "Bitti!",
     "live": "CANLI",
     "provided": "tarafından sağlanmıştır",
+    "courseProvider": "<1>{{1}}</1> tarafından sağlanmıştır",
     "hoursAbbreviation": "hrs.",
     "weeksAbbreviation": "Hafta",
     "multiplier": "x"

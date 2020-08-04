@@ -145,6 +145,7 @@
     "completed": "Completed!",
     "live": "LIVE",
     "provided": "Provided by",
+    "courseProvider": "Provided by <1>{{1}}</1>",
     "hoursAbbreviation": "hrs.",
     "weeksAbbreviation": "w",
     "multiplier": "x"
