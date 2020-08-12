@@ -18,6 +18,10 @@
   "applicationCheckTitle": "Başvuru için yapılacaklar listesi",
   "applicationCheckText": "Üniversite başvurunu hazırla ",
   "moduleFeaturedBtn": "Öğrenmeye devam et",
+  "liveSession": {
+    "live": "Live",
+    "joinNowLabel": "Join now"
+  },
   "streakWeeks": {
     "congratulation": "Tebrikler!",
     "achievement": "Arka arkaya",
