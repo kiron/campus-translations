@@ -1,0 +1,30 @@
+{
+    "upcomingSessions": {
+        "title": "Coming up soon",
+        "subtitle": "Live sessions in the next 3 days"
+    },
+    "allSessions": {
+        "title": "On your schedule",
+        "subtitle": "All your LIVE sessions"
+    },
+    "moduleLiveCard": {
+        "title": "Let's keep going!",
+        "subtitle": "Your LIVE session has started",
+        "live": "LIVE"
+    },
+    "moduleSessionCard": {
+        "at": "at",
+        "more": "And {{number}} more LIVE sessions",
+        "cta": "Join now"
+    },
+    "weekdays": {
+        "1": "Monday",
+        "2": "Tuesday",
+        "3": "Wednesday",
+        "4": "Thursday",
+        "5": "Friday",
+        "6": "Saturday",
+        "7": "Sunday"
+    }
+  }
+  
