@@ -16,7 +16,7 @@
   "moduleSessionCard": {
     "at": "at",
     "more": "And {{0}} more LIVE session",
-    "more_plural": "And {{0}} more LIVE sessions",
+    "more_plural": "And {{0}} more LIVE sessions"
   },
   "weekdays": {
     "1": "Monday",
