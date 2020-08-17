@@ -5,18 +5,18 @@
   },
   "allSessions": {
     "title": "On your schedule",
-    "subtitle": "All your LIVE sessions"
+    "subtitle": "All your Live sessions"
   },
   "moduleLiveCard": {
     "title": "Let's keep going!",
-    "subtitle": "Your LIVE session has started",
+    "subtitle": "Your Live session has started",
     "live": "LIVE",
     "cta": "Join now"
   },
   "moduleSessionCard": {
     "at": "at",
-    "more": "And {{0}} more LIVE session",
-    "more_plural": "And {{0}} more LIVE sessions",
+    "more": "And {{0}} more Live session",
+    "more_plural": "And {{0}} more Live sessions",
     "today": "Today"
   },
   "weekdays": {
