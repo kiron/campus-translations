@@ -1,13 +1,13 @@
 {
   "pleaseWait": "Please wait...",
-  "registerHeadline": "Start your journey here.",
+  "registerHeadline": "Register",
   "initial": {
     "googleButton": "Continue with Google",
     "emailButton": "Register with email",
     "termsText": "By continuing, you agree to our",
     "termsLink": "Privacy Policy/Terms of Service",
     "alreadyUserTitle": "Already a user?",
-    "alreadyUserLink": "Log in",
+    "alreadyUserLink": "Login",
     "or": "or"
   },
   "registerWithEmail": {
@@ -15,9 +15,9 @@
     "labelPassword": "Your password",
     "buttonRegister": "Register",
     "alreadyUserTitle": "Already a user?",
-    "alreadyUserLink": "Log in",
+    "alreadyUserLink": "Login",
     "errorEmail": "Must be a valid email address and can't contain spaces",
-    "errorKironEmail": "Please use 'Continue with Google' to log in",
+    "errorKironEmail": "Please use 'Continue with Google' to login",
     "errorEmailTaken": "This email is already taken",
     "errorShortPassword": "Your password should have at least 6 characters",
     "emailSentTitle": "Almost done!",

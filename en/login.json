@@ -5,15 +5,15 @@
   "pleaseWait": "Please wait...",
   "language": "Language",
   "initial": {
-    "welcome": "Welcome back",
+    "welcome": "Login",
     "googleButton": "Continue with Google",
     "or": "or",
     "labelEmail": "Email",
-    "helperTextEmail": "You can use 'Continue with Google' to log in",
+    "helperTextEmail": "You can use 'Continue with Google' to login",
     "labelPassword": "Your password",
     "errorEmail": "Must be a valid email address",
-    "errorKironEmail": "Please use \"Continue with Google\" to log in",
-    "buttonLogin": "Log in",
+    "errorKironEmail": "Please use \"Continue with Google\" to login",
+    "buttonLogin": "Login",
     "forgotPassword": "Forgot your password?",
     "createAccountTitle": "No account yet?",
     "createAccountLink": "Register",
@@ -42,6 +42,6 @@
     "label": "New password",
     "submit": "Submit",
     "passwordChangedTitle": "Password changed!",
-    "login": "Log in"
+    "login": "Login"
   }
 }
