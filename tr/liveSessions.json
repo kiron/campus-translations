@@ -17,7 +17,8 @@
     "at": "at",
     "more": "Ve {{0}} tane daha CANLI oturum ",
     "more_plural": "Ve {{0}} tane daha CANLI oturum ",
-    "today": "Bugün "
+    "today": "Bugün",
+    "startTime": "{{0}} günü öğleden sonra saat {{1}}'te"
   },
   "weekdays": {
     "1": "Pazartesi",
