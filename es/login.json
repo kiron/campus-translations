@@ -1,0 +1,47 @@
+{
+  "privacy": "Privacy policy",
+  "terms": "Terms of service",
+  "meta": " Kiron Open Higher Education gGmbH",
+  "pleaseWait": "Please wait...",
+  "language": "Language",
+  "initial": {
+    "welcome": "Login",
+    "googleButton": "Continue with Google",
+    "or": "or",
+    "labelEmail": "Email",
+    "helperTextEmail": "You can use 'Continue with Google' to login",
+    "labelPassword": "Your password",
+    "errorEmail": "Must be a valid email address",
+    "errorKironEmail": "Please use \"Continue with Google\" to login",
+    "buttonLogin": "Login",
+    "forgotPassword": "Forgot your password?",
+    "createAccountTitle": "No account yet?",
+    "createAccountLink": "Register",
+    "passwordReset": "You will receive an email in your personal inbox with a new password for your Kiron Google Account soon.",
+    "sessionTerminated": "You're logged out.",
+    "wrongGoogleAccount": "You used the wrong Google account for accessing campus. Please make sure to choose your \"@students.kiron.ngo\" account in the next step!",
+    "logout": "You're logged out.",
+    "loginFailed": "Login failed, please try again."
+  },
+  "forgotPassword": {
+    "title": "Enter the email address you used to register",
+    "label": "Email",
+    "button": "Send me a reset link",
+    "statusMessagePending": "Submitting your request...",
+    "statusMessageError": "Resetting your password didn’t work. Please try again.",
+    "rememberPasswordLink": "Back to login",
+    "emailSent": {
+      "title": "Almost done!",
+      "description": "Check your email. We will send you a link to reset your password if your email address is registered with us.",
+      "asideTitle": "Didn’t get anything?",
+      "asideLink": "Try a different email address."
+    }
+  },
+  "resetPassword": {
+    "title": "Create new password",
+    "label": "New password",
+    "submit": "Submit",
+    "passwordChangedTitle": "Password changed!",
+    "login": "Login"
+  }
+}
