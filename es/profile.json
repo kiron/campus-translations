@@ -1,70 +1,72 @@
 {
   "header": {
-    "imgSave": "Save",
-    "imgDelete": "Delete",
-    "imgReplace": "Replace",
-    "imgTitle": "Upload your profile picture",
-    "imgInputLabel": "I allow my image to be shown to other Kiron students & staff",
-    "imgUploadMsg": "Upload your profile picture"
+    "imgSave": "Guardar",
+    "imgDelete": "Borrar",
+    "imgReplace": "Reemplazar",
+    "imgTitle": "Suba su foto de perfil",
+    "imgInputLabel": "Permito mostrar mi imagen a otros estudiantes y empleados de Kiron",
+    "imgUploadMsg": "Suba su foto de perfil"
   },
   "editBox": {
-    "cancel": "Cancel",
-    "save": "Save",
-    "edit": "Edit"
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar"
   },
   "languageSwitch": {
-    "title": "Language",
-    "descText": "Kiron Campus is now available in Arabic and Turkish.",
-    "descSubText": "Change your language to Arabic or Turkish to check it out."
+    "title": "Idioma",
+    "descText": "Kiron Campus is now available in Spanish.",
+    "descSubText": "Change your language to Spanish to check it out."
   },
   "personalInfo": {
-    "title": "Personal Information",
-    "popup": "Personal Information is helpful for us to know our students better and provide specific services, e.g. study places for female students",
-    "nickname": "Nickname",
-    "country": "Country of Origin",
-    "countryPlaceholder": "Select a nationality",
-    "birthday": "Date of Birth",
-    "gender": "Gender",
-    "male": "Male",
-    "female": "Female",
-    "other": "Other"
+    "title": "Información personal",
+    "popup": "Su información personal es muy útil para que conozcamos mejor a nuestros estudiantes y podamos proveer servicios específicos, por ejemplo, lugares de estudio para mujeres",
+    "nickname": "Apodo",
+    "country": "País de origen",
+    "countryPlaceholder": "Seleccione su nacionalidad",
+    "birthday": "Fecha de nacimiento",
+    "gender": "Género",
+    "male": "Masculino",
+    "female": "Femenino",
+    "other": "Otro"
   },
   "location": {
-    "title": "Location",
-    "popup": "Some of our services are only available in certain areas. Knowing your location allows us to send you the right infos.",
-    "infoMsg": "We will not refer any sensitive information to a third party; however, in order to offer tailor-made workshops or events close to you, we need your location details.",
-    "country": "Country",
-    "countryPlaceholder": "Select a country",
-    "city": "City",
-    "none": "None",
-    "btnLabel": "Find other students"
+    "title": "Localización",
+    "popup": "Algunos de nuestros servicios sólo están disponibles en algunos lugares. Conocer su localización nos permitirá enviarle la información adecuada.",
+    "infoMsg": "Nunca enviaremos información sensible a una tercera persona; sin embargo, para ofrecerle talleres personalizados o eventos cercanos a usted, necesitamos su localización.",
+    "country": "País",
+    "countryPlaceholder": "Seleccione un país",
+    "city": "Ciudad",
+    "none": "Ninguno",
+    "btnLabel": "Descubrir otros estudiantes"
   },
   "contactDetails": {
-    "title": "Contact information",
-    "popup": "We will need your private email if you have to reset your kiron email account. We will contact you via phone for additional services.",
-    "infoMsg": "Kiron does not share your contact details with anybody without your permission.",
-    "phone": "Phone number",
-    "whatsappCheck": "Kiron can contact me via WhatsApp Messenger on this number",
-    "whatsappCheckPositive": "Kiron <1>can</1> contact me via WhatsApp Messenger on this number",
-    "whatsappCheckNegative": "Kiron <1>cannot</1> contact me via WhatsApp Messenger on this number",
-    "email": "Private email",
+    "title": "Información de contacto",
+    "popup": "Necesitaremos su email privado por si tiene que resetear su cuenta de Kiron. Le contactaremos por teléfono para servicios adicionales.",
+    "infoMsg": "Kiron no comparte su información de contacto con nadie sin su permiso.",
+    "phone": "Número de teléfono",
+    "whatsappCheck": "Kiron puede contactarme a través de WhatsApp Messenger en este número",
+    "whatsappCheckPositive": "Kiron <1>puede</1> contactarme a través de WhatsApp Messenger en este número",
+    "whatsappCheckNegative": "Kiron <1>NO puede</1> contactarme a través de WhatsApp Messenger en este número",
+    "email": "Email privado",
     "emailMsg": "Have a new <1>private</1> email address? You can change it here. We will send you a confirmation email to this address - <2>please confirm</2> it within the next days."
+    "emailMsg": "¿Tiene una nueva dirección <1>privada</1> de email? Puede cambiarla aquí. Le enviaremos un email de confirmación a esta dirección - <2>confírmela por favor</2> en los próximos días."
   },
   "certificate": {
-    "title": "Certificate of Enrollment",
-    "desc": "Do you need to prove that you are a student with Kiron?",
-    "downloadDesc": "Download your Certificate of Enrollment!",
-    "btnLabel": "Download here",
-    "downloadPlease": "Please",
-    "clickHere": "click here",
+    "title": "Certificado de inscripción",
+    "desc": "¿Necesita probar que es un estudiante en Kiron?",
+    "downloadDesc": "¡Descargue su certificado de inscripción!",
+    "btnLabel": "Descargue aquí",
+    "downloadPlease": "Por favor",
+    "clickHere": "clique aquí",
     "downloadLink": "to upload a status document in order to download certificate of enrollment."   
+    "downloadLink": "para subir un documento de situación para poder descargar su certificado de inscripción."   
   },
   "COEContainer": {
-    "question": "What are you planning to use your certificate for in the next six months?",
-    "info": "To download the certificate of enrollment, please select one or several uses of the certificate of enrollment above.",
-    "downloadLng": "Download in",
-    "en": "English",
-    "de": "German",
-    "fr": "French"
+    "question": "¿Para qué está pensando utilizar su certificado de inscripción en los próximos seis meses?",
+    "info": "Para descargar su certificado de inscripción por favor seleccione uno o más usos para el certificado de inscripción",
+    "downloadLng": "Descargar en",
+    "en": "Inglés",
+    "de": "Alemán",
+    "fr": "Francés"
   }
 }
