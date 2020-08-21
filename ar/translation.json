@@ -96,6 +96,7 @@
     "certficateBtnContinue": "مواصلة التعلم",
     "certificateBtnStart": "ابدا بالتعلم",
     "certificateFinishText": "أنت في طريقك! <1 /> قم بإنهاء جميع الوحدات للحصول على شهادة",
+    "noCertificateFinishText": "You’re on your way! <1/>Keep up the pace!",
     "certificateProgress": "التقدم:",
     "certificateCounter": "لقد انتهيت من {{0}} من {{1}} وحدة",
     "removeYes": "نعم",
