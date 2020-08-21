@@ -96,6 +96,7 @@
     "certficateBtnContinue": "Continue Learning",
     "certificateBtnStart": "Start learning",
     "certificateFinishText": "You're on your way! <1/>Finish all the units to get a certificate.",
+    "noCertificateFinishText": "You’re on your way! <1/>Keep up the pace!",
     "certificateProgress": "Progress:",
     "certificateCounter": "You've finished {{0}} of {{1}} units",
     "removeYes": "Yes",
