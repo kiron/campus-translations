@@ -7,6 +7,10 @@
     "promotedModules": {
       "title": "Get Started",
       "subtitle": "Most Kiron students start their learning journey here"
+    },
+    "popularModules": {
+      "title": "Popular",
+      "subtitle": "Courses with the highest enrollment"
     }
   },
   "success": {

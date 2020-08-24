@@ -7,6 +7,10 @@
     "promotedModules": {
       "title": "Başla",
       "subtitle": "Çoğu kiron öğrencisi öğrenme yolculuğuna burada başlar"
+    },
+    "popularModules": {
+      "title": "Popular",
+      "subtitle": "Courses with the highest enrollment"
     }
   },
   "success": {
