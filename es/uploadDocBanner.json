@@ -1,11 +1,11 @@
 {
-  "invalidText": "Oops, it doesn’t look like you’ve uploaded the right document.",
-  "invalidBtn": "Upload documents again",
-  "invalidWhyUpload": "Why do I need to upload my documents?",
-  "reviewText": "Our team is currently reviewing your document.",
-  "noUploadText": "Please verify your account to get access to unlimited free courses and certificates.",
-  "noUploadTime": "It only takes 5 minutes.",
-  "noUploadBtn": "Verify documents",
-  "noUploadImgAlt": "Upload your documents to gain refugee status",
-  "noUploadEligible": "Not eligible? You can still study with us for free."
+  "invalidText": "Vaya, parece que no ha subido el documento apropiado.",
+  "invalidBtn": "Suba documentos de nuevo",
+  "invalidWhyUpload": "¿Por qué necesito subir mis documentos?",
+  "reviewText": "Nuestro equipo está revisando sus documentos.",
+  "noUploadText": "Por favor verifique su cuenta para obtener acceso ilimitado a cursos y certificados gratuitos.",
+  "noUploadTime": "Sólo toma 5 minutos.",
+  "noUploadBtn": "Verificar documentos",
+  "noUploadImgAlt": "Suba sus documentos para ganar estado de refugiado",
+  "noUploadEligible": "¿No cumple los requisitos? Todavía puede estudiar con nosotros gratuitamente."
 }
