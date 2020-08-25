@@ -1,16 +1,16 @@
 {
   "slideOne": {
-    "title": "Discover",
-    "content": "Discover Kiron Campus and get access to online courses for free"
+    "title": "Descubrir",
+    "content": "Descubrir Kiron y ganar acceso gratuito a cursos online."
   },
   "slideTwo": {
-    "title": "Learn",
-    "content": "You can choose what you want to study: Web Design, Python, Online Business, Psychology, IT skills, English, and many more!"
+    "title": "Aprender",
+    "content": "¡Puede escoger lo que quiere estudiar: Diseño Web, Python, Negocio Online, Psicología, Informática, Inglés y mucho más!"
   },
   "slideThree": {
-    "title": "Connect",
-    "content": "More than 6.000 students around the world are a part of Kiron. Share your study experience with them."
+    "title": "Conectar",
+    "content": "Más de 6000 estudiantes alrededor del mundo son parte de Kiron. Comparta sus estudios con ellos."
   },
-  "buttonActive": "Get Started",
-  "buttonLoading": "Loading"
+  "buttonActive": "Empezar",
+  "buttonLoading": "Cargando"
 }
