@@ -100,7 +100,7 @@
     "certficateBtnContinue": "Devam Et",
     "certificateBtnStart": "Öğrenmeye Başla",
     "certificateFinishText": "İlerliyorsun! Sertifikayı almak için tüm üniteleri bitirmelisin.",
-    "noCertificateFinishText": "You’re on your way! <1/>Keep up the pace!",
+    "noCertificateFinishText": "Kendi yolundasın! <1/>Ayak uydur!",
     "certificateProgress": "Durum:",
     "certificateCounter": "{{1}} Üniteden {{0}} 'ını bitirdin",
     "removeYes": "Yes",
