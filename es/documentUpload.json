@@ -2,28 +2,28 @@
   "reviewInProgress": {
     "title": "Validación en proceso",
     "hello": "Hola, ",
-    "descriptionJSX": "Gracias por subir su documento. Vamos a revisarlo y le mandaremos un correo electrónico en los próximos tres días. Mientrastanto, puede naveegar por la página de <1>Explora</1> o conocer otros estudiantes que residen cerca de usted en la página de <3>Comunidad</3>."
+    "descriptionJSX": "Gracias por subir su documento. Vamos a revisarlo y le mandaremos un correo electrónico en los próximos tres días. Mientras tanto, puede navegar por la página de <1>Explorar</1> o conocer otros estudiantes que residen cerca de usted en la página de <3>Comunidad</3>."
   },
   "uploadDocumentTitle": "Subir documento",
-  "description01": "Escanee o tome una foto de su documento y súbalo aquí. Asegúrese de que toda la información necesaria es clara y visible.  Consulte nuestras",
+  "description01": "Escanee o tome una foto de su documento y súbala aquí. Asegúrese de que toda la información necesaria es clara y visible. Consulte nuestras",
   "description02": "recomendaciones ",
   "description03": "para subir su documento en la mejor calidad.",
-  "upload": "Haga clic aquí o arrastre el archivo para subir su documento.",
+  "upload": "Clique aquí o arrastre el archivo para subir su documento.",
   "button": "Subir",
   "buttonContinue": "Continuar estudiando",
-  "uploadSuccessfulDescription": "Gracias por subir su documento. Vamos a revisarlo y le mandaremos un correo electrónico en los próximos tres días.",
+  "uploadSuccessfulDescription": "Gracias por subir su documento. Vamos a revisarlo y le mandaremos un correo electrónico en los próximos días.",
   "modal": {
     "yes": "SÍ",
-    "yesDescription": "Suba solamente documentos oficiales. Su nombre, fecha de nacimiento y la fecha de caducidad deben ser visibles.",
+    "yesDescription": "Suba solamente documentos oficiales. Su nombre, su fecha de nacimiento y la fecha de caducidad deben ser visibles.",
     "no": "NO",
     "noDescription": "No suba ningún documento que no sea oficial, como su currículum, una fotografía, una bandera o cualquier otra imagen."
   },
   "doucmentGuideTitle": "Guía de documentos",
   "documentAlternate": {
-    "part01": "¿No tiene uno de estos documentos? No se preocupe, puede subir otro documento y lo revisaremos. Haga clic en ",
-    "part02": "Kiron Help Center",
+    "part01": "¿No tiene ninguno de estos documentos? No se preocupe, puede subir otro documento y lo revisaremos. Clique en ",
+    "part02": "Centro de Ayuda de Kiron",
     "part03": "para más información.",
     "part04": "Kiron guardará su documentación con seguridad en nuestros servidores y no se compartirá ningún archivo con terceros.",
-    "part05": "Conocer por qué pedimos un documento a los estudiantes."
+    "part05": "Quiero saber por qué pedimos un documento a los estudiantes."
   }
 }
