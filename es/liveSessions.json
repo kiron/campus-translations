@@ -1,32 +1,32 @@
 {
   "upcomingSessions": {
-    "title": "Coming up soon",
-    "subtitle": "Live sessions in the next 3 days"
+    "title": "Próximamente",
+    "subtitle": "Sesiones en línea en los próximos 3 días"
   },
   "allSessions": {
-    "title": "On your schedule",
-    "subtitle": "All your Live sessions"
+    "title": "En su calendario",
+    "subtitle": "Todas sus sesiones en línea"
   },
   "moduleLiveCard": {
-    "title": "Let's keep going!",
-    "subtitle": "Your Live session has started",
-    "live": "LIVE",
-    "cta": "Join now"
+    "title": "¡Sigamos aprendiendo!",
+    "subtitle": "Su sesión en línea ha empezado",
+    "live": "Activo",
+    "cta": "Unirme a la sesión"
   },
   "moduleSessionCard": {
-    "at": "at",
-    "more": "And {{0}} more Live session",
-    "more_plural": "And {{0}} more Live sessions",
-    "today": "Today",
-    "startTime": "{{0}} at {{1}}"
+    "at": "a las",
+    "more": "y {{0}} más sesiones en línea",
+    "more_plural": "y {{0}} más sesiones en línea",
+    "today": "Hoy",
+    "startTime": "{{0}} a las {{1}}"
   },
   "weekdays": {
-    "1": "Monday",
-    "2": "Tuesday",
-    "3": "Wednesday",
-    "4": "Thursday",
-    "5": "Friday",
-    "6": "Saturday",
-    "7": "Sunday"
+    "1": "Lunes",
+    "2": "Martes",
+    "3": "Miércoles",
+    "4": "Jueves",
+    "5": "Viernes",
+    "6": "Sábado",
+    "7": "Domingo"
   }
 }
