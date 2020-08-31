@@ -7,6 +7,10 @@
     "promotedModules": {
       "title": "إبدأ هنا",
       "subtitle": "يبدأ معظم طلاب كايرون رحلة التعلم الخاصة بهم هنا"
+    },
+    "popularModules": {
+      "title": "المساقات الأكثر شعبية",
+      "subtitle": "المساقات الأكثر حضور بين الطلاب"
     }
   },
   "success": {
@@ -96,6 +100,7 @@
     "certficateBtnContinue": "مواصلة التعلم",
     "certificateBtnStart": "ابدا بالتعلم",
     "certificateFinishText": "أنت في طريقك! <1 /> قم بإنهاء جميع الوحدات للحصول على شهادة",
+    "noCertificateFinishText": "أنت على الطريق الصحيح! <1/>تابع بنفس الحماس!",
     "certificateProgress": "التقدم:",
     "certificateCounter": "لقد انتهيت من {{0}} من {{1}} وحدة",
     "removeYes": "نعم",

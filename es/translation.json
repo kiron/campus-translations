@@ -7,6 +7,10 @@
     "promotedModules": {
       "title": "Get Started",
       "subtitle": "Most Kiron students start their learning journey here"
+    },
+    "popularModules": {
+      "title": "Popular",
+      "subtitle": "Courses with the most students"
     }
   },
   "success": {
@@ -96,6 +100,7 @@
     "certficateBtnContinue": "Continue Learning",
     "certificateBtnStart": "Start learning",
     "certificateFinishText": "You're on your way! <1/>Finish all the units to get a certificate.",
+    "noCertificateFinishText": "You’re on your way! <1/>Keep up the pace!",
     "certificateProgress": "Progress:",
     "certificateCounter": "You've finished {{0}} of {{1}} units",
     "removeYes": "Yes",

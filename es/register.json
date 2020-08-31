@@ -1,33 +1,33 @@
 {
-  "pleaseWait": "Please wait...",
-  "registerHeadline": "Register",
+  "pleaseWait": "Espere, por favor...",
+  "registerHeadline": "Registro",
   "initial": {
-    "googleButton": "Continue with Google",
-    "emailButton": "Register with email",
-    "termsText": "By continuing, you agree to our",
-    "termsLink": "Privacy Policy/Terms of Service",
-    "alreadyUserTitle": "Already a user?",
-    "alreadyUserLink": "Login",
-    "or": "or"
+    "googleButton": "Continuar con Google",
+    "emailButton": "Registrarse con email",
+    "termsText": "Al continuar acepta nuestros",
+    "termsLink": "Política de Privacidad/Términos de utilización",
+    "alreadyUserTitle": "¿Ya es usuario?",
+    "alreadyUserLink": "Entrar",
+    "or": "o"
   },
   "registerWithEmail": {
     "labelEmail": "Email",
-    "labelPassword": "Your password",
-    "buttonRegister": "Register",
-    "alreadyUserTitle": "Already a user?",
-    "alreadyUserLink": "Login",
-    "errorEmail": "Must be a valid email address and can't contain spaces",
-    "errorKironEmail": "Please use 'Continue with Google' to login",
-    "errorEmailTaken": "This email is already taken",
-    "errorShortPassword": "Your password should have at least 6 characters",
-    "emailSentTitle": "Almost done!",
-    "emailSentDescription01": "Check your email.",
-    "emailSentDescription02": "We sent you a link to activate your account.",
-    "termsText": "By continuing, you agree to our",
-    "termsLink": "Privacy Policy/Terms of Service"
+    "labelPassword": "Su contraseña",
+    "buttonRegister": "Registrarse",
+    "alreadyUserTitle": "¿Ya es usuario?",
+    "alreadyUserLink": "Entrar",
+    "errorEmail": "Debe ser una dirección de email válida y no puede contener espacios",
+    "errorKironEmail": "Por favor utilice 'Continuar con Google' para entrar",
+    "errorEmailTaken": "Esta dirección de email ya está en uso",
+    "errorShortPassword": "Su contraseña debe tener al menos 6 caracteres",
+    "emailSentTitle": "¡Casi terminado!",
+    "emailSentDescription01": "Mire su email.",
+    "emailSentDescription02": "Le hemos enviado un email para activar tu cuenta.",
+    "termsText": "Al continuar acepta nuestros",
+    "termsLink": "Política de Privacidad/Términos de utilización"
   },
   "registerConfirmed": {
-    "title": "Almost done!",
-    "description": "We are preparing your account..."
+    "title": "¡Casi terminado!",
+    "description": "Estamos preparando su cuenta..."
   }
 }
