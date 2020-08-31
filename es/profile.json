@@ -48,7 +48,6 @@
     "whatsappCheckPositive": "Kiron <1>puede</1> contactarme a través de WhatsApp Messenger en este número",
     "whatsappCheckNegative": "Kiron <1>NO puede</1> contactarme a través de WhatsApp Messenger en este número",
     "email": "Email privado",
-    "emailMsg": "Have a new <1>private</1> email address? You can change it here. We will send you a confirmation email to this address - <2>please confirm</2> it within the next days."
     "emailMsg": "¿Tiene una nueva dirección <1>privada</1> de email? Puede cambiarla aquí. Le enviaremos un email de confirmación a esta dirección - <2>confírmela por favor</2> en los próximos días."
   },
   "certificate": {
@@ -58,7 +57,6 @@
     "btnLabel": "Descargue aquí",
     "downloadPlease": "Por favor",
     "clickHere": "clique aquí",
-    "downloadLink": "to upload a status document in order to download certificate of enrollment."   
     "downloadLink": "para subir un documento de situación para poder descargar su certificado de inscripción."   
   },
   "COEContainer": {
