@@ -1,29 +1,29 @@
 {
   "reviewInProgress": {
-    "title": "Review in Progress",
-    "hello": "Hello, ",
-    "descriptionJSX": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days. In the meantime, you can already select your modules on the <1>Explore Page</1> or see other learners in your area <3>on the Community Page</3>."
+    "title": "Validación en proceso",
+    "hello": "Hola, ",
+    "descriptionJSX": "Gracias por subir su documento. Vamos a revisarlo y le mandaremos un correo electrónico en los próximos tres días. Mientras tanto, puede navegar por la página de <1>Explorar</1> o conocer otros estudiantes que residen cerca de usted en la página de <3>Comunidad</3>."
   },
-  "uploadDocumentTitle": "Upload document",
-  "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
-  "description02": "recommendations ",
-  "description03": "for uploading in the best quality.",
-  "upload": "Click here or drop files to upload your document.",
-  "button": "Send",
-  "buttonContinue": "Continue studying",
-  "uploadSuccessfulDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days.",
+  "uploadDocumentTitle": "Subir documento",
+  "description01": "Escanee o tome una foto de su documento y súbala aquí. Asegúrese de que toda la información necesaria es clara y visible. Consulte nuestras",
+  "description02": "recomendaciones ",
+  "description03": "para subir su documento en la mejor calidad.",
+  "upload": "Clique aquí o arrastre el archivo para subir su documento.",
+  "button": "Subir",
+  "buttonContinue": "Continuar estudiando",
+  "uploadSuccessfulDescription": "Gracias por subir su documento. Vamos a revisarlo y le mandaremos un correo electrónico en los próximos días.",
   "modal": {
-    "yes": "DO",
-    "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
-    "no": "DON’T",
-    "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
+    "yes": "SÍ",
+    "yesDescription": "Suba solamente documentos oficiales. Su nombre, su fecha de nacimiento y la fecha de caducidad deben ser visibles.",
+    "no": "NO",
+    "noDescription": "No suba ningún documento que no sea oficial, como su currículum, una fotografía, una bandera o cualquier otra imagen."
   },
-  "doucmentGuideTitle": "Document Guide",
+  "doucmentGuideTitle": "Guía de documentos",
   "documentAlternate": {
-    "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
-    "part02": "Kiron Help Center",
-    "part03": "for more information.",
-    "part04": "Kiron will store your documents safely on our servers and they will not be shared with others. ",
-    "part05": "Learn more about why we need your document "
+    "part01": "¿No tiene ninguno de estos documentos? No se preocupe, puede subir otro documento y lo revisaremos. Clique en ",
+    "part02": "Centro de Ayuda de Kiron",
+    "part03": "para más información.",
+    "part04": "Kiron guardará su documentación con seguridad en nuestros servidores y no se compartirá ningún archivo con terceros.",
+    "part05": "Quiero saber por qué pedimos un documento a los estudiantes."
   }
 }
