@@ -13,9 +13,7 @@
     "edit": "Edit"
   },
   "languageSwitch": {
-    "title": "Language",
-    "descText": "Kiron Campus is now available in Arabic and Turkish.",
-    "descSubText": "Change your language to Arabic or Turkish to check it out."
+    "title": "Language"
   },
   "personalInfo": {
     "title": "Personal Information",
