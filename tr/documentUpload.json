@@ -25,5 +25,121 @@
     "part03": "daha fazla bilgi için.",
     "part04": "Kiron, belgelerinizi sunucularımızda güvenli bir şekilde saklayacak ve başkalarıyla paylaşılmayacaktır.",
     "part05": "Belgenize neden ihtiyaç duyduğumuz hakkında daha fazla bilgi edinin"
+  },
+  "sampleDocuments": {
+    "title": "Please upload your passport or a form of identification. Take a look at some examples:",
+    "germanRefugees": {
+      "infoPoints": [
+        "BüMA (Asylum application)",
+        "Aufenthaltsgestattung (Permission to remain)",
+        "Aufenthaltserlaubnis (Residence permit)",
+        "Duldung (National ban on deportation)",
+        "Fiktionsbescheinigung (Temporary residence permit)",
+        "Subsidiärer Schutz (Subsidiary protection)"
+      ],
+      "docImageTitles": {
+        "aufenthaltsgestattung": "Aufenthaltsgestattung",
+        "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
+        "duldung": "Duldung"
+      }
+    },
+    "jordanianRefugees": {
+      "infoPoints": [
+        "UNHCR card",
+        "UNRWA (Palestinians)",
+        "Jordanian government service card"
+      ],
+      "docImageTitles": {
+        "unhcrCard": "UNHCR card",
+        "unhcrAsylum": "UNHCR asylum"
+      }
+    },
+    "jordanianIDPs": {
+      "infoPoints": [
+        "ID card هوية شخصية",
+        "Passport جواز سفر"
+      ],
+      "docImageTitles": {
+        "idCard": "ID card  هوية شخصية",
+        "passport": "Passport  جواز سفر"
+      }
+    },
+    "lebaneseRefugees": {
+      "infoPoints": [
+        "UNHCR card",
+        "UNRWA document"
+      ],
+      "docImageTitles": {
+        "unhcrDocument": "UNHCR document",
+        "unrwaDocument": "UNRWA document"
+      }
+    },
+    "lebaneseIDPs": {
+      "infoPoints": [
+        "ID هوية شخصية",
+        "Passport جواز سفر"
+      ],
+      "docImageTitles": {
+        "idCard": "ID هوية شخصية",
+        "passport": "Passport جواز سفر"
+      }
+    },
+    "yemenisIDPs": {
+      "infoPoints": [
+        "ID هوية شخصية",
+        "Passport جواز سفر"
+      ],
+      "docImageTitles": {
+        "idCard": "ID card",
+        "passport": "Passport"
+      }
+    },
+    "syrianIDPs": {
+      "infoPoints": [
+        "ID هوية شخصية",
+        "Passport جواز سفر"
+      ],
+      "docImageTitles": {
+        "idCard": "ID card",
+        "passport": "Passport"
+      }
+    },
+    "turkishIDPs": {
+      "infoPoints": [
+        "Temporary protection",
+        "Residence permit",
+        "UNHCR document"
+      ],
+      "docImageTitles": {
+        "temporaryProtection": "Temporary protection",
+        "residencePermit": "Residence permit",
+        "unhcrDocument": "UNHCR document"
+      }
+    },
+    "sudanisIPDs": {
+      "infoPoints": [
+        "Passport",
+        "IDP Darfur document",
+        "IDP card"
+      ],
+      "docImageTitles": {
+        "passport": "Passport",
+        "idpDarfurDocument": "IDP Darfur document",
+        "idpCard": "IDP card"
+      }
+    },
+    "default": {
+      "infoPoints": [
+        "Refugee status",
+        "Asylum application",
+        "IDP card",
+        "UNHCR document"
+      ],
+      "docImageTitles": {
+          "unhcrCard": "UNHCR card",
+          "unhcrFamily": "UNHCR family",
+          "kenyaRefugeeCard": "Kenya refugee card"
+      }
+    }
   }
 }
