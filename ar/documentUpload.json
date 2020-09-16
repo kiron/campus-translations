@@ -27,31 +27,31 @@
     "part05": "احصل على المزيد من المعلومات حول سبب حاجتنا للمستند الخاص بك"
   },
   "sampleDocuments": {
-    "title": "Please upload your passport or a form of identification. Take a look at some examples:",
+    "title": "يرجى تحميل جواز السفر الخاص بك أو أي شكل من أشكال الهوية.ألقِ نظرة على بعض الأمثلة المتعلقة بالمستندات التي يجب عليك تحميلها هنا:",
     "germanRefugees": {
       "infoPoints": [
-        "BüMA (Asylum application)",
-        "Aufenthaltsgestattung (Permission to remain)",
-        "Aufenthaltserlaubnis (Residence permit)",
-        "Duldung (National ban on deportation)",
-        "Fiktionsbescheinigung (Temporary residence permit)",
-        "Subsidiärer Schutz (Subsidiary protection)"
+        " وثيقة طلب اللجوء (بوما BüMA)",
+        "تصريح البقاء Aufenthaltsgestattung",
+        "تصريح الإقامة Aufenthaltserlaubnis",
+        "وثيقة منع الترحيل Duldung",
+        "تصريح إقامة مؤقتة Fiktionsbescheinigung",
+        "حماية فرعية Subsidiärer Schutz"
       ],
       "docImageTitles": {
-        "aufenthaltsgestattung": "Aufenthaltsgestattung",
-        "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
-        "duldung": "Duldung"
+        "aufenthaltsgestattung": "تصريح الإقامة Aufenthaltsgestattung",
+        "aufenthaltserlaubnis": "تصريح الإقامة Aufenthaltserlaubnis",
+        "duldung": "وثيقة منع الترحيل Duldung"
       }
     },
     "jordanianRefugees": {
       "infoPoints": [
-        "UNHCR card",
-        "UNRWA (Palestinians)",
-        "Jordanian government service card"
+        "بطاقة UNHCR",
+        "وثيقة من الأونروا UNRWA",
+        " بطاقة هوية أردنية Jordanian government service card"
       ],
       "docImageTitles": {
-        "unhcrCard": "UNHCR card",
-        "unhcrAsylum": "UNHCR asylum"
+        "unhcrCard": "بطاقة UNHCR",
+        "unhcrAsylum": "وثيقة إثبات طلب اللجوء UNHCR"
       }
     },
     "jordanianIDPs": {
@@ -66,12 +66,12 @@
     },
     "lebaneseRefugees": {
       "infoPoints": [
-        "UNHCR card",
-        "UNRWA document"
+        "بطاقة UNHCR",
+        "وثيقة من الأونروا UNRWA"
       ],
       "docImageTitles": {
-        "unhcrDocument": "UNHCR document",
-        "unrwaDocument": "UNRWA document"
+        "unhcrDocument": "بطاقة UNHCR",
+        "unrwaDocument": "وثيقة من الأونروا UNRWA"
       }
     },
     "lebaneseIDPs": {
@@ -90,8 +90,8 @@
         "Passport جواز سفر"
       ],
       "docImageTitles": {
-        "idCard": "ID card",
-        "passport": "Passport"
+        "idCard": "ID card  هوية شخصية",
+        "passport": "Passport  جواز سفر"
       }
     },
     "syrianIDPs": {
@@ -100,45 +100,45 @@
         "Passport جواز سفر"
       ],
       "docImageTitles": {
-        "idCard": "ID card",
-        "passport": "Passport"
+        "idCard": "ID card  هوية شخصية",
+        "passport": "Passport  جواز سفر"
       }
     },
     "turkishIDPs": {
       "infoPoints": [
-        "Temporary protection",
-        "Residence permit",
-        "UNHCR document"
+        "وثيقة حماية مؤقتة",
+        "وثيقة إقامة",
+        "وثيقة UNHCR"
       ],
       "docImageTitles": {
-        "temporaryProtection": "Temporary protection",
-        "residencePermit": "Residence permit",
-        "unhcrDocument": "UNHCR document"
+        "temporaryProtection": "وثيقة حماية مؤقتة",
+        "residencePermit": "وثيقة إقامة",
+        "unhcrDocument": "وثيقة UNHCR"
       }
     },
     "sudanisIPDs": {
       "infoPoints": [
-        "Passport",
-        "IDP Darfur document",
-        "IDP card"
+        "جواز السفر",
+        "بطاقة IDP أو وثيقة نازح داخلي ( دارفور )",
+        "بطاقة IDP أو وثيقة نازح داخلي"
       ],
       "docImageTitles": {
-        "passport": "Passport",
-        "idpDarfurDocument": "IDP Darfur document",
-        "idpCard": "IDP card"
+        "passport": "جواز السفر",
+        "idpDarfurDocument": "بطاقة IDP أو وثيقة نازح داخلي ( دارفور )",
+        "idpCard": "بطاقة IDP أو وثيقة نازح داخلي"
       }
     },
     "default": {
       "infoPoints": [
-        "Refugee status",
-        "Asylum application",
-        "IDP card",
-        "UNHCR document"
+        "وضع اللجوء",
+        "طلب اللجوء",
+        "بطاقة IDP أو وثيقة نازح داخلي",
+        "وثيقة UNHCR"
       ],
       "docImageTitles": {
-          "unhcrCard": "UNHCR card",
-          "unhcrFamily": "UNHCR family",
-          "kenyaRefugeeCard": "Kenya refugee card"
+          "unhcrCard": "بطاقة UNHCR",
+          "unhcrFamily": "وثائق UNHCR الخاصة بالأسر",
+          "kenyaRefugeeCard": "بطاقة لجوء صادرة من كينيا"
       }
     }
   }
