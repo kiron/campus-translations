@@ -106,13 +106,13 @@
     },
     "turkishIDPs": {
       "infoPoints": [
-        "inGeçici Koruma",
-        "Residence permit",
+        "Geçici Koruma",
+        "Oturum izni",
         "UNHCR belgesi"
       ],
       "docImageTitles": {
         "temporaryProtection": "Geçici Koruma",
-        "residencePermit": "Residence permit",
+        "residencePermit": "Oturum izni",
         "unhcrDocument": "UNHCR belgesi"
       }
     },
