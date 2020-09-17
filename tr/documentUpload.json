@@ -105,6 +105,7 @@
       }
     },
     "turkishIDPs": {
+      "infoPoints": [
         "inGeçici Koruma",
         "Residence permit",
         "UNHCR belgesi"
