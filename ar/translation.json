@@ -3,6 +3,12 @@
     "categories": "المجالات المتاحة",
     "search": "بحث",
     "searchInitial": "ابحث هنا",
+    "searchInitialSubOne": "",
+    "searchInitialSubTwo": "",
+    "searchInitialSubThree": "",
+    "searchInitialSubFour": "",
+    "searchInitialSubFive": "",
+    "searchInitialSubSix": "",
     "noResults": "لم يتم العثور على أي نتائج بحث",
     "promotedModules": {
       "title": "إبدأ هنا",

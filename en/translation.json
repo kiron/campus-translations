@@ -3,6 +3,12 @@
     "categories": "Categories",
     "search": "Search",
     "searchInitial": "Search something",
+    "searchInitialSubOne": "",
+    "searchInitialSubTwo": "",
+    "searchInitialSubThree": "",
+    "searchInitialSubFour": "",
+    "searchInitialSubFive": "",
+    "searchInitialSubSix": "",
     "noResults": "No results have been found for",
     "promotedModules": {
       "title": "Get Started",

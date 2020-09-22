@@ -3,6 +3,12 @@
     "categories": "Kategoriler",
     "search": "Ara",
     "searchInitial": "Bir şey ara",
+    "searchInitialSubOne": "",
+    "searchInitialSubTwo": "",
+    "searchInitialSubThree": "",
+    "searchInitialSubFour": "",
+    "searchInitialSubFive": "",
+    "searchInitialSubSix": "",
     "noResults": "... için sonuç bulunamadı ",
     "promotedModules": {
       "title": "Başla",
