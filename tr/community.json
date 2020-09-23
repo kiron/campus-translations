@@ -1,0 +1,12 @@
+{
+  "community": "Community",
+  "optInTitle": "Join the {{1}} Community",
+  "optInSubtitle": "Your profile picture and nickname will be visible to the community",
+  "codeOfConductTitle": "Code of Conduct",
+  "codeOfConductSubtitle": "By continuing you agree to the <2>Code of Conduct</2>. Thank you for keeping {{2}} a safe space.",
+  "enterButton": "Enter community",
+  "profileUpdateSuccess": "Your profile was updated successfully",
+  "profileUpdateFailure": "There was a problem while updating your profile. Please try again",
+  "communityAccountFailure": "There was a problem creating your community account. Please try again",
+  "communityAccountLoading": "Configuring your account..."
+}
