@@ -44,5 +44,6 @@
       "11": "Noviembre",
       "12": "Diciembre"
     }
-  }
+  },
+  "dateOfBirthError": "We are sorry, but the campus is only available for 18+"
 }
