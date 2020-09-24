@@ -1,12 +1,12 @@
 {
-  "community": "Community",
-  "optInTitle": "Join the {{1}} Community",
-  "optInSubtitle": "Your profile picture and nickname will be visible to the community",
-  "codeOfConductTitle": "Code of Conduct",
-  "codeOfConductSubtitle": "By continuing you agree to the <2>Code of Conduct</2>. Thank you for keeping {{2}} a safe space.",
-  "enterButton": "Enter community",
-  "profileUpdateSuccess": "Your profile was updated successfully",
-  "profileUpdateFailure": "There was a problem while updating your profile. Please try again",
-  "communityAccountFailure": "There was a problem creating your community account. Please try again",
-  "communityAccountLoading": "Configuring your account..."
+  "community": "Topluluk",
+  "optInTitle": "Kiron Kampüs Topluluğuna Katıl",
+  "optInSubtitle": "Profil resmin ve kullanıcı adın topluluğa açık olacaktır",
+  "codeOfConductTitle": "Kurallar",
+  "codeOfConductSubtitle": "Devam ederek <1>Kuralları</1>'nı kabul etmiş oluyorsunuz. Kiron'u güvenli bir yer olarak tuttuğunuz için teşekkür ederiz.",
+  "enterButton": "Topluluğa gir",
+  "profileUpdateSuccess": "Profiliniz başarıyla güncellenmiştir",
+  "profileUpdateFailure": "Profilinizi güncellerken bir sorun oluştu. Lütfen tekrar deneyin",
+  "communityAccountFailure": "Topluluk hesabınızı oluştururken bir hata meydana geldi. Lütfen tekrar deneyin",
+  "communityAccountLoading": "Hesabınız yapılandırılıyor..."
 }
