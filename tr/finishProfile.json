@@ -17,7 +17,7 @@
   "label03": "Cinsiyet",
   "placeholder03": "erkek / kadın / diğer",
   "label04": "Telefon numaranız",
-  "label05": "Doğum tarihinizi girin",
+  "label05": "Doğum tarihinizi girin *",
   "required": "* zorunlu alan",
   "button": "Sonraki",
   "buttonLoading": "Profilini hazırlıyoruz.",

@@ -17,7 +17,7 @@
   "label03": "Género",
   "placeholder03": "hombre / mujer / otro",
   "label04": "Número de su celular",
-  "label05": "Su fecha de nacimiento",
+  "label05": "Su fecha de nacimiento *",
   "required": "* campos obligatorios",
   "button": "Finalizar",
   "buttonLoading": "Preparando su perfil",

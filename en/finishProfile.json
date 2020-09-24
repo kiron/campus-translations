@@ -17,7 +17,7 @@
   "label03": "Gender",
   "placeholder03": "male / female / other",
   "label04": "Your phone number",
-  "label05": "Enter your date of birth",
+  "label05": "Enter your date of birth *",
   "required": "* required field",
   "button": "Finish",
   "buttonLoading": "Preparing your Profile",
