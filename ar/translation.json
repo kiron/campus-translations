@@ -169,5 +169,13 @@
     "title": "معدل التقدم الخاص بك في مساق المقدم من كورسيرا",
     "subtitle": "لماذا لا يتم تحديث التقدم الخاص بي لكورسيرا على  كايرون",
     "body": "يمكن أن يستغرق الأمر ٢-٣ أيام قبل ظهور تقدم كورسيرا على كايرون. هذا لا يعني أنه لم يتم تتبع تقدمك. يرجى التحقق مرة أخرى قريبًا لتستطيع رؤية تقدمك المحدث!"
+  },
+  "pendingApplicationStatus": {
+    "accountStatus": "Account status: <1>Pending approval</1>",
+    "pendingExplanation": "The screening process usually takes around 2 weeks.",
+    "infoMessage": "You need approval to enroll in this program"
+  },
+  "unitPage": {
+    "completionInfo": "Your instructor will mark this course as completed after review"
   }
 }

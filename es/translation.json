@@ -165,5 +165,13 @@
     "title": "Progreso en Coursera",
     "subtitle": "¿Por qué no se actualiza mi progreso en Coursera en Kiron Campus?",
     "body": "Puede tomar 2-3 días antes de que su progreso en Coursera aparezca en Kiron Campus. Esto no significa que su progreso no se actualice. ¡Por favor vuelva pronto para ver su progreso actualizado!"
+  },
+  "pendingApplicationStatus": {
+    "accountStatus": "Account status: <1>Pending approval</1>",
+    "pendingExplanation": "The screening process usually takes around 2 weeks.",
+    "infoMessage": "You need approval to enroll in this program"
+  },
+  "unitPage": {
+    "completionInfo": "Your instructor will mark this course as completed after review"
   }
 }

@@ -165,5 +165,13 @@
     "title": "Coursera durumu",
     "subtitle": "Neden benim Coursera başarım Kiron Kampüsünde güncellenmiyor?",
     "body": "Coursera'daki ilerlemenin Kiron Kampüs'te görüntülenmesi 2-3 gün kadar sürebilir. Bu, ilerlemeniz takip edilmiyor demek değildir!."
+  },
+  "pendingApplicationStatus": {
+    "accountStatus": "Account status: <1>Pending approval</1>",
+    "pendingExplanation": "The screening process usually takes around 2 weeks.",
+    "infoMessage": "You need approval to enroll in this program"
+  },
+  "unitPage": {
+    "completionInfo": "Your instructor will mark this course as completed after review"
   }
 }
