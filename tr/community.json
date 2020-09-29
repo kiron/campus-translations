@@ -8,5 +8,7 @@
   "profileUpdateSuccess": "Profiliniz başarıyla güncellenmiştir",
   "profileUpdateFailure": "Profilinizi güncellerken bir sorun oluştu. Lütfen tekrar deneyin",
   "communityAccountFailure": "Topluluk hesabınızı oluştururken bir hata meydana geldi. Lütfen tekrar deneyin",
-  "communityAccountLoading": "Hesabınız yapılandırılıyor..."
+  "communityAccountLoading": "Hesabınız yapılandırılıyor...",
+  "communityLoadingFailure": "There was a problem loading your community account.",
+  "tryAgain": "Try again"
 }

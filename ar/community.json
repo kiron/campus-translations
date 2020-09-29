@@ -8,5 +8,7 @@
   "profileUpdateSuccess": "تم تحديث ملفك الشخصي بنجاح",
   "profileUpdateFailure": "كانت هناك مشكلة أثناء تحديث ملفك الخاص.الرجاء المحاول مرة اخرى",
   "communityAccountFailure": "كانت هناك مشكلة في إنشاء حساب المجتمع الخاص بك. حاول مرة اخرى",
-  "communityAccountLoading": "حسابك قيد الإنشاء"
+  "communityAccountLoading": "حسابك قيد الإنشاء",
+  "communityLoadingFailure": "كانت هناك مشكلة في تحميل حساب المجتمع الخاص بك. الرجاء المحاول مرة اخرى",
+  "tryAgain": "حاول ثانية"
 }

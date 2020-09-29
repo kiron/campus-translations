@@ -8,5 +8,7 @@
   "profileUpdateSuccess": "Your profile was updated successfully",
   "profileUpdateFailure": "There was a problem while updating your profile. Please try again",
   "communityAccountFailure": "There was a problem creating your community account. Please try again",
-  "communityAccountLoading": "Configuring your account..."
+  "communityAccountLoading": "Configuring your account...",
+  "communityLoadingFailure": "There was a problem loading your community account.",
+  "tryAgain": "Try again"
 }
