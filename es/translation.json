@@ -146,7 +146,8 @@
     "feedbackLike": "¿Qué es lo que más le gustó?",
     "feedbackDislike": "¿Qué es lo que no le gustó?",
     "feedbackNext": "Siguiente",
-    "feedbackLoading": "Cargando lección"
+    "feedbackLoading": "Cargando lección",
+    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
   },
   "unitCard": {
     "liveUnit": "Unidad en vivo",

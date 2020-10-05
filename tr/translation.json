@@ -127,7 +127,7 @@
     "titleUnits": "Üniteler",
     "titleDesc": "Açıklama",
     "downloadTranscriptBtn": "Not çizelgesi indir",
-    "unitComplete":	"Ünite <1/> Tamamlandı!",
+    "unitComplete": "Ünite <1/> Tamamlandı!",
     "rateHelp": "Bu kursa puan vererek diğer öğrencilere yardımcı ol",
     "notNow": "Şimdi değil",
     "rate": "Puanla",
@@ -143,10 +143,11 @@
     "nextUnitCta": "Şimdi ne öğrenebilirim?",
     "nextUnitCertificate": "Bir sertifika kazandın",
     "nextUnitDownload": "Şimdi indir",
-    "feedbackLike":	"En çok neyi beğendin?",
+    "feedbackLike": "En çok neyi beğendin?",
     "feedbackDislike": "Hangi kısmı beğenmedin?",
     "feedbackNext": "Sonraki",
-    "feedbackLoading": "Ders yükleniyor"
+    "feedbackLoading": "Ders yükleniyor",
+    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
   },
   "unitCard": {
     "liveUnit": "Canlı Ünite",

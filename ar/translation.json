@@ -146,7 +146,8 @@
     "feedbackLike": "ما الذي أعجبك بشكل كبير؟ ",
     "feedbackDislike": "ما الذي لم يعجبك؟ ",
     "feedbackNext": "التالي",
-    "feedbackLoading": "تحميل الدرس "
+    "feedbackLoading": "تحميل الدرس ",
+    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
   },
   "unitCard": {
     "liveUnit": "الوحدة المباشرة",
