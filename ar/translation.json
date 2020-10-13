@@ -149,7 +149,7 @@
     "feedbackDislike": "ما الذي لم يعجبك؟ ",
     "feedbackNext": "التالي",
     "feedbackLoading": "تحميل الدرس ",
-    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
+    "enrollCourseLimitText": "عذرًا، يمكنك التسجيل في ما يصل إلى {{0}} مساقات "
   },
   "unitCard": {
     "liveUnit": "الوحدة المباشرة",
