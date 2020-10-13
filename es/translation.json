@@ -17,7 +17,9 @@
     "popularModules": {
       "title": "Popular",
       "subtitle": "Cursos con el mayor número de estudiantes"
-    }
+    },
+    "skillBoosterPrograms": "Skill Booster Programs",
+    "courses": "Courses"
   },
   "success": {
     "introTitle": "¡Su historia de éxito!",

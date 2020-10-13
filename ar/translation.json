@@ -17,7 +17,9 @@
     "popularModules": {
       "title": "المساقات الأكثر شعبية",
       "subtitle": "المساقات الأكثر حضور بين الطلاب"
-    }
+    },
+    "skillBoosterPrograms": "Skill Booster Programs",
+    "courses": "Courses"
   },
   "success": {
     "introTitle": "قصة نجاحك!",

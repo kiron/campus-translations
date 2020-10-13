@@ -17,7 +17,9 @@
     "popularModules": {
       "title": "Popüler ",
       "subtitle": "En çok öğrencisi olan kurslar"
-    }
+    },
+    "skillBoosterPrograms": "Skill Booster Programs",
+    "courses": "Courses"
   },
   "success": {
     "introTitle": "Başarı Öykün!",
