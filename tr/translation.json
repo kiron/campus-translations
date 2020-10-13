@@ -149,7 +149,7 @@
     "feedbackDislike": "Hangi kısmı beğenmedin?",
     "feedbackNext": "Sonraki",
     "feedbackLoading": "Ders yükleniyor",
-    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
+    "enrollCourseLimitText": "Üzgünüz, en fazla {{0}} tane kursa kaydolabilirsiniz. "
   },
   "unitCard": {
     "liveUnit": "Canlı Ünite",
