@@ -141,5 +141,7 @@
           "kenyaRefugeeCard": "Kenya refugee card"
       }
     }
-  }
+  },
+  "backWarningBtn": "Back to Profile",
+  "warningTextNationality": "Please enter your nationality on the profile page before reuploading your documents"
 }
