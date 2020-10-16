@@ -22,7 +22,8 @@
     "sessionTerminated": "Su sesión no está activa.",
     "wrongGoogleAccount": "Ha usado un correo electrónico de Google equivocado para acceder a Kiron Campus. Por favor, asegúrese de elegir su cuenta \"@students.kiron.ngo\" en el próximo paso.",
     "logout": "Su sesión no está activa.",
-    "loginFailed": "El acceso no ha funcionado. Por favor, inténtelo otra vez."
+    "loginFailed": "El acceso no ha funcionado. Por favor, inténtelo otra vez.",
+    "loginRequired": "You must log in to view this page"
   },
   "forgotPassword": {
     "title": "Escriba la dirección de correo electrónico que utilizó para registrarse",

@@ -22,7 +22,8 @@
     "sessionTerminated": "Çıkış yaptın.",
     "wrongGoogleAccount": "Kampüse erişmek için yanlış Google hesabını kullandın. Lütfen bir sonraki adımda \"@students.kiron.ngo\" hesabını seçtiğinden emin ol!",
     "logout": "Çıkış yaptın.",
-    "loginFailed": "Oturum açılamadı, lütfen tekrar dene."
+    "loginFailed": "Oturum açılamadı, lütfen tekrar dene.",
+    "loginRequired": "You must log in to view this page"
   },
   "forgotPassword": {
     "title": "Kayıt için kullandığın e-posta adresini gir",
