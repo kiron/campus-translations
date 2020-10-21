@@ -23,7 +23,7 @@
     "wrongGoogleAccount": "لقد استخدمت حساب Google خاطئ للوصول إلى الحرم الجامعي. يرجى التأكد من اختيار حساب \"@ students.kiron.ngo\" الخاص بك في الخطوة التالية!",
     "logout": "لقد قمت بتسجيل الخروج",
     "loginFailed": "فشل تسجيل الدخول. يرجى المحاولة مرة أخرى.",
-    "loginRequired": "You must log in to view this page"
+    "loginRequired": "يجب عليك تسجيل الدخول لمشاهدة هذه الصفحة"
   },
   "forgotPassword": {
     "title": "أدخل عنوان البريد الإلكتروني الذي استخدمته للتسجيل",
