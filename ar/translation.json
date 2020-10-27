@@ -180,5 +180,10 @@
   },
   "unitPage": {
     "completionInfo": "Your instructor will mark this course as completed after review"
+  },
+  "landingPage": {
+    "login": "تسجيل الدخول",
+    "search": "بحث",
+    "startLearning": "ابدا بالتعلم"
   }
 }

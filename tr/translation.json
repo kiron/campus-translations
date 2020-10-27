@@ -176,5 +176,10 @@
   },
   "unitPage": {
     "completionInfo": "Your instructor will mark this course as completed after review"
+  },
+  "landingPage": {
+    "login": "Oturum aç",
+    "search": "Ara",
+    "startLearning": "Start learning"
   }
 }
