@@ -27,15 +27,15 @@
     "part05": "Quiero saber por qué pedimos un documento a los estudiantes."
   },
   "sampleDocuments": {
-    "title": "Please upload your passport or a form of identification. Take a look at some examples:",
+    "title": "Por favor suba su pasaporte o alguna documento de identificación. Vea varios ejemplos:",
     "germanRefugees": {
       "infoPoints": [
-        "BüMA (Asylum application)",
-        "Aufenthaltsgestattung (Permission to remain)",
-        "Aufenthaltserlaubnis (Residence permit)",
-        "Duldung (National ban on deportation)",
-        "Fiktionsbescheinigung (Temporary residence permit)",
-        "Subsidiärer Schutz (Subsidiary protection)"
+        "BüMA (Aplicación de asilo)",
+        "Aufenthaltsgestattung (Permiso de estancia)",
+        "Aufenthaltserlaubnis (Permiso de residencia)",
+        "Duldung (Prohibición de deportación nacional)",
+        "Fiktionsbescheinigung (Permiso de residencia temporal)",
+        "Subsidiärer Schutz (Protección subsidiaria)"
       ],
       "docImageTitles": {
         "aufenthaltsgestattung": "Aufenthaltsgestattung",
