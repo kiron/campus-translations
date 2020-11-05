@@ -19,7 +19,7 @@
     "errorEmail": "Geçerli bir e-posta adresi olmalı ve boşluk içermemeli",
     "errorKironEmail": "Lütfen giriş yapmak için 'Google ile devam edin' seçeneğini kullan",
     "errorEmailTaken": "Bu eposta adresi daha önce alındı",
-    "errorShortPassword": "Parolan en az 6 karakter içermeli",
+    "errorShortPassword": "Parolan en az 8 karakter içermeli",
     "emailSentTitle": "Neredeyse Bitti!",
     "emailSentDescription01": "Epostanı Adresini Kontrol Et.",
     "emailSentDescription02": "Sana hesabını etkinleştirmen için bir bağlantı gönderdik.",

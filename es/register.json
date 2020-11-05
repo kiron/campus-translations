@@ -19,7 +19,7 @@
     "errorEmail": "Debe ser una dirección de email válida y no puede contener espacios",
     "errorKironEmail": "Por favor utilice 'Continuar con Google' para entrar",
     "errorEmailTaken": "Esta dirección de email ya está en uso",
-    "errorShortPassword": "Su contraseña debe tener al menos 6 caracteres",
+    "errorShortPassword": "Su contraseña debe tener al menos 8 caracteres",
     "emailSentTitle": "¡Casi terminado!",
     "emailSentDescription01": "Mire su email.",
     "emailSentDescription02": "Le hemos enviado un email para activar tu cuenta.",

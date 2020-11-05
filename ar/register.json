@@ -19,7 +19,7 @@
     "errorEmail": "يجب أن يكون عنوان بريد إلكتروني صالح. لا يمكن أن تحتوي على مسافات.",
     "errorKironEmail": "ينتهي بريدك الإلكتروني بـ @ students.kiron.ngo. الرجاء استخدام 'متابعة باستخدام Google' لتسجيل الدخول.",
     "errorEmailTaken": "الايميل أخذ مسبقا",
-    "errorShortPassword": "يجب أن تحتوي كلمة المرور على 6 أحرف على الأقل.",
+    "errorShortPassword": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل.",
     "emailSentTitle": "على وشك الانتهاء!",
     "emailSentDescription01": "تحقق من بريدك الالكتروني.",
     "emailSentDescription02": "لقد أرسلنا لك رابطًا لتنشيط حسابك.",

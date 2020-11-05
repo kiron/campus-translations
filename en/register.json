@@ -19,7 +19,7 @@
     "errorEmail": "Must be a valid email address and can't contain spaces",
     "errorKironEmail": "Please use 'Continue with Google' to login",
     "errorEmailTaken": "This email is already taken",
-    "errorShortPassword": "Your password should have at least 6 characters",
+    "errorShortPassword": "Your password should have at least 8 characters",
     "emailSentTitle": "Almost done!",
     "emailSentDescription01": "Check your email.",
     "emailSentDescription02": "We sent you a link to activate your account.",
