@@ -1,14 +1,14 @@
 {
-  "community": "Community",
-  "optInTitle": "Join the {{1}} Community",
-  "optInSubtitle": "Your profile picture and nickname will be visible to the community",
-  "codeOfConductTitle": "Code of Conduct",
-  "codeOfConductSubtitle": "By continuing you agree to the <2>Code of Conduct</2>. Thank you for keeping {{2}} a safe space.",
-  "enterButton": "Enter community",
-  "profileUpdateSuccess": "Your profile was updated successfully",
-  "profileUpdateFailure": "There was a problem while updating your profile. Please try again",
-  "communityAccountFailure": "There was a problem creating your community account. Please try again",
-  "communityAccountLoading": "Configuring your account...",
-  "communityLoadingFailure": "There was a problem loading your community account.",
-  "tryAgain": "Try again"
+  "community": "Comunidad",
+  "optInTitle": "Únete a la {{1}} comunidad",
+  "optInSubtitle": "Tu foto de perfil y tu apodo seran visibles para la comunidad",
+  "codeOfConductTitle": "Código de conducta",
+  "codeOfConductSubtitle": "Si entras en la comunidad, significa que estás de acuerdo con el <2>Código de conducta</2>. Gracias por hacer de la comunidad {{2}} un espacio seguro.",
+  "enterButton": "Entrar en la comunidad",
+  "profileUpdateSuccess": "Tu perfil se ha actualizado correctamente",
+  "profileUpdateFailure": "Ha habido un problema en la actualización de tu perfil. Por favor, inténtalo de nuevo.",
+  "communityAccountFailure": "Ha habido un problema en la creación de tu usuario de la comunidad. Por favor, inténtalo de nuevo.",
+  "communityAccountLoading": "Configurando tu usuario...",
+  "communityLoadingFailure": "Ha habido un problema al configurar tu usuario de la comunidad.",
+  "tryAgain": "Intentar de nuevo"
 }
