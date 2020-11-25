@@ -176,7 +176,9 @@
     "infoMessage": "You need approval to enroll in this program"
   },
   "unitPage": {
-    "completionInfo": "Your instructor will mark this course as completed after review"
+    "completionInfo": "Your instructor will mark this course as completed after review",
+    "unenroll": "Unenroll from this course",
+    "unenrollLoading": "Updating..."
   },
   "landingPage": {
     "login": "Oturum aç",
