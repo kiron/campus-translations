@@ -18,5 +18,6 @@
     "learners": "Learners",
     "privacyPolicy": "Privacy Policy",
     "logout": "Logout",
-    "joinForFree": "Join for free"
+    "joinForFree": "Join for free",
+    "subOrgConsent": "Because this data sharing is a core part of the {{1}} Student portal you may not proceed without it."
   }

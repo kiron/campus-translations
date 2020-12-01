@@ -18,5 +18,6 @@
 "learners": "Öğrenciler",
 "privacyPolicy": "Gizlilik Politikası",
 "logout": "çıkış Yap",
-"joinForFree": "ücretsiz katılabilirsiniz"
+"joinForFree": "ücretsiz katılabilirsiniz",
+"subOrgConsent": "Because this data sharing is a core part of the {{1}} Student portal you may not proceed without it."
 }
