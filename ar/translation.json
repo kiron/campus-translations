@@ -1,4 +1,41 @@
 {
+  "register": {
+    "pleaseWait": "أرجو الإنتظار",
+    "registerHeadline": "التسجيل لاول مرة",
+    "initial": {
+      "googleButton": "اكمل التسجيل باستخدام ايميل جوجل",
+      "emailButton": "سجل ببريدك الالكتروني",
+      "termsText": "بالمتابعة ، أنت توافق على",
+      "termsLink": " سياسة الخصوصية / شروط الخدمة الخاصة بنا",
+      "alreadyUserTitle": "بالفعل مستخدم؟",
+      "alreadyUserLink": "تسجيل الدخول",
+      "or": "او"
+    },
+    "registerWithEmail": {
+      "labelEmail": "البريد الإلكتروني",
+      "labelPassword": "كلمة المرور",
+      "buttonRegister": "التسجيل لاول مرة",
+      "alreadyUserTitle": "بالفعل مستخدم؟",
+      "alreadyUserLink": "تسجيل الدخول",
+      "errorEmail": "يجب أن يكون عنوان بريد إلكتروني صالح. لا يمكن أن تحتوي على مسافات.",
+      "errorKironEmail": "ينتهي بريدك الإلكتروني بـ @ students.kiron.ngo. الرجاء استخدام 'متابعة باستخدام Google' لتسجيل الدخول.",
+      "errorEmailTaken": "الايميل أخذ مسبقا",
+      "errorShortPassword": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل.",
+      "errorLowercase": "AR: Your password should contain at least one lowercase character",
+      "errorUppercase": "AR: Your password should contain at least one uppercase character",
+      "errorNumber": "AR: Your password should contain at least one number",
+      "errorSpecialCharacter": "AR: Your password should contain at least one special character, not including <, or >",
+      "emailSentTitle": "على وشك الانتهاء!",
+      "emailSentDescription01": "تحقق من بريدك الالكتروني.",
+      "emailSentDescription02": "لقد أرسلنا لك رابطًا لتنشيط حسابك.",
+      "termsText": "من خلال الاستمرار ، فإنك توافق على",
+      "termsLink": "سياسة الخصوصية / شروط الخدمة"
+    },
+    "registerConfirmed": {
+      "title": "على وشك الانتهاء!",
+      "description": "نحن نحضر حسابك"
+    }
+  },
   "explore": {
     "categories": "المجالات المتاحة",
     "search": "بحث",
