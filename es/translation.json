@@ -177,8 +177,7 @@
   },
   "unitPage": {
     "completionInfo": "Your instructor will mark this course as completed after review",
-    "unenroll": "Si no quieres seguir participando en este curso",
-    "unenrollLink": "haz clic aquí para darte de baja de este curso",
+    "unenroll": "Desinscribirse",
     "unenrollLoading": "actualizando..."
   },
   "landingPage": {

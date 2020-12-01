@@ -177,8 +177,7 @@
   },
   "unitPage": {
     "completionInfo": "Your instructor will mark this course as completed after review",
-    "unenroll": "artık bu kursa katılmak istemiyorsanız ",
-    "unenrollLink": "kaydınızı silmek için buraya tıklayın ",
+    "unenroll": "Kaydı sil",
     "unenrollLoading": "Guncelliyor... "
   },
   "landingPage": {

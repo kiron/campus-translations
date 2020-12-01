@@ -177,8 +177,7 @@
   },
   "unitPage": {
     "completionInfo": "Your instructor will mark this course as completed after review",
-    "unenroll": "If you no longer wish to participate in this course",
-    "unenrollLink": "click here to unenroll",
+    "unenroll": "Unenroll",
     "unenrollLoading": "updating.."
   },
   "landingPage": {

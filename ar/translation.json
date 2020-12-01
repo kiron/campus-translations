@@ -181,8 +181,7 @@
   },
   "unitPage": {
     "completionInfo": "Your instructor will mark this course as completed after review",
-    "unenroll": "إذا لم تعد ترغب في المشاركة في هذا المساق",
-    "unenrollLink": "انقر هنا لإلغاء التسجيل",
+    "unenroll": "إلغاء التسجيل",
     "unenrollLoading": "جارٍ التحديث ..."
   },
   "landingPage": {
