@@ -1,4 +1,41 @@
 {
+  "register": {
+    "pleaseWait": "Espere, por favor...",
+    "registerHeadline": "Registro",
+    "initial": {
+      "googleButton": "Continuar con Google",
+      "emailButton": "Registrarse con email",
+      "termsText": "Al continuar acepta nuestros",
+      "termsLink": "Política de Privacidad/Términos de utilización",
+      "alreadyUserTitle": "¿Ya es usuario?",
+      "alreadyUserLink": "Entrar",
+      "or": "o"
+    },
+    "registerWithEmail": {
+      "labelEmail": "Email",
+      "labelPassword": "Su contraseña",
+      "buttonRegister": "Registrarse",
+      "alreadyUserTitle": "¿Ya es usuario?",
+      "alreadyUserLink": "Entrar",
+      "errorEmail": "Debe ser una dirección de email válida y no puede contener espacios",
+      "errorKironEmail": "Por favor utilice 'Continuar con Google' para entrar",
+      "errorEmailTaken": "Esta dirección de email ya está en uso",
+      "errorShortPassword": "Su contraseña debe tener al menos 8 caracteres",
+      "errorLowercase": "ES: Your password should contain at least one lowercase character",
+      "errorUppercase": "ES: Your password should contain at least one uppercase character",
+      "errorNumber": "ES: Your password should contain at least one number",
+      "errorSpecialCharacter": "ES: Your password should contain at least one special character, not including <, or >",
+      "emailSentTitle": "¡Casi terminado!",
+      "emailSentDescription01": "Mire su email.",
+      "emailSentDescription02": "Le hemos enviado un email para activar tu cuenta.",
+      "termsText": "Al continuar acepta nuestros",
+      "termsLink": "Política de Privacidad/Términos de utilización"
+    },
+    "registerConfirmed": {
+      "title": "¡Casi terminado!",
+      "description": "Estamos preparando su cuenta..."
+    }
+  },
   "explore": {
     "categories": "Categorías",
     "search": "Buscar",
