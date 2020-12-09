@@ -1,41 +1,4 @@
 {
-  "register": {
-    "pleaseWait": "أرجو الإنتظار",
-    "registerHeadline": "التسجيل لاول مرة",
-    "initial": {
-      "googleButton": "اكمل التسجيل باستخدام ايميل جوجل",
-      "emailButton": "سجل ببريدك الالكتروني",
-      "termsText": "بالمتابعة ، أنت توافق على",
-      "termsLink": " سياسة الخصوصية / شروط الخدمة الخاصة بنا",
-      "alreadyUserTitle": "بالفعل مستخدم؟",
-      "alreadyUserLink": "تسجيل الدخول",
-      "or": "او"
-    },
-    "registerWithEmail": {
-      "labelEmail": "البريد الإلكتروني",
-      "labelPassword": "كلمة المرور",
-      "buttonRegister": "التسجيل لاول مرة",
-      "alreadyUserTitle": "بالفعل مستخدم؟",
-      "alreadyUserLink": "تسجيل الدخول",
-      "errorEmail": "يجب أن يكون عنوان بريد إلكتروني صالح. لا يمكن أن تحتوي على مسافات.",
-      "errorKironEmail": "ينتهي بريدك الإلكتروني بـ @ students.kiron.ngo. الرجاء استخدام 'متابعة باستخدام Google' لتسجيل الدخول.",
-      "errorEmailTaken": "الايميل أخذ مسبقا",
-      "errorShortPassword": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل.",
-      "errorLowercase": "يجب أن تحتوي كلمة السر على حرف صغير واحد على الأقل",
-      "errorUppercase": "يجب أن تحتوي كلمة السر على حرف واحد كبير على الأقل",
-      "errorNumber": "يجب أن تحتوي كلمة السر على رقم واحد على الأقل",
-      "errorSpecialCharacter": "يجب أن تحتوي كلمة السر على حرف خاص واحد على الأقل لا يشمل <أو>",
-      "emailSentTitle": "على وشك الانتهاء!",
-      "emailSentDescription01": "تحقق من بريدك الالكتروني.",
-      "emailSentDescription02": "لقد أرسلنا لك رابطًا لتنشيط حسابك.",
-      "termsText": "من خلال الاستمرار ، فإنك توافق على",
-      "termsLink": "سياسة الخصوصية / شروط الخدمة"
-    },
-    "registerConfirmed": {
-      "title": "على وشك الانتهاء!",
-      "description": "نحن نحضر حسابك"
-    }
-  },
   "explore": {
     "categories": "المجالات المتاحة",
     "search": "بحث",
@@ -55,9 +18,9 @@
       "title": "المساقات الأكثر شعبية",
       "subtitle": "المساقات الأكثر حضور بين الطلاب"
     },
-    "skillBoosterPrograms": "Skill Booster Programs",
-    "courses": "Courses",
-    "recommended": "Recommended by"
+    "skillBoosterPrograms": "برامج تعزيز المهارت ",
+    "courses": "مساقات ",
+    "recommended": "أوصت به"
   },
   "success": {
     "introTitle": "قصة نجاحك!",
@@ -217,13 +180,6 @@
     "infoMessage": "You need approval to enroll in this program"
   },
   "unitPage": {
-    "completionInfo": "Your instructor will mark this course as completed after review",
-    "unenroll": "إلغاء التسجيل",
-    "unenrollLoading": "جارٍ التحديث ..."
-  },
-  "landingPage": {
-    "login": "تسجيل الدخول",
-    "search": "اكتشف مساقتنا",
-    "startLearning": "ابدا بالتعلم"
+    "completionInfo": "Your instructor will mark this course as completed after review"
   }
 }
