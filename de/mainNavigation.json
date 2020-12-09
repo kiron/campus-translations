@@ -1,0 +1,23 @@
+{
+    "home": "Home",
+    "explore": "Explore",
+    "success": "Success",
+    "community": "Community",
+    "news": "News",
+    "new": "New",
+    "earlier": "Earlier",
+    "seeAll": "See all",
+    "more": "more",
+    "noNotifications": "You do not have any notifications right now.",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "preferences": "Preferences",
+    "offerBoard": "Offer Board",
+    "support": "SUPPORT",
+    "helpCenter": "Help Center",
+    "learners": "Learners",
+    "privacyPolicy": "Privacy Policy",
+    "logout": "Logout",
+    "joinForFree": "Join for free",
+    "subOrgConsent": "Because this data sharing is a core part of the campus experience you may not proceed without it."
+  }
