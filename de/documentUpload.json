@@ -1,41 +1,41 @@
 {
   "reviewInProgress": {
-    "title": "Review in Progress",
-    "hello": "Hello, ",
-    "descriptionJSX": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days. In the meantime, you can already select your modules on the <1>Explore Page</1> or see other learners in your area <3>on the Community Page</3>."
+    "title": "Überprüfung in Arbeit",
+    "hello": "Hallo, ",
+    "descriptionJSX": "Vielen Dank, dass du deine Dokumente hochgeladen hast. Wir werden diese nun überprüfen und du wirst in den nächsten drei Tagen eine E-Mail von uns erhalten. In der Zwischenzeit kannst du bereits deine Module auf der <1>Explore Seite</1> auswählen oder andere Lernende in deiner Umgebung <3>auf der Community Seite</3> sehen."
   },
-  "uploadDocumentTitle": "Upload document",
-  "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
-  "description02": "recommendations ",
-  "description03": "for uploading in the best quality.",
-  "upload": "Click here or drop files to upload your document.",
-  "button": "Send",
-  "buttonContinue": "Continue studying",
-  "uploadSuccessfulDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days.",
+  "uploadDocumentTitle": "Dokument hochladen",
+  "description01": "Scanne oder mache ein Foto von deinen Dokumenten und lade sie hier hoch. Achte darauf, dass alle wichtigen Informationen gut sichtbar sind. Prüfe unsere ",
+  "description02": "Empfehlung ",
+  "description03": "um in der besten Qualität hochzuladen.",
+  "upload": "Klicke hier oder ziehe deine Dateien hier hin umd deine Dokumente hochzuladen.",
+  "button": "Senden",
+  "buttonContinue": "Weiter studieren",
+  "uploadSuccessfulDescription": "Vielen Dank für das Hochladen deiner Dokumente. Wir werden deine Dokumente nun überprüfen du wirst in den nächsten drei Tagen eine E-Mail von uns erhalten.",
   "modal": {
-    "yes": "DO",
-    "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
-    "no": "DON’T",
-    "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
+    "yes": "KORREKT",
+    "yesDescription": "Lade nur deine offizielen Dokumente hoch. Dein vllständiger Name, Geburtsdatum, and das Ablaufsdatum sollte klar erkennbar sein.",
+    "no": "FALSCH",
+    "noDescription": "lade nichts hoch, was nicht ein offzieles Dokument ist, wie etwa dein Lebenslauf, ein Bild von dir, eine Flagge oder irgendein anderes Foto."
   },
-  "doucmentGuideTitle": "Document Guide",
+  "doucmentGuideTitle": "Dokument Anleitung",
   "documentAlternate": {
-    "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
+    "part01": "Du hast keins dieser Dokumente? Kein Problem, du kannst ein ähnliches Dokument hochladen und wir werden dieses überprüfen. Klicke auf ",
     "part02": "Kiron Help Center",
-    "part03": "for more information.",
-    "part04": "Kiron will store your documents safely on our servers and they will not be shared with others. ",
-    "part05": "Learn more about why we need your document "
+    "part03": "für weitere Informationen.",
+    "part04": "Kiron wird deine Dokumente auf einem sicheren Server speichern und diese nicht mit Anderen teilen. ",
+    "part05": "Finde heraus, warum wir deine Dokumente benötigen "
   },
   "sampleDocuments": {
-    "title": "Please upload your passport or a form of identification. Take a look at some examples:",
+    "title": "Bitte lade deinen Reisepass oder eine andere Form der Identifikation hoch. Siehe hier ein paar Beispiele:",
     "germanRefugees": {
       "infoPoints": [
-        "BüMA (Asylum application)",
-        "Aufenthaltsgestattung (Permission to remain)",
-        "Aufenthaltserlaubnis (Residence permit)",
-        "Duldung (National ban on deportation)",
-        "Fiktionsbescheinigung (Temporary residence permit)",
-        "Subsidiärer Schutz (Subsidiary protection)"
+        "BüMA (Antrag auf Asyl)",
+        "Aufenthaltsgestattung",
+        "Aufenthaltserlaubnis",
+        "Duldung",
+        "Fiktionsbescheinigung",
+        "Subsidiärer Schutz"
       ],
       "docImageTitles": {
         "aufenthaltsgestattung": "Aufenthaltsgestattung",
@@ -45,103 +45,103 @@
     },
     "jordanianRefugees": {
       "infoPoints": [
-        "UNHCR card",
-        "UNRWA (Palestinians)",
-        "Jordanian government service card"
+        "UNHCR-Ausweis",
+        "UNRWA (Palästinenser)",
+        "Ausweis durch die jordanischen Regierung"
       ],
       "docImageTitles": {
-        "unhcrCard": "UNHCR card",
-        "unhcrAsylum": "UNHCR asylum"
+        "unhcrCard": "UNHCR-Ausweis",
+        "unhcrAsylum": "UNHCR-Asyl"
       }
     },
     "jordanianIDPs": {
       "infoPoints": [
-        "ID card هوية شخصية",
-        "Passport جواز سفر"
+        "ID-Ausweis هوية شخصية",
+        "Reisepass جواز سفر"
       ],
       "docImageTitles": {
-        "idCard": "ID card  هوية شخصية",
-        "passport": "Passport  جواز سفر"
+        "idCard": "ID-Ausweis  هوية شخصية",
+        "passport": "Reisepass  جواز سفر"
       }
     },
     "lebaneseRefugees": {
       "infoPoints": [
-        "UNHCR card",
-        "UNRWA document"
+        "UNHCR-Ausweis",
+        "UNRWA-Dokument"
       ],
       "docImageTitles": {
-        "unhcrDocument": "UNHCR document",
-        "unrwaDocument": "UNRWA document"
+        "unhcrDocument": "UNHCR-Dokument",
+        "unrwaDocument": "UNRWA-Dokument"
       }
     },
     "lebaneseIDPs": {
       "infoPoints": [
         "ID هوية شخصية",
-        "Passport جواز سفر"
+        "Reisepass جواز سفر"
       ],
       "docImageTitles": {
         "idCard": "ID هوية شخصية",
-        "passport": "Passport جواز سفر"
+        "passport": "Reisepass جواز سفر"
       }
     },
     "yemenisIDPs": {
       "infoPoints": [
         "ID هوية شخصية",
-        "Passport جواز سفر"
+        "Reisepass جواز سفر"
       ],
       "docImageTitles": {
-        "idCard": "ID card",
-        "passport": "Passport"
+        "idCard": "ID-Ausweis",
+        "passport": "Reisepass"
       }
     },
     "syrianIDPs": {
       "infoPoints": [
         "ID هوية شخصية",
-        "Passport جواز سفر"
+        "Reisepass جواز سفر"
       ],
       "docImageTitles": {
-        "idCard": "ID card",
-        "passport": "Passport"
+        "idCard": "ID-Ausweis",
+        "passport": "Reisepass"
       }
     },
     "turkishIDPs": {
       "infoPoints": [
-        "Temporary protection",
-        "Residence permit",
-        "UNHCR document"
+        "Temporärer Schutz",
+        "Aufenthaltserlaubnis",
+        "UNHCR-Dokument"
       ],
       "docImageTitles": {
-        "temporaryProtection": "Temporary protection",
-        "residencePermit": "Residence permit",
-        "unhcrDocument": "UNHCR document"
+        "temporaryProtection": "Temporärer Schutz",
+        "residencePermit": "Aufenthaltserlaubnis",
+        "unhcrDocument": "UNHCR-Dokument"
       }
     },
     "sudanisIPDs": {
       "infoPoints": [
-        "Passport",
-        "IDP Darfur document",
-        "IDP card"
+        "Reisepass",
+        "IDP Darfur-Dokument",
+        "IDP Ausweis"
       ],
       "docImageTitles": {
-        "passport": "Passport",
-        "idpDarfurDocument": "IDP Darfur document",
-        "idpCard": "IDP card"
+        "passport": "Reisepass",
+        "idpDarfurDocument": "IDP Darfur-Dokument",
+        "idpCard": "IDP Ausweis"
       }
     },
     "default": {
       "infoPoints": [
-        "Refugee status",
-        "Asylum application",
-        "IDP card",
-        "UNHCR document"
+        "Flüchtlingsstatus",
+        "Asylantrag",
+        "IDP Ausweis",
+        "UNHCR-Dokument"
       ],
       "docImageTitles": {
-          "unhcrCard": "UNHCR card",
-          "unhcrFamily": "UNHCR family",
-          "kenyaRefugeeCard": "Kenya refugee card"
+          "unhcrCard": "UNHCR Ausweis",
+          "unhcrFamily": "UNHCR Familie",
+          "kenyaRefugeeCard": "Kenya Flüchtlingsausweis"
       }
     }
   },
-  "backWarningBtn": "Back to Profile",
-  "warningTextNationality": "Please enter your nationality on the profile page before reuploading your documents"
+  "backWarningBtn": "Zurück zum Profile",
+  "warningTextNationality": "Bitte gib deine Nationalität in deinem Profil ein vor dem erneuten Hochladen deiner Dokumente"
 }
