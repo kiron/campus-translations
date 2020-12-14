@@ -1,6 +1,6 @@
 {
   "introTitle": "Willkommen ",
-  "introDescription": "Hier bei Kiron glauben wir an die Macht des kostenlosen Online-Lernens.Wir arbeiten daran, Geflüchteten auf der ganzen Welt, unterversorgten Gemeinschaften im Nahen Osten und anderen Menschen die mit Barrieren für höhere Bildung konfrontiert sind, digitale Bildung zugänglich zu machen.",
+  "introDescription": "Hier bei {{orgDisplayName}} glauben wir an die Macht des kostenlosen Online-Lernens.Wir arbeiten daran, Geflüchteten auf der ganzen Welt, unterversorgten Gemeinschaften im Nahen Osten und anderen Menschen die mit Barrieren für höhere Bildung konfrontiert sind, digitale Bildung zugänglich zu machen.",
   "title": "Dein Profil",
   "description": "Füge zunächst ein paar Informationen zu deinem Profil hinzu:",
   "labelFirstName": "Vorname *",

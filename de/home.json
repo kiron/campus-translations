@@ -9,11 +9,11 @@
   "noCoutryDescription": "Bitte wähle das Land deines Wohnsitzes aus, damit wir deinen Campus vorbereiten können.",
   "noCountrySet": "Wähle dein Land",
   "updatesMainTitle": "Update",
-  "updatesTitle": "Kiron Campus ist jetzt auch in Arabisch und Türkisch verfügbar.",
+  "updatesTitle": "{{orgDisplayName}} Campus ist jetzt auch in Arabisch und Türkisch verfügbar.",
   "updatesText": "Wechsel deine Sprache auf deiner Profil-Seite um es auszuprobieren.",
   "countrySpecificTitle": "Mehr auf dem Campus",
-  "referralShareText": "Komm mit mir zu Kiron",
-  "referralCardTitle": "Teile Kiron mit deinen Freunden",
+  "referralShareText": "Komm mit mir zu {{orgDisplayName}}",
+  "referralCardTitle": "Teile {{orgDisplayName}} mit deinen Freunden",
   "referralCopy": "Kopieren",
   "referralCopied": "Kopiert",
   "applicationCheckTitle": "Checkliste für die Bewerbung",
@@ -31,7 +31,7 @@
     "headline": "Deine Aktivitäten",
     "subtitle": "Lerne jede Woche und sammel Achievements",
     "shareText": "Ich habe heute ",
-    "shareTextEnd": " Wochen am Stück bei Kiron gelernt! ",
-    "sharetextFull": " Ich habe heute {{1}} Wochen am Stück bei Kiron gelernt!"
+    "shareTextEnd": " Wochen am Stück bei {{orgDisplayName}} gelernt! ",
+    "sharetextFull": " Ich habe heute {{1}} Wochen am Stück bei {{orgDisplayName}} gelernt!"
   }
 }
