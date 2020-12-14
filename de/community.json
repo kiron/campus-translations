@@ -1,14 +1,14 @@
 {
   "community": "Community",
-  "optInTitle": "Join the {{1}} Community",
-  "optInSubtitle": "Your profile picture and nickname will be visible to the community",
-  "codeOfConductTitle": "Code of Conduct",
-  "codeOfConductSubtitle": "By continuing you agree to the <2>Code of Conduct</2>. Thank you for keeping {{2}} a safe space.",
-  "enterButton": "Enter community",
-  "profileUpdateSuccess": "Your profile was updated successfully",
-  "profileUpdateFailure": "There was a problem while updating your profile. Please try again",
-  "communityAccountFailure": "There was a problem creating your community account. Please try again",
-  "communityAccountLoading": "Configuring your account...",
-  "communityLoadingFailure": "There was a problem loading your community account.",
-  "tryAgain": "Try again"
+  "optInTitle": "Werde Teil der {{1}} Community",
+  "optInSubtitle": "Dein Profilbild und dein Nickname werden im Chat sichtbar sein",
+  "codeOfConductTitle": "Verhaltensregeln",
+  "codeOfConductSubtitle": "Wenn du forfährst, erklärst du dich mit den <2>Verhaltensregeln</2> einverstanden. Vielen Dank, dass du {{2}} zu einem sicheren Ort machst",
+  "enterButton": "Community beitreten",
+  "profileUpdateSuccess": "Dein Profilbild wurde erfolgreich geändert",
+  "profileUpdateFailure": "Beim Ändern deines Profilbilds ist ein Problem aufgetreten. Bitte versuche es erneut",
+  "communityAccountFailure": "Beim Erstellen deines Community-Accounts ist ein Problem aufgetreten. Bitte versuche es erneut",
+  "communityAccountLoading": "Dein Account wird eingerichtet...",
+  "communityLoadingFailure": "Es gab ein Problem beim Laden deines Community-Accounts ",
+  "tryAgain": "Versuch es erneut"
 }
