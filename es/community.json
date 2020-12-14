@@ -1,14 +1,14 @@
 {
-  "community": "Comunidad",
-  "optInTitle": "Únete a la {{1}} comunidad",
-  "optInSubtitle": "Tu foto de perfil y tu apodo seran visibles para la comunidad",
+  "community": "Chat",
+  "optInTitle": "Únete al {{1}} chat de estudiantes",
+  "optInSubtitle": "Tu foto de perfil y tu apodo seran visibles en el chat de estudiantes",
   "codeOfConductTitle": "Código de conducta",
-  "codeOfConductSubtitle": "Si entras en la comunidad, significa que estás de acuerdo con el <2>Código de conducta</2>. Gracias por hacer de la comunidad {{2}} un espacio seguro.",
-  "enterButton": "Entrar en la comunidad",
+  "codeOfConductSubtitle": "Si entras en el chat, significa que estás de acuerdo con el <2>Código de conducta</2>. Gracias por hacer del chat {{2}} un espacio seguro.",
+  "enterButton": "Entrar en el chat de estudiantes",
   "profileUpdateSuccess": "Tu perfil se ha actualizado correctamente",
   "profileUpdateFailure": "Ha habido un problema en la actualización de tu perfil. Por favor, inténtalo de nuevo.",
-  "communityAccountFailure": "Ha habido un problema en la creación de tu usuario de la comunidad. Por favor, inténtalo de nuevo.",
+  "communityAccountFailure": "Ha habido un problema en la creación de tu usuario del chat. Por favor, inténtalo de nuevo.",
   "communityAccountLoading": "Configurando tu usuario...",
-  "communityLoadingFailure": "Ha habido un problema al configurar tu usuario de la comunidad.",
+  "communityLoadingFailure": "Ha habido un problema al configurar tu usuario del chat.",
   "tryAgain": "Intentar de nuevo"
 }
