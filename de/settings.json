@@ -1,25 +1,25 @@
 {
-  "title": "Data Sharing",
-  "info": "These settings show the data you have allowed Kiron to share with specific third parties. Use the `View` button to see the details of, or revoke, that consent.",
-  "infoConsent": "You have not accepted any consent requests yet.",
-  "linkView": "View",
-  "linkCancel": "Cancel",
-  "linkBack": "Go back",
-  "linkAccept": "Accept",
-  "noInfo": "Sorry, there is no information available",
-  "linkBackSettings": "Back to settings",
-  "titleReceived": "We have received your agreement for",
-  "linkGoSettings": "Go to settings",
-  "linkRevoke": "Revoke",
+  "title": "Datennutzung",
+  "info": "Diese Einstellungen zeigen die Daten, die du Kiron erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen",
+  "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
+  "linkView": "Anzeigen",
+  "linkCancel": "Abbrechen",
+  "linkBack": "Zurück",
+  "linkAccept": "Zustimmen",
+  "noInfo": "Es sind leider keine Informationen verfügbar",
+  "linkBackSettings": "Zurück zu den Einstellungen",
+  "titleReceived": "Wir haben deine Zustimmung erhalten für",
+  "linkGoSettings": "Zu Einstellungen",
+  "linkRevoke": "Widerrufen",
   "revokeConsent": {
-    "yes": "Yes",
-    "no": "No",
-    "title": "Are you sure you want to revoke this consent?",
-    "desc": "By revoking this consent you might lose access to some of the services provided by Kiron.",
-    "goToSettings": "Go to Settings",
-    "revoked": "Revoked"
+    "yes": "Ja",
+    "no": "Nein",
+    "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
+    "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von Kiron angebotenen Dienste.",
+    "goToSettings": "Zu Einstellungen",
+    "revoked": "Widerrufen"
   },
   "listItem": {
-    "view": "View"
+    "view": "Anzeigen"
   }
 }
