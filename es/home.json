@@ -9,11 +9,11 @@
   "noCoutryDescription": "Por favor, seleccione su país de residencia para que podamos ajustar la plataforma a su idioma.",
   "noCountrySet": "País de residencia",
   "updatesMainTitle": "Actualizar",
-  "updatesTitle": "Kiron Campus está disponible en árabe, turco y español.",
+  "updatesTitle": "{{orgDisplayName}} Campus está disponible en árabe, turco y español.",
   "updatesText": "Cambie sus preferencias de idioma en su página de Perfil.",
-  "countrySpecificTitle": "Más en Kiron Campus",
-  "referralShareText": "Únete a Kiron",
-  "referralCardTitle": "Compartir Kiron con mis amigos",
+  "countrySpecificTitle": "Más en {{orgDisplayName}} Campus",
+  "referralShareText": "Únete a {{orgDisplayName}}",
+  "referralCardTitle": "Compartir {{orgDisplayName}} con mis amigos",
   "referralCopy": "Copiar",
   "referralCopied": "Copiado",
   "applicationCheckTitle": "Lista para el ingreso a la universidad",
@@ -31,7 +31,7 @@
     "headline": "Su actividad",
     "subtitle": "Aprenda cada semana para lograr su objetivo",
     "shareText": "He aprendido ",
-    "shareTextEnd": " semanas seguidas en Kiron! ",
-    "sharetextFull": "He aprendido {{1}} semanas seguidas en Kiron!"
+    "shareTextEnd": " semanas seguidas en {{orgDisplayName}}! ",
+    "sharetextFull": "He aprendido {{1}} semanas seguidas en {{orgDisplayName}}!"
   }
 }

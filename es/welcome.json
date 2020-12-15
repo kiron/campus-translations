@@ -1,7 +1,7 @@
 {
   "slideOne": {
     "title": "Descubrir",
-    "content": "Descubrir Kiron y ganar acceso gratuito a cursos online."
+    "content": "Descubrir {{orgDisplayName}} y ganar acceso gratuito a cursos online."
   },
   "slideTwo": {
     "title": "Aprender",
@@ -9,7 +9,7 @@
   },
   "slideThree": {
     "title": "Conectar",
-    "content": "Más de 6000 estudiantes alrededor del mundo son parte de Kiron. Comparta sus estudios con ellos."
+    "content": "Más de 6000 estudiantes alrededor del mundo son parte de {{orgDisplayName}}. Comparta sus estudios con ellos."
   },
   "buttonActive": "Empezar",
   "buttonLoading": "Cargando"

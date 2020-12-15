@@ -21,9 +21,9 @@
   "doucmentGuideTitle": "Guía de documentos",
   "documentAlternate": {
     "part01": "¿No tiene ninguno de estos documentos? No se preocupe, puede subir otro documento y lo revisaremos. Clique en ",
-    "part02": "Centro de Ayuda de Kiron",
+    "part02": "Centro de Ayuda de {{orgDisplayName}}",
     "part03": "para más información.",
-    "part04": "Kiron guardará su documentación con seguridad en nuestros servidores y no se compartirá ningún archivo con terceros.",
+    "part04": "{{orgDisplayName}} guardará su documentación con seguridad en nuestros servidores y no se compartirá ningún archivo con terceros.",
     "part05": "Quiero saber por qué pedimos un documento a los estudiantes."
   },
   "sampleDocuments": {
