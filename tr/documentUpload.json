@@ -21,9 +21,9 @@
   "doucmentGuideTitle": "Belge Kılavuzu",
   "documentAlternate": {
     "part01": "Bu belgelerinden birine sahip değil misiniz? Sorun değil, benzer bir belge yükleyebilir ve inceleyeceğiz. Tıklamak",
-    "part02": "Kiron Yardım Merkezi",
+    "part02": "{{orgDisplayName}} Yardım Merkezi",
     "part03": "daha fazla bilgi için.",
-    "part04": "Kiron, belgelerinizi sunucularımızda güvenli bir şekilde saklayacak ve başkalarıyla paylaşılmayacaktır.",
+    "part04": "{{orgDisplayName}}, belgelerinizi sunucularımızda güvenli bir şekilde saklayacak ve başkalarıyla paylaşılmayacaktır.",
     "part05": "Belgenize neden ihtiyaç duyduğumuz hakkında daha fazla bilgi edinin"
   },
   "sampleDocuments": {

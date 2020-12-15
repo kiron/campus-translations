@@ -1,6 +1,6 @@
 {
   "introTitle": "Hoşgeldiniz ",
-  "introDescription": "Biz Kiron'da ücretsiz online eğitimin gücüne inanıyoruz. Dijital eğitimi dünyanın her yerindeki mültecilere, Orta Doğu'daki yetersiz yaşam koşullarındaki topluluklara ve yükseköğretim için engelleri aşmaya çalışan insanlara sunmak için çalışıyoruz.",
+  "introDescription": "Biz {{orgDisplayName}}'da ücretsiz online eğitimin gücüne inanıyoruz. Dijital eğitimi dünyanın her yerindeki mültecilere, Orta Doğu'daki yetersiz yaşam koşullarındaki topluluklara ve yükseköğretim için engelleri aşmaya çalışan insanlara sunmak için çalışıyoruz.",
   "title": "Sizin profiliniz",
   "description": "Şimdi profilinize bazı bilgiler ekleyelim:",
   "labelFirstName": "Adınız *",

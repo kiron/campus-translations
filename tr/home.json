@@ -12,8 +12,8 @@
   "updatesTitle": "Arapça ve Türkçe çeviri için çalışıyoruz",
   "updatesText": "Dil tercihlerini değiştirerek göz atabilirsin",
   "countrySpecificTitle": "Daha fazlası Kampüs'te",
-  "referralShareText": "Kiron'da bana katıl",
-  "referralCardTitle": "Kiron'un arkadaşlarınızla paylaşın",
+  "referralShareText": "{{orgDisplayName}}'da bana katıl",
+  "referralCardTitle": "{{orgDisplayName}}'un arkadaşlarınızla paylaşın",
   "referralCopy": "Kopyala",
   "referralCopied": "Kopyalandı",
   "applicationCheckTitle": "Başvuru için yapılacaklar listesi",
@@ -31,7 +31,7 @@
     "headline": "Senin aktifliğin",
     "subtitle": "Başarılarını artırmak için her hafta öğrenmeye devam et.",
     "shareText": "I have learned",
-    "shareTextEnd": "weeks in a row on Kiron! ",
-    "sharetextFull": "Kiron'da üst üste {{1}} hafta öğrendim!"
+    "shareTextEnd": "weeks in a row on {{orgDisplayName}}! ",
+    "sharetextFull": "{{orgDisplayName}}'da üst üste {{1}} hafta öğrendim!"
   }
 }

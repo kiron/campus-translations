@@ -1,6 +1,6 @@
 {
   "title": "Bilgi paylaşımı",
-  "info": "Bu ayarlar, Kiron'un bazı üçüncü kişilerle paylaşmasına izin verdiğin verileri göstermektedir. Detayları görmek veya izni geri almak için 'İnceleyin' butonunu kullan.",
+  "info": "Bu ayarlar, {{orgDisplayName}}'un bazı üçüncü kişilerle paylaşmasına izin verdiğin verileri göstermektedir. Detayları görmek veya izni geri almak için 'İnceleyin' butonunu kullan.",
   "infoConsent": "Onay isteğini henüz kabul etmedin.",
   "linkView": "Görüntüle",
   "linkCancel": "İptal",
@@ -15,7 +15,7 @@
     "yes": "Evet",
     "no": "Hayır",
     "title": "Bu izni geri almak istediğinden emin misin? ",
-    "desc": "Bu izni geri alarak Kiron'un sağladığı bazı hizmetlere erişimi kaybedebilirsin.",
+    "desc": "Bu izni geri alarak {{orgDisplayName}}'un sağladığı bazı hizmetlere erişimi kaybedebilirsin.",
     "goToSettings": "Ayarlara git",
     "revoked": "Geri alındı"
   },

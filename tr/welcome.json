@@ -1,7 +1,7 @@
 {
   "slideOne": {
     "title": "Keşfet",
-    "content": "Kiron Kampüs'ü keşfet ve online kurslara ücretsiz eriş"
+    "content": "{{orgDisplayName}} Kampüs'ü keşfet ve online kurslara ücretsiz eriş"
   },
   "slideTwo": {
     "title": "Öğren",
@@ -9,7 +9,7 @@
   },
   "slideThree": {
     "title": "",
-    "content": "Kiron'un dünya genelinde 6000'den fazla öğrencisi var. Bu eğitim deneyimini onlarla paylaş."
+    "content": "{{orgDisplayName}}'un dünya genelinde 6000'den fazla öğrencisi var. Bu eğitim deneyimini onlarla paylaş."
   },
   "buttonActive": "Başla",
   "buttonLoading": "Yükleniyor"
