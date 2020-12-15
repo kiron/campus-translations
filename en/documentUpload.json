@@ -21,9 +21,9 @@
   "doucmentGuideTitle": "Document Guide",
   "documentAlternate": {
     "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
-    "part02": "Kiron Help Center",
+    "part02": "{{orgDisplayName}} Help Center",
     "part03": "for more information.",
-    "part04": "Kiron will store your documents safely on our servers and they will not be shared with others. ",
+    "part04": "{{orgDisplayName}} will store your documents safely on our servers and they will not be shared with others. ",
     "part05": "Learn more about why we need your document "
   },
   "sampleDocuments": {
