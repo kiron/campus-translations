@@ -9,11 +9,11 @@
   "noCoutryDescription": "يرجى تحديد بلد إقامتك حتى نتمكن من إعداد البيئة الخاصة بك",
   "noCountrySet": "حدد بلدك",
   "updatesMainTitle": "تحديث",
-  "updatesTitle": "منصة كايرون متاحة الأن بكل من اللغة العربية والتركية ",
+  "updatesTitle": "منصة {{orgDisplayName}} متاحة الأن بكل من اللغة العربية والتركية ",
   "updatesText": "يمكنك تجربة ذلك عن طريق تغيير تفضيلات اللغة من صقحة ملفك الخاصة بك.",
   "countrySpecificTitle": "المزيد على المنصة",
-  "referralShareText": "انضم إليّ في كايرون.",
-  "referralCardTitle": "شارك كايرون مع أصدقائك",
+  "referralShareText": "انضم إليّ في {{orgDisplayName}}.",
+  "referralCardTitle": "شارك {{orgDisplayName}} مع أصدقائك",
   "referralCopy": "نسخ",
   "referralCopied": "تم النسخ",
   "applicationCheckTitle": "قائمة التحضير للجامعة",
@@ -29,7 +29,7 @@
     "headline": "نشاطك",
     "subtitle": "تعلم كل أسبوع لتجمع المزيد من الإنجازات",
     "shareText": "لقد تعلمت ",
-    "shareTextEnd": " أسابيع متتالية مع كايرون!",
-    "sharetextFull": "لقد تعلمت {{1}} أسابيع متتالية مع كايرون!"
+    "shareTextEnd": " أسابيع متتالية مع {{orgDisplayName}}!",
+    "sharetextFull": "لقد تعلمت {{1}} أسابيع متتالية مع {{orgDisplayName}}!"
   }
 }
