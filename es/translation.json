@@ -49,7 +49,7 @@
     "noResults": "No se han encontrado resultados para",
     "promotedModules": {
       "title": "Empezar",
-      "subtitle": "La mayor parte de los estudiantes de Kiron empiezan su aprendizaje aquí"
+      "subtitle": "La mayor parte de los estudiantes de {{orgDisplayName}} empiezan su aprendizaje aquí"
     },
     "popularModules": {
       "title": "Popular",
@@ -105,7 +105,7 @@
     }
   },
   "transcriptOfRecords": {
-    "descriptionSupport": "¡Estupendo, ya tiene muchos cursos verificados! Si está solicitando ingreso en una universidad, puede pedir un PDF con una lista de sus logros. Por favor contacte el soporte de Kiron"
+    "descriptionSupport": "¡Estupendo, ya tiene muchos cursos verificados! Si está solicitando ingreso en una universidad, puede pedir un PDF con una lista de sus logros. Por favor contacte el soporte de {{orgDisplayName}}"
   },
   "fileUpload": {
     "description": "Clique aquí o arrastre y suelte ficheros para subir su certificado.<br />(También puede subir su certificado más tarde)",
@@ -141,7 +141,7 @@
     "btnStart": "Empezar este programa",
     "certificateModule": "Esto es un módulo en su programa de estudios",
     "certificateCredit": "Créditos:",
-    "certificateImgAlt": "Certificado de Kiron",
+    "certificateImgAlt": "Certificado de {{orgDisplayName}}",
     "certficateBtnUnenroll": "Desinscribirse",
     "certficateBtnContinue": "Continuar Estudiando",
     "certificateBtnStart": "Empezar a Estudiar",
@@ -191,7 +191,7 @@
   },
   "unitCard": {
     "liveUnit": "Unidad en vivo",
-    "kironUnit": "Unidad de Kiron",
+    "kironUnit": "Unidad de {{orgDisplayName}}",
     "externalUnit": "Unidad externa",
     "started": "¡Comenzada!",
     "completed": "¡Completada!",
@@ -204,8 +204,8 @@
   },
   "courseraProgress": {
     "title": "Progreso en Coursera",
-    "subtitle": "¿Por qué no se actualiza mi progreso en Coursera en Kiron Campus?",
-    "body": "Puede tomar 2-3 días antes de que su progreso en Coursera aparezca en Kiron Campus. Esto no significa que su progreso no se actualice. ¡Por favor vuelva pronto para ver su progreso actualizado!"
+    "subtitle": "¿Por qué no se actualiza mi progreso en Coursera en {{orgDisplayName}} Campus?",
+    "body": "Puede tomar 2-3 días antes de que su progreso en Coursera aparezca en {{orgDisplayName}} Campus. Esto no significa que su progreso no se actualice. ¡Por favor vuelva pronto para ver su progreso actualizado!"
   },
   "pendingApplicationStatus": {
     "accountStatus": "Account status: <1>Pending approval</1>",

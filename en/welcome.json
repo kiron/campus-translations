@@ -1,7 +1,7 @@
 {
   "slideOne": {
     "title": "Discover",
-    "content": "Discover Kiron Campus and get access to online courses for free"
+    "content": "Discover {{orgDisplayName}} Campus and get access to online courses for free"
   },
   "slideTwo": {
     "title": "Learn",
@@ -9,7 +9,7 @@
   },
   "slideThree": {
     "title": "Connect",
-    "content": "More than 6.000 students around the world are a part of Kiron. Share your study experience with them."
+    "content": "More than 6.000 students around the world are a part of {{orgDisplayName}}. Share your study experience with them."
   },
   "buttonActive": "Get Started",
   "buttonLoading": "Loading"

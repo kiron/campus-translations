@@ -1,6 +1,6 @@
 {
   "introTitle": "Bienvenido/a",
-  "introDescription": "En Kiron creemos en el poder del aprendizaje online gratuito. Trabajamos para que la formación online sea accesible para las personas refugiadas, personas en situación de vulnerabilidad en Oriente Medio y otras personas que encuentran dificultades para acceder a la educación.",
+  "introDescription": "En {{orgDisplayName}} creemos en el poder del aprendizaje online gratuito. Trabajamos para que la formación online sea accesible para las personas refugiadas, personas en situación de vulnerabilidad en Oriente Medio y otras personas que encuentran dificultades para acceder a la educación.",
   "title": "Su perfil",
   "description": "Añada la información básica para su perfil:",
   "labelFirstName": "Nombre *",
@@ -45,5 +45,5 @@
       "12": "Diciembre"
     }
   },
-  "dateOfBirthError": "Lo sentimos, Kiron Campus está disponible solamente para mayores de 18 años"
+  "dateOfBirthError": "Lo sentimos, {{orgDisplayName}} Campus está disponible solamente para mayores de 18 años"
 }

@@ -49,7 +49,7 @@
     "noResults": "No results have been found for",
     "promotedModules": {
       "title": "Get Started",
-      "subtitle": "Most Kiron students start their learning journey here"
+      "subtitle": "Most {{orgDisplayName}} students start their learning journey here"
     },
     "popularModules": {
       "title": "Popular",
@@ -105,7 +105,7 @@
     }
   },
   "transcriptOfRecords": {
-    "descriptionSupport": "Great, you already have a lot of verified courses! If you are applying for university you can request a PDF with a list of your achievements. Please contact Kiron support"
+    "descriptionSupport": "Great, you already have a lot of verified courses! If you are applying for university you can request a PDF with a list of your achievements. Please contact {{orgDisplayName}} support"
   },
   "fileUpload": {
     "description": "Click here or drop files to upload your certificate.<br />(You can also upload your certificate later)",
@@ -141,7 +141,7 @@
     "btnStart": "Start this program",
     "certificateModule": "This is a module in your online study track",
     "certificateCredit": "Credit Points:",
-    "certificateImgAlt": "Kiron Certificate",
+    "certificateImgAlt": "{{orgDisplayName}} Certificate",
     "certficateBtnUnenroll": "Unenroll",
     "certficateBtnContinue": "Continue Learning",
     "certificateBtnStart": "Start learning",
@@ -191,7 +191,7 @@
   },
   "unitCard": {
     "liveUnit": "Live Unit",
-    "kironUnit": "Kiron Unit",
+    "kironUnit": "{{orgDisplayName}} Unit",
     "externalUnit": "External Unit",
     "started": "Started!",
     "completed": "Completed!",
@@ -204,8 +204,8 @@
   },
   "courseraProgress": {
     "title": "Coursera Progress",
-    "subtitle": "Why isn't my Coursera progress updated on Kiron Campus?",
-    "body": "It can take 2-3 days before your Coursera progress shows up on Kiron Campus. This doesn't mean your progress isn't being tracked. Please check back soon to see your updated progress!"
+    "subtitle": "Why isn't my Coursera progress updated on {{orgDisplayName}} Campus?",
+    "body": "It can take 2-3 days before your Coursera progress shows up on {{orgDisplayName}} Campus. This doesn't mean your progress isn't being tracked. Please check back soon to see your updated progress!"
   },
   "pendingApplicationStatus": {
     "accountStatus": "Account status: <1>Pending approval</1>",

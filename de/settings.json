@@ -1,6 +1,6 @@
 {
   "title": "Datennutzung",
-  "info": "Diese Einstellungen zeigen die Daten, die du Kiron erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen",
+  "info": "Diese Einstellungen zeigen die Daten, die du {{orgDisplayName}} erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen",
   "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
   "linkView": "Anzeigen",
   "linkCancel": "Abbrechen",
@@ -15,7 +15,7 @@
     "yes": "Ja",
     "no": "Nein",
     "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
-    "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von Kiron angebotenen Dienste.",
+    "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von {{orgDisplayName}} angebotenen Dienste.",
     "goToSettings": "Zu Einstellungen",
     "revoked": "Widerrufen"
   },

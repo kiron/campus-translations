@@ -19,5 +19,5 @@
     "privacyPolicy": "Política de privacidad",
     "logout": "Desconectar",
     "joinForFree": "Join for free",
-    "subOrgConsent": "Te pedimos estos datos porque son una parte important de tu experiencia en Kiron Campus"
+    "subOrgConsent": "Te pedimos estos datos porque son una parte important de tu experiencia en {{orgDisplayName}} Campus"
   }

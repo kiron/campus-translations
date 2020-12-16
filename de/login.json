@@ -18,9 +18,9 @@
     "forgotPassword": "Passwort vergessen?",
     "createAccountTitle": "Noch keinen Account vorhanden?",
     "createAccountLink": "Registrieren",
-    "passwordReset": "Du wirst bald einen Email auf deine persönliche E-Mail Adresse mit deinem neuen Passwort für deinen Kiron Google Account erhalten.",
+    "passwordReset": "Du wirst bald einen Email auf deine persönliche E-Mail Adresse mit deinem neuen Passwort für deinen {{orgDisplayName}} Google Account erhalten.",
     "sessionTerminated": "Du bist ausgeloggt.",
-    "wrongGoogleAccount": "Du hast den falschen Google Account benutzt um den Campus zu betreten. Bitte stelle sicher, dass du im nächsten Schritt deinen \"@students.kiron.ngo\"-Account benutzt!",
+    "wrongGoogleAccount": "Du hast den falschen Google Account benutzt um den Campus zu betreten. Bitte stelle sicher, dass du im nächsten Schritt deinen Student-Account benutzt!",
     "logout": "Du bist ausgeloggt.",
     "loginFailed": "Login fehlgeschlagen, bitte versuche es erneut.",
     "loginRequired": "Du musst dich einloggen um diese Seite zu sehen"

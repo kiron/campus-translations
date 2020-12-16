@@ -18,9 +18,9 @@
     "forgotPassword": "Forgot your password?",
     "createAccountTitle": "No account yet?",
     "createAccountLink": "Register",
-    "passwordReset": "You will receive an email in your personal inbox with a new password for your Kiron Google Account soon.",
+    "passwordReset": "You will receive an email in your personal inbox with a new password for your {{orgDisplayName}} Google Account soon.",
     "sessionTerminated": "You're logged out.",
-    "wrongGoogleAccount": "You used the wrong Google account for accessing campus. Please make sure to choose your \"@students.kiron.ngo\" account in the next step!",
+    "wrongGoogleAccount": "You used the wrong Google account for accessing campus. Please make sure to choose your student account in the next step!",
     "logout": "You're logged out.",
     "loginFailed": "Login failed, please try again.",
     "loginRequired": "You must log in to view this page"

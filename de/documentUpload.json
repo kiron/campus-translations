@@ -21,9 +21,9 @@
   "doucmentGuideTitle": "Dokument Anleitung",
   "documentAlternate": {
     "part01": "Du hast keins dieser Dokumente? Kein Problem, du kannst ein ähnliches Dokument hochladen und wir werden dieses überprüfen. Klicke auf ",
-    "part02": "Kiron Help Center",
+    "part02": "{{orgDisplayName}} Help Center",
     "part03": "für weitere Informationen.",
-    "part04": "Kiron wird deine Dokumente auf einem sicheren Server speichern und diese nicht mit Anderen teilen. ",
+    "part04": "{{orgDisplayName}} wird deine Dokumente auf einem sicheren Server speichern und diese nicht mit Anderen teilen. ",
     "part05": "Finde heraus, warum wir deine Dokumente benötigen "
   },
   "sampleDocuments": {

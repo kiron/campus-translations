@@ -1,6 +1,6 @@
 {
   "introTitle": "Welcome ",
-  "introDescription": "At Kiron we believe in the power of free online learning. We work to make digital education available to refugees worldwide, underserved communities in the Middle East and other people facing barriers to higher education.",
+  "introDescription": "At {{orgDisplayName}} we believe in the power of free online learning. We work to make digital education available to refugees worldwide, underserved communities in the Middle East and other people facing barriers to higher education.",
   "title": "Your Profile",
   "description": "Let’s add some information to your profile first:",
   "labelFirstName": "First Name *",

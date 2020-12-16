@@ -49,7 +49,7 @@
     "noResults": "... için sonuç bulunamadı ",
     "promotedModules": {
       "title": "Başla",
-      "subtitle": "Çoğu kiron öğrencisi öğrenme yolculuğuna burada başlar"
+      "subtitle": "Çoğu {{orgDisplayName}} öğrencisi öğrenme yolculuğuna burada başlar"
     },
     "popularModules": {
       "title": "Popüler ",
@@ -105,7 +105,7 @@
     }
   },
   "transcriptOfRecords": {
-    "descriptionSupport": "Harika, zaten çok fazla onaylanmış kursun var! Üniversiteye başvuruyorsan, başarılarının listesini içeren bir PDF talep edebilirsin. Lütfen Kiron destek ile iletişime geç."
+    "descriptionSupport": "Harika, zaten çok fazla onaylanmış kursun var! Üniversiteye başvuruyorsan, başarılarının listesini içeren bir PDF talep edebilirsin. Lütfen {{orgDisplayName}} destek ile iletişime geç."
   },
   "fileUpload": {
     "description": "Sertifikanı yüklemek için buraya tıkla ya da dosyaları buraya sürükle <br />(Sertifikanı daha sonra da yükleyebilirsin)",
@@ -141,7 +141,7 @@
     "btnStart": "Bu programa başla",
     "certificateModule": "Bu Study Trackine dahil bir modüldür",
     "certificateCredit": "Kredi Puanlar:",
-    "certificateImgAlt": "Kiron Belgesi",
+    "certificateImgAlt": "{{orgDisplayName}} Belgesi",
     "certficateBtnUnenroll": "Kaydı sil",
     "certficateBtnContinue": "Devam Et",
     "certificateBtnStart": "Öğrenmeye Başla",
@@ -191,7 +191,7 @@
   },
   "unitCard": {
     "liveUnit": "Canlı Ünite",
-    "kironUnit": "Kiron Ünitesi",
+    "kironUnit": "{{orgDisplayName}} Ünitesi",
     "externalUnit": "Harici Ünite",
     "started": "Başladı!",
     "completed": "Bitti!",
@@ -204,8 +204,8 @@
   },
   "courseraProgress": {
     "title": "Coursera durumu",
-    "subtitle": "Neden benim Coursera başarım Kiron Kampüsünde güncellenmiyor?",
-    "body": "Coursera'daki ilerlemenin Kiron Kampüs'te görüntülenmesi 2-3 gün kadar sürebilir. Bu, ilerlemeniz takip edilmiyor demek değildir!."
+    "subtitle": "Neden benim Coursera başarım {{orgDisplayName}} Kampüsünde güncellenmiyor?",
+    "body": "Coursera'daki ilerlemenin {{orgDisplayName}} Kampüs'te görüntülenmesi 2-3 gün kadar sürebilir. Bu, ilerlemeniz takip edilmiyor demek değildir!."
   },
   "pendingApplicationStatus": {
     "accountStatus": "Account status: <1>Pending approval</1>",
