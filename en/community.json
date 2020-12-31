@@ -1,14 +1,14 @@
 {
-  "community": "Community",
-  "optInTitle": "Join the {{1}} Community",
-  "optInSubtitle": "Your profile picture and nickname will be visible to the community",
+  "community": "Student Chat",
+  "optInTitle": "Join the {{1}} Student Chat",
+  "optInSubtitle": "Your profile picture and nickname will be visible to other members of the Student Chat",
   "codeOfConductTitle": "Code of Conduct",
   "codeOfConductSubtitle": "By continuing you agree to the <2>Code of Conduct</2>. Thank you for keeping {{2}} a safe space.",
-  "enterButton": "Enter community",
+  "enterButton": "Enter Student Chat",
   "profileUpdateSuccess": "Your profile was updated successfully",
   "profileUpdateFailure": "There was a problem while updating your profile. Please try again",
-  "communityAccountFailure": "There was a problem creating your community account. Please try again",
+  "communityAccountFailure": "There was a problem creating your Student Chat account. Please try again",
   "communityAccountLoading": "Configuring your account...",
-  "communityLoadingFailure": "There was a problem loading your community account.",
+  "communityLoadingFailure": "There was a problem loading your Student Chat account.",
   "tryAgain": "Try again"
 }
