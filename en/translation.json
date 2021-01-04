@@ -206,7 +206,17 @@
     "reviewCount": "{{0}} review",
     "reviewCount_plural": "{{0}} reviews",
     "noReviews": "No reviews yet",
-    "preventEnroll": "This unit is only available after your documents have been uploaded and verified"
+    "preventEnroll": "This unit is only available after your documents have been uploaded and verified",
+    "hostedCourse": {
+      "start": "Start unit",
+      "finish": "Finish unit",
+      "retake": "Retake unit"
+    },
+    "regularMooc": {
+      "finished": "Mark as finished",
+      "start": "Start in",
+      "notFinished": "Click here if you haven't finished"
+    }
   },
   "courseraProgress": {
     "title": "Coursera Progress",
