@@ -202,22 +202,6 @@
     "weeksAbbreviation": "w",
     "multiplier": "x"
   },
-  "shortProgramUnit": {
-    "reviewCount": "{{0}} review",
-    "reviewCount_plural": "{{0}} reviews",
-    "noReviews": "No reviews yet",
-    "preventEnroll": "This unit is only available after your documents have been uploaded and verified",
-    "hostedCourse": {
-      "start": "Start unit",
-      "finish": "Finish unit",
-      "retake": "Retake unit"
-    },
-    "regularMooc": {
-      "finished": "Mark as finished",
-      "start": "Start in",
-      "notFinished": "Click here if you haven't finished"
-    }
-  },
   "courseraProgress": {
     "title": "Coursera Progress",
     "subtitle": "Why isn't my Coursera progress updated on {{orgDisplayName}} Campus?",
@@ -231,7 +215,44 @@
   "unitPage": {
     "completionInfo": "Your instructor will mark this course as completed after review",
     "unenroll": "Unenroll",
-    "unenrollLoading": "updating.."
+    "unenrollLoading": "updating..",
+    "reviewCount": "{{0}} review",
+    "reviewCount_plural": "{{0}} reviews",
+    "noReviews": "No reviews yet",
+    "preventEnroll": "This unit is only available after your documents have been uploaded and verified",
+    "updating": "Updating unit...",
+    "participantsCount": "{{0}} student in the unit",
+    "participantsCount_plural": "{{0}} students in the unit",
+    "course": "Course",
+    "unit": "unit",
+    "hostedCourse": {
+      "start": "Start unit",
+      "finish": "Finish unit",
+      "retake": "Retake unit"
+    },
+    "regularMooc": {
+      "finished": "Mark as finished",
+      "start": "Start in",
+      "notFinished": "Click here if you haven't finished"
+    },
+    "continue": "Continue",
+    "continueIn": "Continue in {{0}}",
+    "openIn": "Open course in {{0}}",
+    "messageBoard": {
+      "description": "Communicate with other learners, introduce yourself and get to know your fellow students here.",
+      "reportMessage": "If you see a message that does not belong here because it seems offensive, violent or like spam, please send an email to <1>student-support@kiron.ngo</1>."
+    },
+    "verification": {
+      "failed": "Verification failed - Try again",
+      "pending": "Verification pending",
+      "uploadPrompt": "Upload your certificate",
+      "popupTitle": "Upload your certificate",
+      "popupDescription": "Please click on the image to see an example of a certificate in a new tab"
+    },
+    "live": {
+      "isExpired": "Registration is not possible anymore. New start dates will be published soon.",
+      "noSessions": "There are no live sessions coming up for this unit. Please check back soon."
+    }
   },
   "landingPage": {
     "login": "Login",
