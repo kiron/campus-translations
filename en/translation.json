@@ -202,6 +202,12 @@
     "weeksAbbreviation": "w",
     "multiplier": "x"
   },
+  "shortProgramUnit": {
+    "reviewCount": "{{0}} review",
+    "reviewCount_plural": "{{0}} reviews",
+    "noReviews": "No reviews yet",
+    "preventEnroll": "This unit is only available after your documents have been uploaded and verified"
+  },
   "courseraProgress": {
     "title": "Coursera Progress",
     "subtitle": "Why isn't my Coursera progress updated on {{orgDisplayName}} Campus?",
