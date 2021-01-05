@@ -3,7 +3,7 @@
   "featuredDescription": "Fahre fort, wo du letztes Mal aufgehört hast",
   "enrolledModulesTitle": "Deine Lernprogramme",
   "enrolledModulesSubtitle": "",
-  "noModuleTitle": "Möchtest du mit dem Lernen starten?",
+  "noModuleTitle": "Möchtest du mit dem Lernen beginnen?",
   "noModuleExplore": "Erkunde",
   "enrolledOffersTitle": "Sprachangebote",
   "noCoutryDescription": "Bitte wähle das Land deines Wohnsitzes aus, damit wir deinen Campus vorbereiten können.",
@@ -18,7 +18,7 @@
   "referralCopied": "Kopiert",
   "applicationCheckTitle": "Checkliste für die Bewerbung",
   "applicationCheckText": "Bereite deine Bewerbung für die Universität vor",
-  "moduleFeaturedBtn": "Zurück zum Lernen",
+  "moduleFeaturedBtn": "Weiterlernen",
   "streakWeeks": {
     "congratulation": "Herzlichen Glückwunsch!",
     "achievement": "Du warst aktiv für",
@@ -29,7 +29,7 @@
     "achievementWeeks_plural": "Wochen am Stück",
     "buttonCta": "Keep on rocking!",
     "headline": "Deine Aktivitäten",
-    "subtitle": "Lerne jede Woche und sammel Achievements",
+    "subtitle": "Lerne jede Woche und sammle Achievements",
     "shareText": "Ich habe heute ",
     "shareTextEnd": " Wochen am Stück bei {{orgDisplayName}} gelernt! ",
     "sharetextFull": " Ich habe heute {{1}} Wochen am Stück bei {{orgDisplayName}} gelernt!"
