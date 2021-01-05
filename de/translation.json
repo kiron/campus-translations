@@ -7,7 +7,7 @@
       "emailButton": "Registrieren mit E-Mail",
       "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unseren",
       "termsLink": "Datenschutzbestimmungen/Nutzungsbedingungen",
-      "alreadyUserTitle": "Bist du bereits ein Nutzer?",
+      "alreadyUserTitle": "Besitzt du bereits ein Account?",
       "alreadyUserLink": "Login",
       "or": "oder"
     },
@@ -15,7 +15,7 @@
       "labelEmail": "E-Mail",
       "labelPassword": "Dein Passwort",
       "buttonRegister": "Registrieren",
-      "alreadyUserTitle": "Bist du bereits ein Nutzer?",
+      "alreadyUserTitle": "Besitzt du bereits ein Account?",
       "alreadyUserLink": "Login",
       "errorEmail": "Muss eine gültige E-Mail-Adresse sein und darf keine Leerzeichen enthalten",
       "errorKironEmail": "Bitte nutze 'Weiter mit Google' zum Einloggen",
@@ -26,7 +26,7 @@
       "errorNumber": "Dein Passwort sollte mindestens eine Zahl enthalten",
       "errorSpecialCharacter": "Dein Passwort sollte mindestens ein Sonderzeichen enthalten, ausgenommen <, oder >",
       "emailSentTitle": "Fast fertig!",
-      "emailSentDescription01": "Überprüfen Sie Ihre E-Mails.",
+      "emailSentDescription01": "Überprüfen deine E-Mails.",
       "emailSentDescription02": "Wir haben dir einen Link geschickt, um dein Konto zu aktivieren.",
       "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unseren",
       "termsLink": "Datenschutzbestimmungen/Nutzungsbedingungen"
@@ -49,11 +49,11 @@
     "noResults": "Es wurden keine Ergebnisse gefunden für",
     "promotedModules": {
       "title": "Ein guter Anfang",
-      "subtitle": "Die meisten {{orgDisplayName}} Studenten beginnen ihre Erfolgsgeschichte hier"
+      "subtitle": "Die meisten {{orgDisplayName}} Studierenden beginnen ihre Erfolgsgeschichte hier"
     },
     "popularModules": {
       "title": "Beliebt",
-      "subtitle": "Kurse mit den meisten Studenten"
+      "subtitle": "Kurse mit den meisten Studierenden"
     },
     "skillBoosterPrograms": "Skill Booster Programs",
     "courses": "Kurse",
@@ -144,7 +144,7 @@
     "certificateImgAlt": "{{orgDisplayName}} Zertifikat",
     "certficateBtnUnenroll": "Abmelden",
     "certficateBtnContinue": "Weiter lernen",
-    "certificateBtnStart": "Lernen beginnen",
+    "certificateBtnStart": "Jetzt starten",
     "certificateFinishText": "Du bist auf dem Weg! <1/>Schließe alle Einheiten ab, um ein Zertifikat zu erhalten.",
     "noCertificateFinishText": "Du bist auf dem Weg! <1/>Mach weiter so!",
     "certificateProgress": "Fortschritt:",
@@ -158,7 +158,7 @@
     "addModuleBtnStart": "Beginne jetzt mit deinem ersten Kurs",
     "addModuleText": "Dieses Skill Booster Program wurde deinem Home Tab hinzugefügt",
     "enrollModuleBtnNo": "Jetzt nicht",
-    "enrollModuleBtnStart": "Lernen beginnen",
+    "enrollModuleBtnStart": "Jetzt starten",
     "enrollModuleText": "Hi {{0}}, dies ist Teil unseres Lernprogramms <1>{{1}}</1>. Willst du damit beginnen und etwas lernen über <3>{{3}}</3>?",
     "showContent": "Zusätzlichen Inhalt anzeigen",
     "hideContent": "Zusätzlichen Inhalt ausblenden",
@@ -168,7 +168,7 @@
     "titleDesc": "Beschreibung",
     "downloadTranscriptBtn": "Download Transkript",
     "unitComplete": "Einheit <1/> Abgeschlossen!",
-    "rateHelp": "Hilf anderen Studenten, indem du diesen Kurs bewertest",
+    "rateHelp": "Hilf anderen Studierenden, indem du diesen Kurs bewertest",
     "notNow": "Jetzt nicht",
     "rate": "Bewerte",
     "thankYou": "Vielen Dank",
@@ -192,7 +192,7 @@
   "unitCard": {
     "liveUnit": "Live Einheit",
     "kironUnit": "{{orgDisplayName}} Einheit",
-    "externalUnit": "External Einheit",
+    "externalUnit": "Externe Einheit",
     "started": "Begonnen!",
     "completed": "Abgeschlossen!",
     "live": "LIVE",
@@ -213,13 +213,13 @@
     "infoMessage": "Sie benötigen eine Zulassung, um sich für dieses Programm anzumelden"
   },
   "unitPage": {
-    "completionInfo": "Ihr Kursleiter wird diesen Kurs nach der Überprüfung als abgeschlossen markieren",
+    "completionInfo": "Dein:e Kursleiter:in wird diesen Kurs nach der Überprüfung als abgeschlossen markieren",
     "unenroll": "Abmelden",
     "unenrollLoading": "aktualisieren.."
   },
   "landingPage": {
     "login": "Login",
     "search": "Entdecke unsere Kurse",
-    "startLearning": "Lernen beginnen"
+    "startLearning": "Jetzt starten"
   }
 }
