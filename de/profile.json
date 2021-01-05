@@ -50,7 +50,7 @@
   },
   "certificate": {
     "title": "Anmeldebebescheinigung",
-    "desc": "Brauchst du einen Nachweis, dass du ein Studierender bei {{orgDisplayName}} bist?",
+    "desc": "Brauchst du einen Nachweis, dass du Studierender bei {{orgDisplayName}} bist?",
     "downloadDesc": "Download der Anmeldebebescheinigung",
     "btnLabel": "Download hier",
     "downloadPlease": "Bitte",
