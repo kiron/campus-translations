@@ -225,6 +225,8 @@
     "participantsCount_plural": "{{0}} students in the unit",
     "course": "Course",
     "unit": "unit",
+    "notificationPopupTitle": "Build a learning habit",
+    "notificationPopupDescription": "Enable notifications to get reminders for your courses.",
     "hostedCourse": {
       "start": "Start unit",
       "finish": "Finish unit",
@@ -236,8 +238,14 @@
       "notFinished": "Click here if you haven't finished"
     },
     "continue": "Continue",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
     "continueIn": "Continue in {{0}}",
     "openIn": "Open course in {{0}}",
+    "learningOutcomesTitle": "You will learn to...",
+    "contentTitle": "Content in this unit",
+    "minutes": "{{0}} minute",
+    "minutes_plural": "{{0}} minutes",
     "messageBoard": {
       "description": "Communicate with other learners, introduce yourself and get to know your fellow students here.",
       "reportMessage": "If you see a message that does not belong here because it seems offensive, violent or like spam, please send an email to <1>student-support@kiron.ngo</1>."
@@ -250,8 +258,33 @@
       "popupDescription": "Please click on the image to see an example of a certificate in a new tab"
     },
     "live": {
+      "nextSession": "Next live session",
+      "joinSession": "Join session",
+      "allSessionsCompleted": "All of your live sessions are now completed.",
+      "markFinished": "Mark as finished",
+      "registerBefore": "Register before ",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "pressMarkFinished": "Press \"Mark as finished\" to complete this unit.",
+      "unregister": "Unregister",
+      "registered": "Registered",
+      "participantsCount": "You and {{0}} other",
+      "participantsCount_plural": "You and {{0}} others",
       "isExpired": "Registration is not possible anymore. New start dates will be published soon.",
-      "noSessions": "There are no live sessions coming up for this unit. Please check back soon."
+      "noSessions": "There are no live sessions coming up for this unit. Please check back soon.",
+      "selectSession": "Select a session to continue",
+      "signUp": "Sign up",
+      "localTimeZone": "All times shown are in your local timezone",
+      "openUntil": "Open until {{0}}",
+      "closed": "Closed",
+      "to": "to",
+      "attendConfirmationTitle": "Can you attend?",
+      "attendConfirmationDescription01": "By signing up to this live unit, you are committing to attend all of the appointments in your selected sessions.",
+      "attendConfirmationDescription02": " Places are limited, so if you cannot attend, please do not sign up. This will allow one of your fellow students to benefit from from this unit instead.",
+      "cancelConfirmationTitle": "Are you sure?",
+      "cancelConfirmationDescription01": "This would remove you from the list of participants in this live unit and you will not be able to access the next session",
+      "cancelConfirmationDescription02": "If the sessions have already begun, you will not be able to enrol again until the next run",
+      "liveSessionLinkReminder": "The link to your live session will be active here on that day."
     }
   },
   "landingPage": {
