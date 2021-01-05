@@ -3,9 +3,9 @@
     "imgSave": "Speichern",
     "imgDelete": "Löschen",
     "imgReplace": "Ersetzen",
-    "imgTitle": "Lade dein Profil-Fotoo hoch",
-    "imgInputLabel": "I stimme zu, dass mein Foto anderen Studierenden & Mitarbeitern gezeigt wird",
-    "imgUploadMsg": "Lade dein Profil-Fotoo hoch"
+    "imgTitle": "Lade dein Profil-Foto hoch",
+    "imgInputLabel": "Ich stimme zu, dass mein Foto anderen Studierenden & Mitarbeiter:innen gezeigt wird",
+    "imgUploadMsg": "Lade dein Profil-Foto hoch"
   },
   "editBox": {
     "cancel": "Abbruch",
@@ -17,7 +17,7 @@
   },
   "personalInfo": {
     "title": "Persönliche Informationen",
-    "popup": "Persönliche Informationen sind nützlich um unsere Studierende besser kennenzulernen und ihnen spezifische Dienstleistungen anzubieten, z.b. Lernorte für weibliche Studierende",
+    "popup": "Persönliche Informationen sind nützlich um unsere Studierenden besser kennenzulernen und ihnen spezifische Dienstleistungen anzubieten, z.b. Lernorte für weibliche Studierende",
     "nickname": "Nickname",
     "country": "Herkunftsland",
     "countryPlaceholder": "Wähle eine Nationalität",
