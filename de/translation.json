@@ -215,7 +215,77 @@
   "unitPage": {
     "completionInfo": "Dein:e Kursleiter:in wird diesen Kurs nach der Überprüfung als abgeschlossen markieren",
     "unenroll": "Abmelden",
-    "unenrollLoading": "aktualisieren.."
+    "unenrollLoading": "aktualisieren..",
+    "reviewCount": "{{0}} Überprüfung",
+    "reviewCount_plural": "{{0}} Überprüfungen",
+    "noReviews": "Bisher keine Überprüfungen",
+    "preventEnroll": "Diese Einheit is erst verfügbar, nachdem deine Dokumente hochgeladen und verifiziert wurden",
+    "updating": "Aktualisiere Einheit ...",
+    "participantsCount": "{{0}} Studierender in dieser Einheit",
+    "participantsCount_plural": "{{0}} Studierende in dieser Einheit",
+    "course": "Kurs",
+    "unit": "Einheit",
+    "notificationPopupTitle": "Entwickle eine Lerngewohnheit",
+    "notificationPopupDescription": "Aktiviere Benachrichtigungen, um Erinnerungen für deine Kurse zu erhalten.",
+    "hostedCourse": {
+      "start": "Starte Einheit",
+      "finish": "Beende Einheit",
+      "retake": "Wiederhole Einheit"
+    },
+    "regularMooc": {
+      "finished": "Abschließen",
+      "start": "Beginne in",
+      "notFinished": "Klicke hier wenn du noch nicht fertig bist"
+    },
+    "continue": "Weiter",
+    "confirm": "Bestätigen",
+    "cancel": "Abbruch",
+    "continueIn": "Weiter in {{0}}",
+    "openIn": "Aktiver Kurs in {{0}}",
+    "learningOutcomesTitle": "Du wirst lernen zu ...",
+    "contentTitle": "Inhalt dieser Einheit",
+    "minutes": "{{0}} Minute",
+    "minutes_plural": "{{0}} Minuten",
+    "messageBoard": {
+      "description": "Sprich mit anderen Lernenden, stell dich vor und lerne deine Mitstudierenden kennen.",
+      "reportMessage": "Wenn du eine Nachricht siehst, die nicht hierher gehört, weil sie beleidigend, gewalttätig oder wie Spam erscheint, sende bitte eine E-Mail an <1>student-support@kiron.ngo</1>."
+    },
+    "verification": {
+      "failed": "Verifizierung fehlgeschlagen - Versuche es noch einmal",
+      "pending": "Verifizierung ausstehend",
+      "uploadPrompt": "Zertifikat hochladen",
+      "popupTitle": "Zertifikat hochladen",
+      "popupDescription": "Klicke auf das Bild um ein Beispiel eines Zertifikats in einem neuen Tab zu öffnen"
+    },
+    "live": {
+      "nextSession": "Nächste Live Session",
+      "joinSession": "Session beitreten",
+      "allSessionsCompleted": "Alle deine Live Sessions sind nun abgeschlossen.",
+      "markFinished": "Als abgeschlossen markieren",
+      "registerBefore": "Registrier dich vor ",
+      "startDate": "Start-Datum",
+      "endDate": "End-Datum",
+      "pressMarkFinished": "Drücke \"Als abgeschlossen markieren\" um die Einheit abzuschließen.",
+      "unregister": "Abmelden",
+      "registered": "Angemeldet",
+      "participantsCount": "Du und {{0}} Andere:r",
+      "participantsCount_plural": "Du und {{0}} Andere",
+      "isExpired": "Eine Anmeldung ist nicht mehr möglich. Neue Starttermine werden in Kürze veröffentlicht.",
+      "noSessions": "Für diese Einheit sind keine Live-Sessions geplant. Bitte schaue bald wieder vorbei.",
+      "selectSession": "Wähle eine Sessions aus um fortzufahren",
+      "signUp": "Anmelden",
+      "localTimeZone": "Alle angezeigten Zeiten sind in deiner eigenen Zeitzone",
+      "openUntil": "Offen bis {{0}}",
+      "closed": "Geschlossen",
+      "to": "bis",
+      "attendConfirmationTitle": "Kannst du teilnehmen?",
+      "attendConfirmationDescription01": "Mit der Anmeldung zu dieser Live-Einheit verpflichtest du dich, an allen Terminen der von dir ausgewählten Session teilzunehmen.",
+      "attendConfirmationDescription02": " Die Plätze sind begrenzt, wenn du also nicht teilnehmen kannst, melde dich bitte nicht an. So kann einer deiner Mitstudierenden stattdessen von dieser Einheit profitieren.",
+      "cancelConfirmationTitle": "Bist du sicher?",
+      "cancelConfirmationDescription01": "Dadurch wirst du aus der Liste der Teilnehmer:innen an dieser Live-Einheit entfernt und kannst nicht an der nächste Session teilnehmen",
+      "cancelConfirmationDescription02": "Wenn die Sitzungen bereits begonnen haben, kannst du dich erst beim nächsten Lauf wieder anmelden",
+      "liveSessionLinkReminder": "Der Link zu deiner Live-Session wird an diesem Tag hier aktiv sein."
+    }
   },
   "landingPage": {
     "login": "Login",
