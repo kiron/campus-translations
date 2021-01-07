@@ -18,7 +18,7 @@
     "more": "And {{0}} more Live session",
     "more_plural": "And {{0}} more Live sessions",
     "today": "Today",
-    "startTime": "{{0}} at {{1}}"
+    "startTime": "{{- 0}} at {{1}}"
   },
   "weekdays": {
     "1": "Monday",

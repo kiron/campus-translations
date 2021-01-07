@@ -18,7 +18,7 @@
     "more": "y {{0}} más sesiones en línea",
     "more_plural": "y {{0}} más sesiones en línea",
     "today": "Hoy",
-    "startTime": "{{0}} a las {{1}}"
+    "startTime": "{{- 0}} a las {{1}}"
   },
   "weekdays": {
     "1": "Lunes",
