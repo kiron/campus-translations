@@ -284,7 +284,9 @@
       "cancelConfirmationTitle": "Bist du sicher?",
       "cancelConfirmationDescription01": "Dadurch wirst du aus der Liste der Teilnehmer:innen an dieser Live-Einheit entfernt und kannst nicht an der nächste Session teilnehmen",
       "cancelConfirmationDescription02": "Wenn die Sitzungen bereits begonnen haben, kannst du dich erst beim nächsten Lauf wieder anmelden",
-      "liveSessionLinkReminder": "Der Link zu deiner Live-Session wird an diesem Tag hier aktiv sein."
+      "liveSessionLinkReminder": "Der Link zu deiner Live-Session wird an diesem Tag hier aktiv sein.",
+      "appointmentFrequency": "Repeats every week until {{0}}",
+      "appointmentFrequency_plural": "Repeats every {{1}} weeks until {{0}}"
     }
   },
   "landingPage": {
