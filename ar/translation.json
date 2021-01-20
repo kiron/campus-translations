@@ -251,9 +251,9 @@
       "cancelConfirmationTitle": "Are you sure?",
       "cancelConfirmationDescription01": "This would remove you from the list of participants in this live unit and you will not be able to access the next session",
       "cancelConfirmationDescription02": "If the sessions have already begun, you will not be able to enrol again until the next run",
-      "liveSessionLinkReminder": "The link to your live session will be active here on that day.",
-      "appointmentFrequency": "Repeats every week until {{0}}",
-      "appointmentFrequency_plural": "Repeats every {{1}} weeks until {{0}}"
+      "liveSessionLinkReminder": "الرابط الخاص بالمساقات المباشرة سيكون فعالاً هنا في ذلك اليوم.",
+      "appointmentFrequency": "يكرّر أسبوعياً حتى تاريخ {{0}}",
+      "appointmentFrequency_plural": "يكرّر كل {{1}} أسابيع حتى {{0}}"
     }
   },
   "landingPage": {
