@@ -33,7 +33,8 @@
     },
     "registerConfirmed": {
       "title": "¡Casi terminado!",
-      "description": "Estamos preparando su cuenta..."
+      "description": "Estamos preparando su cuenta...",
+      "acceptTerms": "Accept terms of service"
     }
   },
   "explore": {

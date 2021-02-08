@@ -33,7 +33,8 @@
     },
     "registerConfirmed": {
       "title": "Neredeyse Bitti!",
-      "description": "Hesabını hazırlıyoruz..."
+      "description": "Hesabını hazırlıyoruz...",
+      "acceptTerms": "Accept terms of service"
     }
   },
   "explore": {
