@@ -249,7 +249,8 @@
     "minutes_plural": "{{0}} minutes",
     "messageBoard": {
       "description": "Communicate with other learners, introduce yourself and get to know your fellow students here.",
-      "reportMessage": "If you see a message that does not belong here because it seems offensive, violent or like spam, please send an email to <1>student-support@kiron.ngo</1>."
+      "reportMessage": "If you see a message that does not belong here because it seems offensive, violent or like spam, please send an email to <1>student-support@kiron.ngo</1>.",
+      "messageButton": "Message"
     },
     "verification": {
       "failed": "Verification failed - Try again",
