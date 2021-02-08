@@ -242,6 +242,7 @@
       "noSessions": "There are no live sessions coming up for this unit. Please check back soon.",
       "selectSession": "Select a session to continue",
       "signUp": "Sign up",
+      "showTimes": "Show times",
       "localTimeZone": "All times shown are in your local timezone",
       "openUntil": "Open until {{0}}",
       "closed": "Closed",

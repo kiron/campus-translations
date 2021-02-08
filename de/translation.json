@@ -276,6 +276,7 @@
       "noSessions": "Für diese Einheit sind keine Live-Sessions geplant. Bitte schaue bald wieder vorbei.",
       "selectSession": "Wähle eine Sessions aus um fortzufahren",
       "signUp": "Anmelden",
+      "showTimes": "Termine anzeigen",
       "localTimeZone": "Alle angezeigten Zeiten sind in deiner eigenen Zeitzone",
       "openUntil": "Offen bis {{0}}",
       "closed": "Geschlossen",
