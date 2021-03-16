@@ -298,15 +298,16 @@
     "startLearning": "Jetzt starten"
   },
   "lessonTest": {
-    "takeTest": "Take test",
-    "passHint": "Please pass the test in order to continue",
-    "answerHint": "Answer at least {{0}} questions correctly to pass the test.",
-    "questions": "questions",
-    "question": "Question",
-    "send": "Send",
-    "thankParticipation": "Thank you for participating",
-    "congrats": "Congratulations, you completed the lesson! You can retake the test or move on.",
-    "testAgain": "It seems you aren’t ready to advance yet, review this one and take the test again to advance.",
-    "retakeTest": "Retake test"
+    "takeTest": "Test beginnen",
+    "passHint": "Bestehe den Test um fortzufahren",
+    "answerHint": "Beantworte mindestens {{0}} richtig um zu bestehen. ",
+    "questions": "Fragen",
+    "question": "Frage",
+    "send": "Fertig",
+    "thankParticipation": "Vielen Dank für deine Teilnahme.",
+    "congrats": "Gratulation, du hast die Lektion abgeschlossen. Du kannst den Test noch einmal machen, oder fortfahren.",
+    "testAgain": "Bevor du fortfahren kannst, solltest du diese Fragen überprüfen und den Test noch einmal machen.",
+    "retakeTest": "Test wiederholen",
+    "sending": "Schicke Ergebnisse ..."
   }
 }

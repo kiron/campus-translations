@@ -298,15 +298,16 @@
     "startLearning": "Öğrenmeye başlayın"
   },
   "lessonTest": {
-    "takeTest": "Take test",
-    "passHint": "Please pass the test in order to continue",
-    "answerHint": "Answer at least {{0}} questions correctly to pass the test.",
-    "questions": "questions",
-    "question": "Question",
-    "send": "Send",
-    "thankParticipation": "Thank you for participating",
-    "congrats": "Congratulations, you completed the lesson! You can retake the test or move on.",
-    "testAgain": "It seems you aren’t ready to advance yet, review this one and take the test again to advance.",
-    "retakeTest": "Retake test"
+    "takeTest": "Testi yapın",
+    "passHint": "Devam etmek için lütfen testi geçin",
+    "answerHint": "Testi geçmek için en az ({0)) doğru bir şekilde cevaplayın",
+    "questions": "soruyu",
+    "question": "Soru ",
+    "send": "Gönderin",
+    "thankParticipation": "Katıldığınız için teşekkürler",
+    "congrats": "Tebrikler, dersi tamamladınız! Testi tekrar yapabilir veya devam edebilirsiniz",
+    "testAgain": "Görünen o ki ilerlemek için henüz hazır değilsiniz, bu konuyu tekrar gözden geçirin ve devam etmek için tekrar testi yapın. ",
+    "retakeTest": "Testi tekrar yapın",
+    "sending": "Sonuçlar gönderiliyor ..."
   }
 }

@@ -264,15 +264,16 @@
     "startLearning": "Start learning"
   },
   "lessonTest": {
-    "takeTest": "Take test",
-    "passHint": "Please pass the test in order to continue",
-    "answerHint": "Answer at least {{0}} questions correctly to pass the test.",
-    "questions": "questions",
-    "question": "Question",
-    "send": "Send",
-    "thankParticipation": "Thank you for participating",
-    "congrats": "Congratulations, you completed the lesson! You can retake the test or move on.",
-    "testAgain": "It seems you aren’t ready to advance yet, review this one and take the test again to advance.",
-    "retakeTest": "Retake test"
+    "takeTest": "تقدّم للاختبار مجدداَ",
+    "passHint": "يرجى التقدّم للاختبار لتتمكن من المتابعة",
+    "answerHint": "قم بالإجابة عمّا لا يقل عن {{0}} بشكل صحيح حتى تجتاز الاختبار",
+    "questions": "أسئلة",
+    "question": "سؤال",
+    "send": "أرسل",
+    "thankParticipation": "شكراً على المشاركة",
+    "congrats": "تهانينا، لقد أتممت الدرس! يمكنك إعادة الاختبار أو المتابعة",
+    "testAgain": "يبدو أنك غير مستعد للمتابعة بعد، قم بمراجعة هذا الدرس وتقدم للاختبار مجدداً حتى تجتاز هذه المرحلة ",
+    "retakeTest": "تقدّم للاختبار مجدداَ",
+    "sending": "جارٍ إرسال النتائج"
   }
 }
