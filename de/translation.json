@@ -296,5 +296,18 @@
     "login": "Login",
     "search": "Entdecke unsere Kurse",
     "startLearning": "Jetzt starten"
+  },
+  "lessonTest": {
+    "takeTest": "Test beginnen",
+    "passHint": "Bestehe den Test um fortzufahren",
+    "answerHint": "Beantworte mindestens {{0}} richtig um zu bestehen. ",
+    "questions": "Fragen",
+    "question": "Frage",
+    "send": "Fertig",
+    "thankParticipation": "Vielen Dank für deine Teilnahme.",
+    "congrats": "Gratulation, du hast die Lektion abgeschlossen. Du kannst den Test noch einmal machen, oder fortfahren.",
+    "testAgain": "Bevor du fortfahren kannst, solltest du diese Fragen überprüfen und den Test noch einmal machen.",
+    "retakeTest": "Test wiederholen",
+    "sending": "Schicke Ergebnisse ..."
   }
 }

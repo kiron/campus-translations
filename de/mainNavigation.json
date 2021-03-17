@@ -1,7 +1,7 @@
 {
-    "home": "Home",
-    "explore": "Explore",
-    "success": "Success",
+    "home": "Start",
+    "explore": "Entdecken",
+    "success": "Erfolge",
     "community": "Community",
     "news": "Neuigkeiten",
     "new": "Neu",
@@ -12,12 +12,13 @@
     "notifications": "Mitteilungen",
     "profile": "Profil",
     "preferences": "Einstellungen",
-    "offerBoard": "Offer Board",
-    "support": "SUPPORT",
-    "helpCenter": "Help Center",
+    "offerBoard": "Schwarzes Brett",
+    "support": "Hilfe",
+    "helpCenter": "häufig gestellte Fragen",
     "learners": "Lernende",
     "privacyPolicy": "Datenschutzrichtlinie",
     "logout": "Logout",
     "joinForFree": "Kostenlos anmelden",
     "subOrgConsent": "Da dieser Datenaustausch ein zentraler Bestandteil der Campus-Erfahrung ist, darfst du nicht ohne ihn fortfahren."
   }
+  
