@@ -12,6 +12,8 @@
   "updatesTitle": "{{orgDisplayName}} Campus está disponible en árabe, turco y español.",
   "updatesText": "Cambie sus preferencias de idioma en su página de Perfil.",
   "countrySpecificTitle": "Más en {{orgDisplayName}} Campus",
+  "mentoringTitle": "Mentoring",
+  "mentoringDesciption": "3 months online course with mentor",
   "referralShareText": "Únete a {{orgDisplayName}}",
   "referralCardTitle": "Compartir {{orgDisplayName}} con mis amigos",
   "referralCopy": "Copiar",
