@@ -12,6 +12,8 @@
   "updatesTitle": "منصة {{orgDisplayName}} متاحة الأن بكل من اللغة العربية والتركية ",
   "updatesText": "يمكنك تجربة ذلك عن طريق تغيير تفضيلات اللغة من صقحة ملفك الخاصة بك.",
   "countrySpecificTitle": "المزيد على المنصة",
+  "mentoringTitle": "إرشاد",
+  "mentoringDesciption": "دورة 3 أشهر عبر الإنترنت مع مرشد",
   "referralShareText": "انضم إليّ في {{orgDisplayName}}.",
   "referralCardTitle": "شارك {{orgDisplayName}} مع أصدقائك",
   "referralCopy": "نسخ",
