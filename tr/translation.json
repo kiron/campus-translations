@@ -307,6 +307,7 @@
     "thankParticipation": "Katıldığınız için teşekkürler",
     "congrats": "Tebrikler, dersi tamamladınız! Testi tekrar yapabilir veya devam edebilirsiniz",
     "testAgain": "Görünen o ki ilerlemek için henüz hazır değilsiniz, bu konuyu tekrar gözden geçirin ve devam etmek için tekrar testi yapın. ",
+    "testNonRetakeable": "Unfortunately, you did not reach the required score to pass this test. You can continue learning in the unit but you won't be able to mark it completed.",    
     "retakeTest": "Testi tekrar yapın",
     "sending": "Sonuçlar gönderiliyor ..."
   }

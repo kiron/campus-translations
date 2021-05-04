@@ -307,6 +307,7 @@
     "thankParticipation": "Thank you for participating",
     "congrats": "Congratulations, you completed the lesson! You can retake the test or move on.",
     "testAgain": "It seems you aren’t ready to advance yet, review this one and take the test again to advance.",
+    "testNonRetakeable": "Unfortunately, you did not reach the required score to pass this test. You can continue learning in the unit but you won't be able to mark it completed.",    
     "retakeTest": "Retake test",
     "sending": "Sending results ..."
   }

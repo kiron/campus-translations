@@ -307,6 +307,7 @@
     "thankParticipation": "TGracias por participar",
     "congrats": "¡Enhorabuena, ha completado la unidad! Puede repetir el test o seguir adelante.",
     "testAgain": "Parece que todavía no está listo para continuar. Por favor, revise el contenido y repita el test para continuar.",
+    "testNonRetakeable": "Unfortunately, you did not reach the required score to pass this test. You can continue learning in the unit but you won't be able to mark it completed.",    
     "retakeTest": "Repetir el test",
     "sending": "Enviando resultados..."
   }
