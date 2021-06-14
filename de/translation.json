@@ -307,8 +307,12 @@
     "thankParticipation": "Vielen Dank für deine Teilnahme.",
     "congrats": "Gratulation, du hast die Lektion abgeschlossen. Du kannst den Test noch einmal machen, oder fortfahren.",
     "testAgain": "Bevor du fortfahren kannst, solltest du diese Fragen überprüfen und den Test noch einmal machen.",
-    "testNonRetakeable": "Leider hast du nicht die erforderliche Punktzahl für diesen Test erreicht. Du kannst gerne in dieser Einheit weiterlernen, sie allerdings nicht abschließen.",    
+    "testNonRetakeable": "Leider hast du nicht die erforderliche Punktzahl für diesen Test erreicht. Du kannst gerne in dieser Einheit weiterlernen, sie allerdings nicht abschließen.",
     "retakeTest": "Test wiederholen",
     "sending": "Schicke Ergebnisse ..."
+  },
+  "attachmentItem": {
+    "download": "Download",
+    "delete": "Delete"
   }
 }

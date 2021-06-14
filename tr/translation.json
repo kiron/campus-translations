@@ -307,8 +307,12 @@
     "thankParticipation": "Katıldığınız için teşekkürler",
     "congrats": "Tebrikler, dersi tamamladınız! Testi tekrar yapabilir veya devam edebilirsiniz",
     "testAgain": "Görünen o ki ilerlemek için henüz hazır değilsiniz, bu konuyu tekrar gözden geçirin ve devam etmek için tekrar testi yapın. ",
-    "testNonRetakeable": "Bu testi geçmek için gereken puana ulaşamadınız maalesef. Bu ünite içerisinde öğrenmeye devam edebilirsiniz, ancak 'tamamlandı' olarak isaretleyemeyeceksiniz.",    
+    "testNonRetakeable": "Bu testi geçmek için gereken puana ulaşamadınız maalesef. Bu ünite içerisinde öğrenmeye devam edebilirsiniz, ancak 'tamamlandı' olarak isaretleyemeyeceksiniz.",
     "retakeTest": "Testi tekrar yapın",
     "sending": "Sonuçlar gönderiliyor ..."
+  },
+  "attachmentItem": {
+    "download": "Download",
+    "delete": "Delete"
   }
 }
