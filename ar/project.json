@@ -22,5 +22,9 @@
   "modalReject": "No, stay",
   "aboutTitle": "About",
   "preferences": "Preferences",
-  "since": "Since"
+  "since": "Since",
+  "chat": "Chat",
+  "whiteboard": "Whiteboard",
+  "video": "Video",
+  "doc": "Document"
 }
