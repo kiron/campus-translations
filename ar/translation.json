@@ -279,6 +279,8 @@
   },
   "attachmentItem": {
     "download": "Download",
-    "delete": "Delete"
+    "delete": "Delete",
+    "uploading": "Uploading file...",
+    "uploadingPleaseWait": "Please wait"
   }
 }
