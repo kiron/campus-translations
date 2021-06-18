@@ -280,6 +280,7 @@
   "attachmentItem": {
     "download": "Download",
     "delete": "Delete",
+    "deleting": "Deleting file...",
     "uploading": "Uploading file...",
     "uploadingPleaseWait": "Please wait"
   }
