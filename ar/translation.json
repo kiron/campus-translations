@@ -283,5 +283,9 @@
     "deleting": "Deleting file...",
     "uploading": "Uploading file...",
     "uploadingPleaseWait": "Please wait"
+  },
+  "certificate": {
+    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
+    "contactSupport": "Contact support"
   }
 }

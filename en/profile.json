@@ -55,7 +55,9 @@
     "btnLabel": "Download here",
     "downloadPlease": "Please",
     "clickHere": "click here",
-    "downloadLink": "to upload a status document in order to download certificate of enrollment."   
+    "downloadLink": "to upload a status document in order to download certificate of enrollment.",
+    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
+    "contactSupport": "Contact support"
   },
   "COEContainer": {
     "question": "What are you planning to use your certificate for in the next six months?",

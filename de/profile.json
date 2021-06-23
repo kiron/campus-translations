@@ -55,7 +55,9 @@
     "btnLabel": "Download hier",
     "downloadPlease": "Bitte",
     "clickHere": "klicke hier",
-    "downloadLink": "lade ein Status Dokument hoch um deine Anmeldebebescheinigung herunterzuladen."   
+    "downloadLink": "lade ein Status Dokument hoch um deine Anmeldebebescheinigung herunterzuladen.",
+    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
+    "contactSupport": "Contact support"
   },
   "COEContainer": {
     "question": "Wofür planst du dein Zertifikat in den nächsten sechs Monaten zu verwenden?",

@@ -55,7 +55,9 @@
     "btnLabel": "Buradan indir",
     "downloadPlease": "Lütfen",
     "clickHere": "Buraya tıkla",
-    "downloadLink": "kayıt sertifikasını indirmek amacıyla bir durum belgesi yüklemek için."   
+    "downloadLink": "kayıt sertifikasını indirmek amacıyla bir durum belgesi yüklemek için.",
+    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
+    "contactSupport": "Contact support"
   },
   "COEContainer": {
     "question": "Önümüzdeki altı ay içinde sertifikanı ne için kullanmayı planlıyorsun?",
