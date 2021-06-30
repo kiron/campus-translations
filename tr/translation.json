@@ -58,7 +58,8 @@
     },
     "skillBoosterPrograms": "Beceri Yükseltici Programlar",
     "courses": "Kurslar",
-    "recommended": "Tarafından önerildi"
+    "recommended": "Tarafından önerildi",
+    "theseSubOrganizations": "these suborganizations"
   },
   "success": {
     "introTitle": "Başarı Öykün!",

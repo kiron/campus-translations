@@ -58,7 +58,8 @@
     },
     "skillBoosterPrograms": "Skill Booster Programs",
     "courses": "Kurse",
-    "recommended": "Empfohlen von"
+    "recommended": "Empfohlen von",
+    "theseSubOrganizations": "these suborganizations"
   },
   "success": {
     "introTitle": "Deine Erfolgsgeschichte!",
