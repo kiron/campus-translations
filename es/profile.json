@@ -56,8 +56,8 @@
     "downloadPlease": "Por favor",
     "clickHere": "clique aquí",
     "downloadLink": "para subir un documento de situación para poder descargar su certificado de inscripción.",
-    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-    "contactSupport": "Contact support"
+    "noFirstAndLastNameProvided": "Por favor, escriba su nombre y apellidos para poder obtener su certificado.",
+    "contactSupport": "Pedir ayuda"
   },
   "COEContainer": {
     "question": "¿Para qué está pensando utilizar su certificado de inscripción en los próximos seis meses?",

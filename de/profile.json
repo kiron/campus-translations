@@ -56,8 +56,8 @@
     "downloadPlease": "Bitte",
     "clickHere": "klicke hier",
     "downloadLink": "lade ein Status Dokument hoch um deine Anmeldebebescheinigung herunterzuladen.",
-    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-    "contactSupport": "Contact support"
+    "noFirstAndLastNameProvided": "Du musst einen Vor- und Nachnamen angeben, damit du ein Zertifikat bekommen kannst.",
+    "contactSupport": "Support kontaktieren"
   },
   "COEContainer": {
     "question": "Wofür planst du dein Zertifikat in den nächsten sechs Monaten zu verwenden?",

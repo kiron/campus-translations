@@ -59,7 +59,7 @@
     "skillBoosterPrograms": "Skill Booster Programs",
     "courses": "Kurse",
     "recommended": "Empfohlen von",
-    "theseSubOrganizations": "these sub organizations"
+    "theseSubOrganizations": "diesen Unterorganisationen"
   },
   "success": {
     "introTitle": "Deine Erfolgsgeschichte!",
@@ -320,7 +320,7 @@
     "uploadingPleaseWait": "Please wait"
   },
   "certificate": {
-    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-    "contactSupport": "Contact support"
+    "noFirstAndLastNameProvided": "Du musst einen Vor- und Nachnamen angeben, damit du ein Zertifikat bekommen kannst.",
+    "contactSupport": "Support kontaktieren"
   }
 }

@@ -21,7 +21,7 @@
     "skillBoosterPrograms": "برامج تعزيز المهارت ",
     "courses": "مساقات ",
     "recommended": "أوصت به",
-    "theseSubOrganizations": "these sub organizations"
+    "theseSubOrganizations": "هذه المنظمات الفرعية"
   },
   "success": {
     "introTitle": "قصة نجاحك!",
@@ -286,7 +286,7 @@
     "uploadingPleaseWait": "Please wait"
   },
   "certificate": {
-    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-    "contactSupport": "Contact support"
+    "noFirstAndLastNameProvided": "تحتاج إلى تقديم اسمك الأول واسم العائلة للحصول على شهادة.",
+    "contactSupport": "الاتصال بالدعم"
   }
 }

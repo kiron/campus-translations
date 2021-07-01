@@ -56,8 +56,8 @@
     "downloadPlease": "رجاء",
     "clickHere": "انقر هنا",
     "downloadLink": "لتحميل وثيقة الثبوتية من أجل تحميل شهادة الالتحاق.",
-    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-    "contactSupport": "Contact support"
+    "noFirstAndLastNameProvided": "تحتاج إلى تقديم اسمك الأول واسم العائلة للحصول على شهادة.",
+    "contactSupport": "الاتصال بالدعم"
   },
   "COEContainer": {
     "question": "لاي غرض تخطط استخدام شهادتك في الأشهر الستة المقبلة؟",
