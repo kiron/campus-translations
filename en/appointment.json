@@ -2,5 +2,6 @@
   "slotsLeft": "{{slots}} slots left",
   "registerUntil": "register until {{deadline}}",
   "seeAllDates": "See all dates",
-  "registerButton": "Register"
+  "registerButton": "Register",
+  "registerNowButton": "Register Now"
 }
