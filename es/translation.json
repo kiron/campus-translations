@@ -321,5 +321,10 @@
   "certificate": {
     "noFirstAndLastNameProvided": "Por favor, escriba su nombre y apellidos para poder obtener su certificado.",
     "contactSupport": "Pedir ayuda"
+  },
+  "appointmentCardInfo": {
+    "repeats": "Repeats every",
+    "week": "week",
+    "weeks": "weeks"
   }
 }
