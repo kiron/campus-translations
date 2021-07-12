@@ -7,7 +7,6 @@
   "openCampusLink": "Explore the catalog before signing up",
   "initial": {
     "welcome": "Login",
-    "googleButton": "Continue with Google",
     "or": "or",
     "labelEmail": "Email",
     "helperTextEmail": "You can use 'Continue with Google' to login",
