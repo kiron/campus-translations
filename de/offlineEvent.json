@@ -22,9 +22,10 @@
   "eventDays": "Next event in",
   "locationTitle": "Location",
   "Location": "Offline",
+  "leaveTitle": "Are you sure you want to leave event?",
   "leaveInfo": "This action can't be undone. You won't be able to attend the event anymore.",
   "leaveNo": "No, stay",
-  "LeaveYes": "Yes, leave",
+  "leaveYes": "Yes, leave",
   "otherAppontments": "Other Appointments",
   "participants": "Participants",
   "participantsCount": "{number} students"
