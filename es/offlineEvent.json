@@ -28,5 +28,7 @@
   "leaveYes": "Quiero irme",
   "otherAppontments": "Otras citas",
   "participants": "Participantes",
-  "participantsCount": "{number} estudiantes"
+  "participantsCount": "{number} estudiantes",
+  "daysCount": "{{0}} días",
+  "happeningNow": "Happening now"
 }

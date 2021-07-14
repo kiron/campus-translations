@@ -28,5 +28,7 @@
   "leaveYes": "نعم، المغادرة",
   "otherAppontments": "مواعيد أخرى",
   "participants": "المشاركون",
-  "participantsCount": "{number} طلاب"
+  "participantsCount": "{number} طلاب",
+  "daysCount": "{{0}} أيام",
+  "happeningNow": "Happening now"
 }

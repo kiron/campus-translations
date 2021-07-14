@@ -28,5 +28,7 @@
   "leaveYes": "Ja, verlassen",
   "otherAppontments": "Andere Termine",
   "participants": "Teilnehmer",
-  "participantsCount": "{number} Studenten"
+  "participantsCount": "{number} Studenten",
+  "daysCount": "{{0}} Tage",
+  "happeningNow": "Happening now"
 }

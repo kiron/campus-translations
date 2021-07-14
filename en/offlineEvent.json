@@ -28,5 +28,7 @@
   "leaveYes": "Yes, leave",
   "otherAppontments": "Other Appointments",
   "participants": "Participants",
-  "participantsCount": "{number} students"
+  "participantsCount": "{number} students",
+  "daysCount": "{{0}} days",
+  "happeningNow": "Happening now"
 }
