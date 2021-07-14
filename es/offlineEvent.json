@@ -11,7 +11,7 @@
   "seeLess": "Ver menos",
   "availableAppointments": "Citas disponibles",
   "appointmentsInfo": "Todas las horas están en tu zona horaria",
-  "slotsLeft": "{number} plazas disponibles",
+  "slotsLeft": "plazas disponibles",
   "registerUntil": "Regístrese antes de {date}",
   "registerToday": "Última fecha de registro",
   "seeAllDates": "Ver todas las fechas",
