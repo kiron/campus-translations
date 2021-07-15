@@ -11,6 +11,7 @@
   "seeLess": "Weniger anzeigen",
   "availableAppointments": "Verfügbare Termine",
   "noAvailableAppointments": "There are no available appointments at the moment ",
+  "yourAppointments": "Deine Termine",
   "appointmentsInfo": "Alle Zeiten sind in deiner Zeitzone",
   "slotsLeft": "Freie Plätze",
   "registerUntil": "Anmelden bis zum {date}",

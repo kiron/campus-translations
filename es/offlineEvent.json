@@ -11,6 +11,7 @@
   "seeLess": "Ver menos",
   "availableAppointments": "Citas disponibles",
   "noAvailableAppointments": "There are no available appointments at the moment ",
+  "yourAppointments": "Your Appointments",
   "appointmentsInfo": "Todas las horas están en tu zona horaria",
   "slotsLeft": "plazas disponibles",
   "registerUntil": "Regístrese antes de {date}",

@@ -11,6 +11,7 @@
   "seeLess": "شاهد اقل ",
   "availableAppointments": "المواعيد المتاحة",
   "noAvailableAppointments": "There are no available appointments at the moment ",
+  "yourAppointments": "Your Appointments",
   "appointmentsInfo": "كل المواعيد متاحة حسب موقعك الجغرافي ",
   "slotsLeft": "مواعيد متاحة",
   "registerUntil": "قم بالتسجيل حتى {date}",
