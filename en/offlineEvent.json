@@ -22,6 +22,8 @@
   "currentWeek": "This week",
   "registerInfo": "You are successfully registered in this event ",
   "eventDays": "Next event in",
+  "eventDay": "Next event",
+  "today": "Today",
   "locationTitle": "Location",
   "Location": "Offline",
   "leaveTitle": "Are you sure you want to leave event?",
@@ -31,6 +33,7 @@
   "otherAppontments": "Other Appointments",
   "participants": "Participants",
   "participantsCount": "{number} students",
-  "daysCount": "{{0}} days",
+  "daysCount": "{{count}} day",
+  "daysCount_plural": "{{count}} days",
   "happeningNow": "Happening now"
 }
