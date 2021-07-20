@@ -35,5 +35,15 @@
     "shareText": "I have learned ",
     "shareTextEnd": " weeks in a row on {{orgDisplayName}}! ",
     "sharetextFull": "I have learned {{1}} weeks in a row on {{orgDisplayName}}!"
-  }
+  },
+  "mapSearch": "Search city",
+  "mapListHeadline": "Students in {{city}}",
+  "mapHeadline": "Meet students around you",
+  "mapSubTitle": "Study together with nearby students",
+  "studentCount": "{{0}} student",
+  "studentCount_plural": "{{0}} students",
+  "mapNoResultsInfo": "No students in this city yet",
+  "mapBackBtn": "Back to {{city}}",
+  "contactBtn": "Message {{name}}",
+  "since": "Since"
 }
