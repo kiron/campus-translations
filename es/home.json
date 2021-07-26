@@ -45,5 +45,6 @@
   "mapNoResultsInfo": "No students in this city yet",
   "mapBackBtn": "Back to {{city}}",
   "contactBtn": "Message {{name}}",
-  "since": "Desde"
+  "since": "Desde",
+  "loadMore": "Load more"
 }
