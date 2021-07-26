@@ -34,15 +34,15 @@
     "shareTextEnd": " أسابيع متتالية مع {{orgDisplayName}}!",
     "sharetextFull": "لقد تعلمت {{1}} أسابيع متتالية مع {{orgDisplayName}}!"
   },
-  "mapSearch": "Search city",
-  "mapListHeadline": "Students in {{city}}",
-  "mapHeadline": "Meet students around you",
-  "mapSubTitle": "Study together with nearby students",
+  "mapSearch": "ابحث عن المدينة",
+  "mapListHeadline": "الطلاب في {{city}}",
+  "mapHeadline": "قابل الطلاب بالقرب منك",
+  "mapSubTitle": "أدرس مع الطلاب القريبين منك",
   "studentCount": "{{0}} طالب",
   "studentCount_plural": "{{0}} طالبان",
-  "mapNoResultsInfo": "No students in this city yet",
-  "mapBackBtn": "Back to {{city}}",
-  "contactBtn": "Message {{name}}",
+  "mapNoResultsInfo": "لا يوجد طلاب في هذه المدينة حتى الآن",
+  "mapBackBtn": "العودة إلى {{city}}",
+  "contactBtn": "رسالة {{name}}",
   "since": "منذ",
-  "loadMore": "Load more"
+  "loadMore": "تحميل أكثر"
 }
