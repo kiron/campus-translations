@@ -63,7 +63,9 @@
       "shareLocation": "Before using the map we need your consent for sharing your location with other students.",
       "shareData": "Before using the map we need your consent for sharing your data with other students.",
       "locationHeader": "Location",
-      "locationCheckbox": "I am OK with sharing my location in the community map."
+      "locationCheckbox": "I am OK with sharing my location in the community map.",
+      "inputLabel": "Please share your city so you can be visible on the map",
+      "inputPlaceholder": "City"
     },
     "uploadPhoto": {
       "description": "Before you upload a profile photo, we need your consent to show it with other students in campus.",
