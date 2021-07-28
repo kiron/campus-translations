@@ -32,9 +32,9 @@
       "partnerOrgs": "Partner Organizations",
       "externalPlatforms": "External Platforms"
     },
-    "fullName": {
-      "header": "Full Name",
-      "checkbox": "Show full name instead of the nickname."
+    "displayedName": {
+      "header": "First Name",
+      "checkbox": "Show first name instead of the nickname."
     },
     "profilePhoto": {
       "header": "Profile Photo",
