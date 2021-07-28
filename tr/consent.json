@@ -1,0 +1,81 @@
+{
+  "extras": {
+    "preview": "Preview",
+    "step": "Step {{currentStep}}/{{totalSteps}}"
+  },
+  "headers": {
+    "yourPrivacy": "Your Privacy",
+    "privacyPolicy": "Learn more in our {{privacyPolicyLink}}.",
+    "adjustProfile": "Adjust how other students see your profile",
+    "communityHeader": "Join the Community",
+    "privacyPreferences": "Privacy preferences"
+  },
+  "buttons": {
+    "getStarted": "Get started",
+    "noThanks": "No, thanks",
+    "save": "Save",
+    "shareLocation": "Share location",
+    "managePreferences": "Manage preferences",
+    "cancel": "Cancel",
+    "joinCommunity": "Join community"
+  },
+  "toasters": {
+    "newSubOrgContent": "New content is added from {{subOrganizations}}. Have fun learning!",
+    "savedPreferences": "Your preferences are saved. You can always change them in Privacy Preferences.",
+    "partOfCommunity": "You are now part of the community. Have fun learning with other students!",
+    "partOfCommunityMap": "You are now part of the community map. Have fun learning with other students!"
+  },
+  "privacyPreferences": {
+    "tabs": {
+      "general": "General",
+      "profile": "Profile",
+      "partnerOrgs": "Partner Organizations",
+      "externalPlatforms": "External Platforms"
+    },
+    "fullName": {
+      "header": "Full Name",
+      "checkbox": "Show full name instead of the nickname."
+    },
+    "profilePhoto": {
+      "header": "Profile Photo",
+      "checkbox01": "Upload profile photo.",
+      "checkbox02": "Show uploaded profile photo instead of the default one."
+    },
+    "activity": {
+      "header": "Activity",
+      "checkbox": "Show started courses, joined projects and events."
+    },
+    "subOrg": {
+      "notificationHeader": "Hooray! You are part of {{subOrganizations}}.",
+      "notificationDescription": "Your consent is needed to activate their content.",
+      "description": "To access {{subOrganizations}} content, we need your consent to share your personal data with them.",
+      "checkbox": "I am OK with sharing my personal data with {{subOrganization}}",
+      "details": "I allow Kiron to share my personal data (full name, Kiron e-mail address, country of origin, gender, date of birth) with {{subOrganization}} for the purposes of accessing their content. My data will be stored by {{subOrganization}} on secure servers and only eligible {{subOrganization}} employees, which are required to comply with data protection regulations in writing, will be given access to them. I can always request a correction of this data and their deletion writing to student-support@kiron.ngo."
+    },
+    "directMessaging": {
+      "description": "Did you know that you can get contacted directly from campus spaces? Just a consent away.",
+      "header": "Direct Messaging (optional)",
+      "checkbox": "I am OK with being contacted by other students within campus.",
+      "details": "If you agree to the community code of conduct, a community profile will be created for you. You can access the community via the community tab in the top navigation."
+    },
+    "communityMap": {
+      "header": "Community Map Privacy",
+      "shareLocation": "Before using the map we need your consent for sharing your location with other students.",
+      "shareData": "Before using the map we need your consent for sharing your data with other students.",
+      "locationHeader": "Location",
+      "locationCheckbox": "I am OK with sharing my location in the community map."
+    },
+    "uploadPhoto": {
+      "description": "Before you upload a profile photo, we need your consent to show it with other students in campus.",
+      "header": "Profile Photo",
+      "checkbox": "I am OK with sharing my profile photo with other students within campus.",
+      "uploadText": "Drop your photo here or {{browse}}"
+    }
+  },
+  "codeOfConduct": {
+    "header": "Code of Conduct",
+    "description": "Before you join, please read our Code of Conduct below.",
+    "checkbox": "I agree to the community code of conduct.",
+    "details": "{{codeOfConduct}}"
+  }
+}
