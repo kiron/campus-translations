@@ -1,84 +1,85 @@
 {
   "extras": {
-    "preview": "Preview",
-    "step": "Step {{currentStep}}/{{totalSteps}}"
+    "preview": "Vorschau",
+    "step": "Schritt {{currentStep}}/{{totalSteps}}",
+    "memberSince": "Mitglied seit {{year}}"
   },
   "headers": {
-    "yourPrivacy": "Your Privacy",
-    "privacyPolicy": "Learn more in our {{privacyPolicyLink}}.",
-    "adjustProfile": "Adjust how other students see your profile",
-    "communityHeader": "Join the Community",
-    "privacyPreferences": "Privacy preferences",
-    "updatedPreferences": "Hello there {{studentName}}, we updated the privacy preferences"
+    "yourPrivacy": "Deine Privatsphäre",
+    "privacyPolicy": "Mehr Info in unserer {{privacyPolicyLink}}",
+    "adjustProfile": "Anpassen, wie andere Lernende dein Profil sehen",
+    "communityHeader": "Community beitreten",
+    "privacyPreferences": "Privatsphäre Einstellungen",
+    "updatedPreferences": "Hallo {{studentName}}, wir haben unsere Privatsphäre Einstellungen aktualisiert. "
   },
   "buttons": {
-    "getStarted": "Get started",
-    "noThanks": "No, thanks",
-    "save": "Save",
-    "shareLocation": "Share location",
-    "managePreferences": "Manage preferences",
-    "cancel": "Cancel",
-    "joinCommunity": "Join community"
+    "getStarted": "Los geht's",
+    "noThanks": "Nein, danke",
+    "save": "Speichern",
+    "shareLocation": "Ort teilen",
+    "managePreferences": "Einstellungen anpassen",
+    "cancel": "Abbrechen",
+    "joinCommunity": "Community beitreten"
   },
   "toasters": {
-    "newSubOrgContent": "New content is added from {{subOrganizations}}. Have fun learning!",
-    "savedPreferences": "Your preferences are saved. You can always change them in Privacy Preferences.",
-    "partOfCommunity": "You are now part of the community. Have fun learning with other students!",
-    "partOfCommunityMap": "You are now part of the community map. Have fun learning with other students!"
+    "newSubOrgContent": "Neue Inhalte von {{subOrganizations}} wurden hinzugefügt. Viel Spaß beim Lernen!",
+    "savedPreferences": "Deine Einstellungen wurden aktualisiert. Du kannst sie jederzeit ändern in den Privatsphäre Einstellungen.",
+    "partOfCommunity": "Du bist jetzt Teil unserer Community. Viel Spaß beim Lernen mit Anderen!",
+    "partOfCommunityMap": "Du bist jetzt Teil unserer Community Karte. Viel Spaß beim Lernen mit Anderen!"
   },
   "privacyPreferences": {
     "tabs": {
-      "general": "General",
-      "profile": "Profile",
-      "partnerOrgs": "Partner Organizations",
-      "externalPlatforms": "External Platforms"
+      "general": "Allgemeins",
+      "profile": "Profils",
+      "partnerOrgs": "Partnerorganisationens",
+      "externalPlatforms": "Externe Plattformens"
     },
     "displayedName": {
-      "header": "First Name",
-      "checkbox": "Show first name instead of the nickname."
+      "header": "Vorname",
+      "checkbox": "Vorname anstatt Nickname anzeigen"
     },
     "profilePhoto": {
-      "header": "Profile Photo",
-      "checkbox01": "Upload profile photo.",
-      "checkbox02": "Show uploaded profile photo instead of the default one."
+      "header": "Profilbild",
+      "checkbox01": "Profilbild hochladen",
+      "checkbox02": "Zeige hochgeladenes Profilbild anstelle des voreingestelltes Bildes."
     },
     "activity": {
-      "header": "Activity",
-      "checkbox": "Show started courses, joined projects and events."
+      "header": "Aktivität",
+      "checkbox": "Begonnene Kurse, angefangene Projekte und Veranstaltungen anzeigen."
     },
     "subOrg": {
-      "notificationHeader": "Hooray! You are part of {{subOrganizations}}.",
-      "notificationDescription": "Your consent is needed to activate their content.",
-      "description": "To access {{subOrganizations}} content, we need your consent to share your personal data with them.",
-      "checkbox": "I am OK with sharing my personal data with {{subOrganization}}",
-      "details": "I allow Kiron to share my personal data (full name, Kiron e-mail address, country of origin, gender, date of birth) with {{subOrganization}} for the purposes of accessing their content. My data will be stored by {{subOrganization}} on secure servers and only eligible {{subOrganization}} employees, which are required to comply with data protection regulations in writing, will be given access to them. I can always request a correction of this data and their deletion writing to student-support@kiron.ngo."
+      "notificationHeader": "Hurrah! Du bist nun Teil von {{subOrganizations}}",
+      "notificationDescription": "Um diese Inhalte anzuzeigen ist deine Zustimmung benötigt.",
+      "description": "Damit du die Inhalte von {{subOrganizations}} sehen kannst, brauchen wir deine Zustimmung, dass deine Daten mit dieser Organisation geteilt werden darf.",
+      "checkbox": "Ich stimme zu, dass meine persönlichen Daten mit {{subOrganizations}} geteilt werden dürfen.",
+      "details": "Ich erlaube Kiron, meine persönlichen Daten (Name, Kiron-Emailadresse, Herkunftsland, Geschlecht, Geburtsdatum) mit {{subOrganizations}} zu teilen, um Zugang zu deren Inhalten zu bekommen. Meine Daten werden von {{subOrganizations}} auf sicheren Servern gespeichert, und nur qualifizierte Mitarbeiter:innen von {{subOrganizations}} erhalten nach schriflticher Zustimmung zu den einschlägigen Datenschutzregelungen Zugang dazu. Ich kann jederzeit meine Daten korrigieren oder löschen lassen, per schriftlicher Anfrage an student-support@kiron.ngo."
     },
     "directMessaging": {
-      "description": "Did you know that you can get contacted directly from campus spaces? Just a consent away.",
-      "header": "Direct Messaging (optional)",
-      "checkbox": "I am OK with being contacted by other students within campus.",
-      "details": "If you agree to the community code of conduct, a community profile will be created for you. You can access the community via the community tab in the top navigation."
+      "description": "Wusstest du, dass du direkt über Kiron Campus kontaktiert werden kannst? Du musst nur deine Zustimmung dazu geben.s",
+      "header": "Persönliche Nachrichten (optional)",
+      "checkbox": "Ich stimme zu, dass andere Lernende mich über den Kiron Campus kontaktiren dürfen.",
+      "details": "Wenn du den Verhaltensregeln unserer Community zustimmst, dann wird für dich ein Community Profil angelegt. Du erreichst die Community über den Community Reiter in der Top-Navigation."
     },
     "communityMap": {
-      "header": "Community Map Privacy",
-      "shareLocation": "Before using the map we need your consent for sharing your location with other students.",
-      "shareData": "Before using the map we need your consent for sharing your data with other students.",
-      "locationHeader": "Location",
-      "locationCheckbox": "I am OK with sharing my location in the community map.",
-      "inputLabel": "Please share your city so you can be visible on the map",
-      "inputPlaceholder": "City"
+      "header": "Community Karte Privatsphäre",
+      "shareLocation": "Bevor du die Karte nutzen kannst, brauchen wir deine Zustimmung, dass dein Ort mit anderen Lernenden geteilt werden darf.",
+      "shareData": "Bevor du die Karte nutzen kannst, brauchen wir deine Zustimmung, dass deine Daten mit anderen Lernenden geteilt werden dürfen.",
+      "locationHeader": "Ort",
+      "locationCheckbox": "Ich stimme zu, dass mein Ort in der Community Karte geteilt wird.",
+      "inputLabel": "Bitte gib deine Stadt an, damit du auf der Karte auftauchst.",
+      "inputPlaceholder": "Stadt"
     },
     "uploadPhoto": {
-      "description": "Before you upload a profile photo, we need your consent to show it with other students in campus.",
-      "header": "Profile Photo",
-      "checkbox": "I am OK with sharing my profile photo with other students within campus.",
-      "uploadText": "Drop your photo here or {{browse}}"
+      "description": "Bevor du ein Foto hochlädst brauchen wir deine Zustimmung, dass das Foto anderen Lernenden im Kiron Campus gezeigt werden darf.",
+      "header": "Profilbild",
+      "checkbox": "Ich stimme zu, dass andere Lernende im Kiron Campus mein Profilfoto sehen können.",
+      "uploadText": "Füge hier dein Foto hinzu, oder {{browse}}"
     }
   },
   "codeOfConduct": {
-    "header": "Code of Conduct",
-    "description": "Before you join, please read our Code of Conduct below.",
-    "checkbox": "I agree to the community code of conduct.",
+    "header": "Verhaltensregeln",
+    "description": "Bevor es weitergeht, lies bitte unsere folgenden Verhaltensregeln.",
+    "checkbox": "Ich stimme den Community Verhaltensregeln zu.",
     "details": "{{codeOfConduct}}"
   }
 }
