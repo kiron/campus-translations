@@ -1,84 +1,85 @@
 {
   "extras": {
-    "preview": "Preview",
-    "step": "Step {{currentStep}}/{{totalSteps}}"
+    "preview": "معاينة",
+    "step": "خطوة {{currentStep}}/{{totalSteps}}",
+    "memberSince": "{{year}} عضو منذ"
   },
   "headers": {
-    "yourPrivacy": "Your Privacy",
-    "privacyPolicy": "Learn more in our {{privacyPolicyLink}}.",
-    "adjustProfile": "Adjust how other students see your profile",
-    "communityHeader": "Join the Community",
-    "privacyPreferences": "Privacy preferences",
-    "updatedPreferences": "Hello there {{studentName}}, we updated the privacy preferences"
+    "yourPrivacy": "خصوصيتك",
+    "privacyPolicy": ".{{privacyPolicyLink}} تعرف على المزيد في",
+    "adjustProfile": "تعديل كيف يرى الطلاب الآخرون ملفك الشخصي",
+    "communityHeader": "الانضمام إلى المجتمع",
+    "privacyPreferences": "تفضيلات الخصوصية",
+    "updatedPreferences": "قمنا بتحديث تفضيلات الخصوصية ،{{studentName}} مرحبًا"
   },
   "buttons": {
-    "getStarted": "Get started",
-    "noThanks": "No, thanks",
-    "save": "Save",
-    "shareLocation": "Share location",
-    "managePreferences": "Manage preferences",
-    "cancel": "Cancel",
-    "joinCommunity": "Join community"
+    "getStarted": "البدء",
+    "noThanks": "لا، شكرا",
+    "save": "حفظ",
+    "shareLocation": "مشاركة الموقع",
+    "managePreferences": "إدارة التفضيلات",
+    "cancel": "إلغاء",
+    "joinCommunity": "انضم إلى المجتمع"
   },
   "toasters": {
-    "newSubOrgContent": "New content is added from {{subOrganizations}}. Have fun learning!",
-    "savedPreferences": "Your preferences are saved. You can always change them in Privacy Preferences.",
-    "partOfCommunity": "You are now part of the community. Have fun learning with other students!",
-    "partOfCommunityMap": "You are now part of the community map. Have fun learning with other students!"
+    "newSubOrgContent": "!استمتع بالتعلم .{{subOrganizations}} تمت إضافة محتوى جديد من",
+    "savedPreferences": "تم حفظ تفضيلاتك. يمكنك دائمًا تغييرها في تفضيلات الخصوصية.",
+    "partOfCommunity": "!أنت الآن جزء من المجتمع. استمتع بالتعلم مع الطلاب الآخرين",
+    "partOfCommunityMap": "!أنت الآن جزء من خريطة المجتمع. استمتع بالتعلم مع الطلاب الآخرين"
   },
   "privacyPreferences": {
     "tabs": {
-      "general": "General",
-      "profile": "Profile",
-      "partnerOrgs": "Partner Organizations",
-      "externalPlatforms": "External Platforms"
+      "general": "عام",
+      "profile": "الملف الشخصي",
+      "partnerOrgs": "المنظمات الشريكة",
+      "externalPlatforms": "المنصات الخارجية"
     },
     "displayedName": {
-      "header": "First Name",
-      "checkbox": "Show first name instead of the nickname."
+      "header": "الاسم الأول",
+      "checkbox": ".إظهار الاسم الأول بدلاً من اللقب"
     },
     "profilePhoto": {
-      "header": "Profile Photo",
-      "checkbox01": "Upload profile photo.",
-      "checkbox02": "Show uploaded profile photo instead of the default one."
+      "header": "صورة الملف الشخصي",
+      "checkbox01": ".تحميل صورة الملف الشخصي",
+      "checkbox02": ".إظهار صورة الملف الشخصي التي تم تحميلها بدلاً من الصورة الافتراضية"
     },
     "activity": {
-      "header": "Activity",
-      "checkbox": "Show started courses, joined projects and events."
+      "header": "نشاط",
+      "checkbox": ".عرض الدورات التدريبية والمشاريع والأحداث المنضمة"
     },
     "subOrg": {
-      "notificationHeader": "Hooray! You are part of {{subOrganizations}}.",
-      "notificationDescription": "Your consent is needed to activate their content.",
-      "description": "To access {{subOrganizations}} content, we need your consent to share your personal data with them.",
-      "checkbox": "I am OK with sharing my personal data with {{subOrganization}}",
-      "details": "I allow Kiron to share my personal data (full name, Kiron e-mail address, country of origin, gender, date of birth) with {{subOrganization}} for the purposes of accessing their content. My data will be stored by {{subOrganization}} on secure servers and only eligible {{subOrganization}} employees, which are required to comply with data protection regulations in writing, will be given access to them. I can always request a correction of this data and their deletion writing to student-support@kiron.ngo."
+      "notificationHeader": ".{{subOrganizations}} رائع! أنت الأن جزء من",
+      "notificationDescription": ".نحتاج موافقتك لتفعيل المحتوى",
+      "description": ".نحتاج إلى موافقتك لمشاركة بياناتك الشخصية معهم،{{subOrganizations}} للوصول إلى محتوى",
+      "checkbox": "{{subOrganization}} أوافق على مشاركة بياناتي الشخصية مع",
+      "details": "لهدف الوصول إلى المحتوى الخاص بهم. سيتم تخزين بياناتي {{subOrganization}} أسمح لـكايرون بمشاركة بياناتي الشخصية (الاسم الكامل ، وعنوان البريد الإلكتروني لـكايرون ، وبلد المنشأ ، والجنس ، وتاريخ الميلاد) مع المؤهلين ، والمطلوبين للامتثال للوائح حماية البيانات كتابة. يمكنني دائمًا طلب تصحيح هذه البيانات وطلب {{subOrganization}} على خوادم آمنة ولن يتم منح حق الوصول إليها إلا لموظفي {{subOrganization}} بواسطة student-support@kiron.ngo حذفها عن طريق التواصل مع"
     },
     "directMessaging": {
-      "description": "Did you know that you can get contacted directly from campus spaces? Just a consent away.",
-      "header": "Direct Messaging (optional)",
+      "description": ".هل تعلم أنه يمكننا التواصل معك بشكل مباشر عبر المنصة في حال قمت بتفعيل الموافقة على ذلك",
+      "header": "الرسائل المباشرة (اختياري)",
       "checkbox": "I am OK with being contacted by other students within campus.",
-      "details": "If you agree to the community code of conduct, a community profile will be created for you. You can access the community via the community tab in the top navigation."
+      "details": ".إذا كنت توافق على إتفاقية السلوك للمجتمع ، فسيتم إنشاء ملف شخصي في مساحة المجتمع لك. يمكنك الوصول إلى مساحة المجتمع عبرعلامة التبويب للمجتمع في شريط التنقل العلوي"
     },
     "communityMap": {
-      "header": "Community Map Privacy",
-      "shareLocation": "Before using the map we need your consent for sharing your location with other students.",
-      "shareData": "Before using the map we need your consent for sharing your data with other students.",
-      "locationHeader": "Location",
-      "locationCheckbox": "I am OK with sharing my location in the community map.",
-      "inputLabel": "Please share your city so you can be visible on the map",
-      "inputPlaceholder": "City"
+      "header": "خريطة خصوصية المجتمع",
+      "shareLocation": ".قبل استخدام الخريطة ، نحتاج إلى موافقتك على مشاركة موقعك مع الطلاب الآخرين",
+      "shareData": ".قبل استخدام الخريطة ، نحتاج إلى موافقتك على مشاركة بياناتك مع الطلاب الآخرين",
+      "locationHeader": "الموقع",
+      "locationCheckbox": ".أنا موافق على مشاركة موقعي في خريطة المجتمع",
+      "inputLabel": "يرجى مشاركة مدينتك حتى تكون مرئيًا على الخريطة",
+      "inputPlaceholder": "المدينة"
     },
     "uploadPhoto": {
-      "description": "Before you upload a profile photo, we need your consent to show it with other students in campus.",
-      "header": "Profile Photo",
-      "checkbox": "I am OK with sharing my profile photo with other students within campus.",
-      "uploadText": "Drop your photo here or {{browse}}"
+      "description": ".قبل تحميل صورة الملف الشخصي ، نحتاج إلى موافقتك لمشاركتها مع الطلاب الآخرين في المنصة",
+      "header": "صورة الملف الشخصي",
+      "checkbox": ".أنا موافق على مشاركة صورة ملفي الشخصي مع طلاب آخرين داخل المنصة",
+      "uploadText": "{{browse}} حمل صورتك هنا أو"
     }
   },
   "codeOfConduct": {
-    "header": "Code of Conduct",
-    "description": "Before you join, please read our Code of Conduct below.",
-    "checkbox": "I agree to the community code of conduct.",
+    "header": "إتفاقية قواعد السلوك",
+    "description": ".قبل الانضمام ، يرجى قراءة إتفاقية قواعد السلوك الخاصة بنا أدناه",
+    "checkbox": ".أوافق على إتفاقية قواعد السلوك الخاصة بمساحة المجتمع",
     "details": "{{codeOfConduct}}"
   }
 }
