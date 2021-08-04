@@ -8,7 +8,8 @@
     "privacyPolicy": "Learn more in our {{privacyPolicyLink}}.",
     "adjustProfile": "Adjust how other students see your profile",
     "communityHeader": "Join the Community",
-    "privacyPreferences": "Privacy preferences"
+    "privacyPreferences": "Privacy preferences",
+    "updatedPreferences": "Hello there {{studentName}}, we updated the privacy preferences"
   },
   "buttons": {
     "getStarted": "Get started",
