@@ -19,7 +19,7 @@
   "label04": "Número de su celular",
   "label05": "Su fecha de nacimiento",
   "required": "* campos obligatorios",
-  "button": "Finalizar",
+  "button": "Continuar",
   "buttonLoading": "Preparando su perfil",
   "errorText": "este campo es obligatorio",
   "labelContactByWhatsapp": "¿Le podemos contactar por Whatsapp?",
