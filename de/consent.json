@@ -1,8 +1,7 @@
 {
   "extras": {
     "preview": "Vorschau",
-    "step": "Schritt {{currentStep}}/{{totalSteps}}",
-    "memberSince": "Mitglied seit {{year}}"
+    "step": "Schritt {{currentStep}}/{{totalSteps}}"
   },
   "headers": {
     "yourPrivacy": "Deine Privatsphäre",

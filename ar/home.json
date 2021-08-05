@@ -44,5 +44,6 @@
   "mapBackBtn": "العودة إلى {{city}}",
   "contactBtn": "رسالة {{name}}",
   "since": "منذ",
-  "loadMore": "تحميل أكثر"
+  "loadMore": "تحميل أكثر",
+  "memberSince": "{{year}} عضو منذ"
 }

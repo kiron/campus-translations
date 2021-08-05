@@ -1,8 +1,7 @@
 {
   "extras": {
     "preview": "معاينة",
-    "step": "خطوة {{currentStep}}/{{totalSteps}}",
-    "memberSince": "{{year}} عضو منذ"
+    "step": "خطوة {{currentStep}}/{{totalSteps}}"
   },
   "headers": {
     "yourPrivacy": "خصوصيتك",
