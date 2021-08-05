@@ -5,7 +5,7 @@
   },
   "headers": {
     "yourPrivacy": "Your Privacy",
-    "privacyPolicy": "Learn more in our {{privacyPolicyLink}}.",
+    "privacyPolicy": "Learn more in our <0>privacy policy</0>.",
     "adjustProfile": "Adjust how other students see your profile",
     "communityHeader": "Join the Community",
     "privacyPreferences": "Privacy preferences",

@@ -6,7 +6,7 @@
   },
   "headers": {
     "yourPrivacy": "خصوصيتك",
-    "privacyPolicy": ".{{privacyPolicyLink}} تعرف على المزيد في",
+    "privacyPolicy": "تعرف على المزيد في <0>سياسة الخصوصية</0>",
     "adjustProfile": "تعديل كيف يرى الطلاب الآخرون ملفك الشخصي",
     "communityHeader": "الانضمام إلى المجتمع",
     "privacyPreferences": "تفضيلات الخصوصية",
