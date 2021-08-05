@@ -73,7 +73,7 @@
       "description": "Bevor du ein Foto hochlädst brauchen wir deine Zustimmung, dass das Foto anderen Lernenden im Kiron Campus gezeigt werden darf.",
       "header": "Profilbild",
       "checkbox": "Ich stimme zu, dass andere Lernende im Kiron Campus mein Profilfoto sehen können.",
-      "uploadText": "Füge hier dein Foto hinzu, oder {{browse}}"
+      "uploadText": "Füge hier dein Foto hinzu, oder auf dem Computer suchen"
     }
   },
   "codeOfConduct": {

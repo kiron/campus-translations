@@ -73,7 +73,7 @@
       "description": "Antes de añadir su fotografía de perfil, necesitamos que nos de su consentimiento para mostrarla a otros estudiantes del campus ",
       "header": "Foto de perfil ",
       "checkbox": "Estoy de acuerdo en compartir mi foto de perfil con otros estudiantes del campus ",
-      "uploadText": "Arrastrar foto aquí o {{browse}}",
+      "uploadText": "Arrastrar foto aquí o buscar en la computadora",
       "browse": "buscar en la computadora"
     }
   },

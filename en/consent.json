@@ -73,7 +73,7 @@
       "description": "Before you upload a profile photo, we need your consent to show it with other students in campus.",
       "header": "Profile Photo",
       "checkbox": "I am OK with sharing my profile photo with other students within campus.",
-      "uploadText": "Drop your photo here or {{browse}}"
+      "uploadText": "Drop your photo here or browse"
     }
   },
   "codeOfConduct": {
