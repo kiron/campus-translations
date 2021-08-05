@@ -47,5 +47,6 @@
   "contactBtn": "Message {{name}}",
   "since": "Since",
   "loadMore": "Load more",
-  "memberSince": "Member since {{year}}"
+  "memberSince": "Member since {{year}}",
+  "more": "more"
 }

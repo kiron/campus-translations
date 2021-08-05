@@ -45,5 +45,6 @@
   "contactBtn": "Schreibe {{name}} eine Nachricht",
   "since": "Seit",
   "loadMore": "Mehr laden",
-  "memberSince": "Mitglied seit {{year}}"
+  "memberSince": "Mitglied seit {{year}}",
+  "more": "mehr"
 }
