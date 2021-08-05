@@ -46,5 +46,7 @@
   "mapBackBtn": "Back to {{city}}",
   "contactBtn": "Message {{name}}",
   "since": "Since",
-  "loadMore": "Load more"
+  "loadMore": "Load more",
+  "memberSince": "Member since {{year}}",
+  "more": "more"
 }

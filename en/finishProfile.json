@@ -19,7 +19,7 @@
   "label04": "Your phone number",
   "label05": "Enter your date of birth",
   "required": "* required field",
-  "button": "Finish",
+  "button": "Continue",
   "buttonLoading": "Preparing your Profile",
   "errorText": "This field is required",
   "labelContactByWhatsapp": "Would you like us to contact you via Whatsapp?",

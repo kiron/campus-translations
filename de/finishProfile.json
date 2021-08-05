@@ -19,7 +19,7 @@
   "label04": "Deine Telefonnummer",
   "label05": "Gib dein Geburtsdatum an",
   "required": "* Pflichtfeld",
-  "button": "Fertig",
+  "button": "Weiter",
   "buttonLoading": "Dein Profil wird vorbereitet",
   "errorText": "Dies ist ein Pflichtfeld",
   "labelContactByWhatsapp": "Möchtest du, dass wir dich per Whatsapp kontaktieren dürfen?",

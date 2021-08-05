@@ -1,0 +1,84 @@
+{
+  "extras": {
+    "preview": "Vorschau",
+    "step": "Schritt {{currentStep}}/{{totalSteps}}"
+  },
+  "headers": {
+    "yourPrivacy": "Deine Privatsphäre",
+    "privacyPolicy": "Mehr Info in unserer <0>Datenschutzrichtlinien</0>",
+    "adjustProfile": "Anpassen, wie andere Lernende dein Profil sehen",
+    "communityHeader": "Community beitreten",
+    "privacyPreferences": "Privatsphäre Einstellungen",
+    "updatedPreferences": "Hallo {{studentName}}, wir haben unsere Privatsphäre Einstellungen aktualisiert. "
+  },
+  "buttons": {
+    "getStarted": "Los geht's",
+    "noThanks": "Nein, danke",
+    "save": "Speichern",
+    "shareLocation": "Ort teilen",
+    "managePreferences": "Einstellungen anpassen",
+    "cancel": "Abbrechen",
+    "joinCommunity": "Community beitreten"
+  },
+  "toasters": {
+    "newSubOrgContent": "Neue Inhalte von {{subOrganizations}} wurden hinzugefügt. Viel Spaß beim Lernen!",
+    "savedPreferences": "Deine Einstellungen wurden aktualisiert. Du kannst sie jederzeit ändern in den Privatsphäre Einstellungen.",
+    "partOfCommunity": "Du bist jetzt Teil unserer Community. Viel Spaß beim Lernen mit Anderen!",
+    "partOfCommunityMap": "Du bist jetzt Teil unserer Community Karte. Viel Spaß beim Lernen mit Anderen!"
+  },
+  "privacyPreferences": {
+    "tabs": {
+      "general": "Allgemeins",
+      "profile": "Profils",
+      "partnerOrgs": "Partnerorganisationens",
+      "externalPlatforms": "Externe Plattformens"
+    },
+    "displayedName": {
+      "header": "Vorname",
+      "checkbox": "Vorname anstatt Nickname anzeigen"
+    },
+    "profilePhoto": {
+      "header": "Profilbild",
+      "checkbox01": "Profilbild hochladen",
+      "checkbox02": "Zeige hochgeladenes Profilbild anstelle des voreingestelltes Bildes."
+    },
+    "activity": {
+      "header": "Aktivität",
+      "checkbox": "Begonnene Kurse, angefangene Projekte und Veranstaltungen anzeigen."
+    },
+    "subOrg": {
+      "notificationHeader": "Hurrah! Du bist nun Teil von {{subOrganizations}}",
+      "notificationDescription": "Um diese Inhalte anzuzeigen ist deine Zustimmung benötigt.",
+      "description": "Damit du die Inhalte von {{subOrganizations}} sehen kannst, brauchen wir deine Zustimmung, dass deine Daten mit dieser Organisation geteilt werden darf.",
+      "checkbox": "Ich stimme zu, dass meine persönlichen Daten mit {{subOrganizations}} geteilt werden dürfen.",
+      "details": "Ich erlaube Kiron, meine persönlichen Daten (Name, Kiron-Emailadresse, Herkunftsland, Geschlecht, Geburtsdatum) mit {{subOrganizations}} zu teilen, um Zugang zu deren Inhalten zu bekommen. Meine Daten werden von {{subOrganizations}} auf sicheren Servern gespeichert, und nur qualifizierte Mitarbeiter:innen von {{subOrganizations}} erhalten nach schriflticher Zustimmung zu den einschlägigen Datenschutzregelungen Zugang dazu. Ich kann jederzeit meine Daten korrigieren oder löschen lassen, per schriftlicher Anfrage an student-support@kiron.ngo."
+    },
+    "directMessaging": {
+      "description": "Wusstest du, dass du direkt über Kiron Campus kontaktiert werden kannst? Du musst nur deine Zustimmung dazu geben.s",
+      "header": "Persönliche Nachrichten (optional)",
+      "checkbox": "Ich stimme zu, dass andere Lernende mich über den Kiron Campus kontaktiren dürfen.",
+      "details": "Wenn du den Verhaltensregeln unserer Community zustimmst, dann wird für dich ein Community Profil angelegt. Du erreichst die Community über den Community Reiter in der Top-Navigation."
+    },
+    "communityMap": {
+      "header": "Community Karte Privatsphäre",
+      "shareLocation": "Bevor du die Karte nutzen kannst, brauchen wir deine Zustimmung, dass dein Ort mit anderen Lernenden geteilt werden darf.",
+      "shareData": "Bevor du die Karte nutzen kannst, brauchen wir deine Zustimmung, dass deine Daten mit anderen Lernenden geteilt werden dürfen.",
+      "locationHeader": "Ort",
+      "locationCheckbox": "Ich stimme zu, dass mein Ort in der Community Karte geteilt wird.",
+      "inputLabel": "Bitte gib deine Stadt an, damit du auf der Karte auftauchst.",
+      "inputPlaceholder": "Stadt"
+    },
+    "uploadPhoto": {
+      "description": "Bevor du ein Foto hochlädst brauchen wir deine Zustimmung, dass das Foto anderen Lernenden im Kiron Campus gezeigt werden darf.",
+      "header": "Profilbild",
+      "checkbox": "Ich stimme zu, dass andere Lernende im Kiron Campus mein Profilfoto sehen können.",
+      "uploadText": "Füge hier dein Foto hinzu, oder auf dem Computer suchen"
+    }
+  },
+  "codeOfConduct": {
+    "header": "Verhaltensregeln",
+    "description": "Bevor es weitergeht, lies bitte unsere folgenden Verhaltensregeln.",
+    "checkbox": "Ich stimme den Community Verhaltensregeln zu.",
+    "details": "{{codeOfConduct}}"
+  }
+}
