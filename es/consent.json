@@ -18,7 +18,8 @@
     "shareLocation": "Compartir ubicación",
     "managePreferences": "Gestionar mis preferencias",
     "cancel": "Cancelar",
-    "joinCommunity": "Unirse a la Comunidad"
+    "joinCommunity": "Unirse a la Comunidad",
+    "readMore": "Leer más"
   },
   "toasters": {
     "newSubOrgContent": "Se ha añadido nuevo contenido de {{subOrganizations}}. ¡Disfrute aprendiendo!",

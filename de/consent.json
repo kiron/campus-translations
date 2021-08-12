@@ -18,7 +18,9 @@
     "shareLocation": "Ort teilen",
     "managePreferences": "Einstellungen anpassen",
     "cancel": "Abbrechen",
-    "joinCommunity": "Community beitreten"
+    "joinCommunity": "Community beitreten",
+    "readMore": "Mehr lesen",
+    "close": "Schließen"
   },
   "toasters": {
     "newSubOrgContent": "Neue Inhalte von {{subOrganizations}} wurden hinzugefügt. Viel Spaß beim Lernen!",

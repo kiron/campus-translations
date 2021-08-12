@@ -18,7 +18,9 @@
     "shareLocation": "Share location",
     "managePreferences": "Manage preferences",
     "cancel": "Cancel",
-    "joinCommunity": "Join community"
+    "joinCommunity": "Join community",
+    "readMore": "Read more",
+    "close": "Close"
   },
   "toasters": {
     "newSubOrgContent": "New content is added from {{subOrganizations}}. Have fun learning!",

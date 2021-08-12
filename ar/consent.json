@@ -18,7 +18,9 @@
     "shareLocation": "مشاركة الموقع",
     "managePreferences": "إدارة التفضيلات",
     "cancel": "إلغاء",
-    "joinCommunity": "انضم إلى المجتمع"
+    "joinCommunity": "انضم إلى المجتمع",
+    "readMore": "قراءة المزيد",
+    "close": "إغلاق"
   },
   "toasters": {
     "newSubOrgContent": "!استمتع بالتعلم .{{subOrganizations}} تمت إضافة محتوى جديد من",
