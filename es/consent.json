@@ -19,7 +19,8 @@
     "managePreferences": "Gestionar mis preferencias",
     "cancel": "Cancelar",
     "joinCommunity": "Unirse a la Comunidad",
-    "readMore": "Leer más"
+    "readMore": "Leer más",
+    "close": "Cerrar"
   },
   "toasters": {
     "newSubOrgContent": "Se ha añadido nuevo contenido de {{subOrganizations}}. ¡Disfrute aprendiendo!",
