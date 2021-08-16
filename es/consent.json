@@ -37,7 +37,8 @@
     },
     "displayedName": {
       "header": "Nombre",
-      "checkbox": "Mostrar su nombre en lugar del apodo"
+      "checkbox": "Mostrar su nombre en lugar del apodo",
+      "errorInput": "Nickname should only contain letters, numbers, spaces and dashes"
     },
     "profilePhoto": {
       "header": "Foto de perfil",

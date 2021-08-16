@@ -37,7 +37,8 @@
     },
     "displayedName": {
       "header": "الاسم الأول",
-      "checkbox": ".إظهار الاسم الأول بدلاً من اللقب"
+      "checkbox": ".إظهار الاسم الأول بدلاً من اللقب",
+      "errorInput": "Nickname should only contain letters, numbers, spaces and dashes"
     },
     "profilePhoto": {
       "header": "صورة الملف الشخصي",
