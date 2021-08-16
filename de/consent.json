@@ -38,7 +38,7 @@
     "displayedName": {
       "header": "Vorname",
       "checkbox": "Vorname anstatt Nickname anzeigen",
-      "errorInput": "Nickname should only contain letters, numbers, spaces and dashes"
+      "errorInput": "Dein Nickname sollte nur Buchstaben, Zahlen, Leerzeichen oder Bindestriche enthalten"
     },
     "profilePhoto": {
       "header": "Profilbild",

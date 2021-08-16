@@ -38,7 +38,7 @@
     "displayedName": {
       "header": "Nombre",
       "checkbox": "Mostrar su nombre en lugar del apodo",
-      "errorInput": "Nickname should only contain letters, numbers, spaces and dashes"
+      "errorInput": "El alias solo puede contener letras, números, espacios y guiones"
     },
     "profilePhoto": {
       "header": "Foto de perfil",
