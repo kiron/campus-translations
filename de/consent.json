@@ -37,7 +37,8 @@
     },
     "displayedName": {
       "header": "Vorname",
-      "checkbox": "Vorname anstatt Nickname anzeigen"
+      "checkbox": "Vorname anstatt Nickname anzeigen",
+      "errorInput": "Dein Nickname sollte nur Buchstaben, Zahlen, Leerzeichen oder Bindestriche enthalten"
     },
     "profilePhoto": {
       "header": "Profilbild",

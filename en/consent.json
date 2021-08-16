@@ -37,7 +37,8 @@
     },
     "displayedName": {
       "header": "First Name",
-      "checkbox": "Show first name instead of the nickname."
+      "checkbox": "Show first name instead of the nickname.",
+      "errorInput": "Nickname should only contain letters, numbers, spaces and dashes"
     },
     "profilePhoto": {
       "header": "Profile Photo",
