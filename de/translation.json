@@ -7,7 +7,7 @@
       "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unseren",
       "termsLink": "Datenschutzbestimmungen/Nutzungsbedingungen",
       "alreadyUserTitle": "Besitzt du bereits ein Account?",
-      "alreadyUserLink": "Login",
+      "alreadyUserLink": "Einloggen",
       "or": "oder"
     },
     "registerWithEmail": {
@@ -15,7 +15,7 @@
       "labelPassword": "Dein Passwort",
       "buttonRegister": "Registrieren",
       "alreadyUserTitle": "Besitzt du bereits ein Account?",
-      "alreadyUserLink": "Login",
+      "alreadyUserLink": "Einloggen",
       "errorEmail": "Muss eine gültige E-Mail-Adresse sein und darf keine Leerzeichen enthalten",
       "errorKironEmail": "Bitte nutze 'Weiter mit Google' zum Einloggen",
       "errorEmailTaken": "Diese E-Mail ist bereits vergeben",
