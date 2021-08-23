@@ -1,0 +1,48 @@
+{
+  "privacy": "سیاست حفظ حریم خصوصی",
+  "terms": "شرایط استفاده از خدمات",
+  "meta": "Kiron Open Higher Education gGmbH",
+  "pleaseWait": "لطفا صبر کنید...",
+  "language": "زبان",
+  "openCampusLink": "قبل از ثبت نام کاتالوگ را بررسی کنید",
+  "initial": {
+    "welcome": "وارد شدن",
+    "or": "یا",
+    "labelEmail": "پست الکترونیک",
+    "helperTextEmail": "برای ورود می توانید از (Continue with Google) استفاده کنید",
+    "labelPassword": "رمزتون",
+    "errorEmail": "می بایست یک ایمیل ادرس معتبر باشد",
+    "errorKironEmail": "لطفاً برای ورود به سیستم از (ادامه با Google) استفاده کنید",
+    "buttonLogin": "وارد شدن",
+    "forgotPassword": "رمز عبور خود را فراموش کرده اید؟",
+    "createAccountTitle": "هنوز حسابی ندارید؟",
+    "createAccountLink": "ثبت نام",
+    "passwordReset": "به زودی ایمیلی در صندوق ورودی شخصی خود با رمز عبور جدید برای حساب Google Kiron خود دریافت خواهید کرد.",
+    "sessionTerminated": "You're logged out.",
+    "wrongGoogleAccount": "شما از حساب Google اشتباه برای دسترسی به محوطه دانشگاه استفاده کرده اید. لطفاً مطمئن شوید که در مرحله بعد حساب '@students.kiron.ngo' خود را انتخاب کرده اید!",
+    "logout": "شما از سیستم خارج شده اید",
+    "loginFailed": "ورود ناموفق بود ، لطفاً دوباره امتحان کنید.",
+    "loginRequired": "برای مشاهده این صفحه باید وارد شوید"
+  },
+  "forgotPassword": {
+    "title": "آدرس ایمیلی را که برای ثبت نام استفاده کرده اید وارد کنید",
+    "label": "پست الکترونیک",
+    "button": "پیوند بازنشانی را برای من ارسال کنید",
+    "statusMessagePending": "ارسال درخواست شما ...",
+    "statusMessageError": "بازنشانی گذرواژه شما کار نکرد لطفا دوباره تلاش کنید.",
+    "rememberPasswordLink": "بازگشت به صفحه ورود",
+    "emailSent": {
+      "title": "تقریبا تمام شد!",
+      "description": "ایمیلتان را چک کنید. اگر آدرس ایمیل شما در ما ثبت شده است ، پیوندی برای بازنشانی رمز عبور برای شما ارسال می کنیم.",
+      "asideTitle": "چیزی نگرفتید؟",
+      "asideLink": "آدرس ایمیل دیگری را امتحان کنید."
+    }
+  },
+  "resetPassword": {
+    "title": "ایجاد گذرواژه جدید",
+    "label": "رمز عبور جدید",
+    "submit": "ارسال",
+    "passwordChangedTitle": "رمز عبور تغییر کرد!",
+    "login": "وارد شدن"
+  }
+}
