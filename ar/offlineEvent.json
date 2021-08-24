@@ -34,5 +34,9 @@
   "participantsCount": "{number} طلاب",
   "daysCount": "{{0}} أيام",
   "daysCount_plural": "{{0}} أيام ",
-  "happeningNow": "يحدث الآن"
+  "happeningNow": "يحدث الآن",
+  "card": {
+    "offline": "Offline",
+    "type": "Event" 
+  }
 }

@@ -36,5 +36,9 @@
   "participantsCount": "{{number}} زده کونکي",
   "daysCount": "{{count}} ورځ",
   "daysCount_plural": "{{count}} ورځې",
-  "happeningNow": "اوس پیښیږي"
+  "happeningNow": "اوس پیښیږي",
+  "card": {
+    "offline": "Offline",
+    "type": "Event" 
+  }
 }

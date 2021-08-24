@@ -36,5 +36,9 @@
   "participantsCount": "{number} students",
   "daysCount": "{{count}} day",
   "daysCount_plural": "{{count}} days",
-  "happeningNow": "Happening now"
+  "happeningNow": "Happening now",
+  "card": {
+    "offline": "Offline",
+    "type": "Event" 
+  }
 }

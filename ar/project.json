@@ -28,5 +28,9 @@
   "chat": "محادثة",
   "whiteboard": "اللوح الأبيض",
   "video": "فيديو",
-  "document": "وثيقة"
+  "document": "وثيقة",
+  "card": {
+    "collaborative": "Collaborative",
+    "type": "Project" 
+  }
 }

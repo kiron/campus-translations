@@ -33,5 +33,9 @@
   "participants": "Teilnehmer",
   "participantsCount": "{number} Studenten",
   "daysCount": "{{0}} Tage",
-  "happeningNow": "Findet gerade statt"
+  "happeningNow": "Findet gerade statt",
+  "card": {
+    "offline": "Offline",
+    "type": "Veranstaltung" 
+  }
 }

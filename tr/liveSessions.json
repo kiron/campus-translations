@@ -28,5 +28,9 @@
     "5": "Cuma",
     "6": "Cumartesi",
     "7": "Pazar"
+  },
+  "card": {
+    "online": "Çevrimiçi",
+    "type": "Etkinlik" 
   }
 }

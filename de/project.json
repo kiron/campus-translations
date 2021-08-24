@@ -28,5 +28,9 @@
   "chat": "Chat",
   "whiteboard": "Whiteboard",
   "video": "Video",
-  "document": "Dokument"
+  "document": "Dokument",
+  "card": {
+    "collaborative": "Kollaborativ",
+    "type": "Projekt" 
+  }
 }

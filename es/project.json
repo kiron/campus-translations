@@ -28,5 +28,9 @@
   "chat": "Chat",
   "whiteboard": "Pizarra",
   "video": "Video",
-  "document": "Documento"
+  "document": "Documento",
+  "card": {
+    "collaborative": "Colaboración",
+    "type": "Proyecto" 
+  }
 }

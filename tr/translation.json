@@ -187,7 +187,9 @@
     "feedbackDislike": "Hangi kısmı beğenmedin?",
     "feedbackNext": "Sonraki",
     "feedbackLoading": "Ders yükleniyor",
-    "enrollCourseLimitText": "Üzgünüz, en fazla {{0}} tane kursa kaydolabilirsiniz. "
+    "enrollCourseLimitText": "Üzgünüz, en fazla {{0}} tane kursa kaydolabilirsiniz. ",
+    "type": "Program",
+    "selfPaced": "Kendi hızınızda"
   },
   "unitCard": {
     "liveUnit": "Canlı Ünite",
@@ -200,7 +202,9 @@
     "courseProvider": "<1>{{1}}</1> tarafından sağlanmıştır",
     "hoursAbbreviation": "hrs.",
     "weeksAbbreviation": "Hafta",
-    "multiplier": "x"
+    "multiplier": "x",
+    "type": "Kurs",
+    "selfPaced": "Kendi hızınızda"
   },
   "courseraProgress": {
     "title": "Coursera durumu",
