@@ -204,7 +204,8 @@
     "weeksAbbreviation": "w",
     "multiplier": "x",
     "type": "Course",
-    "selfPaced": "Self-paced"
+    "selfPaced": "Self-paced",
+    "inProgress": "In progress"
   },
   "courseraProgress": {
     "title": "Coursera Progress",

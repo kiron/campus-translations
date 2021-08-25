@@ -204,7 +204,8 @@
     "weeksAbbreviation": "هفته ها",
     "multiplier": "x",
     "type": "Course",
-    "selfPaced": "Self-paced"
+    "selfPaced": "Self-paced",
+    "inProgress": "In progress"
   },
   "courseraProgress": {
     "title": "میزان پیشرفت شما در دوره ارائه شده توسط Coursera",

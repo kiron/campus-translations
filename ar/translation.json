@@ -171,7 +171,8 @@
     "weeksAbbreviation_3": "أسابيع",
     "multiplier": "×",
     "type": "Course",
-    "selfPaced": "Self-paced"
+    "selfPaced": "Self-paced",
+    "inProgress": "In progress"
   },
   "courseraProgress": {
     "title": "معدل التقدم الخاص بك في مساق المقدم من كورسيرا",

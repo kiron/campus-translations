@@ -204,7 +204,8 @@
     "weeksAbbreviation": "Hafta",
     "multiplier": "x",
     "type": "Kurs",
-    "selfPaced": "Kendi hızınızda"
+    "selfPaced": "Kendi hızınızda",
+    "inProgress": "Ilerleme halinde"
   },
   "courseraProgress": {
     "title": "Coursera durumu",
