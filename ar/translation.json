@@ -10,14 +10,6 @@
     "searchInitialSubFive": "",
     "searchInitialSubSix": "",
     "noResults": "لم يتم العثور على أي نتائج بحث",
-    "promotedModules": {
-      "title": "إبدأ هنا",
-      "subtitle": "يبدأ معظم طلاب {{orgDisplayName}} رحلة التعلم الخاصة بهم هنا"
-    },
-    "popularModules": {
-      "title": "المساقات الأكثر شعبية",
-      "subtitle": "المساقات الأكثر حضور بين الطلاب"
-    },
     "skillBoosterPrograms": "برامج تعزيز المهارت ",
     "courses": "مساقات ",
     "recommended": "أوصت به"
