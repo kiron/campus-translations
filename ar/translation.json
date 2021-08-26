@@ -150,7 +150,9 @@
     "feedbackDislike": "ما الذي لم يعجبك؟ ",
     "feedbackNext": "التالي",
     "feedbackLoading": "تحميل الدرس ",
-    "enrollCourseLimitText": "عذرًا، يمكنك التسجيل في ما يصل إلى {{0}} مساقات "
+    "enrollCourseLimitText": "عذرًا، يمكنك التسجيل في ما يصل إلى {{0}} مساقات ",
+    "type": "Program",
+    "selfPaced": "Self-paced"
   },
   "unitCard": {
     "liveUnit": "الوحدة المباشرة",
@@ -167,7 +169,10 @@
     "weeksAbbreviation": "أسبوع",
     "weeksAbbreviation_2": "أسابيع",
     "weeksAbbreviation_3": "أسابيع",
-    "multiplier": "×"
+    "multiplier": "×",
+    "type": "Course",
+    "selfPaced": "Self-paced",
+    "inProgress": "In progress"
   },
   "courseraProgress": {
     "title": "معدل التقدم الخاص بك في مساق المقدم من كورسيرا",

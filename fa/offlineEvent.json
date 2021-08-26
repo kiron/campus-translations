@@ -36,5 +36,9 @@
   "participantsCount": "{{number}} دانش آموز",
   "daysCount": "{{count}} روز",
   "daysCount_plural": "{{count}} روز",
-  "happeningNow": "در حال رخ دادن"
+  "happeningNow": "در حال رخ دادن",
+  "card": {
+    "offline": "Offline",
+    "type": "Event" 
+  }
 }

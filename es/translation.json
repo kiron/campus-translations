@@ -187,7 +187,9 @@
     "feedbackDislike": "¿Qué es lo que no le gustó?",
     "feedbackNext": "Siguiente",
     "feedbackLoading": "Cargando lección",
-    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
+    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses",
+    "type": "Programa",
+    "selfPaced": "Autodidacta"
   },
   "unitCard": {
     "liveUnit": "Unidad en vivo",
@@ -200,7 +202,10 @@
     "courseProvider": "Proporcionada por <1>{{1}}</1>",
     "hoursAbbreviation": "h",
     "weeksAbbreviation": "w",
-    "multiplier": "x"
+    "multiplier": "x",
+    "type": "Curso",
+    "selfPaced": "Autodidacta",
+    "inProgress": "En curso"
   },
   "courseraProgress": {
     "title": "Progreso en Coursera",

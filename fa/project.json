@@ -28,5 +28,9 @@
   "chat": "چت کنید",
   "whiteboard": "تخته سفید",
   "video": "ویدیو",
-  "document": "سند"
+  "document": "سند",
+  "card": {
+    "collaborative": "Collaborative",
+    "type": "Project" 
+  }
 }

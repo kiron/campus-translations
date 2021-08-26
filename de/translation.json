@@ -187,7 +187,9 @@
     "feedbackDislike": "Was hat dir daran nicht gefallen?",
     "feedbackNext": "Weiter",
     "feedbackLoading": "Lektion wird geladen",
-    "enrollCourseLimitText": "Entschuldigung, du kannst dich nur für bis zu {{0}} Kurse einschreiben"
+    "Text": "Entschuldigung, du kannst dich nur für bis zu {{0}} Kurse einschreiben",
+    "type": "Programm",
+    "selfPaced": "Selbstgesteuert"
   },
   "unitCard": {
     "liveUnit": "Live Einheit",
@@ -200,7 +202,10 @@
     "courseProvider": "Bereitgestellt von <1>{{1}}</1>",
     "hoursAbbreviation": "Std.",
     "weeksAbbreviation": "W",
-    "multiplier": "x"
+    "multiplier": "x",
+    "type": "Kurs",
+    "selfPaced": "Selbstgesteuert",
+    "inProgress": "Laufend"
   },
   "courseraProgress": {
     "title": "Coursera Fortschritt",

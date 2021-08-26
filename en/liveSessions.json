@@ -28,5 +28,9 @@
     "5": "Friday",
     "6": "Saturday",
     "7": "Sunday"
+  },
+  "card": {
+    "online": "Online",
+    "type": "Event" 
   }
 }

@@ -28,5 +28,9 @@
   "chat": "چټ",
   "whiteboard": "سپینه تخته",
   "video": "ویډیو",
-  "document": "اسناد"
+  "document": "اسناد",
+  "card": {
+    "collaborative": "Collaborative",
+    "type": "Project" 
+  }
 }

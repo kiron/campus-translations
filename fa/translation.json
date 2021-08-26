@@ -187,7 +187,9 @@
     "feedbackDislike": "چه چیزی را دوست نداشتید؟",
     "feedbackNext": "بعد",
     "feedbackLoading": "در حال بارگیری درس",
-    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
+    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses",
+    "type": "Program",
+    "selfPaced": "Self-paced"
   },
   "unitCard": {
     "liveUnit": "واحد زنده",
@@ -200,7 +202,10 @@
     "courseProvider": "تهیه شده توسط <1>{{1}}</1>",
     "hoursAbbreviation": "ساعت",
     "weeksAbbreviation": "هفته ها",
-    "multiplier": "x"
+    "multiplier": "x",
+    "type": "Course",
+    "selfPaced": "Self-paced",
+    "inProgress": "In progress"
   },
   "courseraProgress": {
     "title": "میزان پیشرفت شما در دوره ارائه شده توسط Coursera",

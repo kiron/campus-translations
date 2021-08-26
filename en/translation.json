@@ -187,7 +187,9 @@
     "feedbackDislike": "What didn’t you like about it?",
     "feedbackNext": "Next",
     "feedbackLoading": "Loading lesson",
-    "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses"
+    "Text": "Sorry, you can enroll in up to {{0}} courses",
+    "type": "Program",
+    "selfPaced": "Self-paced"
   },
   "unitCard": {
     "liveUnit": "Live Unit",
@@ -200,7 +202,10 @@
     "courseProvider": "Provided by <1>{{1}}</1>",
     "hoursAbbreviation": "hrs.",
     "weeksAbbreviation": "w",
-    "multiplier": "x"
+    "multiplier": "x",
+    "type": "Course",
+    "selfPaced": "Self-paced",
+    "inProgress": "In progress"
   },
   "courseraProgress": {
     "title": "Coursera Progress",

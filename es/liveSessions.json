@@ -28,5 +28,9 @@
     "5": "Viernes",
     "6": "Sábado",
     "7": "Domingo"
+  },
+  "card": {
+    "online": "En línea",
+    "type": "Evento" 
   }
 }

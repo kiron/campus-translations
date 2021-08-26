@@ -33,5 +33,9 @@
   "participants": "Participants",
   "participantsCount": "{number} students",
   "daysCount": "{{0}} days",
-  "happeningNow": "Happening now"
+  "happeningNow": "Happening now",
+  "card": {
+    "offline": "Çevrimdışı",
+    "type": "Etkinlik" 
+  }
 }
