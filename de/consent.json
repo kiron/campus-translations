@@ -57,9 +57,9 @@
       "details": "Ich erlaube Kiron, meine persönlichen Daten (Name, Kiron-Emailadresse, Herkunftsland, Geschlecht, Geburtsdatum) mit {{subOrganizations}} zu teilen, um Zugang zu deren Inhalten zu bekommen. Meine Daten werden von {{subOrganizations}} auf sicheren Servern gespeichert, und nur qualifizierte Mitarbeiter:innen von {{subOrganizations}} erhalten nach schriflticher Zustimmung zu den einschlägigen Datenschutzregelungen Zugang dazu. Ich kann jederzeit meine Daten korrigieren oder löschen lassen, per schriftlicher Anfrage an student-support@kiron.ngo."
     },
     "directMessaging": {
-      "description": "Wusstest du, dass du direkt über Kiron Campus kontaktiert werden kannst? Du musst nur deine Zustimmung dazu geben.s",
+      "description": "Wusstest du, dass du direkt über den Campus kontaktiert werden kannst? Du musst nur deine Zustimmung dazu geben.s",
       "header": "Persönliche Nachrichten (optional)",
-      "checkbox": "Ich stimme zu, dass andere Lernende mich über den Kiron Campus kontaktiren dürfen.",
+      "checkbox": "Ich stimme zu, dass andere Lernende mich über den Campus kontaktiren dürfen.",
       "details": "Wenn du den Verhaltensregeln unserer Community zustimmst, dann wird für dich ein Community Profil angelegt. Du erreichst die Community über den Community Reiter in der Top-Navigation."
     },
     "communityMap": {
@@ -72,9 +72,9 @@
       "inputPlaceholder": "Stadt"
     },
     "uploadPhoto": {
-      "description": "Bevor du ein Foto hochlädst brauchen wir deine Zustimmung, dass das Foto anderen Lernenden im Kiron Campus gezeigt werden darf.",
+      "description": "Bevor du ein Foto hochlädst brauchen wir deine Zustimmung, dass das Foto anderen Lernenden im Campus gezeigt werden darf.",
       "header": "Profilbild",
-      "checkbox": "Ich stimme zu, dass andere Lernende im Kiron Campus mein Profilfoto sehen können.",
+      "checkbox": "Ich stimme zu, dass andere Lernende im Campus mein Profilfoto sehen können.",
       "uploadText": "Füge hier dein Foto hinzu, oder auf dem Computer suchen"
     }
   },
