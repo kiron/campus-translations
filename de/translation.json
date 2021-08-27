@@ -47,14 +47,6 @@
     "searchInitialSubFive": "",
     "searchInitialSubSix": "",
     "noResults": "Es wurden keine Ergebnisse gefunden für",
-    "promotedModules": {
-      "title": "Ein guter Anfang",
-      "subtitle": "Die meisten {{orgDisplayName}} Studierenden beginnen ihre Erfolgsgeschichte hier"
-    },
-    "popularModules": {
-      "title": "Beliebt",
-      "subtitle": "Kurse mit den meisten Studierenden"
-    },
     "skillBoosterPrograms": "Skill Booster Programs",
     "courses": "Kurse",
     "recommended": "Empfohlen von"

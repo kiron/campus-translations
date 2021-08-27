@@ -47,14 +47,6 @@
     "searchInitialSubFive": "",
     "searchInitialSubSix": "",
     "noResults": "No results have been found for",
-    "promotedModules": {
-      "title": "Get Started",
-      "subtitle": "Most {{orgDisplayName}} students start their learning journey here"
-    },
-    "popularModules": {
-      "title": "Popular",
-      "subtitle": "Courses with the most students"
-    },
     "skillBoosterPrograms": "Skill Booster Programs",
     "courses": "Courses",
     "recommended": "Recommended by"
