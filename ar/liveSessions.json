@@ -30,6 +30,7 @@
   },
   "card": {
     "online": "Online",
-    "type": "Event" 
+    "type": "Event",
+    "endsAt": "Ends at"
   }
 }
