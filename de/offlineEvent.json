@@ -32,7 +32,8 @@
   "otherAppontments": "Andere Termine",
   "participants": "Teilnehmer",
   "participantsCount": "{number} Studenten",
-  "daysCount": "{{0}} Tage",
+  "daysCount": "{{count}} Tag",
+  "daysCount_plural": "{{count}} Tage",
   "happeningNow": "Findet gerade statt",
   "card": {
     "offline": "Offline",

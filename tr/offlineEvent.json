@@ -32,10 +32,11 @@
   "otherAppontments": "Other Appointments",
   "participants": "Participants",
   "participantsCount": "{number} students",
-  "daysCount": "{{0}} days",
+  "daysCount": "{{count}} day",
+  "daysCount_plural": "{{count}} days",
   "happeningNow": "Happening now",
   "card": {
     "offline": "Çevrimdışı",
-    "type": "Etkinlik" 
+    "type": "Etkinlik"
   }
 }

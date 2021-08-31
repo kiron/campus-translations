@@ -32,10 +32,11 @@
   "otherAppontments": "Otras citas",
   "participants": "Participantes",
   "participantsCount": "{number} estudiantes",
-  "daysCount": "{{0}} días",
+  "daysCount": "{{count}} días",
+  "daysCount_plural": "{{count}} días",
   "happeningNow": "Ocurriendo ahora",
   "card": {
     "offline": "En persona",
-    "type": "Evento" 
+    "type": "Evento"
   }
 }
