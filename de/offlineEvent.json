@@ -1,7 +1,7 @@
 {
   "introPreHeading": "Offline Veranstaltung",
   "introCTA": "Veranstaltungen anzeigen",
-  "ctaJoin": "Jetzt registrieren",
+  "ctaJoin": "Jetzt anmelden",
   "introCTALeave": "Veranstaltung verlassen",
   "eventStarted": "Veranstaltung hat begonnen",
   "hostedBy": "Angeboten von",
@@ -10,22 +10,22 @@
   "seeMore": "Mehr anzeigen",
   "seeLess": "Weniger anzeigen",
   "availableAppointments": "Verfügbare Termine",
-  "noAvailableAppointments": "There are no available appointments at the moment ",
+  "noAvailableAppointments": "Derzeit gibt es leider keine verfügbaren Termine.",
   "yourAppointments": "Deine Termine",
   "appointmentsInfo": "Alle Zeiten sind in deiner Zeitzone",
   "slotsLeft": "Freie Plätze",
   "registerUntil": "Anmelden bis zum {date}",
   "registerToday": "Anmeldefrist",
   "seeAllDates": "Alle Termine anzeigen",
-  "registerButton": "Registrieren",
-  "registerNowButton": "Jetzt registrieren",
+  "registerButton": "Anmelden",
+  "registerNowButton": "Jetzt anmelden",
   "currentWeek": "Diese Woche",
   "registerInfo": "Du hast dich erfolgreich angemeldet",
   "eventDays": "Nächste Veranstaltung in",
   "locationTitle": "Ort",
   "Location": "Offline",
   "leaveEventTitle": "Veranstaltung verlassen",
-  "leaveOpenEventInfo": "You can still re-join the event until {{1}}",
+  "leaveOpenEventInfo": "Du kannst dieser Veranstaltung noch bis zum {{1}} wieder beitreten.",
   "leaveClosedEventInfo": "Diese Aktion kann nicht rückgängig gemacht werden. Du wirst an der Veranstaltung nicht mehr teilnehmen können.",
   "leaveNo": "Nein, bleiben",
   "leaveYes": "Ja, verlassen",
@@ -36,6 +36,6 @@
   "happeningNow": "Findet gerade statt",
   "card": {
     "offline": "Offline",
-    "type": "Veranstaltung" 
+    "type": "Veranstaltung"
   }
 }
