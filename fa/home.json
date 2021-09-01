@@ -21,6 +21,9 @@
   "applicationCheckTitle": "چک لیست برنامه ها",
   "applicationCheckText": "درخواست دانشگاه خود را آماده کنید",
   "moduleFeaturedBtn": "ادامه یادگیری",
+  "onlineEventFeaturedBtn": "Join online session",
+  "offlineEventFeaturedBtn": "See event",
+  "projectFeaturedBtn": "Continue working",
   "streakWeeks": {
     "congratulation": "تبریک می گویم!",
     "achievement": "شما یاد گرفتید",

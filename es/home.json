@@ -21,6 +21,9 @@
   "applicationCheckTitle": "Lista para el ingreso a la universidad",
   "applicationCheckText": "Prepare su solicitud de ingreso a la universidad",
   "moduleFeaturedBtn": "Continúe aprendiendo",
+  "onlineEventFeaturedBtn": "Join online session",
+  "offlineEventFeaturedBtn": "See event",
+  "projectFeaturedBtn": "Continue working",
   "streakWeeks": {
     "congratulation": "¡Enhorabuena!",
     "achievement": "Usted ha sido un usuario activo",

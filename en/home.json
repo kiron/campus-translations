@@ -21,6 +21,9 @@
   "applicationCheckTitle": "Application checklist",
   "applicationCheckText": "Prepare your university application",
   "moduleFeaturedBtn": "Continue learning",
+  "onlineEventFeaturedBtn": "Join online session",
+  "offlineEventFeaturedBtn": "See event",
+  "projectFeaturedBtn": "Continue working",
   "streakWeeks": {
     "congratulation": "Congratulations!",
     "achievement": "You were active for",
