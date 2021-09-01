@@ -21,6 +21,9 @@
   "applicationCheckTitle": "Başvuru için yapılacaklar listesi",
   "applicationCheckText": "Üniversite başvurunu hazırla ",
   "moduleFeaturedBtn": "Öğrenmeye devam et",
+  "onlineEventFeaturedBtn": "Join online session",
+  "offlineEventFeaturedBtn": "See event",
+  "projectFeaturedBtn": "Continue working",
   "streakWeeks": {
     "congratulation": "Tebrikler!",
     "achievement": "Arka arkaya",

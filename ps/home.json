@@ -21,6 +21,9 @@
   "applicationCheckTitle": "د غوښتنلیک چک لیست",
   "applicationCheckText": "د خپل پوهنتون غوښتنلیک چمتو کړئ",
   "moduleFeaturedBtn": "زده کړې ته دوام ورکړئ",
+  "onlineEventFeaturedBtn": "Join online session",
+  "offlineEventFeaturedBtn": "See event",
+  "projectFeaturedBtn": "Continue working",
   "streakWeeks": {
     "congratulation": "تبریک می گویم!",
     "achievement": "شما یاد گرفتید",

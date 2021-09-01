@@ -21,6 +21,9 @@
   "applicationCheckTitle": "قائمة التحضير للجامعة",
   "applicationCheckText": "إعداد طلب جامعتك",
   "moduleFeaturedBtn": "استمر في التعلم",
+  "onlineEventFeaturedBtn": "Join online session",
+  "offlineEventFeaturedBtn": "See event",
+  "projectFeaturedBtn": "Continue working",
   "streakWeeks": {
     "congratulation": "تهانينا!",
     "achievement": "لقد تعلمت",

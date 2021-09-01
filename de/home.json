@@ -19,6 +19,9 @@
   "applicationCheckTitle": "Checkliste für die Bewerbung",
   "applicationCheckText": "Bereite deine Bewerbung für die Universität vor",
   "moduleFeaturedBtn": "Weiterlernen",
+  "onlineEventFeaturedBtn": "Veranstaltung beitreten",
+  "offlineEventFeaturedBtn": "Siehe Veranstaltung",
+  "projectFeaturedBtn": "Weiterarbeiten",
   "streakWeeks": {
     "congratulation": "Herzlichen Glückwunsch!",
     "achievement": "Du warst aktiv für",
