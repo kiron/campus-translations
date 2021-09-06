@@ -22,6 +22,8 @@
   "currentWeek": "Diese Woche",
   "registerInfo": "Du hast dich erfolgreich angemeldet",
   "eventDays": "Nächste Veranstaltung in",
+  "eventDay": "Nächste Veranstaltung",
+  "today": "Heute",
   "locationTitle": "Ort",
   "Location": "Offline",
   "leaveEventTitle": "Veranstaltung verlassen",
@@ -33,7 +35,7 @@
   "participants": "Teilnehmer",
   "participantsCount": "{number} Studenten",
   "daysCount": "{{count}} Tag",
-  "daysCount_plural": "{{count}} Tage",
+  "daysCount_plural": "{{count}} Tagen",
   "happeningNow": "Findet gerade statt",
   "card": {
     "offline": "Offline",
