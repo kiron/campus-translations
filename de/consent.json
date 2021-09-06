@@ -59,7 +59,7 @@
     "directMessaging": {
       "description": "Wusstest du, dass du direkt über den Campus kontaktiert werden kannst? Du musst nur deine Zustimmung dazu geben.s",
       "header": "Persönliche Nachrichten (optional)",
-      "checkbox": "Ich stimme zu, dass andere Lernende mich über den Campus kontaktiren dürfen.",
+      "checkbox": "Ich stimme zu, dass andere Lernende mich über den Campus kontaktieren dürfen.",
       "details": "Wenn du den Verhaltensregeln unserer Community zustimmst, dann wird für dich ein Community Profil angelegt. Du erreichst die Community über den Community Reiter in der Top-Navigation."
     },
     "communityMap": {
