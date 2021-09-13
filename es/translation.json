@@ -183,6 +183,9 @@
     "type": "Programa",
     "selfPaced": "Autodidacta"
   },
+  "shortProgramUnitLesson": {
+    "lessonNavigatorCtaNext": "Siguiente"
+  },
   "unitCard": {
     "liveUnit": "Unidad en vivo",
     "kironUnit": "Unidad de {{orgDisplayName}}",
@@ -210,6 +213,7 @@
     "infoMessage": "You need approval to enroll in this program"
   },
   "unitPage": {
+    "register": "Registrarse",
     "completionInfo": "Your instructor will mark this course as completed after review",
     "unenroll": "Desinscribirse",
     "unenrollLoading": "actualizando...",

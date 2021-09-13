@@ -191,6 +191,9 @@
     "type": "Program",
     "selfPaced": "Self-paced"
   },
+  "shortProgramUnitLesson": {
+    "lessonNavigatorCtaNext": "Next"
+  },
   "unitCard": {
     "liveUnit": "واحد زنده",
     "kironUnit": "{{orgDisplayName}} واحد ",
@@ -218,6 +221,7 @@
     "infoMessage": "برای ثبت نام در این برنامه نیاز به تأیید دارید"
   },
   "unitPage": {
+    "register": "ثبت نام",
     "completionInfo": "مربی شما پس از بررسی ، این دوره را به عنوان پایان یافته علامت گذاری می کند",
     "unenroll": "لغو ثبت نام",
     "unenrollLoading": "در حال بروز رسانی...",

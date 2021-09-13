@@ -185,6 +185,9 @@
     "type": "Program",
     "selfPaced": "Self-paced"
   },
+  "shortProgramUnitLesson": {
+    "lessonNavigatorCtaNext": "Next"
+  },
   "unitCard": {
     "liveUnit": "Live Unit",
     "kironUnit": "{{orgDisplayName}} Unit",
@@ -212,6 +215,7 @@
     "infoMessage": "You need approval to enroll in this program"
   },
   "unitPage": {
+    "register": "Register",
     "completionInfo": "Your instructor will mark this course as completed after review",
     "unenroll": "Unenroll",
     "unenrollLoading": "updating..",

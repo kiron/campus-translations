@@ -185,6 +185,9 @@
     "type": "Programm",
     "selfPaced": "Selbstgesteuert"
   },
+  "shortProgramUnitLesson": {
+    "lessonNavigatorCtaNext": "Weiter"
+  },
   "unitCard": {
     "liveUnit": "Live Einheit",
     "kironUnit": "{{orgDisplayName}} Einheit",
@@ -212,6 +215,7 @@
     "infoMessage": "Sie benötigen eine Zulassung, um sich für dieses Programm anzumelden"
   },
   "unitPage": {
+    "register": "Anmelden",
     "completionInfo": "Dein:e Kursleiter:in wird diesen Kurs nach der Überprüfung als abgeschlossen markieren",
     "unenroll": "Abmelden",
     "unenrollLoading": "aktualisieren..",

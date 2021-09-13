@@ -146,6 +146,9 @@
     "type": "Program",
     "selfPaced": "Self-paced"
   },
+  "shortProgramUnitLesson": {
+    "lessonNavigatorCtaNext": "التالي"
+  },
   "unitCard": {
     "liveUnit": "الوحدة المباشرة",
     "kironUnit": "وحدة {{orgDisplayName}}",
@@ -177,6 +180,7 @@
     "infoMessage": "You need approval to enroll in this program"
   },
   "unitPage": {
+    "register": "نوم لیکنه",
     "completionInfo": "Your instructor will mark this course as completed after review",
     "unenroll": "Unenroll",
     "unenrollLoading": "updating..",

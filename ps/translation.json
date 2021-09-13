@@ -191,7 +191,11 @@
     "type": "Program",
     "selfPaced": "Self-paced"
   },
+  "shortProgramUnitLesson": {
+    "lessonNavigatorCtaNext": "Next"
+  },
   "unitCard": {
+    "register": "نوم لیکنه",
     "liveUnit": "Live Unit",
     "kironUnit": "{{orgDisplayName}} Unit",
     "externalUnit": "External Unit",

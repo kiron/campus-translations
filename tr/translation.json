@@ -183,6 +183,9 @@
     "type": "Program",
     "selfPaced": "Kendi hızınızda"
   },
+  "shortProgramUnitLesson": {
+    "lessonNavigatorCtaNext": "Sonraki"
+  },
   "unitCard": {
     "liveUnit": "Canlı Ünite",
     "kironUnit": "{{orgDisplayName}} Ünitesi",
@@ -210,6 +213,7 @@
     "infoMessage": "You need approval to enroll in this program"
   },
   "unitPage": {
+    "register": "Anmelden",
     "completionInfo": "Your instructor will mark this course as completed after review",
     "unenroll": "Kaydı sil",
     "unenrollLoading": "Guncelliyor... ",
