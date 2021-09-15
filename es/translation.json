@@ -49,7 +49,9 @@
     "noResults": "No se han encontrado resultados para",
     "skillBoosterPrograms": "Skill Booster Programs",
     "courses": "Cursos",
-    "recommended": "Recomendado por"
+    "recommended": "Recomendado por",
+    "showAll": "Mostrar todo",
+    "collapse": "Colapsar"
   },
   "success": {
     "introTitle": "¡Su historia de éxito!",

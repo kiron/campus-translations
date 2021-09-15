@@ -12,7 +12,9 @@
     "noResults": "لم يتم العثور على أي نتائج بحث",
     "skillBoosterPrograms": "برامج تعزيز المهارت ",
     "courses": "مساقات ",
-    "recommended": "أوصت به"
+    "recommended": "أوصت به",
+    "showAll": "اظهار الكل",
+    "collapse": "اخفاء الكل"
   },
   "success": {
     "introTitle": "قصة نجاحك!",
