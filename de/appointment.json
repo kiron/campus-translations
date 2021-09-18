@@ -1,8 +1,8 @@
 {
-  "slotsLeft": "{{slots}} Plätze übrig",
-  "registerUntil": "Anmeldung bis {{deadline}}",
-  "registerToday": "Anmeldung bis heute",
-  "seeAllDates": "Schau dir alle Termine an",
-  "registerButton": "Anmelden",
-  "registerNowButton": "Jetzt anmelden"
+    "slotsLeft": "{{slots}} Plätze übrig",
+    "registerUntil": "Anmeldung bis {{deadline}}",
+    "registerToday": "Anmeldung bis heute TEST",
+    "seeAllDates": "Schau dir alle Termine an",
+    "registerButton": "Anmelden",
+    "registerNowButton": "Jetzt anmelden"
 }
