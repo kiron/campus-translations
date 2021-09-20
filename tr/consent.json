@@ -1,6 +1,6 @@
 {
     "extras": {
-        "preview": "Preview preview",
+        "preview": "Preview",
         "step": "Step {{currentStep}}/{{totalSteps}}"
     },
     "headers": {
