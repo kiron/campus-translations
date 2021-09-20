@@ -1,147 +1,147 @@
 {
-  "reviewInProgress": {
-    "title": "İnceleme Sürüyor",
-    "hello": "Merhaba, ",
-    "descriptionJSX": "Belgenizi yüklediğiniz için teşekkür ederiz. Şimdi inceliyoruz ve önümüzdeki üç gün içinde bizden bir e-posta alacaksınız. Bu arada, modüllerinizi <1> Keşfetme Sayfası </1> üzerinde zaten seçebilir veya Topluluk Sayfasında </3> bölgenizdeki <3> diğer öğrencileri görebilirsiniz."
-  },
-  "uploadDocumentTitle": "Doküman yükle",
-  "description01": "Belgenizi tarayın veya bir fotoğraf çekin ve buraya yükleyin. Gerekli tüm bilgilerin açıkça görülebildiğinden emin olun. Kontrol edin",
-  "description02": "tavsiyeler ",
-  "description03": "en iyi kalitede yükleme için.",
-  "upload": "Belgenizi yüklemek için burayı tıklayın veya dosyaları bırakın.",
-  "button": "Gönder",
-  "buttonContinue": "Çalışmaya devam",
-  "uploadSuccessfulDescription": "Belgenizi yüklediğiniz için teşekkür ederiz. Şimdi inceliyoruz ve önümüzdeki üç gün içinde bizden bir e-posta alacaksınız.",
-  "modal": {
-    "yes": "YAPMAK",
-    "yesDescription": "Yalnızca resmi belgeleri yükleyin. Tam adınız, doğum tarihiniz ve son kullanma tarihi açıkça görülebilir olmalıdır.",
-    "no": "DO dEĞİL",
-    "noDescription": "Özgeçmişiniz, resminiz, bayrak veya başka herhangi bir fotoğraf gibi resmi bir belge olmayan hiçbir şey yüklemeyin."
-  },
-  "doucmentGuideTitle": "Belge Kılavuzu",
-  "documentAlternate": {
-    "part01": "Bu belgelerinden birine sahip değil misiniz? Sorun değil, benzer bir belge yükleyebilir ve inceleyeceğiz. Tıklamak",
-    "part02": "{{orgDisplayName}} Yardım Merkezi",
-    "part03": "daha fazla bilgi için.",
-    "part04": "{{orgDisplayName}}, belgelerinizi sunucularımızda güvenli bir şekilde saklayacak ve başkalarıyla paylaşılmayacaktır.",
-    "part05": "Belgenize neden ihtiyaç duyduğumuz hakkında daha fazla bilgi edinin"
-  },
-  "sampleDocuments": {
-    "title": "Lütfen pasaportunuzu veya herhangi bir kimlik kartınızı yükleyiniz. Örneklere bakınız",
-    "germanRefugees": {
-      "infoPoints": [
-        "BüMA (İltica başvurusu )",
-        "Aufenthaltsgestattung (Kalma izni)",
-        "Aufenthaltserlaubnis (Oturum izni)",
-        "Duldung (Ulusal Sınır Dışı Yapma Yasağı)",
-        "Fiktionsbescheinigung (Geçici oturum izni)",
-        "Subsidiärer Schutz (Ek koruma)"
-      ],
-      "docImageTitles": {
-        "aufenthaltsgestattung": "Aufenthaltsgestattung",
-        "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
-        "duldung": "Duldung"
-      }
+    "reviewInProgress": {
+        "title": "İnceleme Sürüyor",
+        "hello": "Merhaba, hello ",
+        "descriptionJSX": "Belgenizi yüklediğiniz için teşekkür ederiz. Şimdi inceliyoruz ve önümüzdeki üç gün içinde bizden bir e-posta alacaksınız. Bu arada, modüllerinizi <1> Keşfetme Sayfası </1> üzerinde zaten seçebilir veya Topluluk Sayfasında </3> bölgenizdeki <3> diğer öğrencileri görebilirsiniz."
     },
-    "jordanianRefugees": {
-      "infoPoints": [
-        "UNHCR kartı",
-        "UNRWA(Filistin)",
-        "Ürdün Devlet Hizmet Kartı"
-      ],
-      "docImageTitles": {
-        "unhcrCard": "UNHCR kartı",
-        "unhcrAsylum": "UNHCR iltica"
-      }
+    "uploadDocumentTitle": "Doküman yükle",
+    "description01": "Belgenizi tarayın veya bir fotoğraf çekin ve buraya yükleyin. Gerekli tüm bilgilerin açıkça görülebildiğinden emin olun. Kontrol edin",
+    "description02": "tavsiyeler ",
+    "description03": "en iyi kalitede yükleme için.",
+    "upload": "Belgenizi yüklemek için burayı tıklayın veya dosyaları bırakın.",
+    "button": "Gönder",
+    "buttonContinue": "Çalışmaya devam",
+    "uploadSuccessfulDescription": "Belgenizi yüklediğiniz için teşekkür ederiz. Şimdi inceliyoruz ve önümüzdeki üç gün içinde bizden bir e-posta alacaksınız.",
+    "modal": {
+        "yes": "YAPMAK",
+        "yesDescription": "Yalnızca resmi belgeleri yükleyin. Tam adınız, doğum tarihiniz ve son kullanma tarihi açıkça görülebilir olmalıdır.",
+        "no": "DO dEĞİL",
+        "noDescription": "Özgeçmişiniz, resminiz, bayrak veya başka herhangi bir fotoğraf gibi resmi bir belge olmayan hiçbir şey yüklemeyin."
     },
-    "jordanianIDPs": {
-      "infoPoints": [
-        "Kimlik kartı هوية شخصية",
-        "Pasaport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "Kimlik kartı  هوية شخصية",
-        "passport": "Pasaport  جواز سفر"
-      }
+    "doucmentGuideTitle": "Belge Kılavuzu",
+    "documentAlternate": {
+        "part01": "Bu belgelerinden birine sahip değil misiniz? Sorun değil, benzer bir belge yükleyebilir ve inceleyeceğiz. Tıklamak",
+        "part02": "{{orgDisplayName}} Yardım Merkezi",
+        "part03": "daha fazla bilgi için.",
+        "part04": "{{orgDisplayName}}, belgelerinizi sunucularımızda güvenli bir şekilde saklayacak ve başkalarıyla paylaşılmayacaktır.",
+        "part05": "Belgenize neden ihtiyaç duyduğumuz hakkında daha fazla bilgi edinin"
     },
-    "lebaneseRefugees": {
-      "infoPoints": [
-        "UNHCR card",
-        "UNRWA belgesi"
-      ],
-      "docImageTitles": {
-        "unhcrDocument": "UNHCR belgesi",
-        "unrwaDocument": "UNRWA belgesi"
-      }
+    "sampleDocuments": {
+        "title": "Lütfen pasaportunuzu veya herhangi bir kimlik kartınızı yükleyiniz. Örneklere bakınız",
+        "germanRefugees": {
+            "infoPoints": [
+                "BüMA (İltica başvurusu )",
+                "Aufenthaltsgestattung (Kalma izni)",
+                "Aufenthaltserlaubnis (Oturum izni)",
+                "Duldung (Ulusal Sınır Dışı Yapma Yasağı)",
+                "Fiktionsbescheinigung (Geçici oturum izni)",
+                "Subsidiärer Schutz (Ek koruma)"
+            ],
+            "docImageTitles": {
+                "aufenthaltsgestattung": "Aufenthaltsgestattung",
+                "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
+                "duldung": "Duldung"
+            }
+        },
+        "jordanianRefugees": {
+            "infoPoints": [
+                "UNHCR kartı",
+                "UNRWA(Filistin)",
+                "Ürdün Devlet Hizmet Kartı"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "UNHCR kartı",
+                "unhcrAsylum": "UNHCR iltica"
+            }
+        },
+        "jordanianIDPs": {
+            "infoPoints": [
+                "Kimlik kartı هوية شخصية",
+                "Pasaport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "Kimlik kartı  هوية شخصية",
+                "passport": "Pasaport  جواز سفر"
+            }
+        },
+        "lebaneseRefugees": {
+            "infoPoints": [
+                "UNHCR card",
+                "UNRWA belgesi"
+            ],
+            "docImageTitles": {
+                "unhcrDocument": "UNHCR belgesi",
+                "unrwaDocument": "UNRWA belgesi"
+            }
+        },
+        "lebaneseIDPs": {
+            "infoPoints": [
+                "Kimlik kartı هوية شخصية",
+                "Pasaport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "Kimlik kartı هوية شخصية",
+                "passport": "Pasaport جواز سفر"
+            }
+        },
+        "yemenisIDPs": {
+            "infoPoints": [
+                "Kimlik kartı هوية شخصية",
+                "Pasaport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "Kimlik kartı",
+                "passport": "Pasaport"
+            }
+        },
+        "syrianIDPs": {
+            "infoPoints": [
+                "Kimlik kartı هوية شخصية",
+                "Pasaport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "Kimlik kartı",
+                "passport": "Pasaport"
+            }
+        },
+        "turkishIDPs": {
+            "infoPoints": [
+                "Geçici Koruma",
+                "Oturum izni",
+                "UNHCR belgesi"
+            ],
+            "docImageTitles": {
+                "temporaryProtection": "Geçici Koruma",
+                "residencePermit": "Oturum izni",
+                "unhcrDocument": "UNHCR belgesi"
+            }
+        },
+        "sudanisIPDs": {
+            "infoPoints": [
+                "Pasaport",
+                "IDP Darfur belgesi",
+                "IIDP kartı"
+            ],
+            "docImageTitles": {
+                "passport": "Pasaport",
+                "idpDarfurDocument": "IDP Darfur document",
+                "idpCard": "IDP kartı"
+            }
+        },
+        "default": {
+            "infoPoints": [
+                "Mülteci Durumu",
+                "Asylum application",
+                "IDP kartı",
+                "UNHCR belgesi"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "UNHCR card",
+                "unhcrFamily": "UNCHCR Aile",
+                "kenyaRefugeeCard": "Kenya Mülteci kartı"
+            }
+        }
     },
-    "lebaneseIDPs": {
-      "infoPoints": [
-        "Kimlik kartı هوية شخصية",
-        "Pasaport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "Kimlik kartı هوية شخصية",
-        "passport": "Pasaport جواز سفر"
-      }
-    },
-    "yemenisIDPs": {
-      "infoPoints": [
-        "Kimlik kartı هوية شخصية",
-        "Pasaport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "Kimlik kartı",
-        "passport": "Pasaport"
-      }
-    },
-    "syrianIDPs": {
-      "infoPoints": [
-        "Kimlik kartı هوية شخصية",
-        "Pasaport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "Kimlik kartı",
-        "passport": "Pasaport"
-      }
-    },
-    "turkishIDPs": {
-      "infoPoints": [
-        "Geçici Koruma",
-        "Oturum izni",
-        "UNHCR belgesi"
-      ],
-      "docImageTitles": {
-        "temporaryProtection": "Geçici Koruma",
-        "residencePermit": "Oturum izni",
-        "unhcrDocument": "UNHCR belgesi"
-      }
-    },
-    "sudanisIPDs": {
-      "infoPoints": [
-        "Pasaport",
-        "IDP Darfur belgesi",
-        "IIDP kartı"
-      ],
-      "docImageTitles": {
-        "passport": "Pasaport",
-        "idpDarfurDocument": "IDP Darfur document",
-        "idpCard": "IDP kartı"
-      }
-    },
-    "default": {
-      "infoPoints": [
-        "Mülteci Durumu",
-        "Asylum application",
-        "IDP kartı",
-        "UNHCR belgesi"
-      ],
-      "docImageTitles": {
-          "unhcrCard": "UNHCR card",
-          "unhcrFamily": "UNCHCR Aile",
-          "kenyaRefugeeCard": "Kenya Mülteci kartı"
-      }
-    }
-  },
-  "backWarningBtn": "Profile geri dön",
-  "warningTextNationality": "Belgelerinizi tekrar yüklemeden önce lütfen profil sayfasında milliyetinizi girin"
+    "backWarningBtn": "Profile geri dön",
+    "warningTextNationality": "Belgelerinizi tekrar yüklemeden önce lütfen profil sayfasında milliyetinizi girin"
 }
