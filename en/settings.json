@@ -1,41 +1,44 @@
 {
-  "title": "Data Sharing",
-  "info": "These settings show the data you have allowed {{orgDisplayName}} to share with specific third parties. Use the `View` button to see the details of, or revoke, that consent.",
-  "infoConsent": "You have not accepted any consent requests yet.",
-  "linkView": "View",
-  "linkCancel": "Cancel",
-  "linkBack": "Go back",
-  "linkAccept": "Accept",
-  "noInfo": "Sorry, there is no information available",
-  "linkBackSettings": "Back to settings",
-  "titleReceived": "We have received your agreement for",
-  "linkGoSettings": "Go to settings",
-  "linkRevoke": "Revoke",
-  "revokeConsent": {
-    "yes": "Yes",
-    "no": "No",
-    "title": "Are you sure you want to revoke this consent?",
-    "desc": "By revoking this consent you might lose access to some of the services provided by {{orgDisplayName}}.",
-    "goToSettings": "Go to Settings",
-    "revoked": "Revoked"
-  },
-  "listItem": {
-    "view": "View"
-  },
-  "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
-    "courseReminders": {
-      "title": "Course Reminders",
-      "info": ""
+    "title": "Data Sharing",
+    "info": "These settings show the data you have allowed {{orgDisplayName}} to share with specific third parties. Use the `View` button to see the details of, or revoke, that consent.",
+    "infoConsent": "You have not accepted any consent requests yet.",
+    "linkView": "View",
+    "linkCancel": "Cancel",
+    "linkBack": "Go back",
+    "linkAccept": "Accept",
+    "noInfo": "Sorry, there is no information available",
+    "linkBackSettings": "Back to settings",
+    "titleReceived": "We have received your agreement for",
+    "linkGoSettings": "Go to settings",
+    "linkRevoke": "Revoke",
+    "revokeConsent": {
+        "yes": "Yes",
+        "no": "No",
+        "title": "Are you sure you want to revoke this consent?",
+        "desc": "By revoking this consent you might lose access to some of the services provided by {{orgDisplayName}}.",
+        "goToSettings": "Go to Settings",
+        "revoked": "Revoked"
     },
-    "campusNews": {
-      "title": "Campus News",
-      "info": ""
+    "listItem": {
+        "view": "View"
     },
-    "externalOffers": {
-      "title": "External Offers",
-      "info": ""
+    "emailSubscription": {
+        "title": "Email Subscription",
+        "info": "Manage the emails you receive from us.",
+        "courseReminders": {
+            "title": "Course Reminders",
+            "info": ""
+        },
+        "campusNews": {
+            "title": "Campus News",
+            "info": ""
+        },
+        "externalOffers": {
+            "title": "External Offers",
+            "info": ""
+        },
+        "unsubscribe": {
+            "title": "You are successfully unsubscribed!"
+        }
     }
-  }
 }
