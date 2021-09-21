@@ -38,7 +38,8 @@
             "info": "Send me emails about scholarships, offers, promotions, special events, etc."
         },
         "unsubscribe": {
-            "title": "You are successfully unsubscribed!"
+            "title": "You are successfully unsubscribed!",
+            "descriptionHeadline": "From now on, you will no longer receive the following emails from us:"
         }
     }
 }
