@@ -1,41 +1,47 @@
 {
-  "title": "Datennutzung",
-  "info": "Diese Einstellungen zeigen die Daten, die du {{orgDisplayName}} erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen",
-  "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
-  "linkView": "Anzeigen",
-  "linkCancel": "Abbrechen",
-  "linkBack": "Zurück",
-  "linkAccept": "Zustimmen",
-  "noInfo": "Es sind leider keine Informationen verfügbar",
-  "linkBackSettings": "Zurück zu den Einstellungen",
-  "titleReceived": "Wir haben deine Zustimmung erhalten für",
-  "linkGoSettings": "Zu Einstellungen",
-  "linkRevoke": "Widerrufen",
-  "revokeConsent": {
-    "yes": "Ja",
-    "no": "Nein",
-    "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
-    "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von {{orgDisplayName}} angebotenen Dienste.",
-    "goToSettings": "Zu Einstellungen",
-    "revoked": "Widerrufen"
-  },
-  "listItem": {
-    "view": "Anzeigen"
-  },
-  "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
-    "courseReminders": {
-      "title": "Course Reminders",
-      "info": ""
+    "title": "Datennutzung",
+    "info": "Diese Einstellungen zeigen die Daten, die du {{orgDisplayName}} erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen",
+    "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
+    "linkView": "Anzeigen",
+    "linkCancel": "Abbrechen",
+    "linkBack": "Zurück",
+    "linkAccept": "Zustimmen",
+    "noInfo": "Es sind leider keine Informationen verfügbar",
+    "linkBackSettings": "Zurück zu den Einstellungen",
+    "titleReceived": "Wir haben deine Zustimmung erhalten für",
+    "linkGoSettings": "Zu Einstellungen",
+    "linkRevoke": "Widerrufen",
+    "revokeConsent": {
+        "yes": "Ja",
+        "no": "Nein",
+        "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
+        "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von {{orgDisplayName}} angebotenen Dienste.",
+        "goToSettings": "Zu Einstellungen",
+        "revoked": "Widerrufen"
     },
-    "campusNews": {
-      "title": "Campus News",
-      "info": ""
+    "listItem": {
+        "view": "Anzeigen"
     },
-    "externalOffers": {
-      "title": "External Offers",
-      "info": ""
+    "emailSubscription": {
+        "title": "Email Subscription",
+        "info": "Bestimme, welche E-Mails du von uns erhälst.",
+        "courseReminders": {
+            "title": "Kurs Erinnerungen",
+            "info": "Schickt mir Updates zu meinem Fortschritt, motivierende Erinnerungen und andere Infos zu den Kursen denen ich angemeldet bin."
+        },
+        "campusNews": {
+            "title": "Campus Neuigkeiten",
+            "info": "Schickt mir E-Mails zu neuen Lern-Möglichkeiten und anderen Campus-Updates."
+        },
+        "externalOffers": {
+            "title": "Externe Angebote",
+            "info": "Schickt mir E-Mails über Stipendien, Angebote, Promotions, Events, etc."
+        },
+        "unsubscribe": {
+            "errorMessage": "Abbestellen fehlgeschlagen: {{0}}",
+            "unsubscribing": "E-Mails werden abbestellt...",
+            "descriptionFooter": "Wenn du deine E-Mail Einstellungen anpassen willst, <1>ändere sie hier</1>.",
+            "descriptionHeadline": "Ab jetzt wirst du die folgenden E-Mails nicht mehr von uns erhalten:"
+        }
     }
-  }
 }
