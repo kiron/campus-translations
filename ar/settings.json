@@ -21,5 +21,21 @@
   },
   "listItem": {
     "view": "عرض"
+  },
+  "emailSubscription": {
+    "title": "Email Subscription",
+    "info": "Manage the emails you receive from us.",
+    "courseReminders": {
+      "title": "Course Reminders",
+      "info": ""
+    },
+    "campusNews": {
+      "title": "Campus News",
+      "info": ""
+    },
+    "externalOffers": {
+      "title": "External Offers",
+      "info": ""
+    }
   }
 }
