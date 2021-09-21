@@ -41,7 +41,8 @@
             "title": "You are successfully unsubscribed!",
             "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
             "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-            "unsubscribing": "Unsubscribing..."
+            "unsubscribing": "Unsubscribing...",
+            "errorMessage": "Unsubscribing failed: {{0}}"
         }
     }
 }
