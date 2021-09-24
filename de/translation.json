@@ -301,7 +301,7 @@
   },
   "lessonTest": {
     "takeTest": "Test beginnen",
-    "passHint": "Bestehe den Test um fortzufahren",
+    "passHint": "Bestehe den Test, um fortzufahren",
     "answerHint": "Beantworte mindestens {{0}} richtig um zu bestehen. ",
     "questions": "Fragen",
     "question": "Frage",
