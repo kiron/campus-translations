@@ -27,15 +27,22 @@
     "info": "Manage the emails you receive from us.",
     "courseReminders": {
       "title": "Course Reminders",
-      "info": ""
+      "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
     },
     "campusNews": {
       "title": "Campus News",
-      "info": ""
+      "info": "Send me emails about new learning opportunities and other campus updates."
     },
     "externalOffers": {
       "title": "External Offers",
-      "info": ""
+      "info": "Send me emails about scholarships, offers, promotions, special events, etc."
+    },
+    "unsubscribe": {
+      "title": "You are successfully unsubscribed!",
+      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
+      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
+      "unsubscribing": "Unsubscribing...",
+      "errorMessage": "Unsubscribing failed: {{0}}"
     }
   }
 }

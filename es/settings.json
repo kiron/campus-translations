@@ -23,19 +23,26 @@
     "view": "Ver"
   },
   "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
+    "title": "Suscripción por correo electrónico",
+    "info": "Administre los correos electrónicos que recibe de Kiron",
     "courseReminders": {
-      "title": "Course Reminders",
-      "info": ""
+      "title": "Recordatorios de sus cursos",
+      "info": "Quiero recibir actualizaciones sobre mi progreso, mensajes de motivación y otras informaciones sobre mis cursos"
     },
     "campusNews": {
-      "title": "Campus News",
-      "info": ""
+      "title": "Noticias de Kiron Campus",
+      "info": "Quiero recibir información sobre nuevos cursos y otras novedades del campus"
     },
     "externalOffers": {
-      "title": "External Offers",
-      "info": ""
+      "title": "Oportunidades externas",
+      "info": "Quiero recibir información sobre becas, eventos y promociones"
+    },
+    "unsubscribe": {
+      "title": "Ha anulado la suscripción correctamente",
+      "descriptionHeadline": "A partir de ahora, no le enviaremos más correos electrónicos:",
+      "descriptionFooter": "Si quiere cambiar sus suscripciones, haga clic aquí",
+      "unsubscribing": "Anulando la suscripción...",
+      "errorMessage": "Anulación cancelada: {{0}}"
     }
   }
 }

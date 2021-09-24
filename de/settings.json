@@ -23,19 +23,26 @@
     "view": "Anzeigen"
   },
   "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
+    "title": "Email Abos",
+    "info": "Stelle hier ein, welche Emails du von uns bekommen möchtest. ",
     "courseReminders": {
-      "title": "Course Reminders",
-      "info": ""
+      "title": "Erinnerungen zu Kursen",
+      "info": "Ich möchte Updates zu meinem Fortschritt, motivierende Erinnerungen und andere Informationen zu Kursen, die ich begonnen habe bekommen. "
     },
     "campusNews": {
-      "title": "Campus News",
-      "info": ""
+      "title": "Campus Neuigkeiten",
+      "info": "Ich möchte Emails über neue Lernangebote und andere Campus Updates bekommen. "
     },
     "externalOffers": {
-      "title": "External Offers",
-      "info": ""
+      "title": "Externe Angebote",
+      "info": "Ich möchte Emails mit Infos zu Stipendien, Angeboten, Empfehlungen, besonderen Veranstaltungen, etc. bekommen. "
+    },
+    "unsubscribe": {
+      "title": "Du hast dich erfolgreich abgemeldet",
+      "descriptionHeadline": "Von nun an wirst du folgende Emails nicht mehr von uns bekommen: ",
+      "descriptionFooter": "Wenn du deine Email Abonnements verwalten möchtest <1>klicke hier</1>.",
+      "unsubscribing": "Abmelden...",
+      "errorMessage": "Abmeldung abgebrochen: {{0}}"
     }
   }
 }
