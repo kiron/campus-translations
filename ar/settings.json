@@ -24,7 +24,7 @@
     },
     "emailSubscription": {
         "title": "الاشتراك في البريد الالكتروني",
-        "info": "إدارة رسائل البريد الالكتروني التي تستلمها من قبلنا ",
+        "info": "إدارة رسائل البريد الالكتروني التي تستلمها من قبلنا",
         "courseReminders": {
             "title": "تنبيهات الدورة",
             "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
