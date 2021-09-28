@@ -27,22 +27,22 @@
         "info": "إدارة رسائل البريد الالكتروني التي تستلمها من قبلنا",
         "courseReminders": {
             "title": "تنبيهات الدورة",
-            "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+            "info": "أرسل لي معلومات عن تقدمي، تنبيهات تحفيزية، ومعلومات أخرى عن الكورسات التي انضميت لها"
         },
         "campusNews": {
             "title": "أخبار المنصة",
-            "info": "Send me emails about new learning opportunities and other campus updates."
+            "info": "أرسل لي رسائل حول الفرص التعليمية الجديدة وأخبار المنصة الأخرى."
         },
         "externalOffers": {
             "title": "عروض خارجية",
-            "info": "Send me emails about scholarships, offers, promotions, special events, etc."
+            "info": "أرسل لي رسائل عن المنح الدراسية ، العروض ، الترقيات ، المناسبات الخاصة ، إلخ."
         },
         "unsubscribe": {
-            "title": "You are successfully unsubscribed!",
-            "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-            "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-            "unsubscribing": "Unsubscribing...",
-            "errorMessage": "Unsubscribing failed: {{0}}"
+            "title": "تم إزالة إشتراكك بنجاح",
+            "descriptionHeadline": "لن تستلم منا ايميلات بعد الآن",
+            "descriptionFooter": "اذا اردت أن تخصص اشتراكك برسائل البريد الاكتروني، <من هنا>",
+            "unsubscribing": "إزالة الاشتراك",
+            "errorMessage": "فشلت محاولة ازالة الاشتراك  {{0}}"
         }
     }
 }
