@@ -1,48 +1,48 @@
 {
-  "title": "تبادل البيانات",
-  "info": "تعرض هذه الإعدادات البيانات التي سمحت لـ {{orgDisplayName}} بمشاركتها مع أطراف ثالثة معينة. استخدم الزر 'عرض' للاطلاع على تفاصيل هذه الموافقة أو إبطالها.",
-  "infoConsent": "لم تقم بقبول اي من طلبات الموافقة حتى الآن.",
-  "linkView": "عرض",
-  "linkCancel": "إلغاء",
-  "linkBack": "العودة",
-  "linkAccept": "قبول",
-  "noInfo": "عذرا ، لا توجد معلومات متاحة",
-  "linkBackSettings": "العودة إلى الإعدادات",
-  "titleReceived": "لقد تلقينا موافقتك على",
-  "linkGoSettings": "اذهب للاعدادات",
-  "linkRevoke": "إلغاء",
-  "revokeConsent": {
-    "yes": "نعم",
-    "no": "لا",
-    "title": "هل أنت متأكد أنك تريد إلغاء هذه الموافقة؟",
-    "desc": "بإلغاء هذه الموافقة ، قد تفقد إمكانية الوصول إلى بعض الخدمات التي تقدمها {{orgDisplayName}}.",
-    "goToSettings": "اذهب للاعدادات",
-    "revoked": "إلغاء"
-  },
-  "listItem": {
-    "view": "عرض"
-  },
-  "emailSubscription": {
-    "title": "الاشتراك في البريد الالكتروني",
-    "info": "إدارة رسائل البريد الالكتروني التي تستلمها من قبلنا ",
-    "courseReminders": {
-      "title": "تنبيهات الدورة",
-      "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+    "title": "تبادل البيانات",
+    "info": "تعرض هذه الإعدادات البيانات التي سمحت لـ {{orgDisplayName}} بمشاركتها مع أطراف ثالثة معينة. استخدم الزر 'عرض' للاطلاع على تفاصيل هذه الموافقة أو إبطالها.",
+    "infoConsent": "لم تقم بقبول اي من طلبات الموافقة حتى الآن.",
+    "linkView": "عرض",
+    "linkCancel": "إلغاء",
+    "linkBack": "العودة",
+    "linkAccept": "قبول",
+    "noInfo": "عذرا ، لا توجد معلومات متاحة",
+    "linkBackSettings": "العودة إلى الإعدادات",
+    "titleReceived": "لقد تلقينا موافقتك على",
+    "linkGoSettings": "اذهب للاعدادات",
+    "linkRevoke": "إلغاء",
+    "revokeConsent": {
+        "yes": "نعم",
+        "no": "لا",
+        "title": "هل أنت متأكد أنك تريد إلغاء هذه الموافقة؟",
+        "desc": "بإلغاء هذه الموافقة ، قد تفقد إمكانية الوصول إلى بعض الخدمات التي تقدمها {{orgDisplayName}}.",
+        "goToSettings": "اذهب للاعدادات",
+        "revoked": "إلغاء"
     },
-    "campusNews": {
-      "title": "أخبار المنصة",
-      "info": "Send me emails about new learning opportunities and other campus updates."
+    "listItem": {
+        "view": "عرض"
     },
-    "externalOffers": {
-      "title": "عروض خارجية",
-      "info": "Send me emails about scholarships, offers, promotions, special events, etc."
-    },
-    "unsubscribe": {
-      "title": "You are successfully unsubscribed!",
-      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-      "unsubscribing": "Unsubscribing...",
-      "errorMessage": "Unsubscribing failed: {{0}}"
+    "emailSubscription": {
+        "title": "الاشتراك في البريد الالكتروني",
+        "info": "إدارة رسائل البريد الالكتروني التي تستلمها من قبلنا ",
+        "courseReminders": {
+            "title": "تنبيهات الدورة",
+            "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+        },
+        "campusNews": {
+            "title": "أخبار المنصة",
+            "info": "Send me emails about new learning opportunities and other campus updates."
+        },
+        "externalOffers": {
+            "title": "عروض خارجية",
+            "info": "Send me emails about scholarships, offers, promotions, special events, etc."
+        },
+        "unsubscribe": {
+            "title": "You are successfully unsubscribed!",
+            "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
+            "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
+            "unsubscribing": "Unsubscribing...",
+            "errorMessage": "Unsubscribing failed: {{0}}"
+        }
     }
-  }
 }
