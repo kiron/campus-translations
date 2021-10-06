@@ -35,7 +35,8 @@
     "countryPlaceholder": "Seleccione un país",
     "city": "Ciudad",
     "none": "Ninguno",
-    "btnLabel": "Descubrir otros estudiantes"
+    "btnLabel": "Descubrir otros estudiantes",
+    "searchMsg": "Search for your city and select it from the list"
   },
   "contactDetails": {
     "title": "Información de contacto",

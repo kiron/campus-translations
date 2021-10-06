@@ -35,7 +35,8 @@
     "countryPlaceholder": "یک کشور را انتخاب کن",
     "city": "شهر",
     "none": "هیچ یک",
-    "btnLabel": "دانش آموزان دیگر را پیدا کنید"
+    "btnLabel": "دانش آموزان دیگر را پیدا کنید",
+    "searchMsg": "Search for your city and select it from the list"
   },
   "contactDetails": {
     "title": "اطلاعات تماس",

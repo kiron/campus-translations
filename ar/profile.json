@@ -35,7 +35,8 @@
     "countryPlaceholder": "اختر البلد",
     "city": "المدينة",
     "none": "لا يوجد",
-    "btnLabel": "ابحث عن طلاب آخرين"
+    "btnLabel": "ابحث عن طلاب آخرين",
+    "searchMsg": "Search for your city and select it from the list"
   },
   "contactDetails": {
     "title": "معلومات التواصل",

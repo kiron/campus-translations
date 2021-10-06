@@ -35,7 +35,8 @@
     "countryPlaceholder": "Select a country",
     "city": "City",
     "none": "None",
-    "btnLabel": "Find other students"
+    "btnLabel": "Find other students",
+    "searchMsg": "Search for your city and select it from the list"
   },
   "contactDetails": {
     "title": "Contact information",
