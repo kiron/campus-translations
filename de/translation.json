@@ -252,7 +252,7 @@
     "minutes_plural": "{{0}} Minuten",
     "messageBoard": {
       "description": "Sprich mit anderen Lernenden, stell dich vor und lerne deine Mitstudierenden kennen.",
-      "reportMessage": "Wenn du eine Nachricht siehst, die nicht hierher gehört, weil sie beleidigend, gewalttätig oder wie Spam erscheint, sende bitte eine E-Mail an <1>student-support@kiron.ngo</1>.",
+      "reportMessage": "Wenn du eine Nachricht siehst, die nicht hierher gehört, weil sie beleidigend, gewalttätig oder wie Spam erscheint, sende bitte eine E-Mail an ",
       "messageButton": "Nachricht schicken"
     },
     "verification": {
