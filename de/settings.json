@@ -1,48 +1,48 @@
 {
-  "title": "Datennutzung",
-  "info": "Diese Einstellungen zeigen die Daten, die du {{orgDisplayName}} erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen",
-  "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
-  "linkView": "Anzeigen",
-  "linkCancel": "Abbrechen",
-  "linkBack": "Zurück",
-  "linkAccept": "Zustimmen",
-  "noInfo": "Es sind leider keine Informationen verfügbar",
-  "linkBackSettings": "Zurück zu den Einstellungen",
-  "titleReceived": "Wir haben deine Zustimmung erhalten für",
-  "linkGoSettings": "Zu Einstellungen",
-  "linkRevoke": "Widerrufen",
-  "revokeConsent": {
-    "yes": "Ja",
-    "no": "Nein",
-    "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
-    "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von {{orgDisplayName}} angebotenen Dienste.",
-    "goToSettings": "Zu Einstellungen",
-    "revoked": "Widerrufen"
-  },
-  "listItem": {
-    "view": "Anzeigen"
-  },
-  "emailSubscription": {
-    "title": "Email Abos",
-    "info": "Stelle hier ein, welche Emails du von uns bekommen möchtest. ",
-    "courseReminders": {
-      "title": "Erinnerungen",
-      "info": "Ich möchte Updates zu meinem Fortschritt, motivierende Erinnerungen und andere Informationen zu Kursen, die ich begonnen habe bekommen. "
+    "title": "Datennutzung",
+    "info": "Diese Einstellungen zeigen die Daten, die du {{orgDisplayName}} erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen",
+    "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
+    "linkView": "Anzeigen",
+    "linkCancel": "Abbrechen",
+    "linkBack": "Zurück",
+    "linkAccept": "Zustimmen",
+    "noInfo": "Es sind leider keine Informationen verfügbar",
+    "linkBackSettings": "Zurück zu den Einstellungen",
+    "titleReceived": "Wir haben deine Zustimmung erhalten für",
+    "linkGoSettings": "Zu Einstellungen",
+    "linkRevoke": "Widerrufen",
+    "revokeConsent": {
+        "yes": "Ja",
+        "no": "Nein",
+        "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
+        "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von {{orgDisplayName}} angebotenen Dienste.",
+        "goToSettings": "Zu Einstellungen",
+        "revoked": "Widerrufen"
     },
-    "campusNews": {
-      "title": "Campus Neuigkeiten",
-      "info": "Ich möchte Emails über neue Lernangebote und andere Campus Updates bekommen. "
+    "listItem": {
+        "view": "Anzeigen"
     },
-    "externalOffers": {
-      "title": "Externe Angebote",
-      "info": "Ich möchte Emails mit Infos zu Stipendien, Angeboten, Empfehlungen, besonderen Veranstaltungen, etc. bekommen. "
-    },
-    "unsubscribe": {
-      "title": "Du hast dich erfolgreich abgemeldet",
-      "descriptionHeadline": "Von nun an wirst du folgende Emails nicht mehr von uns bekommen: ",
-      "descriptionFooter": "Wenn du deine Email Abonnements verwalten möchtest <1>klicke hier</1>.",
-      "unsubscribing": "Abmelden...",
-      "errorMessage": "Abmeldung abgebrochen: {{0}}"
+    "emailSubscription": {
+        "title": "Email Abos",
+        "info": "Stelle hier ein, welche Emails du von uns bekommen möchtest. ",
+        "courseReminders": {
+            "title": "Erinnerungen",
+            "info": "Ich möchte Updates zu meinem Fortschritt, motivierende Erinnerungen und andere Informationen zu Kursen, die ich begonnen habe bekommen. "
+        },
+        "campusNews": {
+            "title": "Campus Neuigkeiten",
+            "info": "Ich möchte Emails über neue Lernangebote und andere Campus Updates bekommen. "
+        },
+        "externalOffers": {
+            "title": "Externe Angebote",
+            "info": "Ich möchte Emails mit Infos zu Stipendien, Angeboten, Empfehlungen, besonderen Veranstaltungen, etc. bekommen. "
+        },
+        "unsubscribe": {
+            "title": "Du hast dich erfolgreich abgemeldet",
+            "descriptionHeadline": "Von nun an wirst du folgende Emails nicht mehr von uns bekommen: ",
+            "descriptionFooter": "Wenn du deine Email Abonnements verwalten möchtest <1>klicke hier</1>.",
+            "unsubscribing": "Abmelden...",
+            "errorMessage": "Abmeldung abgebrochen: {{0}}"
+        }
     }
-  }
 }
