@@ -1,48 +1,48 @@
 {
-  "privacy": "Datenschutzrichtlinien",
-  "terms": "Nutzungsbedingungen",
-  "meta": " Kiron Open Higher Education gGmbH",
-  "pleaseWait": "Bitte warten...",
-  "language": "Sprache",
-  "openCampusLink": "Erkunde den Katalog, bevor du dich anmeldest",
-  "initial": {
-    "welcome": "Login",
-    "or": "oder",
-    "labelEmail": "Email",
-    "helperTextEmail": "Benutze 'Weiter mit Google' um dich einzuloggen",
-    "labelPassword": "Dein Passwort",
-    "errorEmail": "Muss eine gültige E-Mail Adresse sein",
-    "errorKironEmail": "Benutze \"Weiter mit Google\" um dich einzuloggen",
-    "buttonLogin": "Login",
-    "forgotPassword": "Passwort vergessen?",
-    "createAccountTitle": "Noch keinen Account vorhanden?",
-    "createAccountLink": "Registrieren",
-    "passwordReset": "Du wirst bald eine Email auf deine persönliche E-Mail Adresse mit deinem neuen Passwort für deinen {{orgDisplayName}} Google Account erhalten.",
-    "sessionTerminated": "Du bist ausgeloggt.",
-    "wrongGoogleAccount": "Du hast den falschen Google Account benutzt um den Campus zu betreten. Bitte stelle sicher, dass du im nächsten Schritt deinen Studierenden-Account benutzt!",
-    "logout": "Du bist ausgeloggt.",
-    "loginFailed": "Login fehlgeschlagen, bitte versuche es erneut.",
-    "loginRequired": "Du musst dich einloggen um diese Seite zu sehen"
-  },
-  "forgotPassword": {
-    "title": "Gib die E-Mail Adresse an, mit der du dich registriert hast",
-    "label": "E-Mail",
-    "button": "Sende mir einen Reset-Link",
-    "statusMessagePending": "Anfrage wird abgeschickt...",
-    "statusMessageError": "Das Zurücksetzen deines Passworts hat nicht funktioniert. Bitte versuche es erneut.",
-    "rememberPasswordLink": "Zurück zum Login",
-    "emailSent": {
-      "title": "Fast fertig!",
-      "description": "Überprüfe deine E-Mail Adresse. Wir senden dir einen Link zu mit dem du dein Passwort zurücksetzen kannst, falls deine E-Mail Adresse bei uns registriert ist.",
-      "asideTitle": "Nichts erhalten?",
-      "asideLink": "Versuche eine andere E-Mail Adresse."
+    "privacy": "Datenschutzrichtlinien",
+    "terms": "Nutzungsbedingungen",
+    "meta": " Kiron Open Higher Education gGmbH",
+    "pleaseWait": "Bitte warten...",
+    "language": "Sprache",
+    "openCampusLink": "Erkunde den Katalog, bevor du dich anmeldest",
+    "initial": {
+        "welcome": "Login",
+        "or": "oder",
+        "labelEmail": "Email",
+        "helperTextEmail": "Benutze 'Weiter mit Google' um dich einzuloggen",
+        "labelPassword": "Dein Passwort",
+        "errorEmail": "Muss eine gültige E-Mail Adresse sein",
+        "errorKironEmail": "Benutze \"Weiter mit Google\" um dich einzuloggen",
+        "buttonLogin": "Login",
+        "forgotPassword": "Passwort vergessen?",
+        "createAccountTitle": "Noch keinen Account vorhanden?",
+        "createAccountLink": "Registrieren",
+        "passwordReset": "Du wirst bald eine Email auf deine persönliche E-Mail Adresse mit deinem neuen Passwort für deinen {{orgDisplayName}} Google Account erhalten.",
+        "sessionTerminated": "Du bist ausgeloggt.",
+        "wrongGoogleAccount": "Du hast den falschen Google Account benutzt um den Campus zu betreten. Bitte stelle sicher, dass du im nächsten Schritt deinen Studierenden-Account benutzt!",
+        "logout": "Du bist ausgeloggt.",
+        "loginFailed": "Login fehlgeschlagen, bitte versuche es erneut.",
+        "loginRequired": "Du musst dich einloggen um diese Seite zu sehen"
+    },
+    "forgotPassword": {
+        "title": "Gib die E-Mail Adresse an, mit der du dich registriert hast",
+        "label": "E-Mail",
+        "button": "Sende mir einen Reset-Link",
+        "statusMessagePending": "Anfrage wird abgeschickt...",
+        "statusMessageError": "Das Zurücksetzen deines Passworts hat nicht funktioniert. Bitte versuche es erneut.",
+        "rememberPasswordLink": "Zurück zum Login",
+        "emailSent": {
+            "title": "Fast fertig!",
+            "description": "Überprüfe deine E-Mail Adresse. Wir senden dir einen Link zu mit dem du dein Passwort zurücksetzen kannst, falls deine E-Mail Adresse bei uns registriert ist.",
+            "asideTitle": "Nichts erhalten?",
+            "asideLink": "Versuche eine andere E-Mail Adresse."
+        }
+    },
+    "resetPassword": {
+        "title": "Neues Passwort erstellen",
+        "label": "Neues Passwort",
+        "submit": "Senden",
+        "passwordChangedTitle": "Passwort geändert!",
+        "login": "Login"
     }
-  },
-  "resetPassword": {
-    "title": "Neues Passwort erstellen",
-    "label": "Neues Passwort",
-    "submit": "Senden",
-    "passwordChangedTitle": "Passwort geändert!",
-    "login": "Login"
-  }
 }
