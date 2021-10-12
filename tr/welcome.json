@@ -1,16 +1,16 @@
 {
-  "slideOne": {
-    "title": "Keşfet",
-    "content": "{{orgDisplayName}} Kampüs'ü keşfet ve online kurslara ücretsiz eriş"
-  },
-  "slideTwo": {
-    "title": "Öğren",
-    "content": "Neyi öğrenmek iştiyorsan seçebilirsin: Web Tasarımı, Python, Online İşletme, Psikoloji, bilgisayar becerileri, İngilizce ve çok daha fazlası!"
-  },
-  "slideThree": {
-    "title": "",
-    "content": "{{orgDisplayName}}'un dünya genelinde 6000'den fazla öğrencisi var. Bu eğitim deneyimini onlarla paylaş."
-  },
-  "buttonActive": "Başla",
-  "buttonLoading": "Yükleniyor"
+    "slideOne": {
+        "title": "Keşfet",
+        "content": "{{orgDisplayName}} Kampüs'ü keşfet ve online kurslara ücretsiz eriş"
+    },
+    "slideTwo": {
+        "title": "Öğren",
+        "content": "Neyi öğrenmek iştiyorsan seçebilirsin: Web Tasarımı, Python, Online İşletme, Psikoloji, bilgisayar becerileri, İngilizce ve çok daha fazlası!"
+    },
+    "slideThree": {
+        "title": "",
+        "content": "{{orgDisplayName}}'un dünya genelinde 6000'den fazla öğrencisi var. Bu eğitim deneyimini onlarla paylaş."
+    },
+    "buttonActive": "Başla",
+    "buttonLoading": "Yükleniyor"
 }
