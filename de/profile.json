@@ -35,7 +35,8 @@
     "countryPlaceholder": "Wähle ein Land",
     "city": "Stadt",
     "none": "Keine",
-    "btnLabel": "Finde andere Studierende"
+    "btnLabel": "Finde andere Studierende",
+    "searchMsg": "Suche nach deiner Stadt und wähle sie aus der List aus"
   },
   "contactDetails": {
     "title": "Kontakt Informationen",

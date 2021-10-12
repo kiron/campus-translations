@@ -35,7 +35,8 @@
     "countryPlaceholder": "یو هیواد غوره کړئ",
     "city": "ښار",
     "none": "هیڅ",
-    "btnLabel": "نور زده کونکي ومومئ"
+    "btnLabel": "نور زده کونکي ومومئ",
+    "searchMsg": "Search for your city and select it from the list"
   },
   "contactDetails": {
     "title": "د اړیکې معلومات",

@@ -35,7 +35,8 @@
     "countryPlaceholder": "Ülke Seç",
     "city": "Şehir",
     "none": "Hiçbiri",
-    "btnLabel": "Diğer öğrencileri bul"
+    "btnLabel": "Diğer öğrencileri bul",
+    "searchMsg": "Search for your city and select it from the list"
   },
   "contactDetails": {
     "title": "İletişim bilgileri",
