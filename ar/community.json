@@ -1,14 +1,14 @@
 {
-  "community": "مجتمع ",
-  "optInTitle": "انضم إلى مجتمع منصة {{orgDisplayName}}",
-  "optInSubtitle": "ستكون صورة ملفك الشخصي واللقب مرئيين للمجتمع",
-  "codeOfConductTitle": "مدونة قواعد السلوك",
-  "codeOfConductSubtitle": "بالمتابعة ، فإنك توافق على <2> مدونة قواعد السلوك </ 2>. شكرًا لك على الحفاظ على كايرن كمساحة آمنة.",
-  "enterButton": "أدخل المجتمع",
-  "profileUpdateSuccess": "تم تحديث ملفك الشخصي بنجاح",
-  "profileUpdateFailure": "كانت هناك مشكلة أثناء تحديث ملفك الخاص.الرجاء المحاول مرة اخرى",
-  "communityAccountFailure": "كانت هناك مشكلة في إنشاء حساب المجتمع الخاص بك. حاول مرة اخرى",
-  "communityAccountLoading": "حسابك قيد الإنشاء",
-  "communityLoadingFailure": "كانت هناك مشكلة في تحميل حساب المجتمع الخاص بك. الرجاء المحاول مرة اخرى",
-  "tryAgain": "حاول ثانية"
+    "community": "مجتمع ",
+    "optInTitle": "انضم إلى مجتمع منصة {{orgDisplayName}}",
+    "optInSubtitle": "ستكون صورة ملفك الشخصي واللقب مرئيين للمجتمع",
+    "codeOfConductTitle": "مدونة قواعد السلوك",
+    "codeOfConductSubtitle": "بالمتابعة ، فإنك توافق على <2> مدونة قواعد السلوك </ 2>. شكرًا لك على الحفاظ على كايرن كمساحة آمنة.",
+    "enterButton": "أدخل المجتمع",
+    "profileUpdateSuccess": "تم تحديث ملفك الشخصي بنجاح",
+    "profileUpdateFailure": "كانت هناك مشكلة أثناء تحديث ملفك الخاص.الرجاء المحاول مرة اخرى",
+    "communityAccountFailure": "كانت هناك مشكلة في إنشاء حساب المجتمع الخاص بك. حاول مرة اخرى",
+    "communityAccountLoading": "حسابك قيد الإنشاء",
+    "communityLoadingFailure": "كانت هناك مشكلة في تحميل حساب المجتمع الخاص بك. الرجاء المحاول مرة اخرى",
+    "tryAgain": "حاول ثانية"
 }
