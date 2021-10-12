@@ -1,11 +1,11 @@
 {
-  "invalidText": "Ups, es sieht so aus, als hättest du das falsche Dokument hochgeladen.",
-  "invalidBtn": "Dokumente erneut hochladen",
-  "invalidWhyUpload": "Warum muss ich meine Dokumente hochladen?",
-  "reviewText": "Unser Team prüft gerade deine Dokumente.",
-  "noUploadText": "Bitte verifiziere dein Konto, um Zugang zu unbegrenzten kostenlosen Kursen und Zertifikaten zu erhalten.",
-  "noUploadTime": "Es dauet nur 5 Minuten.",
-  "noUploadBtn": "Dokumente prüfen",
-  "noUploadImgAlt": "Lade dein Dokumente hoch, um den Flüchtlingsstatus zu erhalten",
-  "noUploadEligible": "Keine Berechtigung? Du kannst trotzdem kostenlos bei uns studieren."
+    "invalidText": "Ups, es sieht so aus, als hättest du das falsche Dokument hochgeladen.",
+    "invalidBtn": "Dokumente erneut hochladen",
+    "invalidWhyUpload": "Warum muss ich meine Dokumente hochladen?",
+    "reviewText": "Unser Team prüft gerade deine Dokumente.",
+    "noUploadText": "Bitte verifiziere dein Konto, um Zugang zu unbegrenzten kostenlosen Kursen und Zertifikaten zu erhalten.",
+    "noUploadTime": "Es dauet nur 5 Minuten.",
+    "noUploadBtn": "Dokumente prüfen",
+    "noUploadImgAlt": "Lade dein Dokumente hoch, um den Flüchtlingsstatus zu erhalten",
+    "noUploadEligible": "Keine Berechtigung? Du kannst trotzdem kostenlos bei uns studieren."
 }
