@@ -1,14 +1,14 @@
 {
-  "community": "انجمن",
-  "optInTitle": "به انجمن پردیس {{1}} بپیوندید",
-  "optInSubtitle": "تصویر نمایه و نام مستعار شما برای جامعه قابل مشاهده خواهد بود",
-  "codeOfConductTitle": "کد رفتار",
-  "codeOfConductSubtitle": "با ادامه دادن با <1> کد رفتار </1> موافقت می کنید. با تشکر از شما برای حفظ امنیت کرون.",
-  "enterButton": "وارد انجمن شوید",
-  "profileUpdateSuccess": "نمایه شما با موفقیت به روز شد",
-  "profileUpdateFailure": "هنگام بروزرسانی نمایه شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
-  "communityAccountFailure": "هنگام ایجاد حساب انجمن شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
-  "communityAccountLoading": "پیکربندی حساب شما ...",
-  "communityLoadingFailure": "هنگام بارگیری حساب انجمن شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
-  "tryAgain": "Try again"
+    "community": "انجمن",
+    "optInTitle": "به انجمن پردیس {{1}} بپیوندید",
+    "optInSubtitle": "تصویر نمایه و نام مستعار شما برای جامعه قابل مشاهده خواهد بود",
+    "codeOfConductTitle": "کد رفتار",
+    "codeOfConductSubtitle": "با ادامه دادن با <1> کد رفتار </1> موافقت می کنید. با تشکر از شما برای حفظ امنیت کرون.",
+    "enterButton": "وارد انجمن شوید",
+    "profileUpdateSuccess": "نمایه شما با موفقیت به روز شد",
+    "profileUpdateFailure": "هنگام بروزرسانی نمایه شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
+    "communityAccountFailure": "هنگام ایجاد حساب انجمن شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
+    "communityAccountLoading": "پیکربندی حساب شما ...",
+    "communityLoadingFailure": "هنگام بارگیری حساب انجمن شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
+    "tryAgain": "Try again"
 }
