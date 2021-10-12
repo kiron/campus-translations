@@ -1,48 +1,48 @@
 {
-  "title": "به اشتراک گذاری داده ها",
-  "info": "این تنظیمات داده هایی را نشان می دهد که به Kiron اجازه داده اید با اشخاص ثالث خاصی به اشتراک بگذارد. از دکمه «مشاهده» برای مشاهده جزئیات یا لغو رضایت نامه استفاده کنید.",
-  "infoConsent": "شما هنوز هیچ گونه درخواست رضایت را نپذیرفته اید.",
-  "linkView": "چشم انداز",
-  "linkCancel": "لغو کنید",
-  "linkBack": "برگرد",
-  "linkAccept": "تایید کنید",
-  "noInfo": "متأسفانه هیچ اطلاعاتی در دسترس نیست",
-  "linkBackSettings": "بازگشت به تنظیمات",
-  "titleReceived": "ما موافقت شما را برای دریافت کرده ایم",
-  "linkGoSettings": "به تنظیمات بروید",
-  "linkRevoke": "ابطال کنید",
-  "revokeConsent": {
-    "yes": "آره",
-    "no": "خیر",
-    "title": "آیا مطمئن هستید که می خواهید این رضایت را لغو کنید؟",
-    "desc": "با لغو این رضایت ممکن است دسترسی به برخی از خدمات ارائه شده توسط Kiron را از دست بدهید.",
-    "goToSettings": "به تنظیمات بروید",
-    "revoked": "ابطال شد"
-  },
-  "listItem": {
-    "view": "چشم انداز"
-  },
-  "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
-    "courseReminders": {
-      "title": "Reminders",
-      "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+    "title": "به اشتراک گذاری داده ها",
+    "info": "این تنظیمات داده هایی را نشان می دهد که به Kiron اجازه داده اید با اشخاص ثالث خاصی به اشتراک بگذارد. از دکمه «مشاهده» برای مشاهده جزئیات یا لغو رضایت نامه استفاده کنید.",
+    "infoConsent": "شما هنوز هیچ گونه درخواست رضایت را نپذیرفته اید.",
+    "linkView": "چشم انداز",
+    "linkCancel": "لغو کنید",
+    "linkBack": "برگرد",
+    "linkAccept": "تایید کنید",
+    "noInfo": "متأسفانه هیچ اطلاعاتی در دسترس نیست",
+    "linkBackSettings": "بازگشت به تنظیمات",
+    "titleReceived": "ما موافقت شما را برای دریافت کرده ایم",
+    "linkGoSettings": "به تنظیمات بروید",
+    "linkRevoke": "ابطال کنید",
+    "revokeConsent": {
+        "yes": "آره",
+        "no": "خیر",
+        "title": "آیا مطمئن هستید که می خواهید این رضایت را لغو کنید؟",
+        "desc": "با لغو این رضایت ممکن است دسترسی به برخی از خدمات ارائه شده توسط Kiron را از دست بدهید.",
+        "goToSettings": "به تنظیمات بروید",
+        "revoked": "ابطال شد"
     },
-    "campusNews": {
-      "title": "Campus News",
-      "info": "Send me emails about new learning opportunities and other campus updates."
+    "listItem": {
+        "view": "چشم انداز"
     },
-    "externalOffers": {
-      "title": "External Offers",
-      "info": "Send me emails about scholarships, offers, promotions, special events, etc."
-    },
-    "unsubscribe": {
-      "title": "You are successfully unsubscribed!",
-      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-      "unsubscribing": "Unsubscribing...",
-      "errorMessage": "Unsubscribing failed: {{0}}"
+    "emailSubscription": {
+        "title": "Email Subscription",
+        "info": "Manage the emails you receive from us.",
+        "courseReminders": {
+            "title": "Reminders",
+            "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+        },
+        "campusNews": {
+            "title": "Campus News",
+            "info": "Send me emails about new learning opportunities and other campus updates."
+        },
+        "externalOffers": {
+            "title": "External Offers",
+            "info": "Send me emails about scholarships, offers, promotions, special events, etc."
+        },
+        "unsubscribe": {
+            "title": "You are successfully unsubscribed!",
+            "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
+            "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
+            "unsubscribing": "Unsubscribing...",
+            "errorMessage": "Unsubscribing failed: {{0}}"
+        }
     }
-  }
 }
