@@ -1,147 +1,147 @@
 {
-  "reviewInProgress": {
-    "title": "Überprüfung in Arbeit",
-    "hello": "Hallo, ",
-    "descriptionJSX": "Vielen Dank, dass du deine Dokumente hochgeladen hast. Wir werden diese nun überprüfen und du wirst in den nächsten drei Tagen eine E-Mail von uns erhalten. In der Zwischenzeit kannst du bereits deine Module auf der <1>Explore Seite</1> auswählen oder andere Lernende in deiner Umgebung <3>auf der Community Seite</3> sehen."
-  },
-  "uploadDocumentTitle": "Dokument hochladen",
-  "description01": "Scanne oder mache ein Foto von deinen Dokumenten und lade sie hier hoch. Achte darauf, dass alle wichtigen Informationen gut sichtbar sind. Prüfe unsere ",
-  "description02": "Empfehlung ",
-  "description03": "um in der besten Qualität hochzuladen.",
-  "upload": "Klicke hier oder ziehe deine Dateien hier hin umd deine Dokumente hochzuladen.",
-  "button": "Senden",
-  "buttonContinue": "Weiter studieren",
-  "uploadSuccessfulDescription": "Vielen Dank für das Hochladen deiner Dokumente. Wir werden deine Dokumente nun überprüfen du wirst in den nächsten drei Tagen eine E-Mail von uns erhalten.",
-  "modal": {
-    "yes": "KORREKT",
-    "yesDescription": "Lade nur deine offiziellen Dokumente hoch. Dein vollständiger Name, Geburtsdatum, und das Ablaufsdatum sollte klar erkennbar sein.",
-    "no": "FALSCH",
-    "noDescription": "lade nichts hoch, was nicht ein offzielles Dokument ist, wie etwa dein Lebenslauf, ein Bild von dir, eine Flagge oder irgendein anderes Foto."
-  },
-  "doucmentGuideTitle": "Dokument Anleitung",
-  "documentAlternate": {
-    "part01": "Du hast keins dieser Dokumente? Kein Problem, du kannst ein ähnliches Dokument hochladen und wir werden dieses überprüfen. Klicke auf ",
-    "part02": "{{orgDisplayName}} Help Center",
-    "part03": "für weitere Informationen.",
-    "part04": "{{orgDisplayName}} wird deine Dokumente auf einem sicheren Server speichern und diese nicht mit Anderen teilen. ",
-    "part05": "Finde heraus, warum wir deine Dokumente benötigen "
-  },
-  "sampleDocuments": {
-    "title": "Bitte lade deinen Reisepass oder eine andere Form der Identifikation hoch. Siehe hier ein paar Beispiele:",
-    "germanRefugees": {
-      "infoPoints": [
-        "BüMA (Antrag auf Asyl)",
-        "Aufenthaltsgestattung",
-        "Aufenthaltserlaubnis",
-        "Duldung",
-        "Fiktionsbescheinigung",
-        "Subsidiärer Schutz"
-      ],
-      "docImageTitles": {
-        "aufenthaltsgestattung": "Aufenthaltsgestattung",
-        "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
-        "duldung": "Duldung"
-      }
+    "reviewInProgress": {
+        "title": "Überprüfung in Arbeit",
+        "hello": "Hallo, ",
+        "descriptionJSX": "Vielen Dank, dass du deine Dokumente hochgeladen hast. Wir werden diese nun überprüfen und du wirst in den nächsten drei Tagen eine E-Mail von uns erhalten. In der Zwischenzeit kannst du bereits deine Module auf der <1>Explore Seite</1> auswählen oder andere Lernende in deiner Umgebung <3>auf der Community Seite</3> sehen."
     },
-    "jordanianRefugees": {
-      "infoPoints": [
-        "UNHCR-Ausweis",
-        "UNRWA (Palästinenser)",
-        "Ausweis durch die jordanische Regierung"
-      ],
-      "docImageTitles": {
-        "unhcrCard": "UNHCR-Ausweis",
-        "unhcrAsylum": "UNHCR-Asyl"
-      }
+    "uploadDocumentTitle": "Dokument hochladen",
+    "description01": "Scanne oder mache ein Foto von deinen Dokumenten und lade sie hier hoch. Achte darauf, dass alle wichtigen Informationen gut sichtbar sind. Prüfe unsere ",
+    "description02": "Empfehlung ",
+    "description03": "um in der besten Qualität hochzuladen.",
+    "upload": "Klicke hier oder ziehe deine Dateien hier hin umd deine Dokumente hochzuladen.",
+    "button": "Senden",
+    "buttonContinue": "Weiter studieren",
+    "uploadSuccessfulDescription": "Vielen Dank für das Hochladen deiner Dokumente. Wir werden deine Dokumente nun überprüfen du wirst in den nächsten drei Tagen eine E-Mail von uns erhalten.",
+    "modal": {
+        "yes": "KORREKT",
+        "yesDescription": "Lade nur deine offiziellen Dokumente hoch. Dein vollständiger Name, Geburtsdatum, und das Ablaufsdatum sollte klar erkennbar sein.",
+        "no": "FALSCH",
+        "noDescription": "lade nichts hoch, was nicht ein offzielles Dokument ist, wie etwa dein Lebenslauf, ein Bild von dir, eine Flagge oder irgendein anderes Foto."
     },
-    "jordanianIDPs": {
-      "infoPoints": [
-        "ID-Ausweis هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID-Ausweis  هوية شخصية",
-        "passport": "Reisepass  جواز سفر"
-      }
+    "doucmentGuideTitle": "Dokument Anleitung",
+    "documentAlternate": {
+        "part01": "Du hast keins dieser Dokumente? Kein Problem, du kannst ein ähnliches Dokument hochladen und wir werden dieses überprüfen. Klicke auf ",
+        "part02": "{{orgDisplayName}} Help Center",
+        "part03": "für weitere Informationen.",
+        "part04": "{{orgDisplayName}} wird deine Dokumente auf einem sicheren Server speichern und diese nicht mit Anderen teilen. ",
+        "part05": "Finde heraus, warum wir deine Dokumente benötigen "
     },
-    "lebaneseRefugees": {
-      "infoPoints": [
-        "UNHCR-Ausweis",
-        "UNRWA-Dokument"
-      ],
-      "docImageTitles": {
-        "unhcrDocument": "UNHCR-Dokument",
-        "unrwaDocument": "UNRWA-Dokument"
-      }
+    "sampleDocuments": {
+        "title": "Bitte lade deinen Reisepass oder eine andere Form der Identifikation hoch. Siehe hier ein paar Beispiele:",
+        "germanRefugees": {
+            "infoPoints": [
+                "BüMA (Antrag auf Asyl)",
+                "Aufenthaltsgestattung",
+                "Aufenthaltserlaubnis",
+                "Duldung",
+                "Fiktionsbescheinigung",
+                "Subsidiärer Schutz"
+            ],
+            "docImageTitles": {
+                "aufenthaltsgestattung": "Aufenthaltsgestattung",
+                "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
+                "duldung": "Duldung"
+            }
+        },
+        "jordanianRefugees": {
+            "infoPoints": [
+                "UNHCR-Ausweis",
+                "UNRWA (Palästinenser)",
+                "Ausweis durch die jordanische Regierung"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "UNHCR-Ausweis",
+                "unhcrAsylum": "UNHCR-Asyl"
+            }
+        },
+        "jordanianIDPs": {
+            "infoPoints": [
+                "ID-Ausweis هوية شخصية",
+                "Reisepass جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID-Ausweis  هوية شخصية",
+                "passport": "Reisepass  جواز سفر"
+            }
+        },
+        "lebaneseRefugees": {
+            "infoPoints": [
+                "UNHCR-Ausweis",
+                "UNRWA-Dokument"
+            ],
+            "docImageTitles": {
+                "unhcrDocument": "UNHCR-Dokument",
+                "unrwaDocument": "UNRWA-Dokument"
+            }
+        },
+        "lebaneseIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Reisepass جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID هوية شخصية",
+                "passport": "Reisepass جواز سفر"
+            }
+        },
+        "yemenisIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Reisepass جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID-Ausweis",
+                "passport": "Reisepass"
+            }
+        },
+        "syrianIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Reisepass جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID-Ausweis",
+                "passport": "Reisepass"
+            }
+        },
+        "turkishIDPs": {
+            "infoPoints": [
+                "Temporärer Schutz",
+                "Aufenthaltserlaubnis",
+                "UNHCR-Dokument"
+            ],
+            "docImageTitles": {
+                "temporaryProtection": "Temporärer Schutz",
+                "residencePermit": "Aufenthaltserlaubnis",
+                "unhcrDocument": "UNHCR-Dokument"
+            }
+        },
+        "sudanisIPDs": {
+            "infoPoints": [
+                "Reisepass",
+                "IDP Darfur-Dokument",
+                "IDP Ausweis"
+            ],
+            "docImageTitles": {
+                "passport": "Reisepass",
+                "idpDarfurDocument": "IDP Darfur-Dokument",
+                "idpCard": "IDP Ausweis"
+            }
+        },
+        "default": {
+            "infoPoints": [
+                "Flüchtlingsstatus",
+                "Asylantrag",
+                "IDP Ausweis",
+                "UNHCR-Dokument"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "UNHCR Ausweis",
+                "unhcrFamily": "UNHCR Familie",
+                "kenyaRefugeeCard": "Kenya Flüchtlingsausweis"
+            }
+        }
     },
-    "lebaneseIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID هوية شخصية",
-        "passport": "Reisepass جواز سفر"
-      }
-    },
-    "yemenisIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID-Ausweis",
-        "passport": "Reisepass"
-      }
-    },
-    "syrianIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID-Ausweis",
-        "passport": "Reisepass"
-      }
-    },
-    "turkishIDPs": {
-      "infoPoints": [
-        "Temporärer Schutz",
-        "Aufenthaltserlaubnis",
-        "UNHCR-Dokument"
-      ],
-      "docImageTitles": {
-        "temporaryProtection": "Temporärer Schutz",
-        "residencePermit": "Aufenthaltserlaubnis",
-        "unhcrDocument": "UNHCR-Dokument"
-      }
-    },
-    "sudanisIPDs": {
-      "infoPoints": [
-        "Reisepass",
-        "IDP Darfur-Dokument",
-        "IDP Ausweis"
-      ],
-      "docImageTitles": {
-        "passport": "Reisepass",
-        "idpDarfurDocument": "IDP Darfur-Dokument",
-        "idpCard": "IDP Ausweis"
-      }
-    },
-    "default": {
-      "infoPoints": [
-        "Flüchtlingsstatus",
-        "Asylantrag",
-        "IDP Ausweis",
-        "UNHCR-Dokument"
-      ],
-      "docImageTitles": {
-          "unhcrCard": "UNHCR Ausweis",
-          "unhcrFamily": "UNHCR Familie",
-          "kenyaRefugeeCard": "Kenya Flüchtlingsausweis"
-      }
-    }
-  },
-  "backWarningBtn": "Zurück zum Profil",
-  "warningTextNationality": "Bitte gib vor dem erneuten Hochladen deiner Dokumente deine Nationalität in deinem Profil ein "
+    "backWarningBtn": "Zurück zum Profil",
+    "warningTextNationality": "Bitte gib vor dem erneuten Hochladen deiner Dokumente deine Nationalität in deinem Profil ein "
 }
