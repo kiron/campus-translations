@@ -1,37 +1,37 @@
 {
-  "upcomingSessions": {
-    "title": "Bald verfügbar",
-    "subtitle": "Live sessions in den nächsten 3 Tagen"
-  },
-  "allSessions": {
-    "title": "Auf deinem Plan",
-    "subtitle": "All deine Live sessions"
-  },
-  "moduleLiveCard": {
-    "title": "Weiter geht's!",
-    "subtitle": "Deine Live session hat angefangen",
-    "live": "LIVE",
-    "cta": "Mach mit"
-  },
-  "moduleSessionCard": {
-    "at": "um",
-    "more": "Und {{0}} weitere Live session",
-    "more_plural": "Und {{0}} weitere Live sessions",
-    "today": "Heute",
-    "startTime": "{{- 0}} um {{1}}"
-  },
-  "weekdays": {
-    "1": "Montag",
-    "2": "Dienstag",
-    "3": "Mittwoch",
-    "4": "Donnerstag",
-    "5": "Freitag",
-    "6": "Samstag",
-    "7": "Sonntag"
-  },
-  "card": {
-    "online": "Online",
-    "type": "Veranstaltung",
-    "endsAt": "Endet um"
-  }
+    "upcomingSessions": {
+        "title": "Bald verfügbar",
+        "subtitle": "Live sessions in den nächsten 3 Tagen"
+    },
+    "allSessions": {
+        "title": "Auf deinem Plan",
+        "subtitle": "All deine Live sessions"
+    },
+    "moduleLiveCard": {
+        "title": "Weiter geht's!",
+        "subtitle": "Deine Live session hat angefangen",
+        "live": "LIVE",
+        "cta": "Mach mit"
+    },
+    "moduleSessionCard": {
+        "at": "um",
+        "more": "Und {{0}} weitere Live session",
+        "more_plural": "Und {{0}} weitere Live sessions",
+        "today": "Heute",
+        "startTime": "{{- 0}} um {{1}}"
+    },
+    "weekdays": {
+        "1": "Montag",
+        "2": "Dienstag",
+        "3": "Mittwoch",
+        "4": "Donnerstag",
+        "5": "Freitag",
+        "6": "Samstag",
+        "7": "Sonntag"
+    },
+    "card": {
+        "online": "Online",
+        "type": "Veranstaltung",
+        "endsAt": "Endet um"
+    }
 }
