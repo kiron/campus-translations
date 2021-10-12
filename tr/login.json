@@ -1,48 +1,48 @@
 {
-  "privacy": "Gizlilik Politikası",
-  "terms": "Kullanım Şartları",
-  "meta": " Kiron Open Higher Education gGmbH",
-  "pleaseWait": "Lütfen bekleyin...",
-  "language": "Dil",
-  "openCampusLink": "kaydolmadan önce kataloğu inceleyin",
-  "initial": {
-    "welcome": "Oturum aç",
-    "or": "ya da",
-    "labelEmail": "Eposta",
-    "helperTextEmail": "Giriş yapmak için ''Continue with Google'' seçeneğini kullanabilirsin",
-    "labelPassword": "Parolan",
-    "errorEmail": "Geçerli bir e-posta adresi olmalı",
-    "errorKironEmail": "Giriş yapmak için lütfen \"Continue with Google\" kullan",
-    "buttonLogin": "Oturum aç",
-    "forgotPassword": "Parolanı mı Unuttun?",
-    "createAccountTitle": "Henüz hesabın yok mu?",
-    "createAccountLink": "Kaydol",
-    "passwordReset": "Kısa bir süre içinde {{orgDisplayName}} Google Hesabın için yeni bir şifre içeren bir e-posta alacaksın",
-    "sessionTerminated": "Çıkış yaptın.",
-    "wrongGoogleAccount": "Kampüse erişmek için yanlış Google hesabını kullandın. Lütfen bir sonraki adımda öğrenci hesabını seçtiğinden emin ol!",
-    "logout": "Çıkış yaptın.",
-    "loginFailed": "Oturum açılamadı, lütfen tekrar dene.",
-    "loginRequired": "Bu sayfayı görmek için giriş yapmalısınız"
-  },
-  "forgotPassword": {
-    "title": "Kayıt için kullandığın e-posta adresini gir",
-    "label": "Eposta",
-    "button": "Bana sıfırlama bağlantısını gönder.",
-    "statusMessagePending": "İsteğin gönderiliyor...",
-    "statusMessageError": "Şifre sıfırlama başarısız oldu. Lütfen tekrar dene.",
-    "rememberPasswordLink": "Oturum açmaya geri dön",
-    "emailSent": {
-      "title": "Neredeyse bitti!",
-      "description": "E-postanı kontrol et. E-posta adresiniz bize kayıtlıysa, şifrenizi sıfırlamanız için bir bağlantı göndereceğiz.",
-      "asideTitle": "Hiçbir şey gelmedi mi?",
-      "asideLink": "Farklı bir eposta adresi dene."
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "meta": " Kiron Open Higher Education gGmbH",
+    "pleaseWait": "Lütfen bekleyin...",
+    "language": "Dil",
+    "openCampusLink": "kaydolmadan önce kataloğu inceleyin",
+    "initial": {
+        "welcome": "Oturum aç",
+        "or": "ya da",
+        "labelEmail": "Eposta",
+        "helperTextEmail": "Giriş yapmak için ''Continue with Google'' seçeneğini kullanabilirsin",
+        "labelPassword": "Parolan",
+        "errorEmail": "Geçerli bir e-posta adresi olmalı",
+        "errorKironEmail": "Giriş yapmak için lütfen \"Continue with Google\" kullan",
+        "buttonLogin": "Oturum aç",
+        "forgotPassword": "Parolanı mı Unuttun?",
+        "createAccountTitle": "Henüz hesabın yok mu?",
+        "createAccountLink": "Kaydol",
+        "passwordReset": "Kısa bir süre içinde {{orgDisplayName}} Google Hesabın için yeni bir şifre içeren bir e-posta alacaksın",
+        "sessionTerminated": "Çıkış yaptın.",
+        "wrongGoogleAccount": "Kampüse erişmek için yanlış Google hesabını kullandın. Lütfen bir sonraki adımda öğrenci hesabını seçtiğinden emin ol!",
+        "logout": "Çıkış yaptın.",
+        "loginFailed": "Oturum açılamadı, lütfen tekrar dene.",
+        "loginRequired": "Bu sayfayı görmek için giriş yapmalısınız"
+    },
+    "forgotPassword": {
+        "title": "Kayıt için kullandığın e-posta adresini gir",
+        "label": "Eposta",
+        "button": "Bana sıfırlama bağlantısını gönder.",
+        "statusMessagePending": "İsteğin gönderiliyor...",
+        "statusMessageError": "Şifre sıfırlama başarısız oldu. Lütfen tekrar dene.",
+        "rememberPasswordLink": "Oturum açmaya geri dön",
+        "emailSent": {
+            "title": "Neredeyse bitti!",
+            "description": "E-postanı kontrol et. E-posta adresiniz bize kayıtlıysa, şifrenizi sıfırlamanız için bir bağlantı göndereceğiz.",
+            "asideTitle": "Hiçbir şey gelmedi mi?",
+            "asideLink": "Farklı bir eposta adresi dene."
+        }
+    },
+    "resetPassword": {
+        "title": "Yeni bir parola oluştur",
+        "label": "Yeni parola",
+        "submit": "Gönder",
+        "passwordChangedTitle": "Parola değiştirildi!",
+        "login": "Oturum aç"
     }
-  },
-  "resetPassword": {
-    "title": "Yeni bir parola oluştur",
-    "label": "Yeni parola",
-    "submit": "Gönder",
-    "passwordChangedTitle": "Parola değiştirildi!",
-    "login": "Oturum aç"
-  }
 }
