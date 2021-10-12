@@ -1,16 +1,16 @@
 {
-  "slideOne": {
-    "title": "Discover",
-    "content": "Discover {{orgDisplayName}} Campus and get access to online courses for free"
-  },
-  "slideTwo": {
-    "title": "Learn",
-    "content": "You can choose what you want to study: Web Design, Python, Online Business, Psychology, IT skills, English, and many more!"
-  },
-  "slideThree": {
-    "title": "Connect",
-    "content": "More than 6.000 students around the world are a part of {{orgDisplayName}}. Share your study experience with them."
-  },
-  "buttonActive": "Get Started",
-  "buttonLoading": "Loading"
+    "slideOne": {
+        "title": "Discover",
+        "content": "Discover {{orgDisplayName}} Campus and get access to online courses for free"
+    },
+    "slideTwo": {
+        "title": "Learn",
+        "content": "You can choose what you want to study: Web Design, Python, Online Business, Psychology, IT skills, English, and many more!"
+    },
+    "slideThree": {
+        "title": "Connect",
+        "content": "More than 6.000 students around the world are a part of {{orgDisplayName}}. Share your study experience with them."
+    },
+    "buttonActive": "Get Started",
+    "buttonLoading": "Loading"
 }
