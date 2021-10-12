@@ -1,48 +1,48 @@
 {
-  "privacy": "Política de privacidad",
-  "terms": "Términos de servicio",
-  "meta": "Kiron Open Higher Education gGmbH",
-  "pleaseWait": "Por favor, espere...",
-  "language": "Idioma",
-  "openCampusLink": "Explore the catalog before signing up",
-  "initial": {
-    "welcome": "Acceder",
-    "or": "o",
-    "labelEmail": "Correo electrónico",
-    "helperTextEmail": "Puede usar 'Continuar con Google' para acceder",
-    "labelPassword": "Su contraseña",
-    "errorEmail": "Su correo electrónico debe ser válido",
-    "errorKironEmail": "Por favor, use \"Continuar con Google\" para acceder",
-    "buttonLogin": "Acceder",
-    "forgotPassword": "¿Ha olvidado su contraseña?",
-    "createAccountTitle": "¿No tiene una cuenta de {{orgDisplayName}}?",
-    "createAccountLink": "Regístrese",
-    "passwordReset": "Pronto recibirá un correo electrónico en su bandeja de entrada con una nueva contraseña para su cuenta de {{orgDisplayName}}.",
-    "sessionTerminated": "Su sesión no está activa.",
-    "wrongGoogleAccount": "Ha usado un correo electrónico de Google equivocado para acceder a {{orgDisplayName}} Campus. Por favor, asegúrese de elegir su cuenta de estudiante en el siguiente paso.",
-    "logout": "Su sesión no está activa.",
-    "loginFailed": "El acceso no ha funcionado. Por favor, inténtelo otra vez.",
-    "loginRequired": "You must log in to view this page"
-  },
-  "forgotPassword": {
-    "title": "Escriba la dirección de correo electrónico que utilizó para registrarse",
-    "label": "Correo electrónico",
-    "button": "Recibir enlace para renovar mi contraseña",
-    "statusMessagePending": "Procesando su petición...",
-    "statusMessageError": "La renovación de su contraseña no ha funcionado. Por favor, inténtelo de nuevo.",
-    "rememberPasswordLink": "Volver a la página de acceso",
-    "emailSent": {
-      "title": "¡Ya casi estamos!",
-      "description": "Échele un vistazo a su bandeja de entrada. Vamos a enviarle un enlace para renovar su contraseña si su cuenta de correo electrónico está registrada con nosotros.",
-      "asideTitle": "¿No ha recibido nada?",
-      "asideLink": "Pruebe con una cuenta de correo electrónico diferente."
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "meta": "Kiron Open Higher Education gGmbH",
+    "pleaseWait": "Por favor, espere...",
+    "language": "Idioma",
+    "openCampusLink": "Explore the catalog before signing up",
+    "initial": {
+        "welcome": "Acceder",
+        "or": "o",
+        "labelEmail": "Correo electrónico",
+        "helperTextEmail": "Puede usar 'Continuar con Google' para acceder",
+        "labelPassword": "Su contraseña",
+        "errorEmail": "Su correo electrónico debe ser válido",
+        "errorKironEmail": "Por favor, use \"Continuar con Google\" para acceder",
+        "buttonLogin": "Acceder",
+        "forgotPassword": "¿Ha olvidado su contraseña?",
+        "createAccountTitle": "¿No tiene una cuenta de {{orgDisplayName}}?",
+        "createAccountLink": "Regístrese",
+        "passwordReset": "Pronto recibirá un correo electrónico en su bandeja de entrada con una nueva contraseña para su cuenta de {{orgDisplayName}}.",
+        "sessionTerminated": "Su sesión no está activa.",
+        "wrongGoogleAccount": "Ha usado un correo electrónico de Google equivocado para acceder a {{orgDisplayName}} Campus. Por favor, asegúrese de elegir su cuenta de estudiante en el siguiente paso.",
+        "logout": "Su sesión no está activa.",
+        "loginFailed": "El acceso no ha funcionado. Por favor, inténtelo otra vez.",
+        "loginRequired": "You must log in to view this page"
+    },
+    "forgotPassword": {
+        "title": "Escriba la dirección de correo electrónico que utilizó para registrarse",
+        "label": "Correo electrónico",
+        "button": "Recibir enlace para renovar mi contraseña",
+        "statusMessagePending": "Procesando su petición...",
+        "statusMessageError": "La renovación de su contraseña no ha funcionado. Por favor, inténtelo de nuevo.",
+        "rememberPasswordLink": "Volver a la página de acceso",
+        "emailSent": {
+            "title": "¡Ya casi estamos!",
+            "description": "Échele un vistazo a su bandeja de entrada. Vamos a enviarle un enlace para renovar su contraseña si su cuenta de correo electrónico está registrada con nosotros.",
+            "asideTitle": "¿No ha recibido nada?",
+            "asideLink": "Pruebe con una cuenta de correo electrónico diferente."
+        }
+    },
+    "resetPassword": {
+        "title": "Crear contraseña nueva",
+        "label": "Contraseña nueva",
+        "submit": "Guardar",
+        "passwordChangedTitle": "Su contraseña ha cambiado correctamente",
+        "login": "Acceder"
     }
-  },
-  "resetPassword": {
-    "title": "Crear contraseña nueva",
-    "label": "Contraseña nueva",
-    "submit": "Guardar",
-    "passwordChangedTitle": "Su contraseña ha cambiado correctamente",
-    "login": "Acceder"
-  }
 }
