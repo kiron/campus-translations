@@ -1,8 +1,8 @@
 {
-  "slotsLeft": "{{slots}} سلاټونه پاتې دي",
-  "registerUntil": "تر {{deadline}} پورې نوم لیکنه وکړئ",
-  "registerToday": "د نوم لیکنې وروستۍ نیټه",
-  "seeAllDates": "ټولې نیټې وګورئ",
-  "registerButton": "نوم لیکنه",
-  "registerNowButton": "اوس ې ثبت کړه"
+    "slotsLeft": "{{slots}} سلاټونه پاتې دي",
+    "registerUntil": "تر {{deadline}} پورې نوم لیکنه وکړئ",
+    "registerToday": "د نوم لیکنې وروستۍ نیټه",
+    "seeAllDates": "ټولې نیټې وګورئ",
+    "registerButton": "نوم لیکنه",
+    "registerNowButton": "اوس ې ثبت کړه"
 }
