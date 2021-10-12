@@ -1,11 +1,11 @@
 {
-  "invalidText": "Eyvah, görünen o ki yanlış belgeyi yükledin.",
-  "invalidBtn": "Belgeleri tekrar yükle",
-  "invalidWhyUpload": "Neden belgelerimi yüklemeliyim?",
-  "reviewText": "Ekibimiz şu an belgeni inceliyor.",
-  "noUploadText": "Ücretsiz kurslara ve sertifikalara sınırsız erişim için lütfen hesabını doğrula.",
-  "noUploadTime": "Yalnızca 5 dakikanı alacak.",
-  "noUploadBtn": "Belgeleri doğrula",
-  "noUploadImgAlt": "Mülteci statüsünü elde etmek için belgelerini yükle ",
-  "noUploadEligible": "Mülteci statüsünü elde etmek için belgelerini yükle."
+    "invalidText": "Eyvah, görünen o ki yanlış belgeyi yükledin.",
+    "invalidBtn": "Belgeleri tekrar yükle",
+    "invalidWhyUpload": "Neden belgelerimi yüklemeliyim?",
+    "reviewText": "Ekibimiz şu an belgeni inceliyor.",
+    "noUploadText": "Ücretsiz kurslara ve sertifikalara sınırsız erişim için lütfen hesabını doğrula.",
+    "noUploadTime": "Yalnızca 5 dakikanı alacak.",
+    "noUploadBtn": "Belgeleri doğrula",
+    "noUploadImgAlt": "Mülteci statüsünü elde etmek için belgelerini yükle ",
+    "noUploadEligible": "Mülteci statüsünü elde etmek için belgelerini yükle."
 }
