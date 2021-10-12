@@ -1,37 +1,37 @@
 {
-  "upcomingSessions": {
-    "title": "Yakında geliyor",
-    "subtitle": "Bugünden itibaren 3 gün içerisinde canlı oturumlar "
-  },
-  "allSessions": {
-    "title": "Programınızda",
-    "subtitle": "Bütün canlı oturumlarırınız"
-  },
-  "moduleLiveCard": {
-    "title": "Devam edelim",
-    "subtitle": "Canlı oturumunuz başladı",
-    "live": "CANLI",
-    "cta": "Şimdi katıl "
-  },
-  "moduleSessionCard": {
-    "at": "at",
-    "more": "Ve {{0}} tane daha CANLI oturum ",
-    "more_plural": "Ve {{0}} tane daha CANLI oturum ",
-    "today": "Bugün",
-    "startTime": "{{- 0}} günü öğleden sonra saat {{1}}'te"
-  },
-  "weekdays": {
-    "1": "Pazartesi",
-    "2": "Salı",
-    "3": "Çarşamba",
-    "4": "Perşembe",
-    "5": "Cuma",
-    "6": "Cumartesi",
-    "7": "Pazar"
-  },
-  "card": {
-    "online": "Çevrimiçi",
-    "type": "Etkinlik",
-    "endsAt": "Endet um"
-  }
+    "upcomingSessions": {
+        "title": "Yakında geliyor",
+        "subtitle": "Bugünden itibaren 3 gün içerisinde canlı oturumlar "
+    },
+    "allSessions": {
+        "title": "Programınızda",
+        "subtitle": "Bütün canlı oturumlarırınız"
+    },
+    "moduleLiveCard": {
+        "title": "Devam edelim",
+        "subtitle": "Canlı oturumunuz başladı",
+        "live": "CANLI",
+        "cta": "Şimdi katıl "
+    },
+    "moduleSessionCard": {
+        "at": "at",
+        "more": "Ve {{0}} tane daha CANLI oturum ",
+        "more_plural": "Ve {{0}} tane daha CANLI oturum ",
+        "today": "Bugün",
+        "startTime": "{{- 0}} günü öğleden sonra saat {{1}}'te"
+    },
+    "weekdays": {
+        "1": "Pazartesi",
+        "2": "Salı",
+        "3": "Çarşamba",
+        "4": "Perşembe",
+        "5": "Cuma",
+        "6": "Cumartesi",
+        "7": "Pazar"
+    },
+    "card": {
+        "online": "Çevrimiçi",
+        "type": "Etkinlik",
+        "endsAt": "Endet um"
+    }
 }
