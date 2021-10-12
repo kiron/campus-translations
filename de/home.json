@@ -50,5 +50,7 @@
     "loadMore": "Mehr laden",
     "memberSince": "Mitglied seit {{year}}",
     "more": "mehr",
-    "noStudents": "Noch keine Lernenden"
+    "noStudents": "Noch keine Lernenden",
+    "mentoringDesciption": "",
+    "mentoringTitle": ""
 }
