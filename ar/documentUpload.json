@@ -1,147 +1,147 @@
 {
-  "reviewInProgress": {
-    "title": "المراجعة قيد التقدم",
-    "hello": "مرحبا،, ",
-    "descriptionJSX": "شكرا لك على تحميل وثيقتك. نحن نراجعه الآن وستتلقى رسالة بريد إلكتروني منا في الأيام الثلاثة القادمة. في هذه الأثناء ، يمكنك بالفعل تحديد وحداتك في <1>استكشاف الصفحة</1>أو رؤية متعلمين آخرين في منطقتك <3>في صفحة المجتمع</3."
-  },
-  "uploadDocumentTitle": "تحميل المستند",
-  "description01": "قم بمسح المستند الخاص بك ضوئيًا، أو التقط صورة له وحمّله هنا. تأكد من أن جميع المعلومات اللازمة واضحة ومقروءة. تحقق من",
-  "description02": "توصياتنا",
-  "description03": "المتعلقة بتحميل المستندات بأفضل جودة",
-  "upload": "انقر هنا، أو قم بإسقاط الملفات لتحميل المستند الخاص بك.",
-  "button": "إرسال",
-  "buttonContinue": "أكمل دراستك",
-  "uploadSuccessfulDescription": "شكرا لك على تحميل وثيقتك. نحن نراجعه الآن وستتلقى رسالة بريد إلكتروني منا في الأيام الثلاثة القادمة.",
-  "modal": {
-    "yes": "قم بذلك",
-    "yesDescription": "حمّل المستندات الرسمية فقط. احرص على الوضوح التام للإسم با الكامل وتاريخ ميلادك وتاريخ انتهاء الصلاحية.",
-    "no": "لا تقم بذلك",
-    "noDescription": "لا تقم بتحميل أية ملفات لا تعد مستندات رسمية، مثل سيرتك الذاتية أو صورتك الضوئية أو صورة لعلم، أو أية صور أخرى."
-  },
-  "doucmentGuideTitle": "دليل الوثائق",
-  "documentAlternate": {
-    "part01": "ليس بحوزتك مستند مثل ذلك المذكور؟ لا تقلق. يمكنك تحميل مستندات مماثلة وسنقوم نحن بمراجعتها. إذا واجهتك مشاكل مع هذه الخطوة، يُرجى النقر على ",
-    "part02": "مساعدة",
-    "part03": "",
-    "part04": "تقوم {{orgDisplayName}} بتخزين جميع مستنداتك بأمان على خوادمنا. ذلك ولن تتم مشاركتها مع أي شخص. ",
-    "part05": "احصل على المزيد من المعلومات حول سبب حاجتنا للمستند الخاص بك"
-  },
-  "sampleDocuments": {
-    "title": "يرجى تحميل جواز السفر الخاص بك أو أي شكل من أشكال الهوية.ألقِ نظرة على بعض الأمثلة المتعلقة بالمستندات التي يجب عليك تحميلها هنا:",
-    "germanRefugees": {
-      "infoPoints": [
-        " وثيقة طلب اللجوء (بوما BüMA)",
-        "تصريح البقاء Aufenthaltsgestattung",
-        "تصريح الإقامة Aufenthaltserlaubnis",
-        "وثيقة منع الترحيل Duldung",
-        "تصريح إقامة مؤقتة Fiktionsbescheinigung",
-        "حماية فرعية Subsidiärer Schutz"
-      ],
-      "docImageTitles": {
-        "aufenthaltsgestattung": "تصريح الإقامة Aufenthaltsgestattung",
-        "aufenthaltserlaubnis": "تصريح الإقامة Aufenthaltserlaubnis",
-        "duldung": "وثيقة منع الترحيل Duldung"
-      }
+    "reviewInProgress": {
+        "title": "المراجعة قيد التقدم",
+        "hello": "مرحبا،, ",
+        "descriptionJSX": "شكرا لك على تحميل وثيقتك. نحن نراجعه الآن وستتلقى رسالة بريد إلكتروني منا في الأيام الثلاثة القادمة. في هذه الأثناء ، يمكنك بالفعل تحديد وحداتك في <1>استكشاف الصفحة</1>أو رؤية متعلمين آخرين في منطقتك <3>في صفحة المجتمع</3."
     },
-    "jordanianRefugees": {
-      "infoPoints": [
-        "بطاقة UNHCR",
-        "وثيقة من الأونروا UNRWA",
-        " بطاقة هوية أردنية Jordanian government service card"
-      ],
-      "docImageTitles": {
-        "unhcrCard": "بطاقة UNHCR",
-        "unhcrAsylum": "وثيقة إثبات طلب اللجوء UNHCR"
-      }
+    "uploadDocumentTitle": "تحميل المستند",
+    "description01": "قم بمسح المستند الخاص بك ضوئيًا، أو التقط صورة له وحمّله هنا. تأكد من أن جميع المعلومات اللازمة واضحة ومقروءة. تحقق من",
+    "description02": "توصياتنا",
+    "description03": "المتعلقة بتحميل المستندات بأفضل جودة",
+    "upload": "انقر هنا، أو قم بإسقاط الملفات لتحميل المستند الخاص بك.",
+    "button": "إرسال",
+    "buttonContinue": "أكمل دراستك",
+    "uploadSuccessfulDescription": "شكرا لك على تحميل وثيقتك. نحن نراجعه الآن وستتلقى رسالة بريد إلكتروني منا في الأيام الثلاثة القادمة.",
+    "modal": {
+        "yes": "قم بذلك",
+        "yesDescription": "حمّل المستندات الرسمية فقط. احرص على الوضوح التام للإسم با الكامل وتاريخ ميلادك وتاريخ انتهاء الصلاحية.",
+        "no": "لا تقم بذلك",
+        "noDescription": "لا تقم بتحميل أية ملفات لا تعد مستندات رسمية، مثل سيرتك الذاتية أو صورتك الضوئية أو صورة لعلم، أو أية صور أخرى."
     },
-    "jordanianIDPs": {
-      "infoPoints": [
-        "ID card هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID card  هوية شخصية",
-        "passport": "Passport  جواز سفر"
-      }
+    "doucmentGuideTitle": "دليل الوثائق",
+    "documentAlternate": {
+        "part01": "ليس بحوزتك مستند مثل ذلك المذكور؟ لا تقلق. يمكنك تحميل مستندات مماثلة وسنقوم نحن بمراجعتها. إذا واجهتك مشاكل مع هذه الخطوة، يُرجى النقر على ",
+        "part02": "مساعدة",
+        "part03": "",
+        "part04": "تقوم {{orgDisplayName}} بتخزين جميع مستنداتك بأمان على خوادمنا. ذلك ولن تتم مشاركتها مع أي شخص. ",
+        "part05": "احصل على المزيد من المعلومات حول سبب حاجتنا للمستند الخاص بك"
     },
-    "lebaneseRefugees": {
-      "infoPoints": [
-        "بطاقة UNHCR",
-        "وثيقة من الأونروا UNRWA"
-      ],
-      "docImageTitles": {
-        "unhcrDocument": "بطاقة UNHCR",
-        "unrwaDocument": "وثيقة من الأونروا UNRWA"
-      }
+    "sampleDocuments": {
+        "title": "يرجى تحميل جواز السفر الخاص بك أو أي شكل من أشكال الهوية.ألقِ نظرة على بعض الأمثلة المتعلقة بالمستندات التي يجب عليك تحميلها هنا:",
+        "germanRefugees": {
+            "infoPoints": [
+                " وثيقة طلب اللجوء (بوما BüMA)",
+                "تصريح البقاء Aufenthaltsgestattung",
+                "تصريح الإقامة Aufenthaltserlaubnis",
+                "وثيقة منع الترحيل Duldung",
+                "تصريح إقامة مؤقتة Fiktionsbescheinigung",
+                "حماية فرعية Subsidiärer Schutz"
+            ],
+            "docImageTitles": {
+                "aufenthaltsgestattung": "تصريح الإقامة Aufenthaltsgestattung",
+                "aufenthaltserlaubnis": "تصريح الإقامة Aufenthaltserlaubnis",
+                "duldung": "وثيقة منع الترحيل Duldung"
+            }
+        },
+        "jordanianRefugees": {
+            "infoPoints": [
+                "بطاقة UNHCR",
+                "وثيقة من الأونروا UNRWA",
+                " بطاقة هوية أردنية Jordanian government service card"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "بطاقة UNHCR",
+                "unhcrAsylum": "وثيقة إثبات طلب اللجوء UNHCR"
+            }
+        },
+        "jordanianIDPs": {
+            "infoPoints": [
+                "ID card هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID card  هوية شخصية",
+                "passport": "Passport  جواز سفر"
+            }
+        },
+        "lebaneseRefugees": {
+            "infoPoints": [
+                "بطاقة UNHCR",
+                "وثيقة من الأونروا UNRWA"
+            ],
+            "docImageTitles": {
+                "unhcrDocument": "بطاقة UNHCR",
+                "unrwaDocument": "وثيقة من الأونروا UNRWA"
+            }
+        },
+        "lebaneseIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID هوية شخصية",
+                "passport": "Passport جواز سفر"
+            }
+        },
+        "yemenisIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID card  هوية شخصية",
+                "passport": "Passport  جواز سفر"
+            }
+        },
+        "syrianIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID card  هوية شخصية",
+                "passport": "Passport  جواز سفر"
+            }
+        },
+        "turkishIDPs": {
+            "infoPoints": [
+                "وثيقة حماية مؤقتة",
+                "وثيقة إقامة",
+                "وثيقة UNHCR"
+            ],
+            "docImageTitles": {
+                "temporaryProtection": "وثيقة حماية مؤقتة",
+                "residencePermit": "وثيقة إقامة",
+                "unhcrDocument": "وثيقة UNHCR"
+            }
+        },
+        "sudanisIPDs": {
+            "infoPoints": [
+                "جواز السفر",
+                "بطاقة IDP أو وثيقة نازح داخلي ( دارفور )",
+                "بطاقة IDP أو وثيقة نازح داخلي"
+            ],
+            "docImageTitles": {
+                "passport": "جواز السفر",
+                "idpDarfurDocument": "بطاقة IDP أو وثيقة نازح داخلي ( دارفور )",
+                "idpCard": "بطاقة IDP أو وثيقة نازح داخلي"
+            }
+        },
+        "default": {
+            "infoPoints": [
+                "وضع اللجوء",
+                "طلب اللجوء",
+                "بطاقة IDP أو وثيقة نازح داخلي",
+                "وثيقة UNHCR"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "بطاقة UNHCR",
+                "unhcrFamily": "وثائق UNHCR الخاصة بالأسر",
+                "kenyaRefugeeCard": "بطاقة لجوء صادرة من كينيا"
+            }
+        }
     },
-    "lebaneseIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID هوية شخصية",
-        "passport": "Passport جواز سفر"
-      }
-    },
-    "yemenisIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID card  هوية شخصية",
-        "passport": "Passport  جواز سفر"
-      }
-    },
-    "syrianIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID card  هوية شخصية",
-        "passport": "Passport  جواز سفر"
-      }
-    },
-    "turkishIDPs": {
-      "infoPoints": [
-        "وثيقة حماية مؤقتة",
-        "وثيقة إقامة",
-        "وثيقة UNHCR"
-      ],
-      "docImageTitles": {
-        "temporaryProtection": "وثيقة حماية مؤقتة",
-        "residencePermit": "وثيقة إقامة",
-        "unhcrDocument": "وثيقة UNHCR"
-      }
-    },
-    "sudanisIPDs": {
-      "infoPoints": [
-        "جواز السفر",
-        "بطاقة IDP أو وثيقة نازح داخلي ( دارفور )",
-        "بطاقة IDP أو وثيقة نازح داخلي"
-      ],
-      "docImageTitles": {
-        "passport": "جواز السفر",
-        "idpDarfurDocument": "بطاقة IDP أو وثيقة نازح داخلي ( دارفور )",
-        "idpCard": "بطاقة IDP أو وثيقة نازح داخلي"
-      }
-    },
-    "default": {
-      "infoPoints": [
-        "وضع اللجوء",
-        "طلب اللجوء",
-        "بطاقة IDP أو وثيقة نازح داخلي",
-        "وثيقة UNHCR"
-      ],
-      "docImageTitles": {
-          "unhcrCard": "بطاقة UNHCR",
-          "unhcrFamily": "وثائق UNHCR الخاصة بالأسر",
-          "kenyaRefugeeCard": "بطاقة لجوء صادرة من كينيا"
-      }
-    }
-  },
-  "backWarningBtn": "العودة إلى الملف الشخصي",
-  "warningTextNationality": "يرجى تعبيئة خانة الجنسية في صفحة الملف الشخصي قبل إعادة تحميل مستنداتك"
+    "backWarningBtn": "العودة إلى الملف الشخصي",
+    "warningTextNationality": "يرجى تعبيئة خانة الجنسية في صفحة الملف الشخصي قبل إعادة تحميل مستنداتك"
 }
