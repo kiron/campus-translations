@@ -1,16 +1,16 @@
 {
-  "slideOne": {
-    "title": "Entdecke",
-    "content": "Entdecke {{orgDisplayName}} Campus und erhalte kostenlosen Zugang zu Online-Kursen"
-  },
-  "slideTwo": {
-    "title": "Lerne",
-    "content": "Du kannst auswählen was du lernen möchtest: Web Design, Python, Online Business, Psychologie, IT-Fähigkeiten, Englisch, und vieles mehr!"
-  },
-  "slideThree": {
-    "title": "Verbinde dich",
-    "content": "Mehr als 6000 Studierende auf der ganzen Welt sind Teil von {{orgDisplayName}}. Teile deine Lernerfahrungen mit ihnen."
-  },
-  "buttonActive": "Starte jetzt",
-  "buttonLoading": "Wird geladen"
+    "slideOne": {
+        "title": "Entdecke",
+        "content": "Entdecke {{orgDisplayName}} Campus und erhalte kostenlosen Zugang zu Online-Kursen"
+    },
+    "slideTwo": {
+        "title": "Lerne",
+        "content": "Du kannst auswählen was du lernen möchtest: Web Design, Python, Online Business, Psychologie, IT-Fähigkeiten, Englisch, und vieles mehr!"
+    },
+    "slideThree": {
+        "title": "Verbinde dich",
+        "content": "Mehr als 6000 Studierende auf der ganzen Welt sind Teil von {{orgDisplayName}}. Teile deine Lernerfahrungen mit ihnen."
+    },
+    "buttonActive": "Starte jetzt",
+    "buttonLoading": "Wird geladen"
 }
