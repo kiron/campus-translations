@@ -1,14 +1,14 @@
 {
-  "community": "ټولنه",
-  "optInTitle": "د {{1}} ټولنې سره یوځای شئ",
-  "optInSubtitle": "ستاسو د پروفایل عکس او مستعار نوم به ټولنې ته څرګند شي",
-  "codeOfConductTitle": "د اخلاق اخلاق",
-  "codeOfConductSubtitle": "په دوام سره تاسو د <1> اخلاق اخلاق </1> سره موافق یاست. د کیرون خوندي ځای ساتلو لپاره مننه.",
-  "enterButton": "ټولنې ته ننوځئ",
-  "profileUpdateSuccess": "ستاسو پروفایل په بریالیتوب سره تازه شو",
-  "profileUpdateFailure": "ستاسو د پروفایل تازه کولو پرمهال ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
-  "communityAccountFailure": "ستاسو د ټولنې حساب جوړولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
-  "communityAccountLoading": "د خپل حساب تنظیم کول ...",
-  "communityLoadingFailure": "ستاسو د ټولنې حساب په بارولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
-  "tryAgain": "Try again"
+    "community": "ټولنه",
+    "optInTitle": "د {{1}} ټولنې سره یوځای شئ",
+    "optInSubtitle": "ستاسو د پروفایل عکس او مستعار نوم به ټولنې ته څرګند شي",
+    "codeOfConductTitle": "د اخلاق اخلاق",
+    "codeOfConductSubtitle": "په دوام سره تاسو د <1> اخلاق اخلاق </1> سره موافق یاست. د کیرون خوندي ځای ساتلو لپاره مننه.",
+    "enterButton": "ټولنې ته ننوځئ",
+    "profileUpdateSuccess": "ستاسو پروفایل په بریالیتوب سره تازه شو",
+    "profileUpdateFailure": "ستاسو د پروفایل تازه کولو پرمهال ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
+    "communityAccountFailure": "ستاسو د ټولنې حساب جوړولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
+    "communityAccountLoading": "د خپل حساب تنظیم کول ...",
+    "communityLoadingFailure": "ستاسو د ټولنې حساب په بارولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
+    "tryAgain": "Try again"
 }
