@@ -1,48 +1,48 @@
 {
-  "title": "د معلوماتو شریکول",
-  "info": "دا تنظیمات هغه معلومات ښیې چې تاسو کرون ته اجازه ورکړې د ځانګړي دریمې ډلې سره شریک کړئ. د دې رضایت توضیحاتو لیدو ، یا لغوه کولو لپاره د 'لید' ت buttonۍ وکاروئ.",
-  "infoConsent": "تاسو تر دې دمه د رضایت هیڅ غوښتنه نه ده منلې.",
-  "linkView": "لید",
-  "linkCancel": "لغوه کول",
-  "linkBack": "بيرته لاړ شه",
-  "linkAccept": "ومنئ",
-  "noInfo": "بخښنه غواړم ، هیڅ معلومات شتون نلري",
-  "linkBackSettings": "بیرته تنظیماتو ته",
-  "titleReceived": "موږ ستاسو لپاره تړون ترلاسه کړی دی",
-  "linkGoSettings": "تنظیماتو ته لاړشئ",
-  "linkRevoke": "لغوه کول",
-  "revokeConsent": {
-    "yes": "هو",
-    "no": "نه",
-    "title": "ایا تاسو واقعیا غواړئ دا رضایت لغوه کړئ؟",
-    "desc": "د دې رضایت په لغوه کولو سره تاسو ممکن د کرون لخوا چمتو شوي ځینې خدماتو ته لاسرسی له لاسه ورکړئ.",
-    "goToSettings": "ترتیبات ته لاړشئ",
-    "revoked": "لغوه شوی"
-  },
-  "listItem": {
-    "view": "لید"
-  },
-  "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
-    "courseReminders": {
-      "title": "Reminders",
-      "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+    "title": "د معلوماتو شریکول",
+    "info": "دا تنظیمات هغه معلومات ښیې چې تاسو کرون ته اجازه ورکړې د ځانګړي دریمې ډلې سره شریک کړئ. د دې رضایت توضیحاتو لیدو ، یا لغوه کولو لپاره د 'لید' ت buttonۍ وکاروئ.",
+    "infoConsent": "تاسو تر دې دمه د رضایت هیڅ غوښتنه نه ده منلې.",
+    "linkView": "لید",
+    "linkCancel": "لغوه کول",
+    "linkBack": "بيرته لاړ شه",
+    "linkAccept": "ومنئ",
+    "noInfo": "بخښنه غواړم ، هیڅ معلومات شتون نلري",
+    "linkBackSettings": "بیرته تنظیماتو ته",
+    "titleReceived": "موږ ستاسو لپاره تړون ترلاسه کړی دی",
+    "linkGoSettings": "تنظیماتو ته لاړشئ",
+    "linkRevoke": "لغوه کول",
+    "revokeConsent": {
+        "yes": "هو",
+        "no": "نه",
+        "title": "ایا تاسو واقعیا غواړئ دا رضایت لغوه کړئ؟",
+        "desc": "د دې رضایت په لغوه کولو سره تاسو ممکن د کرون لخوا چمتو شوي ځینې خدماتو ته لاسرسی له لاسه ورکړئ.",
+        "goToSettings": "ترتیبات ته لاړشئ",
+        "revoked": "لغوه شوی"
     },
-    "campusNews": {
-      "title": "Campus News",
-      "info": "Send me emails about new learning opportunities and other campus updates."
+    "listItem": {
+        "view": "لید"
     },
-    "externalOffers": {
-      "title": "External Offers",
-      "info": "Send me emails about scholarships, offers, promotions, special events, etc."
-    },
-    "unsubscribe": {
-      "title": "You are successfully unsubscribed!",
-      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-      "unsubscribing": "Unsubscribing...",
-      "errorMessage": "Unsubscribing failed: {{0}}"
+    "emailSubscription": {
+        "title": "Email Subscription",
+        "info": "Manage the emails you receive from us.",
+        "courseReminders": {
+            "title": "Reminders",
+            "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+        },
+        "campusNews": {
+            "title": "Campus News",
+            "info": "Send me emails about new learning opportunities and other campus updates."
+        },
+        "externalOffers": {
+            "title": "External Offers",
+            "info": "Send me emails about scholarships, offers, promotions, special events, etc."
+        },
+        "unsubscribe": {
+            "title": "You are successfully unsubscribed!",
+            "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
+            "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
+            "unsubscribing": "Unsubscribing...",
+            "errorMessage": "Unsubscribing failed: {{0}}"
+        }
     }
-  }
 }
