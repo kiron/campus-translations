@@ -1,11 +1,11 @@
 {
-  "invalidText": "Vaya, parece que no ha subido el documento apropiado.",
-  "invalidBtn": "Suba documentos de nuevo",
-  "invalidWhyUpload": "¿Por qué necesito subir mis documentos?",
-  "reviewText": "Nuestro equipo está revisando sus documentos.",
-  "noUploadText": "Por favor verifique su cuenta para obtener acceso ilimitado a cursos y certificados gratuitos.",
-  "noUploadTime": "Sólo toma 5 minutos.",
-  "noUploadBtn": "Verificar documentos",
-  "noUploadImgAlt": "Suba sus documentos para ganar estado de refugiado",
-  "noUploadEligible": "¿No cumple los requisitos? Todavía puede estudiar con nosotros gratuitamente."
+    "invalidText": "Vaya, parece que no ha subido el documento apropiado.",
+    "invalidBtn": "Suba documentos de nuevo",
+    "invalidWhyUpload": "¿Por qué necesito subir mis documentos?",
+    "reviewText": "Nuestro equipo está revisando sus documentos.",
+    "noUploadText": "Por favor verifique su cuenta para obtener acceso ilimitado a cursos y certificados gratuitos.",
+    "noUploadTime": "Sólo toma 5 minutos.",
+    "noUploadBtn": "Verificar documentos",
+    "noUploadImgAlt": "Suba sus documentos para ganar estado de refugiado",
+    "noUploadEligible": "¿No cumple los requisitos? Todavía puede estudiar con nosotros gratuitamente."
 }
