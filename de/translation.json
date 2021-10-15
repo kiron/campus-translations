@@ -203,9 +203,9 @@
     "multiplier": "x",
     "type": "Kurs",
     "selfPaced": "Selbstgesteuert",
-    "inProgress": "Laufend"
+    "inProgress": "Laufend",
     "unit": "{{0}} Einheit",
-        "unit_plural": "{{0}} Einheiten",
+    "unit_plural": "{{0}} Einheiten",
         "courseType": {
             "course": "{{0}} Kurs",
             "course_plural": "{{0}} Kurse",
