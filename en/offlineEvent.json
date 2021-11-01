@@ -42,5 +42,5 @@
         "type": "Event"
     },
     "multipleMeetingSeries": "This event has multiple meetings",
-    "registrationClosed": "Registration Closed"
+    "registrationClosed": "Registration closed"
 }
