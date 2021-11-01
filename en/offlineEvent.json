@@ -41,5 +41,6 @@
         "offline": "Offline",
         "type": "Event"
     },
-    "multipleMeetingSeries": "This event has multiple meetings"
+    "multipleMeetingSeries": "This event has multiple meetings",
+    "registrationClosed": "Registration Closed"
 }
