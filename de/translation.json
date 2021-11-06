@@ -203,7 +203,17 @@
     "multiplier": "x",
     "type": "Kurs",
     "selfPaced": "Selbstgesteuert",
-    "inProgress": "Laufend"
+    "inProgress": "Laufend",
+    "unit": "{{0}} Einheit",
+    "unit_plural": "{{0}} Einheiten",
+        "courseType": {
+            "course": "{{0}} Kurs",
+            "course_plural": "{{0}} Kurse",
+            "project": "{{0}} Projekt",
+            "project_plural": "{{0}} Projekte",
+            "event": "{{0}} Veranstaltung",
+            "event_plural": "{{0}} Veranstaltungen"
+        }
   },
   "courseraProgress": {
     "title": "Coursera Fortschritt",

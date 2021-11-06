@@ -157,7 +157,7 @@
         "enrollModuleText": "Hi {{0}}, this is part of our learning program <1>{{1}}</1>. Do you want to start it to learn about <3>{{3}}</3>?",
         "showContent": "Show extra content",
         "hideContent": "Hide extra content",
-        "titleModule": "Module",
+        "titleModule": "Program",
         "titleSkillBooster": "Skill Booster Program",
         "titleUnits": "units",
         "titleDesc": "Description",
@@ -203,7 +203,17 @@
         "multiplier": "x",
         "type": "Course",
         "selfPaced": "Self-paced",
-        "inProgress": "In progress"
+        "inProgress": "In progress",
+        "unit": "{{0}} Unit",
+        "unit_plural": "{{0}} Units",
+        "courseType": {
+            "course": "{{0}} Course",
+            "course_plural": "{{0}} Courses",
+            "project": "{{0}} Project",
+            "project_plural": "{{0}} Projects",
+            "event": "{{0}} Event",
+            "event_plural": "{{0}} Events"
+        }
     },
     "courseraProgress": {
         "title": "Coursera Progress",
