@@ -265,7 +265,8 @@
             "reportMessage": "If you see a message that does not belong here because it seems offensive, violent or like spam, please send an email to ",
             "messageButton": "Message",
             "defaultText": " No discussion here yet. Say hello to the other participants in this project.",
-            "sendButton": "Send"
+            "sendButton": "Send",
+            "inputFieldPlaceholder": "Write a message"
         },
         "verification": {
             "failed": "Verification failed - Try again",
