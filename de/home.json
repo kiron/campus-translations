@@ -30,12 +30,12 @@
         "homepageAchievement_plural": "Wochen am Stück",
         "achievementWeeks": "Woche",
         "achievementWeeks_plural": "Wochen am Stück",
-        "buttonCta": "Keep on rocking!",
+        "buttonCta": "Weiter so!",
         "headline": "Deine Aktivitäten",
         "subtitle": "Lerne jede Woche und sammle Achievements",
         "shareText": "Ich habe heute ",
         "shareTextEnd": " Wochen am Stück bei {{orgDisplayName}} gelernt! ",
-        "sharetextFull": " Ich habe heute {{1}} Wochen am Stück bei {{orgDisplayName}} gelernt!"
+        "sharetextFull": "Ich habe heute {{1}} Wochen am Stück bei {{orgDisplayName}} gelernt!"
     },
     "mapSearch": "Ort suchen",
     "mapListHeadline": "Lernende in {{city}}",
@@ -50,5 +50,7 @@
     "loadMore": "Mehr laden",
     "memberSince": "Mitglied seit {{year}}",
     "more": "mehr",
-    "noStudents": "Noch keine Lernenden"
+    "noStudents": "Noch keine Lernenden",
+    "mentoringDesciption": "Onlinekurs mit Mentor über drei Monate",
+    "mentoringTitle": "Mentoring"
 }
