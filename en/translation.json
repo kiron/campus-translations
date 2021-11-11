@@ -266,7 +266,8 @@
             "messageButton": "Message",
             "defaultText": "No discussion here yet. Say hello to the other participants in this project.",
             "sendButton": "Send",
-            "inputFieldPlaceholder": "Write a message…"
+            "inputFieldPlaceholder": "Write a message…",
+            "loading": "Submitting"
         },
         "verification": {
             "failed": "Verification failed - Try again",
