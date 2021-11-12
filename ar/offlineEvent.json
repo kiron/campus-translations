@@ -39,5 +39,9 @@
         "offline": "Offline",
         "type": "Event"
     },
-    "multipleMeetingSeries": "يوجد عدة اجتماعات في هذه الفعالية"
+    "multipleMeetingSeries": "يوجد عدة اجتماعات في هذه الفعالية",
+    "locationOffline": "فعالية وجاهية",
+    "locationOnline": "فعالية عبر الانترنت",
+    "introPreHeadingOffline": "فعالية وجاهية",
+    "introPreHeadingOnline": "فعالية عبر الانترنت"
 }

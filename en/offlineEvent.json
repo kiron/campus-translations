@@ -1,5 +1,4 @@
 {
-    "introPreHeading": "Offline Event",
     "introCTA": "See Appointments",
     "ctaJoin": "Register now",
     "introCTALeave": "Leave event",
@@ -43,5 +42,9 @@
     },
     "multipleMeetingSeries": "This event has multiple meetings",
     "registrationClosed": "Registration closed",
-    "registrationOpenOtherMeetings": "Registration is open for other meetings"
+    "registrationOpenOtherMeetings": "Registration is open for other meetings",
+    "introPreHeadingOffline": "Offline Event",
+    "introPreHeadingOnline": "Online Event",
+    "locationOffline": "Offline",
+    "locationOnline": "Online"
 }
