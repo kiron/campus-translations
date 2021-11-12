@@ -43,5 +43,6 @@
     "multipleMeetingSeries": "This event has multiple meetings",
     "registrationClosed": "Registration closed",
     "registrationOpenOtherMeetings": "Registration is open for other meetings",
-    "introPreHeadingOffline": "Offline Event"
+    "introPreHeadingOffline": "Offline Event",
+    "introPreHeadingOnline": "Online Event"
 }
