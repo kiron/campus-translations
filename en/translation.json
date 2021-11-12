@@ -267,7 +267,8 @@
             "defaultText": "No discussion here yet. Say hello to the other participants in this project.",
             "sendButton": "Send",
             "inputFieldPlaceholder": "Write a message…",
-            "loading": "Submitting"
+            "loading": "Submitting",
+            "chatHeading": "Chat"
         },
         "verification": {
             "failed": "Verification failed - Try again",
