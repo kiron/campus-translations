@@ -45,5 +45,6 @@
     "registrationOpenOtherMeetings": "Registration is open for other meetings",
     "introPreHeadingOffline": "Offline Event",
     "introPreHeadingOnline": "Online Event",
-    "locationOffline": "Offline"
+    "locationOffline": "Offline",
+    "locationOnline": "Online"
 }
