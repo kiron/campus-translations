@@ -44,5 +44,6 @@
     "registrationClosed": "Registration closed",
     "registrationOpenOtherMeetings": "Registration is open for other meetings",
     "introPreHeadingOffline": "Offline Event",
-    "introPreHeadingOnline": "Online Event"
+    "introPreHeadingOnline": "Online Event",
+    "locationOffline": "Offline"
 }
