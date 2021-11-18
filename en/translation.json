@@ -270,7 +270,8 @@
             "loading": "Submitting",
             "chatHeading": "Chat",
             "reply": "Reply",
-            "delete": "Delete"
+            "delete": "Delete",
+            "cancel": "Cancel"
         },
         "verification": {
             "failed": "Verification failed - Try again",
