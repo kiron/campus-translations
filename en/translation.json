@@ -271,7 +271,8 @@
             "chatHeading": "Chat",
             "reply": "Reply",
             "delete": "Delete",
-            "cancel": "Cancel"
+            "cancel": "Cancel",
+            "confirmDeleteMessage": "Are you sure you want to delete your message? Please note all replies will be deleted as well."
         },
         "verification": {
             "failed": "Verification failed - Try again",
