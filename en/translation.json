@@ -269,7 +269,8 @@
             "inputFieldPlaceholder": "Write a message…",
             "loading": "Submitting",
             "chatHeading": "Chat",
-            "reply": "Reply"
+            "reply": "Reply",
+            "delete": "Delete"
         },
         "verification": {
             "failed": "Verification failed - Try again",
