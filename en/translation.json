@@ -268,7 +268,8 @@
             "sendButton": "Send",
             "inputFieldPlaceholder": "Write a message…",
             "loading": "Submitting",
-            "chatHeading": "Chat"
+            "chatHeading": "Chat",
+            "reply": "Reply"
         },
         "verification": {
             "failed": "Verification failed - Try again",
