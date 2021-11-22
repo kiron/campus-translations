@@ -152,7 +152,6 @@
         "enrollModuleText": "Hi {{0}}, this is part of our learning program <1>{{1}}</1>. Do you want to start it to learn about <3>{{3}}</3>?",
         "showContent": "Show extra content",
         "hideContent": "Hide extra content",
-        "titleModule": "Program",
         "titleUnits": "units",
         "titleDesc": "Description",
         "downloadTranscriptBtn": "Download transcript",
