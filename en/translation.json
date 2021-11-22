@@ -51,7 +51,8 @@
         "recommended": "Recommended by",
         "showAll": "Show all",
         "collapse": "Collapse",
-        "course": "Course"
+        "course": "Course",
+        "programs": "Programs"
     },
     "success": {
         "introTitle": "Your success story!",
