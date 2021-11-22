@@ -177,7 +177,8 @@
         "feedbackLoading": "Loading lesson",
         "Text": "Sorry, you can enroll in up to {{0}} courses",
         "type": "Program",
-        "selfPaced": "Self-paced"
+        "selfPaced": "Self-paced",
+        "titleProgram": "Program"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
