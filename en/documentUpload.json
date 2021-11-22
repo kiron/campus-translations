@@ -1,147 +1,147 @@
 {
-  "reviewInProgress": {
-    "title": "Review in Progress",
-    "hello": "Hello, ",
-    "descriptionJSX": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days. In the meantime, you can already select your modules on the <1>Explore Page</1> or see other learners in your area <3>on the Community Page</3>."
-  },
-  "uploadDocumentTitle": "Upload document",
-  "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
-  "description02": "recommendations ",
-  "description03": "for uploading in the best quality.",
-  "upload": "Click here or drop files to upload your document.",
-  "button": "Send",
-  "buttonContinue": "Continue studying",
-  "uploadSuccessfulDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days.",
-  "modal": {
-    "yes": "DO",
-    "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
-    "no": "DON’T",
-    "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
-  },
-  "doucmentGuideTitle": "Document Guide",
-  "documentAlternate": {
-    "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
-    "part02": "{{orgDisplayName}} Help Center",
-    "part03": "for more information.",
-    "part04": "{{orgDisplayName}} will store your documents safely on our servers and they will not be shared with others. ",
-    "part05": "Learn more about why we need your document "
-  },
-  "sampleDocuments": {
-    "title": "Please upload your passport or a form of identification. Take a look at some examples:",
-    "germanRefugees": {
-      "infoPoints": [
-        "BüMA (Asylum application)",
-        "Aufenthaltsgestattung (Permission to remain)",
-        "Aufenthaltserlaubnis (Residence permit)",
-        "Duldung (National ban on deportation)",
-        "Fiktionsbescheinigung (Temporary residence permit)",
-        "Subsidiärer Schutz (Subsidiary protection)"
-      ],
-      "docImageTitles": {
-        "aufenthaltsgestattung": "Aufenthaltsgestattung",
-        "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
-        "duldung": "Duldung"
-      }
+    "reviewInProgress": {
+        "title": "Review in Progress",
+        "hello": "Hello, ",
+        "descriptionJSX": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days. In the meantime, you can already select your programs on the <1>Explore Page</1> or see other learners in your area <3>on the Community Page</3>."
     },
-    "jordanianRefugees": {
-      "infoPoints": [
-        "UNHCR card",
-        "UNRWA (Palestinians)",
-        "Jordanian government service card"
-      ],
-      "docImageTitles": {
-        "unhcrCard": "UNHCR card",
-        "unhcrAsylum": "UNHCR asylum"
-      }
+    "uploadDocumentTitle": "Upload document",
+    "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
+    "description02": "recommendations ",
+    "description03": "for uploading in the best quality.",
+    "upload": "Click here or drop files to upload your document.",
+    "button": "Send",
+    "buttonContinue": "Continue studying",
+    "uploadSuccessfulDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days.",
+    "modal": {
+        "yes": "DO",
+        "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
+        "no": "DON’T",
+        "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
     },
-    "jordanianIDPs": {
-      "infoPoints": [
-        "ID card هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID card  هوية شخصية",
-        "passport": "Passport  جواز سفر"
-      }
+    "doucmentGuideTitle": "Document Guide",
+    "documentAlternate": {
+        "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
+        "part02": "{{orgDisplayName}} Help Center",
+        "part03": "for more information.",
+        "part04": "{{orgDisplayName}} will store your documents safely on our servers and they will not be shared with others. ",
+        "part05": "Learn more about why we need your document "
     },
-    "lebaneseRefugees": {
-      "infoPoints": [
-        "UNHCR card",
-        "UNRWA document"
-      ],
-      "docImageTitles": {
-        "unhcrDocument": "UNHCR document",
-        "unrwaDocument": "UNRWA document"
-      }
+    "sampleDocuments": {
+        "title": "Please upload your passport or a form of identification. Take a look at some examples:",
+        "germanRefugees": {
+            "infoPoints": [
+                "BüMA (Asylum application)",
+                "Aufenthaltsgestattung (Permission to remain)",
+                "Aufenthaltserlaubnis (Residence permit)",
+                "Duldung (National ban on deportation)",
+                "Fiktionsbescheinigung (Temporary residence permit)",
+                "Subsidiärer Schutz (Subsidiary protection)"
+            ],
+            "docImageTitles": {
+                "aufenthaltsgestattung": "Aufenthaltsgestattung",
+                "aufenthaltserlaubnis": "Aufenthaltserlaubnis",
+                "duldung": "Duldung"
+            }
+        },
+        "jordanianRefugees": {
+            "infoPoints": [
+                "UNHCR card",
+                "UNRWA (Palestinians)",
+                "Jordanian government service card"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "UNHCR card",
+                "unhcrAsylum": "UNHCR asylum"
+            }
+        },
+        "jordanianIDPs": {
+            "infoPoints": [
+                "ID card هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID card  هوية شخصية",
+                "passport": "Passport  جواز سفر"
+            }
+        },
+        "lebaneseRefugees": {
+            "infoPoints": [
+                "UNHCR card",
+                "UNRWA document"
+            ],
+            "docImageTitles": {
+                "unhcrDocument": "UNHCR document",
+                "unrwaDocument": "UNRWA document"
+            }
+        },
+        "lebaneseIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID هوية شخصية",
+                "passport": "Passport جواز سفر"
+            }
+        },
+        "yemenisIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID card",
+                "passport": "Passport"
+            }
+        },
+        "syrianIDPs": {
+            "infoPoints": [
+                "ID هوية شخصية",
+                "Passport جواز سفر"
+            ],
+            "docImageTitles": {
+                "idCard": "ID card",
+                "passport": "Passport"
+            }
+        },
+        "turkishIDPs": {
+            "infoPoints": [
+                "Temporary protection",
+                "Residence permit",
+                "UNHCR document"
+            ],
+            "docImageTitles": {
+                "temporaryProtection": "Temporary protection",
+                "residencePermit": "Residence permit",
+                "unhcrDocument": "UNHCR document"
+            }
+        },
+        "sudanisIPDs": {
+            "infoPoints": [
+                "Passport",
+                "IDP Darfur document",
+                "IDP card"
+            ],
+            "docImageTitles": {
+                "passport": "Passport",
+                "idpDarfurDocument": "IDP Darfur document",
+                "idpCard": "IDP card"
+            }
+        },
+        "default": {
+            "infoPoints": [
+                "Refugee status",
+                "Asylum application",
+                "IDP card",
+                "UNHCR document"
+            ],
+            "docImageTitles": {
+                "unhcrCard": "UNHCR card",
+                "unhcrFamily": "UNHCR family",
+                "kenyaRefugeeCard": "Kenya refugee card"
+            }
+        }
     },
-    "lebaneseIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID هوية شخصية",
-        "passport": "Passport جواز سفر"
-      }
-    },
-    "yemenisIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID card",
-        "passport": "Passport"
-      }
-    },
-    "syrianIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
-      "docImageTitles": {
-        "idCard": "ID card",
-        "passport": "Passport"
-      }
-    },
-    "turkishIDPs": {
-      "infoPoints": [
-        "Temporary protection",
-        "Residence permit",
-        "UNHCR document"
-      ],
-      "docImageTitles": {
-        "temporaryProtection": "Temporary protection",
-        "residencePermit": "Residence permit",
-        "unhcrDocument": "UNHCR document"
-      }
-    },
-    "sudanisIPDs": {
-      "infoPoints": [
-        "Passport",
-        "IDP Darfur document",
-        "IDP card"
-      ],
-      "docImageTitles": {
-        "passport": "Passport",
-        "idpDarfurDocument": "IDP Darfur document",
-        "idpCard": "IDP card"
-      }
-    },
-    "default": {
-      "infoPoints": [
-        "Refugee status",
-        "Asylum application",
-        "IDP card",
-        "UNHCR document"
-      ],
-      "docImageTitles": {
-          "unhcrCard": "UNHCR card",
-          "unhcrFamily": "UNHCR family",
-          "kenyaRefugeeCard": "Kenya refugee card"
-      }
-    }
-  },
-  "backWarningBtn": "Back to Profile",
-  "warningTextNationality": "Please enter your nationality on the profile page before reuploading your documents"
+    "backWarningBtn": "Back to Profile",
+    "warningTextNationality": "Please enter your nationality on the profile page before reuploading your documents"
 }
