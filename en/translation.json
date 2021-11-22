@@ -47,12 +47,12 @@
         "searchInitialSubFive": "",
         "searchInitialSubSix": "",
         "noResults": "No results have been found for",
-        "skillBoosterPrograms": "Skill Booster Programs",
         "courses": "Courses",
         "recommended": "Recommended by",
         "showAll": "Show all",
         "collapse": "Collapse",
-        "course": "Course"
+        "course": "Course",
+        "programs": "Programs"
     },
     "success": {
         "introTitle": "Your success story!",
@@ -111,7 +111,6 @@
     "moduleStatus": {
         "hour": "hour",
         "hours": "hours",
-        "certificate": "Certificate",
         "credits": "credits",
         "finished": "Finished!"
     },
@@ -125,16 +124,11 @@
         "year": "Year:"
     },
     "shortProgram": {
-        "loading": "Loading Skill Booster Program",
-        "studyTrack": "Study Track Module",
-        "skillBooster": "Skill Booster Program",
-        "notFoundTitle": "Unknown module",
-        "notFoundDesc": "This module does not exist or does not belong to your study track. Please return to your study overview to view a list of all modules available to you.",
+        "loading": "Loading Program",
+        "notFoundTitle": "Unknown program",
+        "notFoundDesc": "This program does not exist or does not belong to your study track. Please return to your study overview to view a list of all programs available to you.",
         "certificateDownload": "Download Certificate",
-        "certificatePreview": "This is a preview of <1/><2>{{2}}</2>",
-        "certificateStart": "Start this program today to get access to all of the units",
         "btnStart": "Start this program",
-        "certificateModule": "This is a module in your online study track",
         "certificateCredit": "Credit Points:",
         "certificateImgAlt": "{{orgDisplayName}} Certificate",
         "certficateBtnUnenroll": "Unenroll",
@@ -151,14 +145,11 @@
         "addModuleSuccess": "Success",
         "addModuleBtnContinue": "Continue browsing",
         "addModuleBtnStart": "Start first unit now",
-        "addModuleText": "This skill booster program has been added to your home tab",
         "enrollModuleBtnNo": "Not now",
         "enrollModuleBtnStart": "Start learning",
         "enrollModuleText": "Hi {{0}}, this is part of our learning program <1>{{1}}</1>. Do you want to start it to learn about <3>{{3}}</3>?",
         "showContent": "Show extra content",
         "hideContent": "Hide extra content",
-        "titleModule": "Program",
-        "titleSkillBooster": "Skill Booster Program",
         "titleUnits": "units",
         "titleDesc": "Description",
         "downloadTranscriptBtn": "Download transcript",
@@ -184,7 +175,10 @@
         "feedbackLoading": "Loading lesson",
         "Text": "Sorry, you can enroll in up to {{0}} courses",
         "type": "Program",
-        "selfPaced": "Self-paced"
+        "selfPaced": "Self-paced",
+        "titleProgram": "Program",
+        "certificateProgram": "This is a program in your online study track",
+        "addProgramText": "This program has been added to your home tab"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
@@ -222,8 +216,7 @@
     },
     "pendingApplicationStatus": {
         "accountStatus": "Account status: <1>Pending approval</1>",
-        "pendingExplanation": "The screening process usually takes around 2 weeks.",
-        "infoMessage": "You need approval to enroll in this program"
+        "pendingExplanation": "The screening process usually takes around 2 weeks."
     },
     "unitPage": {
         "register": "Register",
