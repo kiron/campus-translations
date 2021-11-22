@@ -145,7 +145,6 @@
         "addModuleSuccess": "Success",
         "addModuleBtnContinue": "Continue browsing",
         "addModuleBtnStart": "Start first unit now",
-        "addModuleText": "This skill booster program has been added to your home tab",
         "enrollModuleBtnNo": "Not now",
         "enrollModuleBtnStart": "Start learning",
         "enrollModuleText": "Hi {{0}}, this is part of our learning program <1>{{1}}</1>. Do you want to start it to learn about <3>{{3}}</3>?",
