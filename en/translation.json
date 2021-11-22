@@ -125,8 +125,8 @@
     },
     "shortProgram": {
         "loading": "Loading Program",
-        "notFoundTitle": "Unknown module",
-        "notFoundDesc": "This module does not exist or does not belong to your study track. Please return to your study overview to view a list of all modules available to you.",
+        "notFoundTitle": "Unknown program",
+        "notFoundDesc": "This program does not exist or does not belong to your study track. Please return to your study overview to view a list of all programs available to you.",
         "certificateDownload": "Download Certificate",
         "btnStart": "Start this program",
         "certificateModule": "This is a module in your online study track",
