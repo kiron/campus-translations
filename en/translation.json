@@ -111,7 +111,6 @@
     "moduleStatus": {
         "hour": "hour",
         "hours": "hours",
-        "certificate": "Certificate",
         "credits": "credits",
         "finished": "Finished!"
     },
