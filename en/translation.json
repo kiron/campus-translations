@@ -366,6 +366,7 @@
         "cardInfo": "Card information",
         "cardInfoText": "In every category, you can find some information on top. Make sure to watch the video and read the text to learn all you need to know to get ready for university.",
         "fillIn": "Fill in questionnaire",
-        "fillInText": "To get a better idea of where you personally are in this process and what to do next, answer the questions asked. This information also helps us to better support you."
+        "fillInText": "To get a better idea of where you personally are in this process and what to do next, answer the questions asked. This information also helps us to better support you.",
+        "submitQuestionnaire": "Submit questionnaire"
     }
 }
