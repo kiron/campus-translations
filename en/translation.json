@@ -349,6 +349,7 @@
         "submit": "Submit",
         "submitResult": "Please click “Submit” to see your result.",
         "nextPage": "Next Page",
-        "prevPage": "Previous Page"
+        "prevPage": "Previous Page",
+        "retake": "Retake the questionnaire"
     }
 }
