@@ -362,6 +362,7 @@
         "firstCategory": "First category",
         "firstCategoryText": "You are now in the first category about <1>{{1}}</1>",
         "goBack": "Go back",
-        "goBackText": "To go back to the full list, click here."
+        "goBackText": "To go back to the full list, click here.",
+        "cardInfo": "Card information"
     }
 }
