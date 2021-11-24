@@ -364,6 +364,7 @@
         "goBack": "Go back",
         "goBackText": "To go back to the full list, click here.",
         "cardInfo": "Card information",
-        "cardInfoText": "In every category, you can find some information on top. Make sure to watch the video and read the text to learn all you need to know to get ready for university."
+        "cardInfoText": "In every category, you can find some information on top. Make sure to watch the video and read the text to learn all you need to know to get ready for university.",
+        "fillIn": "Fill in questionnaire"
     }
 }
