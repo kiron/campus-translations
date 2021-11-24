@@ -325,7 +325,8 @@
         "testAgain": "It seems you aren’t ready to advance yet, review this one and take the test again to advance.",
         "testNonRetakeable": "Unfortunately, you did not reach the required score to pass this test. You can continue learning in the unit but you won't be able to mark it completed.",
         "retakeTest": "Retake test",
-        "sending": "Sending results ..."
+        "sending": "Sending results ...",
+        "continueHint": "Please comment on “{{0}}“ in order to continue"
     },
     "attachmentItem": {
         "download": "Download",
@@ -342,5 +343,34 @@
         "repeats": "Repeats every",
         "week": "week",
         "weeks": "weeks"
+    },
+    "questionnaire": {
+        "loadingLangCertificate": "Loading language certificates",
+        "findUniversity": "Find out your university entrance qualification in the “Previous Education” category and come back here",
+        "submit": "Submit",
+        "submitResult": "Please click “Submit” to see your result.",
+        "nextPage": "Next Page",
+        "prevPage": "Previous Page",
+        "retake": "Retake the questionnaire",
+        "reset": "Are you sure you want to reset this questionnaire?",
+        "opinion": "What do you think about this new page?",
+        "isItUsefull": "If you think it is useful, please give us your opinion. It takes one minute!",
+        "feedBack": "Give feedback",
+        "newsFeed": "News Feed",
+        "updatedInfo": "Hi there, on this page you can read updated information from Kiron, our courses, tips to study, and interesting articles we select for you. Click on the titles to see the full text and come back every time to see what's new!",
+        "seeOtherStudents": "See more from other Kiron students…",
+        "errorLoading": "Error loading {{0}} language certificates",
+        "firstCategory": "First category",
+        "firstCategoryText": "You are now in the first category about <1>{{1}}</1>",
+        "goBack": "Go back",
+        "goBackText": "To go back to the full list, click here.",
+        "cardInfo": "Card information",
+        "cardInfoText": "In every category, you can find some information on top. Make sure to watch the video and read the text to learn all you need to know to get ready for university.",
+        "fillIn": "Fill in questionnaire",
+        "fillInText": "To get a better idea of where you personally are in this process and what to do next, answer the questions asked. This information also helps us to better support you.",
+        "submitQuestionnaire": "Submit questionnaire",
+        "submitQuestionnaireText": "Follow the directions for filling the empty fields and save your answers by clicking “Submit”.",
+        "innerText": "{{2}}",
+        "contactUs": "Remember, you can always go back and contact us if you have questions. Now let’s learn about {{3}} in Germany!"
     }
 }
