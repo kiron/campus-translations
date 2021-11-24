@@ -348,6 +348,7 @@
         "findUniversity": "Find out your university entrance qualification in the “Previous Education” category and come back here",
         "submit": "Submit",
         "submitResult": "Please click “Submit” to see your result.",
-        "nextPage": "Next Page"
+        "nextPage": "Next Page",
+        "prevPage": "Previous Page"
     }
 }
