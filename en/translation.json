@@ -351,6 +351,7 @@
         "nextPage": "Next Page",
         "prevPage": "Previous Page",
         "retake": "Retake the questionnaire",
-        "reset": "Are you sure you want to reset this questionnaire?"
+        "reset": "Are you sure you want to reset this questionnaire?",
+        "opinion": "What do you think about this new page?"
     }
 }
