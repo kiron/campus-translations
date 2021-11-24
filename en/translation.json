@@ -360,6 +360,7 @@
         "seeOtherStudents": "See more from other Kiron students…",
         "errorLoading": "Error loading {{0}} language certificates",
         "firstCategory": "First category",
-        "firstCategoryText": "You are now in the first category about <1>{{1}}</1>"
+        "firstCategoryText": "You are now in the first category about <1>{{1}}</1>",
+        "goBack": "Go back"
     }
 }
