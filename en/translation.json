@@ -354,6 +354,7 @@
         "reset": "Are you sure you want to reset this questionnaire?",
         "opinion": "What do you think about this new page?",
         "isItUsefull": "If you think it is useful, please give us your opinion. It takes one minute!",
-        "feedBack": "Give feedback"
+        "feedBack": "Give feedback",
+        "newsFeed": "News Feed"
     }
 }
