@@ -325,7 +325,8 @@
         "testAgain": "It seems you aren’t ready to advance yet, review this one and take the test again to advance.",
         "testNonRetakeable": "Unfortunately, you did not reach the required score to pass this test. You can continue learning in the unit but you won't be able to mark it completed.",
         "retakeTest": "Retake test",
-        "sending": "Sending results ..."
+        "sending": "Sending results ...",
+        "continueHint": "Please comment on “{{0}}“ in order to continue"
     },
     "attachmentItem": {
         "download": "Download",
