@@ -342,5 +342,8 @@
         "repeats": "Repeats every",
         "week": "week",
         "weeks": "weeks"
+    },
+    "questionnaire": {
+        "loadingLangCertificate": "Loading language certificates"
     }
 }
