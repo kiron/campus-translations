@@ -344,6 +344,7 @@
         "weeks": "weeks"
     },
     "questionnaire": {
-        "loadingLangCertificate": "Loading language certificates"
+        "loadingLangCertificate": "Loading language certificates",
+        "findUniversity": "Find out your university entrance qualification in the “Previous Education” category and come back here"
     }
 }
