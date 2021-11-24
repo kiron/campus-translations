@@ -368,6 +368,7 @@
         "fillIn": "Fill in questionnaire",
         "fillInText": "To get a better idea of where you personally are in this process and what to do next, answer the questions asked. This information also helps us to better support you.",
         "submitQuestionnaire": "Submit questionnaire",
-        "submitQuestionnaireText": "Follow the directions for filling the empty fields and save your answers by clicking “Submit”."
+        "submitQuestionnaireText": "Follow the directions for filling the empty fields and save your answers by clicking “Submit”.",
+        "innerText": "{{2}}"
     }
 }
