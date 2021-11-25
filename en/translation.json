@@ -178,7 +178,8 @@
         "selfPaced": "Self-paced",
         "titleProgram": "Program",
         "certificateProgram": "This is a program in your online study track",
-        "addProgramText": "This program has been added to your home tab"
+        "addProgramText": "This program has been added to your home tab",
+        "titleModule": "Program"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
