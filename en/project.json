@@ -33,5 +33,6 @@
         "collaborative": "Collaborative",
         "type": "Project"
     },
-    "toolsTitle": "Tools"
+    "toolsTitle": "Tools",
+    "toolsText": "will be available to you once you join this project."
 }
