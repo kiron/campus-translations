@@ -34,5 +34,6 @@
         "type": "Project"
     },
     "toolsTitle": "Tools",
-    "toolsText": "will be available to you once you join this project."
+    "toolsText": "will be available to you once you join this project.",
+    "instructionsText": "You will view the instructions once you join this project."
 }
