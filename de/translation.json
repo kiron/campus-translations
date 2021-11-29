@@ -39,7 +39,7 @@
     "explore": {
         "categories": "Kategorien",
         "search": "Suche",
-        "searchInitial": "Such etwas",
+        "searchInitial": "Suche etwas",
         "searchInitialSubOne": "",
         "searchInitialSubTwo": "",
         "searchInitialSubThree": "",
@@ -344,5 +344,34 @@
         "repeats": "Repeats every",
         "week": "week",
         "weeks": "weeks"
+    },
+    "questionnaire": {
+        "contactUs": "Keine Sorge, du kannst immer zurückgehen und uns kontaktieren wenn du Fragen hast. Nun lass uns über {{0}} in Deutschland lernen!",
+        "innerText": "{{0}}",
+        "submitQuestionnaireText": "Folge den Anweisungen um die Freifelder auszufüllen, speichere deine Antworten, indem du auf \"Abschicken\" klickst.",
+        "submitQuestionnaire": "Fragebogen abschicken",
+        "fillInText": "Beantworte die Fragen, um zu verstehen wo du gerade stehst und was du als nächstes tun solltest. Diese Infos helfen uns dabei, dich besser zu unterstützen.",
+        "fillIn": "Fragebogen ausfüllen",
+        "cardInfoText": "In jeder Kategorie findest du oben einige Infos. Gucke dir auf jeden Fall die videos an und lies die Texte genau um alles Wichtige für deinen Weg an die Universität zu lernen.",
+        "cardInfo": "Information",
+        "goBackText": "Zurück zur ganzen Liste: klicke hier.",
+        "goBack": "Zurück",
+        "firstCategoryText": "Du bist nun in der ersten Kategorie über <1>{{1}}</1>",
+        "firstCategory": "Erste Kategorie",
+        "errorLoading": "Fehler beim Lagen von {{0}} Sprachzertifikaten",
+        "seeOtherStudents": "Mehr von anderen Kiron Lernenden sehen…",
+        "updatedInfo": "Hallo! Auf dieser Seite bekommst du aktuelle Infos von Kiron, über unsere Kurse, Lerntips und interessante Artikel, die wir für dich heraussuchen. Klicke auf die Überschriften um den Text zu sehen und komme immer wieder hier her zurück um zu sehen was es Neues gibt.",
+        "newsFeed": "Neuigkeiten",
+        "feedBack": "Feedback geben",
+        "isItUsefull": "Wenn du denkst, dass das hilfreich war, teile uns gern dein Feedback mit. Es dauert nur eine Minute!",
+        "opinion": "Wie findest du diese neue Seite?",
+        "reset": "Bist du dir sicher, dass du den Fragebogen zurücksetzen möchtest?",
+        "retake": "Fragebogen wiederholen",
+        "prevPage": "Vorherige Seite",
+        "nextPage": "Nächste Seite",
+        "submitResult": "Klicke auf \"Abschicken\" um das Ergebnis zu sehen.",
+        "submit": "Abschicken",
+        "findUniversity": "In der Kategorie \"Previous Education\" findest du heraus, welche Art von Hochschulzugangsberechtigung du hast. Komme danach zurück hier her.",
+        "loadingLangCertificate": "Lade Sprachzertifikate"
     }
 }
