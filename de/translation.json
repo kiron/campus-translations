@@ -264,11 +264,16 @@
             "description": "Sprich mit anderen Lernenden, stell dich vor und lerne deine Mitstudierenden kennen.",
             "reportMessage": "Wenn du eine Nachricht siehst, die nicht hierher gehört, weil sie beleidigend, gewalttätig oder wie Spam erscheint, sende bitte eine E-Mail an ",
             "messageButton": "Nachricht schicken",
-            "defaultText": "Noch keine Beiträge vorhanden. Beginne eine Diskussion hier",
+            "defaultText": "Noch keine Beiträge vorhanden. Beginne eine Diskussion hier.",
             "cancel": "Abbruch",
             "delete": "Löschen",
             "reply": "Antworten",
-            "sendButton": "Senden"
+            "sendButton": "Senden",
+            "confirmDeleteReply": "Bist du dir sicher, dass du deine Antwort löschen willst?",
+            "confirmDeleteMessage": "Bist du dir sicher, dass du diese Nachricht löschen willst? Achtung, alle Antworten zu dieser Nachricht werden auch gelöscht.",
+            "chatHeading": "Chat",
+            "loading": "Absenden",
+            "inputFieldPlaceholder": "Nachricht"
         },
         "verification": {
             "failed": "Verifizierung fehlgeschlagen - Versuche es noch einmal",
@@ -327,7 +332,8 @@
         "testAgain": "Bevor du fortfahren kannst, solltest du diese Fragen überprüfen und den Test noch einmal machen.",
         "testNonRetakeable": "Leider hast du nicht die erforderliche Punktzahl für diesen Test erreicht. Du kannst gerne in dieser Einheit weiterlernen, sie allerdings nicht abschließen.",
         "retakeTest": "Test wiederholen",
-        "sending": "Schicke Ergebnisse ..."
+        "sending": "Schicke Ergebnisse ...",
+        "continueHint": "Bitte kommentiere zu “{{0}}“ um fortzufahren"
     },
     "attachmentItem": {
         "download": "Download",
