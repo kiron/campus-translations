@@ -122,7 +122,8 @@
     "dateInput": {
         "day": "Tag:",
         "month": "Monat:",
-        "year": "Jahr:"
+        "year": "Jahr:",
+        "ago": "vor {{elapsedTime}}"
     },
     "shortProgram": {
         "loading": "Skill Booster Program wird geladen",
