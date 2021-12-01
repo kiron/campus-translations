@@ -22,7 +22,7 @@
     "optOutModal": "Bist du sicher?",
     "modalAccept": "Ja, Projekt verlassen",
     "modalReject": "Nein, hier bleiben",
-    "aboutTitle": "Information",
+    "aboutTitle": "Über das Projekt",
     "preferences": "Einstellungen",
     "since": "Seit",
     "chat": "Chat",
@@ -32,5 +32,8 @@
     "card": {
         "collaborative": "Kollaborativ",
         "type": "Projekt"
-    }
+    },
+    "chatText": "Du kannst dich mit den Projektteilnehmer austauschen, sobald du diesem Projekt beigetreten bist.",
+    "attachmentsText": "Du kannst deine Arbeitsdokumente hier hochladen, sobald du diesem Projekt beigetreten bist.",
+    "instructionsText": "Du kannst die Aufgabenstellung einsehen, sobald du diesem Projekt beigetreten bist."
 }
