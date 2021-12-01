@@ -121,7 +121,8 @@
     "dateInput": {
         "day": "Day:",
         "month": "Month:",
-        "year": "Year:"
+        "year": "Year:",
+        "ago": "{{elapsedTime}} ago"
     },
     "shortProgram": {
         "loading": "Loading Program",
