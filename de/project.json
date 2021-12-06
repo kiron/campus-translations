@@ -35,5 +35,6 @@
     },
     "chatText": "Du kannst dich mit den Projektteilnehmer austauschen, sobald du diesem Projekt beigetreten bist.",
     "attachmentsText": "Du kannst deine Arbeitsdokumente hier hochladen, sobald du diesem Projekt beigetreten bist.",
-    "instructionsText": "Du kannst die Aufgabenstellung einsehen, sobald du diesem Projekt beigetreten bist."
+    "instructionsText": "Du kannst die Aufgabenstellung einsehen, sobald du diesem Projekt beigetreten bist.",
+    "toolsText": "In diesem Projekt kannst du mit {{0}} verschiedenen Tools arbeiten."
 }
