@@ -34,7 +34,7 @@
         "type": "Project"
     },
     "toolsTitle": "Tools",
-    "toolsText": "will be available to you once you join this project.",
+    "toolsText": "{{0}} Tools will be available to you once you join this project.",
     "instructionsText": "You will view the instructions once you join this project.",
     "attachmentsText": "You can upload your work here once you join the project.",
     "chatText": "You will be able to chat with your project members once you join the project."
