@@ -5,7 +5,7 @@
     "introCTALeave": "Veranstaltung verlassen",
     "eventStarted": "Veranstaltung hat begonnen",
     "hostedBy": "Angeboten von",
-    "aboutTitle": "Information",
+    "aboutTitle": "Beschreibung",
     "detailsTitle": "Details",
     "seeMore": "Mehr anzeigen",
     "seeLess": "Weniger anzeigen",
@@ -43,5 +43,9 @@
     },
     "registrationOpenOtherMeetings": "Registrierung für spätere Veranstaltungen ist möglich",
     "registrationClosed": "Registrierung ist nicht mehr möglich",
-    "multipleMeetingSeries": "Diese Veranstaltung hat mehrere Sitzungen"
+    "multipleMeetingSeries": "Diese Veranstaltung hat mehrere Sitzungen",
+    "locationOnline": "Online",
+    "locationOffline": "Offline",
+    "introPreHeadingOnline": "Online Veranstaltung",
+    "introPreHeadingOffline": "Offline Veranstaltung"
 }
