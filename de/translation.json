@@ -348,9 +348,9 @@
         "contactSupport": "Support kontaktieren"
     },
     "appointmentCardInfo": {
-        "repeats": "Repeats every",
-        "week": "week",
-        "weeks": "weeks"
+        "repeats": "Wird jede",
+        "week": "Woche wiederholt",
+        "weeks": "Wochen wiederholt"
     },
     "questionnaire": {
         "contactUs": "Keine Sorge, du kannst immer zurückgehen und uns kontaktieren wenn du Fragen hast. Nun lass uns über {{0}} in Deutschland lernen!",
