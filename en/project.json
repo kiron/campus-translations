@@ -42,5 +42,6 @@
     "appointmentsInfo": "All times are in your timezone.",
     "appointmentsPlaceholder": "You will see the scheduled appointments once you join this project.",
     "nextUp": "Next Up",
-    "viewAll": "View all"
+    "viewAll": "View all",
+    "appointments": "Appointments"
 }
