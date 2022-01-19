@@ -39,5 +39,8 @@
     "toolsText": "In diesem Projekt kannst du mit {{0}} verschiedenen Tools arbeiten.",
     "appointments": "Termine",
     "appointmentsInfo": "Alle Zeiten sind in deiner Zeitzone",
-    "availableAppointments": "Verfügbare Termine"
+    "availableAppointments": "Verfügbare Termine",
+    "appointmentsPlaceholder": "Sie können die Termine sehen sobald Sie am Projekt teilnehmen.",
+    "nextUp": "Nächster Termin",
+    "viewAll": "Alle Termine"
 }
