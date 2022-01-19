@@ -39,5 +39,6 @@
     "attachmentsText": "You can upload your work here once you join the project.",
     "chatText": "You will be able to chat with other project participants once you join the project.",
     "availableAppointments": "Available Appointments",
-    "appointmentsInfo": "All times are in your timezone."
+    "appointmentsInfo": "All times are in your timezone.",
+    "appointmentsPlaceholder": "You will see the scheduled appointments once you join this project."
 }
