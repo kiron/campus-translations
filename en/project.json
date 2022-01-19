@@ -40,5 +40,6 @@
     "chatText": "You will be able to chat with other project participants once you join the project.",
     "availableAppointments": "Available Appointments",
     "appointmentsInfo": "All times are in your timezone.",
-    "appointmentsPlaceholder": "You will see the scheduled appointments once you join this project."
+    "appointmentsPlaceholder": "You will see the scheduled appointments once you join this project.",
+    "nextUp": "Next Up"
 }
