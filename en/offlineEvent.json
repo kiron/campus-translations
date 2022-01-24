@@ -46,5 +46,6 @@
     "introPreHeadingOffline": "Offline Event",
     "introPreHeadingOnline": "Online Event",
     "locationOffline": "Offline",
-    "locationOnline": "Online"
+    "locationOnline": "Online",
+    "unenroll": "Unenroll"
 }
