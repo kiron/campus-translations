@@ -270,7 +270,16 @@
             "description": "Communicate with other learners, introduce yourself and get to know your fellow students here.",
             "reportMessage": "Si encuentra un mensaje ofensivo, violento o de publicidad ajena a esta plataforma, por favor mande un correo electrónico a <1>student-support@kiron.ngo</1>. ",
             "messageButton": "Message",
-            "defaultText": "Todavía no se ha iniciado una conversación. Saluda a los otros participantes de este proyecto."
+            "defaultText": "Todavía no se ha iniciado una conversación. Saluda a los otros participantes de este proyecto.",
+            "confirmDeleteReply": "¿Está seguro/a que quiere borrar su respuesta?",
+            "confirmDeleteMessage": "¿Está seguro/a que quiere borrar su mensaje? Recuerde que todas las respuestas serán también eliminadas.",
+            "cancel": "Cancelar",
+            "delete": "Borrar",
+            "reply": "Responder",
+            "chatHeading": "Chat",
+            "loading": "Enviando",
+            "inputFieldPlaceholder": "Mensaje",
+            "sendButton": "Enviar"
         },
         "verification": {
             "failed": "Verification failed - Try again",
@@ -329,7 +338,8 @@
         "testAgain": "Parece que todavía no está listo para continuar. Por favor, revise el contenido y repita el test para continuar.",
         "testNonRetakeable": "Lo sentimos, no ha conseguido puntos suficientes para aprobar el test. Puede seguir aprendiendo en esta unidad pero no podrá marcarla como completada",
         "retakeTest": "Repetir el test",
-        "sending": "Enviando resultados..."
+        "sending": "Enviando resultados...",
+        "continueHint": "Por favor, comente en “{{0}}“ para poder continuar"
     },
     "attachmentItem": {
         "download": "Download",
@@ -346,5 +356,34 @@
         "repeats": "Repeats every",
         "week": "week",
         "weeks": "weeks"
+    },
+    "questionnaire": {
+        "contactUs": "Recuerde que siempre puede volver atrás y contactar con nosotros si tiene alguna pregunta. ¡Ahora empecemos a aprender sobre {{0}} en Alemania!",
+        "innerText": "{{0}}",
+        "submitQuestionnaireText": "Por favor, siga las instrucciones para rellenar los campos vacíos y guarde sus respuestas haciendo clic en \"Enviar\".",
+        "submitQuestionnaire": "Enviar cuestionario",
+        "fillInText": "Para averiguar en qué punto está usted en este proceso y cuál es el siguiente paso, por favor responda a las preguntas. Esta información nos ayudará a darle mejor apoyo y orientación.",
+        "fillIn": "Rellenar cuestionario",
+        "cardInfoText": "Encontrará información en la parte superior de cada categoría. Asegúrese que ve el video y lee el texto al inicio para saber todo lo que necesitará para ir a la universidad.",
+        "cardInfo": "Información de la tarjeta",
+        "goBackText": "Para volver atrás y ver la lista completa, haga clic aquí.",
+        "goBack": "Volver atrás",
+        "firstCategoryText": "Ahora está en la primera categoría sobre <1>{{1}}</1>",
+        "firstCategory": "Primera categoría",
+        "errorLoading": "Ha habido en error cargando los  {{0}}  certificados de idiomas",
+        "seeOtherStudents": "Ver más información sobre otros estudiantes de Kiron…",
+        "updatedInfo": "¡Hola! En esta página puede leer la información más reciente sobre Kiron, nuestros cursos, consejos para el estudio y algunos artículos interesantes que seleccionamos para usted. Haga click en los títulos para ver al texto entero y ¡vuelva a esta página cuando quiera para ver las novedades!",
+        "newsFeed": "Noticias",
+        "feedBack": "Compartir mi opinión",
+        "isItUsefull": "Si cree que es útil, por favor comparta su opinión. ¡Solamente tardará un minuto!",
+        "opinion": "¿Qué opina sobre esta nueva página?",
+        "reset": "¿Está seguro/a de que quiere repetir el cuestionario?",
+        "retake": "Repetir el cuestionario",
+        "prevPage": "Página anterior",
+        "nextPage": "Página siguiente",
+        "submitResult": "Por favor haga clic en \"Enviar\" para ver su resultado.",
+        "submit": "Enviar",
+        "findUniversity": "Indique su calificación de acceso a la universidad en la categoría \"Educación Previa\" y vuelva aquí",
+        "loadingLangCertificate": "Cargando certificados de idiomas"
     }
 }
