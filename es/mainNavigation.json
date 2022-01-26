@@ -11,7 +11,7 @@
     "noNotifications": "No tiene notificaciones pendientes.",
     "notifications": "Notificaciones",
     "profile": "Perfil",
-    "preferences": "Preferencias",
+    "preferences": "Opciones",
     "offerBoard": "Tablón de ofertas",
     "support": "Ayuda",
     "helpCenter": "Centro de Ayuda",
@@ -20,4 +20,4 @@
     "logout": "Desconectar",
     "joinForFree": "Join for free",
     "subOrgConsent": "Te pedimos estos datos porque son una parte important de tu experiencia en {{orgDisplayName}} Campus"
-  }
+}
