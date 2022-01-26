@@ -215,9 +215,6 @@
         "subtitle": "Why isn't my Coursera progress updated on {{orgDisplayName}} Campus?",
         "body": "It can take 2-3 days before your Coursera progress shows up on {{orgDisplayName}} Campus. This doesn't mean your progress isn't being tracked. Please check back soon to see your updated progress!"
     },
-    "pendingApplicationStatus": {
-        "pendingExplanation": "The screening process usually takes around 2 weeks."
-    },
     "unitPage": {
         "register": "Register",
         "completionInfo": "Your instructor will mark this course as completed after review",
