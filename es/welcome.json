@@ -1,16 +1,16 @@
 {
-  "slideOne": {
-    "title": "Descubrir",
-    "content": "Descubrir {{orgDisplayName}} y ganar acceso gratuito a cursos online."
-  },
-  "slideTwo": {
-    "title": "Aprender",
-    "content": "¡Puede escoger lo que quiere estudiar: Diseño Web, Python, Negocio Online, Psicología, Informática, Inglés y mucho más!"
-  },
-  "slideThree": {
-    "title": "Conectar",
-    "content": "Más de 6000 estudiantes alrededor del mundo son parte de {{orgDisplayName}}. Comparta sus estudios con ellos."
-  },
-  "buttonActive": "Empezar",
-  "buttonLoading": "Cargando"
+    "slideOne": {
+        "title": "Descubrir",
+        "content": "Descubra el Campus de {{orgDisplayName}} y consiga acceso gratuito a cursos online"
+    },
+    "slideTwo": {
+        "title": "Aprender",
+        "content": "¡Puede escoger lo que quiere estudiar: Diseño Web, Python, Negocio Online, Psicología, Informática, Inglés y mucho más!"
+    },
+    "slideThree": {
+        "title": "Conectar",
+        "content": "Más de 6000 estudiantes alrededor del mundo son parte de {{orgDisplayName}}. Comparta sus estudios con ellos."
+    },
+    "buttonActive": "Empezar",
+    "buttonLoading": "Cargando"
 }
