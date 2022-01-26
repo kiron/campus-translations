@@ -1,48 +1,48 @@
 {
-  "title": "Compartición de Datos",
-  "info": "Estas opciones muestran los datos que ha permitido a {{orgDisplayName}} compartir con ciertas terceras personas. Utilice el botón 'Ver' para ver los detalles, o revocar, ese consentimiento.",
-  "infoConsent": "Todavía no ha aceptado ninguna petición de consentimiento.",
-  "linkView": "Ver",
-  "linkCancel": "Cancelar",
-  "linkBack": "Volver",
-  "linkAccept": "Aceptar",
-  "noInfo": "Lo sentimos, no hay información disponible",
-  "linkBackSettings": "Volver a Opciones",
-  "titleReceived": "Hemos recibido su consentimiento para",
-  "linkGoSettings": "Ir a Opciones",
-  "linkRevoke": "Revocar",
-  "revokeConsent": {
-    "yes": "Sí",
-    "no": "No",
-    "title": "¿Está seguro de que quiere revocar este consentimiento?",
-    "desc": "Al revocar este consentimiento puede perder acceso a algunos de los servicios de {{orgDisplayName}}.",
-    "goToSettings": "Ir a Opciones",
-    "revoked": "Revocado"
-  },
-  "listItem": {
-    "view": "Ver"
-  },
-  "emailSubscription": {
-    "title": "Suscripción por correo electrónico",
-    "info": "Administre los correos electrónicos que recibe de Kiron",
-    "courseReminders": {
-      "title": "Recordatorios",
-      "info": "Quiero recibir actualizaciones sobre mi progreso, mensajes de motivación y otras informaciones sobre mis cursos"
+    "title": "Compartición de datos",
+    "info": "Estas opciones muestran los datos que ha permitido a {{orgDisplayName}} compartir con ciertas terceras personas. Utilice el botón 'Ver' para ver los detalles, o revocar, ese consentimiento.",
+    "infoConsent": "Todavía no ha aceptado ninguna petición de consentimiento.",
+    "linkView": "Ver",
+    "linkCancel": "Cancelar",
+    "linkBack": "Volver",
+    "linkAccept": "Aceptar",
+    "noInfo": "Lo sentimos, no hay información disponible",
+    "linkBackSettings": "Volver a Opciones",
+    "titleReceived": "Hemos recibido su consentimiento para",
+    "linkGoSettings": "Ir a Opciones",
+    "linkRevoke": "Revocar",
+    "revokeConsent": {
+        "yes": "Sí",
+        "no": "No",
+        "title": "¿Está seguro de que quiere revocar este consentimiento?",
+        "desc": "Al revocar este consentimiento puede perder acceso a algunos de los servicios de {{orgDisplayName}}.",
+        "goToSettings": "Ir a Opciones",
+        "revoked": "Revocado"
     },
-    "campusNews": {
-      "title": "Noticias de Kiron Campus",
-      "info": "Quiero recibir información sobre nuevos cursos y otras novedades del campus"
+    "listItem": {
+        "view": "Ver"
     },
-    "externalOffers": {
-      "title": "Oportunidades externas",
-      "info": "Quiero recibir información sobre becas, eventos y promociones"
-    },
-    "unsubscribe": {
-      "title": "Ha anulado la suscripción correctamente",
-      "descriptionHeadline": "A partir de ahora, no le enviaremos más correos electrónicos:",
-      "descriptionFooter": "Si quiere cambiar sus suscripciones, haga clic aquí",
-      "unsubscribing": "Anulando la suscripción...",
-      "errorMessage": "Anulación cancelada: {{0}}"
+    "emailSubscription": {
+        "title": "Suscripción por correo electrónico",
+        "info": "Elija qué correos electrónicos quiere recibir de Kiron.",
+        "courseReminders": {
+            "title": "Recordatorios",
+            "info": "Quiero recibir actualizaciones sobre mi progreso, mensajes de motivación y otras informaciones sobre mis cursos."
+        },
+        "campusNews": {
+            "title": "Noticias de Kiron Campus",
+            "info": "Quiero recibir información sobre nuevos cursos y otras novedades del campus."
+        },
+        "externalOffers": {
+            "title": "Oportunidades externas",
+            "info": "Quiero recibir información sobre becas, eventos y promociones."
+        },
+        "unsubscribe": {
+            "title": "¡Ha anulado la suscripción correctamente!",
+            "descriptionHeadline": "A partir de ahora, no le enviaremos más correos electrónicos:",
+            "descriptionFooter": "Si quiere cambiar sus suscripciones, haga clic aquí.",
+            "unsubscribing": "Anulando la suscripción...",
+            "errorMessage": "Anulación cancelada: {{0}}"
+        }
     }
-  }
 }
