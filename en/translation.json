@@ -216,7 +216,6 @@
         "body": "It can take 2-3 days before your Coursera progress shows up on {{orgDisplayName}} Campus. This doesn't mean your progress isn't being tracked. Please check back soon to see your updated progress!"
     },
     "pendingApplicationStatus": {
-        "accountStatus": "Account status: <1>Pending approval</1>",
         "pendingExplanation": "The screening process usually takes around 2 weeks."
     },
     "unitPage": {
