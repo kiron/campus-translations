@@ -43,5 +43,6 @@
     "appointmentsPlaceholder": "You will see the scheduled appointments once you join this project.",
     "nextUp": "Next Up",
     "viewAll": "View all",
-    "appointments": "Appointments"
+    "appointments": "Appointments",
+    "noParticipantsYet": "No participants yet. Be the first to join!"
 }
