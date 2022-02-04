@@ -1,6 +1,6 @@
 {
     "title": "Compartición de datos",
-    "info": "Estas opciones muestran los datos que ha permitido a {{orgDisplayName}} compartir con ciertas terceras personas. Utilice el botón 'Ver' para ver los detalles, o revocar, ese consentimiento.",
+    "info": "Estas opciones muestran los datos que ha permitido a {{orgDisplayName}} compartir con ciertas terceras personas. Utilice el botón 'Ver' para ver los detalles, o revocar ese consentimiento.",
     "infoConsent": "Todavía no ha aceptado ninguna petición de consentimiento.",
     "linkView": "Ver",
     "linkCancel": "Cancelar",
@@ -14,7 +14,7 @@
     "revokeConsent": {
         "yes": "Sí",
         "no": "No",
-        "title": "¿Está seguro de que quiere revocar este consentimiento?",
+        "title": "¿Está seguro/a de que quiere revocar este consentimiento?",
         "desc": "Al revocar este consentimiento puede perder acceso a algunos de los servicios de {{orgDisplayName}}.",
         "goToSettings": "Ir a Opciones",
         "revoked": "Revocado"
