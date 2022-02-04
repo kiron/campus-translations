@@ -47,5 +47,6 @@
     "locationOnline": "Online",
     "locationOffline": "Offline",
     "introPreHeadingOnline": "Online Veranstaltung",
-    "introPreHeadingOffline": "Offline Veranstaltung"
+    "introPreHeadingOffline": "Offline Veranstaltung",
+    "unenroll": "Abmelden"
 }
