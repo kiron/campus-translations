@@ -24,16 +24,16 @@
             "errorUppercase": "La contraseña debe contener como mínimo una letra mayúscula",
             "errorNumber": "La contraseña debe contener como mínimo un número",
             "errorSpecialCharacter": "La contraseña debe contener como mínimo un carácter especial excepto < o >",
-            "emailSentTitle": "¡Casi terminado!",
+            "emailSentTitle": "¡Casi ha terminado!",
             "emailSentDescription01": "Mire su email.",
             "emailSentDescription02": "Le hemos enviado un email para activar tu cuenta.",
             "termsText": "Al continuar acepta nuestros",
             "termsLink": "Política de Privacidad/Términos de utilización"
         },
         "registerConfirmed": {
-            "title": "¡Casi terminado!",
+            "title": "¡Casi ha terminado!",
             "description": "Estamos preparando su cuenta...",
-            "acceptTerms": "Accept terms of service"
+            "acceptTerms": "Aceptar términos y condiciones de uso"
         }
     },
     "explore": {
