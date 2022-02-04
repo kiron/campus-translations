@@ -42,5 +42,6 @@
     "availableAppointments": "Verfügbare Termine",
     "appointmentsPlaceholder": "Du kannst die Termine sehen sobald Du am Projekt teilnimmst.",
     "nextUp": "Nächster Termin",
-    "viewAll": "Alle Termine"
+    "viewAll": "Alle Termine",
+    "noAppointmentsYet": "Es wurden noch keine Termine für dieses Projekt hinterlegt."
 }
