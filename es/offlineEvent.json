@@ -47,5 +47,6 @@
     "registrationClosed": "Inscripción cerrada",
     "multipleMeetingSeries": "Esta evento tiene múltiples sesiones",
     "today": "Hoy",
-    "eventDay": "Próxima sesión"
+    "eventDay": "Próxima sesión",
+    "unenroll": "Desinscribirse"
 }
