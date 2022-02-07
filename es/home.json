@@ -1,5 +1,5 @@
 {
-    "featuredTitle": "¡Sigamos!",
+    "featuredTitle": "Sigamos",
     "featuredDescription": "Continúe aprendiendo",
     "enrolledModulesTitle": "Sus cursos",
     "enrolledModulesSubtitle": "",
@@ -43,8 +43,8 @@
     "mapListHeadline": "Estudiantes en {{city}}",
     "mapHeadline": "Conozca a otros estudiantes que viven cerca de su ubicación",
     "mapSubTitle": "Estudie junto a personas cercanas a su ubicación",
-    "studentCount": "{{0}} estudiante",
-    "studentCount_plural": "{{0}} estudiantes",
+    "studentCount": "{{0}} Estudiante",
+    "studentCount_plural": "{{0}} Estudiantes",
     "mapNoResultsInfo": "Todavía no hay estudiantes en esta ciudad",
     "mapBackBtn": "Volver a {{city}}",
     "contactBtn": "Message {{name}}",

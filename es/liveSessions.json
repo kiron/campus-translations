@@ -1,37 +1,38 @@
 {
-  "upcomingSessions": {
-    "title": "Próximamente",
-    "subtitle": "Sesiones en línea en los próximos 3 días"
-  },
-  "allSessions": {
-    "title": "En su calendario",
-    "subtitle": "Todas sus sesiones en línea"
-  },
-  "moduleLiveCard": {
-    "title": "¡Sigamos aprendiendo!",
-    "subtitle": "Su sesión en línea ha empezado",
-    "live": "Activo",
-    "cta": "Unirme a la sesión"
-  },
-  "moduleSessionCard": {
-    "at": "a las",
-    "more": "y {{0}} más sesiones en línea",
-    "more_plural": "y {{0}} más sesiones en línea",
-    "today": "Hoy",
-    "startTime": "{{- 0}} a las {{1}}"
-  },
-  "weekdays": {
-    "1": "Lunes",
-    "2": "Martes",
-    "3": "Miércoles",
-    "4": "Jueves",
-    "5": "Viernes",
-    "6": "Sábado",
-    "7": "Domingo"
-  },
-  "card": {
-    "online": "En línea",
-    "type": "Evento",
-    "endsAt": "Termina a las"
-  }
+    "upcomingSessions": {
+        "title": "Próximamente",
+        "subtitle": "Sesiones en línea en los próximos 3 días"
+    },
+    "allSessions": {
+        "title": "En su calendario",
+        "subtitle": "Todas sus sesiones en línea"
+    },
+    "moduleLiveCard": {
+        "title": "¡Sigamos aprendiendo!",
+        "subtitle": "Su sesión en línea ha empezado",
+        "live": "Activo",
+        "cta": "Unirme a la sesión"
+    },
+    "moduleSessionCard": {
+        "at": "a las",
+        "more": "y {{0}} más sesiones en línea",
+        "more_plural": "y {{0}} más sesiones en línea",
+        "today": "Hoy",
+        "startTime": "{{- 0}} a las {{1}}"
+    },
+    "weekdays": {
+        "1": "Lunes",
+        "2": "Martes",
+        "3": "Miércoles",
+        "4": "Jueves",
+        "5": "Viernes",
+        "6": "Sábado",
+        "7": "Domingo"
+    },
+    "card": {
+        "online": "En línea",
+        "type": "Evento",
+        "endsAt": "Termina a las",
+        "eventOver": "El evento ha terminado"
+    }
 }
