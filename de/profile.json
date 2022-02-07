@@ -1,71 +1,71 @@
 {
-  "header": {
-    "imgSave": "Speichern",
-    "imgDelete": "Löschen",
-    "imgReplace": "Ersetzen",
-    "imgTitle": "Lade dein Profil-Foto hoch",
-    "imgInputLabel": "Ich stimme zu, dass mein Foto anderen Studierenden & Mitarbeiter:innen gezeigt wird",
-    "imgUploadMsg": "Lade dein Profil-Foto hoch"
-  },
-  "editBox": {
-    "cancel": "Abbruch",
-    "save": "Speichern",
-    "edit": "Bearbeiten"
-  },
-  "languageSwitch": {
-    "title": "Sprache"
-  },
-  "personalInfo": {
-    "title": "Persönliche Informationen",
-    "popup": "Persönliche Informationen sind nützlich um unsere Studierenden besser kennenzulernen und ihnen spezifische Dienstleistungen anzubieten, z.b. Lernorte für weibliche Studierende",
-    "nickname": "Nickname",
-    "country": "Herkunftsland",
-    "countryPlaceholder": "Wähle eine Nationalität",
-    "birthday": "Geburtsdatum",
-    "gender": "Geschlecht",
-    "male": "Männlich",
-    "female": "Weiblich",
-    "other": "Divers"
-  },
-  "location": {
-    "title": "Standort",
-    "popup": "Ein Teil unserer Leistungen sind nur an bestimmten Standorten verfügbar. Wenn wir deinen Standort kennen, können wir dir die richtigen Informationen schicken.",
-    "infoMsg": "Wir werden keine sensiblen Informationen and Dritte weitergeben; um jedoch maßgeschneiderte Workshops oder Veranstaltungen in deiner Nähe anbieten zu können, benötigen wir deine Standortangaben.",
-    "country": "Land",
-    "countryPlaceholder": "Wähle ein Land",
-    "city": "Stadt",
-    "none": "Keine",
-    "btnLabel": "Finde andere Studierende",
-    "searchMsg": "Suche nach deiner Stadt und wähle sie aus der List aus"
-  },
-  "contactDetails": {
-    "title": "Kontakt Informationen",
-    "popup": "Wir benötigen deine private E-Mail, wenn du deinen {{orgDisplayName}} E-Mail Account zurücksetzen müsst. Für zusätzliche Dienstleistungen werden wir dich telefonisch kontaktieren.",
-    "infoMsg": "{{orgDisplayName}} gibt deine Kontaktdaten nicht ohne deine Zustimmung an Dritte weiter.",
-    "phone": "Telefonnummer",
-    "whatsappCheck": "{{orgDisplayName}} kann mich per WhatsApp Messenger unter dieser Nummer erreichen",
-    "whatsappCheckPositive": "{{orgDisplayName}} <1>kann<1> mich per WhatsApp Messenger unter dieser Nummer erreichen",
-    "whatsappCheckNegative": "{{orgDisplayName}} <1>kann mich nicht<1> per WhatsApp Messenger unter dieser Nummer erreichen",
-    "email": "Private E-Mail",
-    "emailMsg": "Hast du eine neue <1>private</1> E-Mail Adresse? Du kannst diese hier ändern. Wir senden dir anschließend eine E-Mail zur Bestätigungs an diese Adresse - <2>bitte bestätige</2> diese in den nächsten Tagen."
-  },
-  "certificate": {
-    "title": "Anmeldebebescheinigung",
-    "desc": "Brauchst du einen Nachweis, dass du Studierender bei {{orgDisplayName}} bist?",
-    "downloadDesc": "Download der Anmeldebebescheinigung",
-    "btnLabel": "Download hier",
-    "downloadPlease": "Bitte",
-    "clickHere": "klicke hier",
-    "downloadLink": "lade ein Status Dokument hoch um deine Anmeldebebescheinigung herunterzuladen.",
-    "noFirstAndLastNameProvided": "Du musst einen Vor- und Nachnamen angeben, damit du ein Zertifikat bekommen kannst.",
-    "contactSupport": "Support kontaktieren"
-  },
-  "COEContainer": {
-    "question": "Wofür planst du dein Zertifikat in den nächsten sechs Monaten zu verwenden?",
-    "info": "Um die Anmeldebescheinigung herunterzuladen, wähle bitte oben eine oder mehrere Verwendungen der Anmeldebescheinigung aus.",
-    "downloadLng": "Download in",
-    "en": "Englisch",
-    "de": "Deutsch",
-    "fr": "Französisch"
-  }
+    "header": {
+        "imgSave": "Speichern",
+        "imgDelete": "Löschen",
+        "imgReplace": "Ersetzen",
+        "imgTitle": "Lade dein Profil-Foto hoch",
+        "imgInputLabel": "Ich stimme zu, dass mein Foto anderen Studierenden & Mitarbeiter:innen gezeigt wird",
+        "imgUploadMsg": "Lade dein Profil-Foto hoch"
+    },
+    "editBox": {
+        "cancel": "Abbruch",
+        "save": "Speichern",
+        "edit": "Bearbeiten"
+    },
+    "languageSwitch": {
+        "title": "Sprache"
+    },
+    "personalInfo": {
+        "title": "Persönliche Informationen",
+        "popup": "Persönliche Informationen sind nützlich um unsere Studierenden besser kennenzulernen und ihnen spezifische Dienstleistungen anzubieten, z.b. Lernorte für weibliche Studierende",
+        "nickname": "Nickname",
+        "country": "Nationalität",
+        "countryPlaceholder": "Wähle eine Nationalität",
+        "birthday": "Geburtsdatum",
+        "gender": "Geschlecht",
+        "male": "Männlich",
+        "female": "Weiblich",
+        "other": "Divers"
+    },
+    "location": {
+        "title": "Standort",
+        "popup": "Ein Teil unserer Leistungen sind nur an bestimmten Standorten verfügbar. Wenn wir deinen Standort kennen, können wir dir die richtigen Informationen schicken.",
+        "infoMsg": "Wir werden keine sensiblen Informationen and Dritte weitergeben; um jedoch maßgeschneiderte Workshops oder Veranstaltungen in deiner Nähe anbieten zu können, benötigen wir deine Standortangaben.",
+        "country": "Land",
+        "countryPlaceholder": "Wähle ein Land",
+        "city": "Stadt",
+        "none": "Keine",
+        "btnLabel": "Finde andere Studierende",
+        "searchMsg": "Suche nach deiner Stadt und wähle sie aus der List aus"
+    },
+    "contactDetails": {
+        "title": "Kontakt Informationen",
+        "popup": "Wir benötigen deine private E-Mail, wenn du deinen {{orgDisplayName}} E-Mail Account zurücksetzen müsst. Für zusätzliche Dienstleistungen werden wir dich telefonisch kontaktieren.",
+        "infoMsg": "{{orgDisplayName}} gibt deine Kontaktdaten nicht ohne deine Zustimmung an Dritte weiter.",
+        "phone": "Telefonnummer",
+        "whatsappCheck": "{{orgDisplayName}} kann mich per WhatsApp Messenger unter dieser Nummer erreichen",
+        "whatsappCheckPositive": "{{orgDisplayName}} <1>kann<1> mich per WhatsApp Messenger unter dieser Nummer erreichen",
+        "whatsappCheckNegative": "{{orgDisplayName}} <1>kann mich nicht<1> per WhatsApp Messenger unter dieser Nummer erreichen",
+        "email": "Private E-Mail",
+        "emailMsg": "Hast du eine neue <1>private</1> E-Mail Adresse? Du kannst diese hier ändern. Wir senden dir anschließend eine E-Mail zur Bestätigungs an diese Adresse - <2>bitte bestätige</2> diese in den nächsten Tagen."
+    },
+    "certificate": {
+        "title": "Anmeldebebescheinigung",
+        "desc": "Brauchst du einen Nachweis, dass du Studierender bei {{orgDisplayName}} bist?",
+        "downloadDesc": "Download der Anmeldebebescheinigung",
+        "btnLabel": "Download hier",
+        "downloadPlease": "Bitte",
+        "clickHere": "klicke hier",
+        "downloadLink": "lade ein Status Dokument hoch um deine Anmeldebebescheinigung herunterzuladen.",
+        "noFirstAndLastNameProvided": "Du musst einen Vor- und Nachnamen angeben, damit du ein Zertifikat bekommen kannst.",
+        "contactSupport": "Support kontaktieren"
+    },
+    "COEContainer": {
+        "question": "Wofür planst du dein Zertifikat in den nächsten sechs Monaten zu verwenden?",
+        "info": "Um die Anmeldebescheinigung herunterzuladen, wähle bitte oben eine oder mehrere Verwendungen der Anmeldebescheinigung aus.",
+        "downloadLng": "Download in",
+        "en": "Englisch",
+        "de": "Deutsch",
+        "fr": "Französisch"
+    }
 }
