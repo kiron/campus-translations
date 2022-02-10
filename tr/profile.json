@@ -1,71 +1,71 @@
 {
-  "header": {
-    "imgSave": "Kaydet",
-    "imgDelete": "Sil",
-    "imgReplace": "Değiştir",
-    "imgTitle": "Profil resmi yükle",
-    "imgInputLabel": "Resmimin öğrencileri ve ekibine gösterilmesine izin veriyorum",
-    "imgUploadMsg": "Profil resmi yükle"
-  },
-  "editBox": {
-    "cancel": "İptal",
-    "save": "Kaydet",
-    "edit": "Düzenle"
-  },
-  "languageSwitch": {
-    "title": "Dil"
-  },
-  "personalInfo": {
-    "title": "Kişisel bilgiler",
-    "popup": "Kişisel bilgiler, öğrencilerimizi daha iyi tanımak için ve 'kadın öğrenciler için çalışma yerleri' gibi belirli hizmetleri sağlamak için yardımcı olmaktadır",
-    "nickname": "Takma isim",
-    "country": "Ana vatanınız",
-    "countryPlaceholder": "Milletinizi seçin ",
-    "birthday": "Doğum Tarihi ",
-    "gender": "Cinsiyet",
-    "male": "Erkek",
-    "female": "Kadın",
-    "other": "Diğer"
-  },
-  "location": {
-    "title": "Erkek/ Kadın",
-    "popup": "Bazı hizmetlerimize yalnızca belirli bölgelerde erişilebilir. Konumunu bilmemiz sana doğru bilgileri göndermemizi sağlar.",
-    "infoMsg": "Herhangi bir hassas bilgiyi üçüncü bir kişiye göndermeyeceğiz; ancak, sana en yakın özel atölye çalışmaları veya etkinlikler sunmak için konum bilgilerine ihtiyacımız var.",
-    "country": "Ülke",
-    "countryPlaceholder": "Ülke Seç",
-    "city": "Şehir",
-    "none": "Hiçbiri",
-    "btnLabel": "Diğer öğrencileri bul",
-    "searchMsg": "Search for your city and select it from the list"
-  },
-  "contactDetails": {
-    "title": "İletişim bilgileri",
-    "popup": "{{orgDisplayName}} e-posta hesabını sıfırlaman gerekirse özel e-postana ihtiyacımız olacak. Ek hizmetler için seninle telefon aracılığıyla iletişim kuracağız.",
-    "infoMsg": "{{orgDisplayName}}, iletişim bilgilerini iznin olmadan kimseyle paylaşmaz.",
-    "phone": "Telefon numarası",
-    "whatsappCheck": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim kurabilir.",
-    "whatsappCheckPositive": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim <1>kurabilir</1>.",
-    "whatsappCheckNegative": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim <1>kuramaz</1>.",
-    "email": "Özel Eposta",
-    "emailMsg": "Yeni bir <1>özel</1> eposta adresin mi var? Burada değiştirebilirsin. Bu adrese bir onay epostası göndereceğiz- <2>lütfen önümüzdeki günlerde onayla</2>."
-  },
-  "certificate": {
-    "title": "Kayıt Belgesi",
-    "desc": "{{orgDisplayName}} ile öğrenci olduğunu kanıtlaman mı gerekiyor?",
-    "downloadDesc": "Kayıt Belgeni indir!",
-    "btnLabel": "Buradan indir",
-    "downloadPlease": "Lütfen",
-    "clickHere": "Buraya tıkla",
-    "downloadLink": "kayıt sertifikasını indirmek amacıyla bir durum belgesi yüklemek için.",
-    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-    "contactSupport": "Contact support"
-  },
-  "COEContainer": {
-    "question": "Önümüzdeki altı ay içinde sertifikanı ne için kullanmayı planlıyorsun?",
-    "info": "Kayıt sertifikasını indirmek için lütfen yukarıdaki kayıt sertifikasının bir veya birkaç kullanımını seç.",
-    "downloadLng": "Şu dilde indir:",
-    "en": "İngilizce",
-    "de": "Almanca",
-    "fr": "Fransızca"
-  }
+    "header": {
+        "imgSave": "Kaydet",
+        "imgDelete": "Sil",
+        "imgReplace": "Değiştir",
+        "imgTitle": "Profil resmi yükle",
+        "imgInputLabel": "Resmimin öğrencileri ve ekibine gösterilmesine izin veriyorum",
+        "imgUploadMsg": "Profil resmi yükle"
+    },
+    "editBox": {
+        "cancel": "İptal",
+        "save": "Kaydet",
+        "edit": "Düzenle"
+    },
+    "languageSwitch": {
+        "title": "Dil"
+    },
+    "personalInfo": {
+        "title": "Kişisel bilgiler",
+        "popup": "Kişisel bilgiler, öğrencilerimizi daha iyi tanımak için ve 'kadın öğrenciler için çalışma yerleri' gibi belirli hizmetleri sağlamak için yardımcı olmaktadır",
+        "nickname": "Takma isim",
+        "country": "Uyruk",
+        "countryPlaceholder": "Milletinizi seçin ",
+        "birthday": "Doğum Tarihi ",
+        "gender": "Cinsiyet",
+        "male": "Erkek",
+        "female": "Kadın",
+        "other": "Diğer"
+    },
+    "location": {
+        "title": "Erkek/ Kadın",
+        "popup": "Bazı hizmetlerimize yalnızca belirli bölgelerde erişilebilir. Konumunu bilmemiz sana doğru bilgileri göndermemizi sağlar.",
+        "infoMsg": "Herhangi bir hassas bilgiyi üçüncü bir kişiye göndermeyeceğiz; ancak, sana en yakın özel atölye çalışmaları veya etkinlikler sunmak için konum bilgilerine ihtiyacımız var.",
+        "country": "Ülke",
+        "countryPlaceholder": "Ülke Seç",
+        "city": "Şehir",
+        "none": "Hiçbiri",
+        "btnLabel": "Diğer öğrencileri bul",
+        "searchMsg": "Search for your city and select it from the list"
+    },
+    "contactDetails": {
+        "title": "İletişim bilgileri",
+        "popup": "{{orgDisplayName}} e-posta hesabını sıfırlaman gerekirse özel e-postana ihtiyacımız olacak. Ek hizmetler için seninle telefon aracılığıyla iletişim kuracağız.",
+        "infoMsg": "{{orgDisplayName}}, iletişim bilgilerini iznin olmadan kimseyle paylaşmaz.",
+        "phone": "Telefon numarası",
+        "whatsappCheck": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim kurabilir.",
+        "whatsappCheckPositive": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim <1>kurabilir</1>.",
+        "whatsappCheckNegative": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim <1>kuramaz</1>.",
+        "email": "Özel Eposta",
+        "emailMsg": "Yeni bir <1>özel</1> eposta adresin mi var? Burada değiştirebilirsin. Bu adrese bir onay epostası göndereceğiz- <2>lütfen önümüzdeki günlerde onayla</2>."
+    },
+    "certificate": {
+        "title": "Kayıt Belgesi",
+        "desc": "{{orgDisplayName}} ile öğrenci olduğunu kanıtlaman mı gerekiyor?",
+        "downloadDesc": "Kayıt Belgeni indir!",
+        "btnLabel": "Buradan indir",
+        "downloadPlease": "Lütfen",
+        "clickHere": "Buraya tıkla",
+        "downloadLink": "kayıt sertifikasını indirmek amacıyla bir durum belgesi yüklemek için.",
+        "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
+        "contactSupport": "Contact support"
+    },
+    "COEContainer": {
+        "question": "Önümüzdeki altı ay içinde sertifikanı ne için kullanmayı planlıyorsun?",
+        "info": "Kayıt sertifikasını indirmek için lütfen yukarıdaki kayıt sertifikasının bir veya birkaç kullanımını seç.",
+        "downloadLng": "Şu dilde indir:",
+        "en": "İngilizce",
+        "de": "Almanca",
+        "fr": "Fransızca"
+    }
 }
