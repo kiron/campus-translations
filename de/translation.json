@@ -52,7 +52,8 @@
         "courses": "Kurse",
         "recommended": "Empfohlen von",
         "showAll": "Alle anzeigen",
-        "collapse": "Einklappen"
+        "collapse": "Einklappen",
+        "programs": "Programe"
     },
     "success": {
         "introTitle": "Deine Erfolgsgeschichte!",
