@@ -387,5 +387,7 @@
         "loadingLangCertificate": "Cargando certificados de idiomas"
     },
     "downloadRecording": "Descargar la grabación",
-    "downloadRecordings": "Descargar todas las grabaciones de la lección"
+    "downloadRecordings": "Descargar todas las grabaciones de la lección",
+    "downloadAllLessonsRecordings": "Descargue todas las grabaciones de las unidades de este curso",
+    "downloadLessonRecordings": "Descargue todas las grabaciones"
 }

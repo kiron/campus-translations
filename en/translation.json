@@ -370,6 +370,6 @@
         "innerText": "{{0}}",
         "contactUs": "Remember, you can always go back and contact us if you have questions. Now let’s learn about {{0}} in Germany!"
     },
-    "downloadRecording": "Download recording",
-    "downloadRecordings": "Download all the lesson recordings"
+    "downloadAllLessonsRecordings": "Download all the lesson recordings in this course",
+    "downloadLessonRecordings": "Download all lesson recordings"
 }
