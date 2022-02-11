@@ -381,5 +381,7 @@
         "submit": "Abschicken",
         "findUniversity": "In der Kategorie \"Previous Education\" findest du heraus, welche Art von Hochschulzugangsberechtigung du hast. Komme danach zurück hier her.",
         "loadingLangCertificate": "Lade Sprachzertifikate"
-    }
+    },
+    "downloadLessonRecordings": "Alle Aufnahmen herunterladen",
+    "downloadAllLessonsRecordings": "Alle Aufnahmen in dieser Kurseinheit herunterladen"
 }
