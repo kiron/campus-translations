@@ -369,6 +369,5 @@
         "submitQuestionnaireText": "Follow the directions for filling the empty fields and save your answers by clicking “Submit”.",
         "innerText": "{{0}}",
         "contactUs": "Remember, you can always go back and contact us if you have questions. Now let’s learn about {{0}} in Germany!"
-    },
-    "downloadRecordings": "Download all the lesson recordings"
+    }
 }
