@@ -53,7 +53,7 @@
         "recommended": "Empfohlen von",
         "showAll": "Alle anzeigen",
         "collapse": "Einklappen",
-        "programs": "Programe"
+        "programs": "Programme"
     },
     "success": {
         "introTitle": "Deine Erfolgsgeschichte!",
@@ -127,7 +127,7 @@
         "ago": "vor {{elapsedTime}}"
     },
     "shortProgram": {
-        "loading": "Skill Booster Program wird geladen",
+        "loading": "Programm wird geladen",
         "studyTrack": "Studiengang Modul",
         "skillBooster": "Skill Booster Program",
         "notFoundTitle": "Unbekanntes Modul",
@@ -135,7 +135,7 @@
         "certificateDownload": "Download Zertifikat",
         "certificatePreview": "Dies ist eine Vorschau von <1/><2>{{2}}</2>",
         "certificateStart": "Starte dieses Programm noch heute, um Zugang zu allen Kursen zu erhalten",
-        "btnStart": "Starte dieses Program",
+        "btnStart": "Starte dieses Programm",
         "certificateModule": "Dies ist ein Modul in Ihrem Online-Studiengang",
         "certificateCredit": "Credit Punkte:",
         "certificateImgAlt": "{{orgDisplayName}} Zertifikat",
