@@ -395,6 +395,7 @@
         "appointmentsTab": "Appointments",
         "chatTab": "Chat",
         "overviewTab": "Overview",
-        "reviewsTab": "Reviews"
+        "reviewsTab": "Reviews",
+        "courseChatText": "You will be able to engage in the chat once you join to this course."
     }
 }
