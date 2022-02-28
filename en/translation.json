@@ -371,5 +371,8 @@
         "contactUs": "Remember, you can always go back and contact us if you have questions. Now let’s learn about {{0}} in Germany!"
     },
     "downloadAllLessonsRecordings": "Download all the lesson recordings in this course",
-    "downloadLessonRecordings": "Download all lesson recordings"
+    "downloadLessonRecordings": "Download all lesson recordings",
+    "course": {
+        "estimate": "Estimated learning time"
+    }
 }
