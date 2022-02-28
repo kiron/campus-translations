@@ -387,6 +387,7 @@
         "wellDone": "Well done! You have completed this course.",
         "registerBefore": "Register before",
         "lessonsTitle": "Lessons",
-        "about": "About"
+        "about": "About",
+        "lesson": "Lesson"
     }
 }
