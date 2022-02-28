@@ -380,6 +380,7 @@
         "participants": "Participants",
         "reviews": "Reviews",
         "offeredBy": "Offered By",
-        "duration": "Duration"
+        "duration": "Duration",
+        "deadline": "Registration deadline"
     }
 }
