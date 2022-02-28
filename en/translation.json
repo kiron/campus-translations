@@ -379,6 +379,7 @@
         "rating": "{{0}} rating",
         "participants": "Participants",
         "reviews": "Reviews",
-        "offeredBy": "Offered By"
+        "offeredBy": "Offered By",
+        "duration": "Duration"
     }
 }
