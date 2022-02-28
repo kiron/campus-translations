@@ -375,6 +375,7 @@
     "course": {
         "estimate": "Estimated learning time",
         "onYourWay": "You're on your way!",
-        "finishLessons": "Finish all the lessons to complete this course."
+        "finishLessons": "Finish all the lessons to complete this course.",
+        "rating": "{{0}} rating"
     }
 }
