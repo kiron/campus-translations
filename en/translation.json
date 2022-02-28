@@ -388,6 +388,7 @@
         "registerBefore": "Register before",
         "lessonsTitle": "Lessons",
         "about": "About",
-        "lesson": "Lesson"
+        "lesson": "Lesson",
+        "noLessons": "New lessons are being carefully crafted and will be published online soon."
     }
 }
