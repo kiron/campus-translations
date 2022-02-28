@@ -374,6 +374,7 @@
     "downloadLessonRecordings": "Download all lesson recordings",
     "course": {
         "estimate": "Estimated learning time",
-        "onYourWay": "You're on your way!"
+        "onYourWay": "You're on your way!",
+        "finishLessons": "Finish all the lessons to complete this course."
     }
 }
