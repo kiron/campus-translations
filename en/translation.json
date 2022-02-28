@@ -377,6 +377,7 @@
         "onYourWay": "You're on your way!",
         "finishLessons": "Finish all the lessons to complete this course.",
         "rating": "{{0}} rating",
-        "participants": "Participants"
+        "participants": "Participants",
+        "reviews": "Reviews"
     }
 }
