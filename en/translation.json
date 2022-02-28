@@ -396,6 +396,7 @@
         "overviewTab": "Overview",
         "reviewsTab": "Reviews",
         "courseChatText": "You will be able to engage in the chat once you join to this course.",
-        "projectChatText": "You will be able to chat with other project participants once you join the project."
+        "projectChatText": "You will be able to chat with other project participants once you join the project.",
+        "rating": "{{0}} rating"
     }
 }
