@@ -390,6 +390,7 @@
         "about": "About",
         "lesson": "Lesson",
         "noLessons": "New lessons are being carefully crafted and will be published online soon.",
-        "aboutTab": "About"
+        "aboutTab": "About",
+        "attachmentsTab": "Attachments"
     }
 }
