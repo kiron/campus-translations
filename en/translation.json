@@ -371,5 +371,32 @@
         "contactUs": "Remember, you can always go back and contact us if you have questions. Now let’s learn about {{0}} in Germany!"
     },
     "downloadAllLessonsRecordings": "Download all the lesson recordings in this course",
-    "downloadLessonRecordings": "Download all lesson recordings"
+    "downloadLessonRecordings": "Download all lesson recordings",
+    "course": {
+        "estimate": "Estimated learning time",
+        "onYourWay": "You're on your way!",
+        "finishLessons": "Finish all the lessons to complete this course.",
+        "participants": "Participants",
+        "reviews": "Reviews",
+        "offeredBy": "Offered By",
+        "duration": "Duration",
+        "deadline": "Registration deadline",
+        "verify": "Verify your account to start learning this course.",
+        "congratulations": "Congratulations!",
+        "wellDone": "Well done! You have completed this course.",
+        "registerBefore": "Register before",
+        "lessonsTitle": "Lessons",
+        "about": "About",
+        "lesson": "Lesson",
+        "noLessons": "New lessons are being carefully crafted and will be published online soon.",
+        "aboutTab": "About",
+        "attachmentsTab": "Attachments",
+        "appointmentsTab": "Appointments",
+        "chatTab": "Chat",
+        "overviewTab": "Overview",
+        "reviewsTab": "Reviews",
+        "courseChatText": "You will be able to engage in the chat once you join to this course.",
+        "projectChatText": "You will be able to chat with other project participants once you join the project.",
+        "rating": "{{0}} rating"
+    }
 }
