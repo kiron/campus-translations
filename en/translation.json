@@ -381,6 +381,7 @@
         "reviews": "Reviews",
         "offeredBy": "Offered By",
         "duration": "Duration",
-        "deadline": "Registration deadline"
+        "deadline": "Registration deadline",
+        "verify": "Verify your account to start learning this course."
     }
 }
