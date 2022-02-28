@@ -393,6 +393,7 @@
         "aboutTab": "About",
         "attachmentsTab": "Attachments",
         "appointmentsTab": "Appointments",
-        "chatTab": "Chat"
+        "chatTab": "Chat",
+        "overviewTab": "Overview"
     }
 }
