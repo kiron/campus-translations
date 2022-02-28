@@ -384,6 +384,7 @@
         "deadline": "Registration deadline",
         "verify": "Verify your account to start learning this course.",
         "congratulations": "Congratulations!",
-        "wellDone": "Well done! You have completed this course."
+        "wellDone": "Well done! You have completed this course.",
+        "registerBefore": "Register before"
     }
 }
