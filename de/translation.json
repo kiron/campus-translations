@@ -383,5 +383,13 @@
         "loadingLangCertificate": "Lade Sprachzertifikate"
     },
     "downloadLessonRecordings": "Alle Aufnahmen herunterladen",
-    "downloadAllLessonsRecordings": "Alle Aufnahmen in dieser Kurseinheit herunterladen"
+    "downloadAllLessonsRecordings": "Alle Aufnahmen in dieser Kurseinheit herunterladen",
+    "course": {
+        "projectChatText": "Du kannst dich mit den Projektteilnehmer austauschen, sobald du diesem Projekt beigetreten bist.",
+        "chatTab": "Chat",
+        "appointmentsTab": "Termine",
+        "attachmentsTab": "Anhänge",
+        "aboutTab": "Beschreibung",
+        "participants": "Teilnehmende"
+    }
 }
