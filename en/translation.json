@@ -237,11 +237,11 @@
             "retake": "Retake unit"
         },
         "regularMooc": {
-            "finished": "Mark as finished",
+            "finished": "Mark as complete",
             "start": "Start in",
-            "notFinished": "Click here if you haven't finished"
+            "notFinished": "Retake in {{0}}"
         },
-        "continue": "Continue",
+        "continue": "Continue learning",
         "confirm": "Confirm",
         "cancel": "Cancel",
         "continueIn": "Continue in {{0}}",
