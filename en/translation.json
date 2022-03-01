@@ -303,7 +303,11 @@
             "liveSessionLinkReminder": "The link to your live session will be active here on that day.",
             "appointmentFrequency": "Repeats every week until {{0}}",
             "appointmentFrequency_plural": "Repeats every {{1}} weeks until {{0}}"
-        }
+        },
+        "yesLeave": "Yes, leave the course",
+        "noStay": "No stay",
+        "sureLeave": "Are you sure you want to leave?",
+        "howItWorks": "How does it work?"
     },
     "landingPage": {
         "login": "Login",
