@@ -237,11 +237,11 @@
             "retake": "Retake unit"
         },
         "regularMooc": {
-            "finished": "Mark as finished",
+            "finished": "Mark as complete",
             "start": "Start in",
-            "notFinished": "Click here if you haven't finished"
+            "notFinished": "Retake in {{0}}"
         },
-        "continue": "Continue",
+        "continue": "Continue learning",
         "confirm": "Confirm",
         "cancel": "Cancel",
         "continueIn": "Continue in {{0}}",
@@ -303,7 +303,11 @@
             "liveSessionLinkReminder": "The link to your live session will be active here on that day.",
             "appointmentFrequency": "Repeats every week until {{0}}",
             "appointmentFrequency_plural": "Repeats every {{1}} weeks until {{0}}"
-        }
+        },
+        "yesLeave": "Yes, leave the course",
+        "noStay": "No stay",
+        "sureLeave": "Are you sure you want to leave?",
+        "howItWorks": "How does it work?"
     },
     "landingPage": {
         "login": "Login",
