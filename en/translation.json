@@ -403,6 +403,7 @@
         "projectChatText": "You will be able to chat with other project participants once you join the project.",
         "rating": "{{0}} rating",
         "verifyAccount": "Please verify your account to get access to unlimited free courses and certificates",
-        "itOnlyTakes": "It only takes 5 minutes"
+        "itOnlyTakes": "It only takes 5 minutes",
+        "details": "Details"
     }
 }
