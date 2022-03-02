@@ -204,11 +204,11 @@
             "retake": "Retake unit"
         },
         "regularMooc": {
-            "finished": "Mark as finished",
+            "finished": "وضع علامة مكتمل",
             "start": "Start in",
-            "notFinished": "Click here if you haven't finished"
+            "notFinished": "إعادة الالتحاق في {{0}}"
         },
-        "continue": "Continue",
+        "continue": "مواصلة التعلم",
         "confirm": "Confirm",
         "cancel": "إلغاء",
         "continueIn": "Continue in {{0}}",
@@ -233,7 +233,7 @@
             "nextSession": "Next live session",
             "joinSession": "Join session",
             "allSessionsCompleted": "All of your live sessions are now completed.",
-            "markFinished": "Mark as finished",
+            "markFinished": "وضع علامة مكتمل",
             "registerBefore": "Register before ",
             "startDate": "Start date",
             "endDate": "End date",
@@ -260,7 +260,11 @@
             "liveSessionLinkReminder": "الرابط الخاص بالمساقات المباشرة سيكون فعالاً هنا في ذلك اليوم.",
             "appointmentFrequency": "يكرّر أسبوعياً حتى تاريخ {{0}}",
             "appointmentFrequency_plural": "يكرّر كل {{1}} أسابيع حتى {{0}}"
-        }
+        },
+        "howItWorks": "كيف يعمل؟",
+        "sureLeave": "هل انت متاكد انك تريد المغادره؟",
+        "noStay": "لا تبقى",
+        "yesLeave": "نعم ، اترك الدورة"
     },
     "landingPage": {
         "login": "Login",
@@ -298,5 +302,8 @@
         "weeks": "weeks"
     },
     "downloadLessonRecordings": "٢. .قم بتحميل جميع تسجيلات الدرس",
-    "downloadAllLessonsRecordings": "١.قم بتحميل جميع تسجيلات الدرس في هذا المساق"
+    "downloadAllLessonsRecordings": "١.قم بتحميل جميع تسجيلات الدرس في هذا المساق",
+    "course": {
+        "details": "التفاصيل"
+    }
 }
