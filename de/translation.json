@@ -394,6 +394,7 @@
         "appointmentsTab": "Termine",
         "attachmentsTab": "Anhänge",
         "aboutTab": "Beschreibung",
-        "participants": "Teilnehmende"
+        "participants": "Teilnehmende",
+        "details": "Details"
     }
 }
