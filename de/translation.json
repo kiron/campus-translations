@@ -249,11 +249,11 @@
             "retake": "Wiederhole Einheit"
         },
         "regularMooc": {
-            "finished": "Abschließen",
+            "finished": "Fertig",
             "start": "Beginne in",
-            "notFinished": "Klicke hier wenn du noch nicht fertig bist"
+            "notFinished": "Kurs wiederholen auf {{0}}"
         },
-        "continue": "Weiter",
+        "continue": "Weiterlernen",
         "confirm": "Bestätigen",
         "cancel": "Abbruch",
         "continueIn": "Weiter in {{0}}",
@@ -315,7 +315,11 @@
             "liveSessionLinkReminder": "Der Link zu deiner Live-Session wird an diesem Tag hier aktiv sein.",
             "appointmentFrequency": "Wiederholt sich wöchentlich bis zum {{0}}",
             "appointmentFrequency_plural": "Wiederholt sich alle {{1}} Wochen bis zum {{0}}"
-        }
+        },
+        "sureLeave": "Bist Du sicher, dass Du aufhören möchtest?",
+        "noStay": "Nein, bleiben",
+        "yesLeave": "Ja, aufhören",
+        "howItWorks": "Wie geht das?"
     },
     "landingPage": {
         "login": "Login",
