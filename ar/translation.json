@@ -302,5 +302,8 @@
         "weeks": "weeks"
     },
     "downloadLessonRecordings": "٢. .قم بتحميل جميع تسجيلات الدرس",
-    "downloadAllLessonsRecordings": "١.قم بتحميل جميع تسجيلات الدرس في هذا المساق"
+    "downloadAllLessonsRecordings": "١.قم بتحميل جميع تسجيلات الدرس في هذا المساق",
+    "course": {
+        "details": "التفاصيل"
+    }
 }
