@@ -186,7 +186,8 @@
         "feedbackLoading": "Lektion wird geladen",
         "Text": "Entschuldigung, du kannst dich nur für bis zu {{0}} Kurse einschreiben",
         "type": "Programm",
-        "selfPaced": "Selbstgesteuert"
+        "selfPaced": "Selbstgesteuert",
+        "titleProgram": "Programm"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
