@@ -108,7 +108,8 @@
         "verificationExample": "Verification example",
         "save": "Save",
         "fileTypeNotSupported": "Sorry, this file type is not permitted",
-        "removeFile": "Remove"
+        "removeFile": "Remove",
+        "maxFilesLimitReached": "You can not upload any more files"
     },
     "moduleStatus": {
         "hour": "hour",
