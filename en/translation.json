@@ -106,7 +106,8 @@
         "description": "Click here or drop files to upload your certificate.<br />(You can also upload your certificate later)",
         "exampleDesc": "Please click on the image to see an example of a certificate in a new tab",
         "verificationExample": "Verification example",
-        "save": "Save"
+        "save": "Save",
+        "fileTypeNotSupported": "Sorry, this file type is not permitted"
     },
     "moduleStatus": {
         "hour": "hour",
