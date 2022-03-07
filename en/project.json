@@ -45,5 +45,6 @@
     "viewAll": "View all",
     "appointments": "Appointments",
     "noParticipantsYet": "No participants yet. Be the first to join!",
-    "noAppointmentsYet": "There are no appointments scheduled for this project yet."
+    "noAppointmentsYet": "There are no appointments scheduled for this project yet.",
+    "linkTo": "Link to"
 }
