@@ -404,6 +404,9 @@
         "rating": "{{0}} rating",
         "verifyAccount": "Please verify your account to get access to unlimited free courses and certificates",
         "itOnlyTakes": "It only takes 5 minutes",
-        "details": "Details"
+        "details": "Details",
+        "howItWorks": "Check how it works.",
+        "freeCertificate": "Free certificate for Kiron students.",
+        "contains": "Contains"
     }
 }
