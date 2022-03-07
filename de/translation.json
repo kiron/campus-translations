@@ -396,6 +396,21 @@
         "attachmentsTab": "Anhänge",
         "aboutTab": "Beschreibung",
         "participants": "Teilnehmende",
-        "details": "Details"
+        "details": "Details",
+        "howItWorks": "Prüfen Sie, wie es funktioniert.",
+        "freeCertificate": "Kostenloses Zertifikat für Kiron-Studenten.",
+        "deadline": "Anmeldefrist",
+        "duration": "Dauer",
+        "offeredBy": "Angeboten von",
+        "estimate": "Geschätzte Lernzeit",
+        "contains": "Enthält",
+        "lessonsTitle": "Lektionen",
+        "lesson": "Lektion",
+        "about": "Über",
+        "verifyAccount": "Bitte verifizieren Sie Ihr Konto, um Zugang zu unbegrenzten kostenlosen Kursen und Zertifikaten zu erhalten",
+        "itOnlyTakes": "Es dauert nur 5 Minuten",
+        "reviewsTab": "Überprüfung",
+        "overviewTab": "Überblick",
+        "verify": "Verifizieren Sie zunächst Ihr Konto, um mit dem Kurs zu beginnen."
     }
 }
