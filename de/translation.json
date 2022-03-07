@@ -107,7 +107,10 @@
         "description": "Klicke hier oder lege Dateien ab, um dein Zertifikat hochzuladen.<br />(Du kannst dein Zertifikat auch später hochladen)",
         "exampleDesc": "Bitte klicke auf das Bild, um ein Beispiel für ein Zertifikat in einem neuen Tab zu sehen",
         "verificationExample": "Beispiel der Verifizierung",
-        "save": "Speichern"
+        "save": "Speichern",
+        "removeFile": "Entfernen",
+        "fileTypeNotSupported": "Entschuldige bitte, dieser Dateityp ist nicht erlaubt",
+        "maxFilesLimitReached": "Es können keine weiteren Dateien hochgeladen werden"
     },
     "moduleStatus": {
         "hour": "Stunde",
