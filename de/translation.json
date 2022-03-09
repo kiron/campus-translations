@@ -414,6 +414,8 @@
         "itOnlyTakes": "Es dauert nur 5 Minuten",
         "reviewsTab": "Überprüfung",
         "overviewTab": "Überblick",
-        "verify": "Verifizieren Sie zunächst Ihr Konto, um mit dem Kurs zu beginnen."
+        "verify": "Verifizieren Sie zunächst Ihr Konto, um mit dem Kurs zu beginnen.",
+        "courseChatText": "Du kannst dich am Chat beteiligen, sobald du an diesem Kurs teilnimmst.",
+        "students": "Lernende"
     }
 }
