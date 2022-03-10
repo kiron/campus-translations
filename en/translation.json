@@ -412,6 +412,8 @@
         "freeCertificate": "Free certificate for Kiron students.",
         "contains": "Contains",
         "students": "Students",
-        "documentsInReview": "Your documents are being verified."
+        "documentsInReview": "Your documents are being verified.",
+        "close": "Close",
+        "youWillGetNotified": "You will get notified once we are done"
     }
 }
