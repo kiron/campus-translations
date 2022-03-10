@@ -416,6 +416,7 @@
         "close": "Close",
         "youWillGetNotified": "You will get notified once we are done",
         "save": "Save",
-        "editRating": "Edit your rating"
+        "editRating": "Edit your rating",
+        "averageRating": "Average rating by students:"
     }
 }
