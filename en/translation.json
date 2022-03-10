@@ -414,6 +414,7 @@
         "students": "Students",
         "documentsInReview": "Your documents are being verified.",
         "close": "Close",
-        "youWillGetNotified": "You will get notified once we are done"
+        "youWillGetNotified": "You will get notified once we are done",
+        "save": "Save"
     }
 }
