@@ -415,6 +415,7 @@
         "documentsInReview": "Your documents are being verified.",
         "close": "Close",
         "youWillGetNotified": "You will get notified once we are done",
-        "save": "Save"
+        "save": "Save",
+        "editRating": "Edit your rating"
     }
 }
