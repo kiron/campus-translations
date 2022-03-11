@@ -109,7 +109,7 @@
         "save": "Save",
         "fileTypeNotSupported": "Sorry, this file type is not permitted",
         "removeFile": "Remove",
-        "maxFilesLimitReached": "You can not upload any more files",
+        "maxFilesLimitReached": "Cannot upload any more simultaneously",
         "cancelUpload": "Cancel",
         "cancelUploadConfirmation": "Are you sure you want to cancel this upload?"
     },
