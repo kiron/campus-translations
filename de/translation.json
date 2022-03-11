@@ -418,6 +418,17 @@
         "overviewTab": "Überblick",
         "verify": "Verifizieren Sie zunächst Ihr Konto, um mit dem Kurs zu beginnen.",
         "courseChatText": "Du kannst dich am Chat beteiligen, sobald du an diesem Kurs teilnimmst.",
-        "students": "Lernende"
+        "students": "Lernende",
+        "noLessons": "Die neuen Lektionen werden sorgfältig ausgearbeitet und bald online veröffentlicht.",
+        "lessonConut": "{{0}} Lektion",
+        "lessonConut_plural": "{{0}} Lektionen",
+        "rating": "{{0}} bewertung",
+        "rating_plural": "{{0}} bewertungen",
+        "averageRating": "Durchschnittliche Bewertung durch die Schüler*innen:",
+        "editRating": "Bearbeiten Sie Ihre Bewertung",
+        "save": "Speichern",
+        "close": "Schließen",
+        "hour": "{{0}} stunde",
+        "hour_plural": "{{0}} stunden"
     }
 }
