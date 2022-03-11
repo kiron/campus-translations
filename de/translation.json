@@ -427,6 +427,8 @@
         "averageRating": "Durchschnittliche Bewertung durch die Schüler*innen:",
         "editRating": "Bearbeiten Sie Ihre Bewertung",
         "save": "Speichern",
-        "close": "Schließen"
+        "close": "Schließen",
+        "hour": "{{0}} stunde",
+        "hour_plural": "{{0}} stunden"
     }
 }
