@@ -110,7 +110,9 @@
         "save": "Speichern",
         "removeFile": "Entfernen",
         "fileTypeNotSupported": "Entschuldige bitte, dieser Dateityp ist nicht erlaubt",
-        "maxFilesLimitReached": "Es können keine weiteren Dateien hochgeladen werden"
+        "maxFilesLimitReached": "Kann nicht mehr gleichzeitig hochladen",
+        "cancelUploadConfirmation": "Bist du sicher, dass du diesen Upload abbrechen möchtest?",
+        "cancelUpload": "Abbrechen"
     },
     "moduleStatus": {
         "hour": "Stunde",
