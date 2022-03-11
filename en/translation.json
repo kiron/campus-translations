@@ -109,7 +109,8 @@
         "save": "Save",
         "fileTypeNotSupported": "Sorry, this file type is not permitted",
         "removeFile": "Remove",
-        "maxFilesLimitReached": "You can not upload any more files"
+        "maxFilesLimitReached": "You can not upload any more files",
+        "cancelUpload": "Cancel"
     },
     "moduleStatus": {
         "hour": "hour",
