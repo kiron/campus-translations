@@ -424,7 +424,7 @@
         "lessonConut_plural": "{{0}} Lektionen",
         "rating": "{{0}} bewertung",
         "rating_plural": "{{0}} bewertungen",
-        "averageRating": "Durchschnittliche Bewertung durch die Schüler*innen:",
+        "averageRating": "Durchschnittliche Bewertung:",
         "editRating": "Bearbeiten Sie Ihre Bewertung",
         "save": "Speichern",
         "close": "Schließen",
