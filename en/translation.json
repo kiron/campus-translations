@@ -231,7 +231,6 @@
         "participantsCount": "{{0}} student in the unit",
         "participantsCount_plural": "{{0}} students in the unit",
         "course": "Course",
-        "unit": "unit",
         "notificationPopupTitle": "Build a learning habit",
         "notificationPopupDescription": "Enable notifications to get reminders for your courses.",
         "hostedCourse": {
