@@ -184,7 +184,11 @@
         "selfPaced": "Self-paced",
         "titleProgram": "Program",
         "certificateProgram": "This is a program in your online study track",
-        "addProgramText": "This program has been added to your home tab"
+        "addProgramText": "This program has been added to your home tab",
+        "stayInOldProgram": "I want to stay in the old program",
+        "updatedProgramMaintained": "Don't worry, your progress will be maintained when you join the new program.",
+        "updatedProgramText": "We have updated the program you're currently enrolled in with new courses! We recommend you to join the new program by clicking on",
+        "updatedProgram": "This program has been updated!"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
@@ -304,7 +308,8 @@
         "noStay": "No, I want to continue",
         "sureLeave": "Are you sure you want to leave?",
         "howItWorks": "How does it work?",
-        "startLearning": "Start learning"
+        "startLearning": "Start learning",
+        "retakeCourse": "Retake course"
     },
     "landingPage": {
         "login": "Login",
