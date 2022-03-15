@@ -184,7 +184,11 @@
         "selfPaced": "Self-paced",
         "titleProgram": "Program",
         "certificateProgram": "This is a program in your online study track",
-        "addProgramText": "This program has been added to your home tab"
+        "addProgramText": "This program has been added to your home tab",
+        "stayInOldProgram": "I want to stay in the old program",
+        "updatedProgramMaintained": "Don't worry, your progress will be maintained when you join the new program.",
+        "updatedProgramText": "We have updated the program you're currently enrolled in with new courses! We recommend you to join the new program by clicking on",
+        "updatedProgram": "This program has been updated!"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
@@ -228,31 +232,22 @@
         "reviewCount": "{{0}} review",
         "reviewCount_plural": "{{0}} reviews",
         "noReviews": "No reviews yet",
-        "preventEnroll": "This unit is only available after your documents have been uploaded and verified",
-        "updating": "Updating unit...",
         "participantsCount": "{{0}} student in the unit",
         "participantsCount_plural": "{{0}} students in the unit",
         "course": "Course",
-        "unit": "unit",
         "notificationPopupTitle": "Build a learning habit",
         "notificationPopupDescription": "Enable notifications to get reminders for your courses.",
         "hostedCourse": {
-            "start": "Start unit",
-            "finish": "Finish unit",
-            "retake": "Retake unit"
+            "finish": "Finish  course"
         },
         "regularMooc": {
-            "finished": "Mark as complete",
-            "start": "Start in",
-            "notFinished": "Retake in {{0}}"
+            "finished": "Mark as complete"
         },
         "continue": "Continue learning",
         "confirm": "Confirm",
         "cancel": "Cancel",
         "continueIn": "Continue in {{0}}",
-        "openIn": "Open course in {{0}}",
         "learningOutcomesTitle": "You will learn to...",
-        "contentTitle": "Content in this unit",
         "minutes": "{{0}} minute",
         "minutes_plural": "{{0}} minutes",
         "messageBoard": {
@@ -310,9 +305,11 @@
             "appointmentFrequency_plural": "Repeats every {{1}} weeks until {{0}}"
         },
         "yesLeave": "Yes, leave the course",
-        "noStay": "No stay",
+        "noStay": "No, I want to continue",
         "sureLeave": "Are you sure you want to leave?",
-        "howItWorks": "How does it work?"
+        "howItWorks": "How does it work?",
+        "startLearning": "Start learning",
+        "retakeCourse": "Retake course"
     },
     "landingPage": {
         "login": "Login",
