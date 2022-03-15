@@ -237,9 +237,9 @@
         "notificationPopupTitle": "Build a learning habit",
         "notificationPopupDescription": "Enable notifications to get reminders for your courses.",
         "hostedCourse": {
-            "start": "Start unit",
-            "finish": "Finish unit",
-            "retake": "Retake unit"
+            "start": "Start  learning",
+            "finish": "Finish  course",
+            "retake": "Retake course"
         },
         "regularMooc": {
             "finished": "Mark as complete",
