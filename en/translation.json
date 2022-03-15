@@ -304,7 +304,8 @@
         "yesLeave": "Yes, leave the course",
         "noStay": "No, I want to continue",
         "sureLeave": "Are you sure you want to leave?",
-        "howItWorks": "How does it work?"
+        "howItWorks": "How does it work?",
+        "startLearning": "Start learning"
     },
     "landingPage": {
         "login": "Login",
