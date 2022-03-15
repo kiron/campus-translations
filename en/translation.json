@@ -228,7 +228,6 @@
         "reviewCount": "{{0}} review",
         "reviewCount_plural": "{{0}} reviews",
         "noReviews": "No reviews yet",
-        "preventEnroll": "This unit is only available after your documents have been uploaded and verified",
         "updating": "Updating unit...",
         "participantsCount": "{{0}} student in the unit",
         "participantsCount_plural": "{{0}} students in the unit",
