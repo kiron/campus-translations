@@ -243,8 +243,7 @@
         },
         "regularMooc": {
             "finished": "Mark as complete",
-            "start": "Start in",
-            "notFinished": "Retake in {{0}}"
+            "start": "Start in"
         },
         "continue": "Continue learning",
         "confirm": "Confirm",
