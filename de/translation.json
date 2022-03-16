@@ -325,7 +325,9 @@
         "sureLeave": "Bist Du sicher, dass Du aufhören möchtest?",
         "noStay": "Nein, bleiben",
         "yesLeave": "Ja, aufhören",
-        "howItWorks": "Wie geht das?"
+        "howItWorks": "Wie geht das?",
+        "retakeCourse": "Kurs wiederholen",
+        "startLearning": "Beginne mit dem Lernen"
     },
     "landingPage": {
         "login": "Login",
