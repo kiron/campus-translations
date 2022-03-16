@@ -228,7 +228,6 @@
         "register": "Register",
         "completionInfo": "Your instructor will mark this course as completed after review",
         "unenroll": "Unenroll",
-        "unenrollLoading": "updating..",
         "reviewCount": "{{0}} review",
         "reviewCount_plural": "{{0}} reviews",
         "noReviews": "No reviews yet",
