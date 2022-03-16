@@ -242,7 +242,7 @@
         "reviewCount_plural": "{{0}} Bewertungen",
         "noReviews": "Bisher keine Bewertungen",
         "preventEnroll": "Diese Einheit is erst verfügbar, nachdem deine Dokumente hochgeladen und verifiziert wurden",
-        "updating": "Aktualisiere Einheit ...",
+        "updating": "aktualisieren...",
         "participantsCount": "{{0}} Lernende in dieser Einheit",
         "participantsCount_plural": "{{0}} Lernende in dieser Einheit",
         "course": "Kurs",
@@ -429,6 +429,8 @@
         "save": "Speichern",
         "close": "Schließen",
         "hour": "{{0}} stunde",
-        "hour_plural": "{{0}} stunden"
+        "hour_plural": "{{0}} stunden",
+        "lessonCount": "Lektion",
+        "lessonCount_plural": "Lektionen"
     }
 }

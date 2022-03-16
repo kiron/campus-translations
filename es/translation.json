@@ -240,7 +240,7 @@
         "reviewCount_plural": "{{0}} reviews",
         "noReviews": "No reviews yet",
         "preventEnroll": "Esta unidad únicamente está disponible después de que tus documentos hayan sido cargados y verificados",
-        "updating": "Actualizando unidad...",
+        "updating": "actualizando…",
         "participantsCount": "{{0}} estudiante en la unidad",
         "participantsCount_plural": "{{0}} estudiantes en la unidad",
         "course": "Curso",
