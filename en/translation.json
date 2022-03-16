@@ -308,7 +308,8 @@
         "sureLeave": "Are you sure you want to leave?",
         "howItWorks": "How does it work?",
         "startLearning": "Start learning",
-        "retakeCourse": "Retake course"
+        "retakeCourse": "Retake course",
+        "updating": "updating..."
     },
     "landingPage": {
         "login": "Login",
@@ -420,6 +421,8 @@
         "youWillGetNotified": "You will get notified once we are done",
         "save": "Save",
         "editRating": "Edit your rating",
-        "averageRating": "Average rating by students:"
+        "averageRating": "Average rating by students:",
+        "lessonCount_plural": "lessons",
+        "lessonCount": "lesson"
     }
 }
