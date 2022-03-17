@@ -405,8 +405,6 @@
         "projectChatText": "You will be able to chat with other project participants once you join the project.",
         "rating": "{{0}} rating",
         "rating_plural": "{{0}} ratings",
-        "lessonConut": "{{0}} Lesson",
-        "lessonConut_plural": "{{0}} Lessons",
         "hour": "{{0}} hour",
         "hour_plural": "{{0}} hours",
         "verifyAccount": "Please verify your account to get access to unlimited free courses and certificates",
