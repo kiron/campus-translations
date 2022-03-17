@@ -430,8 +430,8 @@
         "editRating": "Bearbeiten Sie Ihre Bewertung",
         "save": "Speichern",
         "close": "Schließen",
-        "hour": "{{0}} stunde",
-        "hour_plural": "{{0}} stunden",
+        "hour": "{{0}} Stunde",
+        "hour_plural": "{{0}} Stunden",
         "lessonCount": "Lektion",
         "lessonCount_plural": "Lektionen"
     }
