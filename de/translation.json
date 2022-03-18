@@ -424,8 +424,8 @@
         "noLessons": "Die neuen Lektionen werden sorgfältig ausgearbeitet und bald online veröffentlicht.",
         "lessonConut": "{{0}} Lektion",
         "lessonConut_plural": "{{0}} Lektionen",
-        "rating": "{{0}} bewertung",
-        "rating_plural": "{{0}} bewertungen",
+        "rating": "{{0}} Bewertung",
+        "rating_plural": "{{0}} Bewertungen",
         "averageRating": "Durchschnittliche Bewertung:",
         "editRating": "Bearbeiten Sie Ihre Bewertung",
         "save": "Speichern",
@@ -433,6 +433,10 @@
         "hour": "{{0}} Stunde",
         "hour_plural": "{{0}} Stunden",
         "lessonCount": "Lektion",
-        "lessonCount_plural": "Lektionen"
+        "lessonCount_plural": "Lektionen",
+        "finishLessons": "Lerne alle Lektionen, um den Kurs abzuschließen.",
+        "onYourWay": "Du bist auf einem guten Weg!",
+        "congratulations": "Herzlichen Glückwunsch!",
+        "wellDone": "Gut gemacht! Du hast den Kurs abgeschlossen."
     }
 }
