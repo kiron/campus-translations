@@ -433,6 +433,10 @@
         "hour": "{{0}} Stunde",
         "hour_plural": "{{0}} Stunden",
         "lessonCount": "Lektion",
-        "lessonCount_plural": "Lektionen"
+        "lessonCount_plural": "Lektionen",
+        "finishLessons": "Lerne alle Lektionen, um den Kurs abzuschließen.",
+        "onYourWay": "Du bist auf einem guten Weg!",
+        "congratulations": "Herzlichen Glückwunsch!",
+        "wellDone": "Gut gemacht! Du hast den Kurs abgeschlossen."
     }
 }
