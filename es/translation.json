@@ -391,6 +391,7 @@
     "downloadAllLessonsRecordings": "Descargue todas las grabaciones de las unidades de este curso",
     "downloadLessonRecordings": "Descargue todas las grabaciones",
     "course": {
-        "details": "Detalles"
+        "details": "Detalles",
+        "registerBefore": "Regístrate antes de"
     }
 }
