@@ -45,5 +45,6 @@
       "12": "Dezember"
     }
   },
-  "dateOfBirthError": "Es tut uns leid, aber der Campus ist er ab 18+ Jahren verfügbar"
+  "dateOfBirthError": "Es tut uns leid, aber der Campus ist er ab 18+ Jahren verfügbar",
+  "phoneError": "Bitte gib eine Telefonnummer mit einem Ländercode am Anfang ein (zum Besipiel +49 oder 0049 für Deutschland)."
 }
