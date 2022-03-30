@@ -16,8 +16,8 @@
     "slotsLeft": "مواعيد متاحة",
     "registerUntil": "قم بالتسجيل حتى {date}",
     "registerToday": "آخر موعد للتسجيل ",
-    "seeAllDates": "اطّلع على كل المواعيد",
-    "registerButton": "سجّل ",
+    "seeAllDates": "شاهد كل التواريخ",
+    "registerButton": "سجّّل",
     "registerNowButton": "سجّّل الآن",
     "currentWeek": "هذا الأسبوع ",
     "registerInfo": "تم تسجيلك في هذه الفعالية بنجاح",
@@ -37,11 +37,15 @@
     "happeningNow": "يحدث الآن",
     "card": {
         "offline": "Offline",
-        "type": "Event"
+        "type": "فعالية"
     },
     "multipleMeetingSeries": "يوجد عدة اجتماعات في هذه الفعالية",
     "locationOffline": "فعالية وجاهية",
     "locationOnline": "فعالية عبر الانترنت",
     "introPreHeadingOffline": "فعالية وجاهية",
-    "introPreHeadingOnline": "فعالية عبر الانترنت"
+    "introPreHeadingOnline": "فعالية عبر الانترنت",
+    "registrationOpenOtherMeetings": "التسجيل مفتوح للاجتماعات الأخرى",
+    "today": "اليوم",
+    "eventDay": "الفعالية التالية",
+    "unenroll": "الغاء التسجيل"
 }
