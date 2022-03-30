@@ -1,8 +1,9 @@
 {
-  "slotsLeft": "{{slots}} slots left",
-  "registerUntil": "Register until {{deadline}}",
-  "registerToday": "Last registration date",
-  "seeAllDates": "See all dates",
-  "registerButton": "Register",
-  "registerNowButton": "Register Now"
+    "slotsLeft": "متبق {{slots}} مقعد",
+    "registerUntil": "التسجيل حتى {{deadline}}",
+    "registerToday": "تاريخ آخر تسجيل",
+    "seeAllDates": "شاهد كل التواريخ",
+    "registerButton": "سجّّل",
+    "registerNowButton": "سجّّل الان",
+    "unenroll": "الغاء التسجيل"
 }
