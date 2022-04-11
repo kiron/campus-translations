@@ -44,5 +44,7 @@
     "nextUp": "Nächster Termin",
     "viewAll": "Alle Termine",
     "noAppointmentsYet": "Es wurden noch keine Termine für dieses Projekt hinterlegt.",
-    "noParticipantsYet": "Noch keine Teilnehmenden. Du kannst der/die Erste sein!"
+    "noParticipantsYet": "Noch keine Teilnehmenden. Du kannst der/die Erste sein!",
+    "leaveOpenProjectInfo": "You can still re-join the project until {{registrationDeadline}}",
+    "leaveClosedProjectInfo": "This action can't be undone. You won't be able to attend the project anymore."
 }
