@@ -45,6 +45,6 @@
     "viewAll": "Alle Termine",
     "noAppointmentsYet": "Es wurden noch keine Termine für dieses Projekt hinterlegt.",
     "noParticipantsYet": "Noch keine Teilnehmenden. Du kannst der/die Erste sein!",
-    "leaveOpenProjectInfo": "You can still re-join the project until {{registrationDeadline}}",
-    "leaveClosedProjectInfo": "This action can't be undone. You won't be able to attend the project anymore."
+    "leaveOpenProjectInfo": "Du kannst dieser Veranstaltung noch bis zum {{registrationDeadline}} wieder beitreten.",
+    "leaveClosedProjectInfo": "Diese Aktion kann nicht rückgängig gemacht werden. Du wirst an dem Projekt nicht mehr teilnehmen können."
 }
