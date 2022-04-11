@@ -1,5 +1,5 @@
 {
-    "slotsLeft": "{{slots}} Plätze",
+    "slotsLeft": "{{count}} Plätze",
     "registerUntil": "Anmelden bis zum {{deadline}}",
     "registerToday": "Anmeldung bis heute",
     "seeAllDates": "Alle Termine anzeigen",
