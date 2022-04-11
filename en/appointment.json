@@ -1,5 +1,5 @@
 {
-    "slotsLeft": "{{slots}} slots left",
+    "slotsLeft": "{{count}} slots left",
     "registerUntil": "Register until {{deadline}}",
     "registerToday": "Last registration date",
     "seeAllDates": "See all dates",
