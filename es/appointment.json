@@ -1,5 +1,5 @@
 {
-    "slotsLeft": "{{slots}} plazas libres",
+    "slotsLeft": "{{count}} plazas libres",
     "registerUntil": "Regístrese antes del {{deadline}}",
     "registerToday": "Último día para registrarse",
     "seeAllDates": "Ver todas las fechas",
