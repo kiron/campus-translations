@@ -8,6 +8,5 @@
     "unenroll": "Unenroll",
     "starts": "Starts",
     "ends": "Ends",
-    "upcomingSessionIn": "Session will start in {{distance}}",
-    "test_plural": "Test"
+    "upcomingSessionIn": "Session will start in {{distance}}"
 }
