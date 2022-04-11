@@ -46,5 +46,7 @@
     "appointments": "Appointments",
     "noParticipantsYet": "No participants yet. Be the first to join!",
     "noAppointmentsYet": "There are no appointments scheduled for this project yet.",
-    "linkTo": "Link to"
+    "linkTo": "Link to",
+    "leaveOpenProjectInfo": "Du kannst diesem Projekt noch bis zum {{registrationDeadline}} wieder beitreten.",
+    "leaveClosedProjectInfo": "Diese Aktion kann nicht rückgängig gemacht werden. Du wirst an dem Projekt nicht mehr teilnehmen können."
 }
