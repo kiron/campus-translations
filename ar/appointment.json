@@ -1,5 +1,5 @@
 {
-    "slotsLeft": "متبق {{slots}} مقعد",
+    "slotsLeft": "متبق {{count}} مقعد",
     "registerUntil": "التسجيل حتى {{deadline}}",
     "registerToday": "تاريخ آخر تسجيل",
     "seeAllDates": "شاهد كل التواريخ",
@@ -7,5 +7,6 @@
     "registerNowButton": "سجّّل الان",
     "unenroll": "الغاء التسجيل",
     "starts": "يبدأ",
-    "ends": "ينتهي"
+    "ends": "ينتهي",
+    "upcomingSessionIn": "ستبدأ الجلسة خلال {{distance}}"
 }
