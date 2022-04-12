@@ -15,5 +15,6 @@
     "frequency": "Frequency",
     "weekly": "Should it occur weekly?",
     "timezone": "Select timezone",
-    "endDateTime": "End date and time"
+    "endDateTime": "End date and time",
+    "startDateTime": "Start date and time"
 }
