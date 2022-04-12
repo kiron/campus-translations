@@ -12,5 +12,6 @@
     "drawerTitle": "Add an appointment",
     "occursUntil": "Occurs until",
     "frequencyHelperText": "Appointment should occur every X weeks",
-    "frequency": "Frequency"
+    "frequency": "Frequency",
+    "weekly": "Should it occur weekly?"
 }
