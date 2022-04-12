@@ -1,8 +1,9 @@
 {
-  "slotsLeft": "{{slots}} slots left",
-  "registerUntil": "Register until {{deadline}}",
-  "registerToday": "Last registration date",
-  "seeAllDates": "See all dates",
-  "registerButton": "Register",
-  "registerNowButton": "Register Now"
+    "slotsLeft": "{{count}} slots left",
+    "registerUntil": "Register until {{deadline}}",
+    "registerToday": "Last registration date",
+    "seeAllDates": "See all dates",
+    "registerButton": "Register",
+    "registerNowButton": "Register Now",
+    "upcomingSessionIn": "Oturum {{distance}} içinde başlayacaktır"
 }

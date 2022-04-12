@@ -1,9 +1,10 @@
 {
-    "slotsLeft": "{{slots}} plazas libres",
+    "slotsLeft": "{{count}} plazas libres",
     "registerUntil": "Regístrese antes del {{deadline}}",
     "registerToday": "Último día para registrarse",
     "seeAllDates": "Ver todas las fechas",
     "registerButton": "Registrarme",
     "registerNowButton": "Regístrese ahora",
-    "unenroll": "Desinscribirse"
+    "unenroll": "Desinscribirse",
+    "upcomingSessionIn": "La sesión comenzará en {{distance}}"
 }

@@ -1,5 +1,5 @@
 {
-    "slotsLeft": "{{slots}} slots left",
+    "slotsLeft": "{{count}} slots left",
     "registerUntil": "Register until {{deadline}}",
     "registerToday": "Last registration date",
     "seeAllDates": "See all dates",
@@ -7,5 +7,19 @@
     "registerNowButton": "Register Now",
     "unenroll": "Unenroll",
     "starts": "Starts",
-    "ends": "Ends"
+    "ends": "Ends",
+    "upcomingSessionIn": "Session will start in {{distance}}",
+    "drawerTitle": "Add an appointment",
+    "occursUntil": "Occurs until",
+    "frequencyHelperText": "Appointment should occur every X weeks",
+    "frequency": "Frequency",
+    "weekly": "Should it occur weekly?",
+    "timezone": "Select timezone",
+    "endDateTime": "End date and time",
+    "startDateTime": "Start date and time",
+    "anotherAppointment": "Add another appointment",
+    "createAppointment": "Create appointment",
+    "addAppointment": "Add appointment",
+    "wasAdded": "Appointment was successfully added",
+    "success": "Success!"
 }
