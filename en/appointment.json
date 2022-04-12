@@ -14,5 +14,6 @@
     "frequencyHelperText": "Appointment should occur every X weeks",
     "frequency": "Frequency",
     "weekly": "Should it occur weekly?",
-    "timezone": "Select timezone"
+    "timezone": "Select timezone",
+    "endDateTime": "End date and time"
 }
