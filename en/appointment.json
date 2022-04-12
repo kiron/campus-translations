@@ -18,5 +18,6 @@
     "endDateTime": "End date and time",
     "startDateTime": "Start date and time",
     "anotherAppointment": "Add another appointment",
-    "createAppointment": "Create appointment"
+    "createAppointment": "Create appointment",
+    "addAppointment": "Add appointment"
 }
