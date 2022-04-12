@@ -9,5 +9,6 @@
     "starts": "Starts",
     "ends": "Ends",
     "upcomingSessionIn": "Session will start in {{distance}}",
-    "drawerTitle": "Add an appointment"
+    "drawerTitle": "Add an appointment",
+    "occursUntil": "Occurs until"
 }
