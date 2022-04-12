@@ -16,5 +16,7 @@
     "weekly": "Should it occur weekly?",
     "timezone": "Select timezone",
     "endDateTime": "End date and time",
-    "startDateTime": "Start date and time"
+    "startDateTime": "Start date and time",
+    "anotherAppointment": "Add another appointment",
+    "createAppointment": "Create appointment"
 }
