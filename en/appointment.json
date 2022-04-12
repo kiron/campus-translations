@@ -13,5 +13,6 @@
     "occursUntil": "Occurs until",
     "frequencyHelperText": "Appointment should occur every X weeks",
     "frequency": "Frequency",
-    "weekly": "Should it occur weekly?"
+    "weekly": "Should it occur weekly?",
+    "timezone": "Select timezone"
 }
