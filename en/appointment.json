@@ -19,5 +19,6 @@
     "startDateTime": "Start date and time",
     "anotherAppointment": "Add another appointment",
     "createAppointment": "Create appointment",
-    "addAppointment": "Add appointment"
+    "addAppointment": "Add appointment",
+    "wasAdded": "Appointment was successfully added"
 }
