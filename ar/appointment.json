@@ -1,5 +1,6 @@
 {
     "slotsLeft": "متبق {{count}} مقعد",
+    "slotsLeft_0": "لم يتبق أي أوقات متاحة",
     "registerUntil": "التسجيل حتى {{deadline}}",
     "registerToday": "تاريخ آخر تسجيل",
     "seeAllDates": "شاهد كل التواريخ",
