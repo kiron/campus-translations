@@ -397,6 +397,15 @@
     "course": {
         "details": "Detalles",
         "registerBefore": "Regístrate antes de",
-        "verifyAccount": "Por favor verifique su cuenta para obtener acceso ilimitado a cursos y certificados gratuitos"
+        "verifyAccount": "Por favor verifique su cuenta para obtener acceso ilimitado a cursos y certificados gratuitos",
+        "save": "Guardar",
+        "youWillGetNotified": "Recibirás una notificación cuando hayamos terminado",
+        "close": "Cerrar",
+        "documentsInReview": "Sus documentos están siendo verificados.",
+        "students": "Estudiantes",
+        "contains": "Contiene",
+        "freeCertificate": "Certificado gratuito para estudiantes de Kiron.",
+        "howItWorks": "Mira cómo funciona.",
+        "itOnlyTakes": "Solamente tomará 5 minutos"
     }
 }
