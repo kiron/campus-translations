@@ -7,5 +7,18 @@
     "registerButton": "Anmelden",
     "registerNowButton": "Jetzt anmelden",
     "unenroll": "Abmelden",
-    "upcomingSessionIn": "Session beginnt in {{distance}}"
+    "upcomingSessionIn": "Session beginnt in {{distance}}",
+    "drawerTitle": "Einen Termin hinzufügen",
+    "success": "Super!",
+    "wasAdded": "Dein Termin wurde erfolgreich hinzugefügt",
+    "addAppointment": "Einen Termin hinzufügen",
+    "createAppointment": "Termin anlegen",
+    "anotherAppointment": "Weiteren Termin hinzufügen",
+    "startDateTime": "Beginnt am ... (Tag) um ... (Uhrzeit)",
+    "endDateTime": "Endet am ... (Tag) um ... (Uhrzeit)",
+    "timezone": "Wähle eine Zeitzone",
+    "weekly": "Wiederholt sich der Termin wöchentlich?",
+    "frequency": "Frequenz",
+    "frequencyHelperText": "Termin findet alle ... Wochen statt",
+    "occursUntil": "Findet statt bis zum"
 }
