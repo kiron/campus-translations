@@ -192,7 +192,10 @@
         "Text": "Entschuldigung, du kannst dich nur für bis zu {{0}} Kurse einschreiben",
         "type": "Programm",
         "selfPaced": "Selbstgesteuert",
-        "titleProgram": "Programm"
+        "titleProgram": "Programm",
+        "stayInOldProgram": "Ich möchte im alten Programm bleiben",
+        "updatedProgramMaintained": "Keine Sorge, dein Stand wird beibehalten, wenn du dem neuen Programm beitrittst.",
+        "updatedProgram": "Dieses Programm wurde aktualisiert!"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
