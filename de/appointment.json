@@ -20,5 +20,7 @@
     "weekly": "Wiederholt sich der Termin wöchentlich?",
     "frequency": "Frequenz",
     "frequencyHelperText": "Termin findet alle ... Wochen statt",
-    "occursUntil": "Findet statt bis zum"
+    "occursUntil": "Findet statt bis zum",
+    "ends": "Endet",
+    "starts": "Beginnt"
 }
