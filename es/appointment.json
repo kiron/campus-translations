@@ -1,11 +1,25 @@
 {
-    "slotsLeft": "{{count}} plazas libres",
-    "slotsLeft_0": "No hay lugares disponibles",
+    "slotsLeft": "{{count}} plazas disponibles",
     "registerUntil": "Regístrese antes del {{deadline}}",
     "registerToday": "Último día para registrarse",
     "seeAllDates": "Ver todas las fechas",
     "registerButton": "Registrarme",
     "registerNowButton": "Regístrese ahora",
     "unenroll": "Desinscribirse",
-    "upcomingSessionIn": "La sesión comenzará en {{distance}}"
+    "upcomingSessionIn": "La sesión comenzará en {{distance}}",
+    "success": "¡Genial!",
+    "wasAdded": "La cita se añadió correctamente",
+    "addAppointment": "Añadir cita",
+    "createAppointment": "Crear cita",
+    "anotherAppointment": "Añadir otra cita",
+    "startDateTime": "Fecha y hora de inicio",
+    "endDateTime": "Fecha y hora de finalización",
+    "timezone": "Seleccione zona horaria",
+    "weekly": "¿Debería ocurrir semanalmente?",
+    "frequency": "Frecuencia",
+    "frequencyHelperText": "La cita debería suceder cada X semanas",
+    "occursUntil": "En curso hasta",
+    "drawerTitle": "Añadir una cita",
+    "ends": "Termina",
+    "starts": "Empieza"
 }

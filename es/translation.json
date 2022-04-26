@@ -190,7 +190,11 @@
         "addProgramText": "Hemos añadido este programa a su página de inicio",
         "certificateProgram": "Este es un programa en su itinerario de aprendizaje",
         "titleProgram": "Programa",
-        "Text": "Lo sentimos, solamente se puede inscribir a {{0}} cursos"
+        "Text": "Lo sentimos, solamente se puede inscribir a {{0}} cursos",
+        "stayInOldProgram": "Quiero quedarme en la versión antigua del programa",
+        "updatedProgramMaintained": "No te preocupes, tu progreso se guardará aunque te registres en la nueva versión del programa.",
+        "updatedProgramText": "¡Hemos actualizado el programa en el que te registraste! Te recomendamos unirte a la nueva versión del programa haciendo clic en",
+        "updatedProgram": "¡El programa se ha actualizado!"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Siguiente"
@@ -392,6 +396,16 @@
     "downloadLessonRecordings": "Descargue todas las grabaciones",
     "course": {
         "details": "Detalles",
-        "registerBefore": "Regístrate antes de"
+        "registerBefore": "Regístrate antes de",
+        "verifyAccount": "Por favor verifique su cuenta para obtener acceso ilimitado a cursos y certificados gratuitos",
+        "save": "Guardar",
+        "youWillGetNotified": "Recibirás una notificación cuando hayamos terminado",
+        "close": "Cerrar",
+        "documentsInReview": "Sus documentos están siendo verificados.",
+        "students": "Estudiantes",
+        "contains": "Contiene",
+        "freeCertificate": "Certificado gratuito para estudiantes de Kiron.",
+        "howItWorks": "Mira cómo funciona.",
+        "itOnlyTakes": "Solamente tomará 5 minutos"
     }
 }
