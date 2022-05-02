@@ -21,6 +21,6 @@
     "anotherAppointment": "Add another appointment",
     "createAppointment": "Create appointment",
     "addAppointment": "Add appointment",
-    "wasAdded": "Appointment was successfully added",
-    "success": "Success!"
+    "wasAdded": "The appointment was successfully added!",
+    "success": "Hooray!"
 }
