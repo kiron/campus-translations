@@ -1,88 +1,88 @@
 {
-  "extras": {
-    "preview": "Vista previa",
-    "step": "Paso {{currentStep}}/{{totalSteps}}"
-  },
-  "headers": {
-    "yourPrivacy": "Su privacidad",
-    "privacyPolicy": "Más información en nuestra <0>política de privacidad</0>.",
-    "adjustProfile": "Elegir cómo otros estudiantes ven su perfil",
-    "communityHeader": "Unirse a la Comunidad",
-    "privacyPreferences": "Preferencias de privacidad",
-    "updatedPreferences": "Hola {{studentName}}, hemos actualizado sus preferencias de privacidad"
-  },
-  "buttons": {
-    "getStarted": "Empezar",
-    "noThanks": "No, gracias",
-    "save": "Guardar",
-    "shareLocation": "Compartir ubicación",
-    "managePreferences": "Gestionar mis preferencias",
-    "cancel": "Cancelar",
-    "joinCommunity": "Unirse a la Comunidad",
-    "readMore": "Leer más",
-    "close": "Cerrar"
-  },
-  "toasters": {
-    "newSubOrgContent": "Se ha añadido nuevo contenido de {{subOrganizations}}. ¡Disfrute aprendiendo!",
-    "savedPreferences": "Sus preferencias se han guardado correctamente. Puede volver a cambiarlas en la página Preferencias de Privacidad.",
-    "partOfCommunity": "Se ha unido a la comunidad. ¡Ya puede hablar con otros estudiantes!",
-    "partOfCommunityMap": "Se ha unido al mapa de la comunidad. ¡Ya puede conocer otros estudiantes en su ubicación!"
-  },
-  "privacyPreferences": {
-    "tabs": {
-      "general": "General",
-      "profile": "Perfil",
-      "partnerOrgs": "Organizaciones asociadas",
-      "externalPlatforms": "Plataformas externas"
+    "extras": {
+        "preview": "Vista previa",
+        "step": "Paso {{currentStep}}/{{totalSteps}}"
     },
-    "displayedName": {
-      "header": "Nombre",
-      "checkbox": "Mostrar su nombre en lugar del apodo",
-      "errorInput": "El alias solo puede contener letras, números, espacios y guiones"
+    "headers": {
+        "yourPrivacy": "Su privacidad",
+        "privacyPolicy": "Más información en nuestra <0>política de privacidad</0>.",
+        "adjustProfile": "Elegir cómo otros estudiantes ven su perfil",
+        "communityHeader": "Unirse a la Comunidad",
+        "privacyPreferences": "Preferencias de privacidad",
+        "updatedPreferences": "Hola {{studentName}}, hemos actualizado sus preferencias de privacidad"
     },
-    "profilePhoto": {
-      "header": "Foto de perfil",
-      "checkbox01": "Añadir foto de perfil",
-      "checkbox02": "Mostrar foto de perfil en lugar de la foto predeterminada"
+    "buttons": {
+        "getStarted": "Empezar",
+        "noThanks": "No, gracias",
+        "save": "Guardar",
+        "shareLocation": "Compartir ubicación",
+        "managePreferences": "Gestionar mis preferencias",
+        "cancel": "Cancelar",
+        "joinCommunity": "Unirse a la Comunidad",
+        "readMore": "Leer más",
+        "close": "Cerrar"
     },
-    "activity": {
-      "header": "Actividad",
-      "checkbox": "Mostrar mis cursos, proyectos y eventos"
+    "toasters": {
+        "newSubOrgContent": "Se ha añadido nuevo contenido de {{subOrganizations}}. ¡Disfrute aprendiendo!",
+        "savedPreferences": "Sus preferencias se han guardado correctamente. Puede volver a cambiarlas en la página Preferencias de Privacidad.",
+        "partOfCommunity": "Se ha unido a la comunidad. ¡Ya puede hablar con otros estudiantes!",
+        "partOfCommunityMap": "Se ha unido al mapa de la comunidad. ¡Ya puede conocer otros estudiantes en su ubicación!"
     },
-    "subOrg": {
-      "notificationHeader": "¡Genail! Se ha unido a {{subOrganizations}}",
-      "notificationDescription": "Necesitamos su consentimiento para activar este contenido",
-      "description": "Para acceder al contenido de {{subOrganizations}}, necesitamos que nos de su consentimiento para compartir sus datos personales",
-      "checkbox": "Estoy de acuerdo en compartir mis datos personales con {{subOrganization}}",
-      "details": "Doy mi consentimiento a Kiron para compartir mi información personal (nombre y apellidos, correo electrónico, país de origen, género, fecha de nacimiento) con {{subOrganization}} para poder acceder a su contenido. Mis datos serán almacenados por {{subOrganization}} en servidores seguros y solamente un grupo de empleados de {{subOrganization}} podrán acceder a ellos, después de comprometerse por escrito a respetar las regulaciones de protección de datos. En cualquier momento puedo pedir la corrección y eliminación de mis datos personales a través del correo electrónico student-support@kiron.ngo."
+    "privacyPreferences": {
+        "tabs": {
+            "general": "General",
+            "profile": "Perfil",
+            "partnerOrgs": "Organizaciones asociadas",
+            "externalPlatforms": "Plataformas externas"
+        },
+        "displayedName": {
+            "header": "Nombre",
+            "checkbox": "Mostrar su nombre en lugar del apodo.",
+            "errorInput": "El alias solo puede contener letras, números, espacios y guiones"
+        },
+        "profilePhoto": {
+            "header": "Foto de perfil",
+            "checkbox01": "Añadir foto de perfil.",
+            "checkbox02": "Mostrar foto de perfil en lugar de la foto predeterminada."
+        },
+        "activity": {
+            "header": "Actividad",
+            "checkbox": "Mostrar mis cursos, proyectos y eventos."
+        },
+        "subOrg": {
+            "notificationHeader": "¡Genial! Se ha unido a {{subOrganizations}}.",
+            "notificationDescription": "Necesitamos su consentimiento para activar este contenido.",
+            "description": "Para acceder al contenido de {{subOrganizations}}, necesitamos que nos de su consentimiento para compartir sus datos personales.",
+            "checkbox": "Estoy de acuerdo en compartir mis datos personales con {{subOrganization}}",
+            "details": "Doy mi consentimiento a Kiron para compartir mi información personal (nombre y apellidos, correo electrónico, país de origen, género, fecha de nacimiento) con {{subOrganization}} para poder acceder a su contenido. Mis datos serán almacenados por {{subOrganization}} en servidores seguros y solamente un grupo de empleados de {{subOrganization}} podrán acceder a ellos, después de comprometerse por escrito a respetar las regulaciones de protección de datos. En cualquier momento puedo pedir la corrección y eliminación de mis datos personales a través del correo electrónico student-support@kiron.ngo."
+        },
+        "directMessaging": {
+            "description": "¿Sabía que puede ser contactado/a directamente a través del campus de Kiron? Necesitamos su consentimiento.",
+            "header": "Mensaje directo (opcional)",
+            "checkbox": "Estoy de acuerdo en que otros estudiantes me contacten a través de Kiron Campus.",
+            "details": "Si usted está de acuerdo con el Código de Conducta de la comunidad, podrá crear su perfil de comunidad. Puede acceder a la comunidad a través de la pestaña de Comunidad en el menú superior."
+        },
+        "communityMap": {
+            "header": "Privacidad del Mapa de Comunidad",
+            "shareLocation": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir su ubicación con otros estudiantes.",
+            "shareData": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir sus datos con otros estudiantes.",
+            "locationHeader": "Ubicación",
+            "locationCheckbox": "Estoy de acuerdo en compartir mi ubicación en el mapa de la comunidad.",
+            "inputLabel": "Por favor, comparta su ubicación (por ejemplo, la ciudad donde vive) para que sea visible en el mapa",
+            "inputPlaceholder": "Ubicación"
+        },
+        "uploadPhoto": {
+            "description": "Antes de añadir su fotografía de perfil, necesitamos que nos de su consentimiento para mostrarla a otros estudiantes del campus.",
+            "header": "Foto de Perfil",
+            "checkbox": "Estoy de acuerdo en compartir mi foto de perfil con otros estudiantes del campus.",
+            "uploadText": "Arrastrar foto aquí o buscar en la computadora",
+            "browse": "buscar en la computadora"
+        }
     },
-    "directMessaging": {
-      "description": "¿Sabía que puede ser contactado/a directamente a través del campus de Kiron? Necesitamos su consentimiento.",
-      "header": "Mensaje directo (opcional)",
-      "checkbox": "Estoy de acuerdo en que otros estudiantes me contacten a través de Kiron Campus",
-      "details": "Si usted está de acuerdo con el Código de Conducta de la comunidad, podrá crear su perfil de comunidad. Puede acceder a la comunidad a través de la pestaña de Comunidad en el menú superior."
-    },
-    "communityMap": {
-      "header": "Privacidad del Mapa de Comunidad",
-      "shareLocation": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir su ubicación con otros estudiantes.",
-      "shareData": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir sus datos con otros estudiantes.",
-      "locationHeader": "Ubicación",
-      "locationCheckbox": "Estoy de acuerdo en compartir mi ubicación en el mapa de la comunidad",
-      "inputLabel": "Por favor, comparta su ubicación (por ejemplo, la ciudad donde vive) para que sea visible en el mapa",
-      "inputPlaceholder": "Ubicación"
-    },
-    "uploadPhoto": {
-      "description": "Antes de añadir su fotografía de perfil, necesitamos que nos de su consentimiento para mostrarla a otros estudiantes del campus ",
-      "header": "Foto de perfil ",
-      "checkbox": "Estoy de acuerdo en compartir mi foto de perfil con otros estudiantes del campus ",
-      "uploadText": "Arrastrar foto aquí o buscar en la computadora",
-      "browse": "buscar en la computadora"
+    "codeOfConduct": {
+        "header": "Código de Conducta",
+        "description": "Antes de unirse, por favor lea nuestro Código de Conducta a continuación.",
+        "checkbox": "Me comprometo a respetar el Código de Conducta.",
+        "details": "{{codeOfConduct}}"
     }
-  },
-  "codeOfConduct": {
-    "header": "Código de Conducta",
-    "description": "Antes de unirse, por favor lea nuestro Código de Conducta a continuación",
-    "checkbox": "Me comprometo a respetar el Código de Conducta.",
-    "details": "{{codeOfConduct}}"
-  }
 }

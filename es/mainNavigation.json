@@ -2,7 +2,7 @@
     "home": "Inicio",
     "explore": "Explorar",
     "success": "Mis logros",
-    "community": "Communidad",
+    "community": "Comunidad",
     "news": "Noticias",
     "new": "Nuevo",
     "earlier": "En el pasado",
@@ -19,6 +19,6 @@
     "privacyPolicy": "Política de privacidad",
     "logout": "Desconectar",
     "joinForFree": "Join for free",
-    "subOrgConsent": "Te pedimos estos datos porque son una parte important de tu experiencia en {{orgDisplayName}} Campus",
-    "mentoring": "Programa de mentoring"
+    "subOrgConsent": "Para poder utilizar el campus, es importante que compartas estos datos.",
+    "mentoring": "Programa de Mentoría"
 }
