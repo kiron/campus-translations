@@ -3,7 +3,7 @@
     "joinCta": "Participa en el proyecto",
     "leaveCta": "Dejar el proyecto",
     "instructionsTitle": "Instrucciones",
-    "moreBtn": "Ver máse",
+    "moreBtn": "Ver más",
     "lessBtn": "Minimizar",
     "attachmentsInfo": "Se pueden añadir hasta 5 documentos al mismo tiempo.",
     "attachmentsTitle": "Archivos adjuntos",
@@ -44,6 +44,9 @@
     "instructionsText": "Podrá ver las instrucciones cuando se una al proyecto.",
     "toolsText": "{{0}} Las herramientas estarán disponibles cuando se haya unido al proyecto.",
     "toolsTitle": "Herramientas",
-    "leaveOpenProjectInfo": "Puede volver a unirse al proyecto hasta el {{registrationDeadline}}.",
-    "leaveClosedProjectInfo": "Atención, esta acción no puede modificarse. Usted no podrá asistir al proyecto."
+    "leaveOpenProjectInfo": "Puede volver a unirse al proyecto hasta el {{registrationDeadline}}",
+    "leaveClosedProjectInfo": "Atención, esta acción no puede modificarse. Usted no podrá asistir al proyecto.",
+    "linkTo": "Enlazar a",
+    "noAppointmentsYet": "Todavía no hay eventos programados en este proyecto.",
+    "noParticipantsYet": "No hay participantes todavía. ¡Anímate a participar!"
 }
