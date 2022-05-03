@@ -1,7 +1,7 @@
 {
-    "introTitle": "Bienvenido/a",
+    "introTitle": "Bienvenido/a ",
     "introDescription": "En {{orgDisplayName}} creemos en el poder del aprendizaje online gratuito. Trabajamos para que la formación online sea accesible para las personas refugiadas, personas en situación de vulnerabilidad en Oriente Medio y otras personas que encuentran dificultades para acceder a la educación.",
-    "title": "Su perfil",
+    "title": "Su Perfil",
     "description": "Añada la información básica para su perfil:",
     "labelFirstName": "Nombre",
     "placeholderFirstName": "escriba su nombre aquí",
@@ -20,7 +20,7 @@
     "label05": "Su fecha de nacimiento",
     "required": "* campos obligatorios",
     "button": "Continuar",
-    "buttonLoading": "Preparando su perfil",
+    "buttonLoading": "Preparando su Perfil",
     "errorText": "este campo es obligatorio",
     "labelContactByWhatsapp": "¿Le podemos contactar por Whatsapp?",
     "male": "Hombre",
@@ -45,5 +45,6 @@
             "12": "Diciembre"
         }
     },
-    "dateOfBirthError": "Lo sentimos, {{orgDisplayName}} Campus está disponible solamente para personas mayores de 18 años"
+    "dateOfBirthError": "Lo sentimos, {{orgDisplayName}} Campus está disponible solamente para personas mayores de 18 años",
+    "phoneError": "Por favor, añade un número de teléfono con el prefijo de tu país. Por ejemplo (+57)"
 }
