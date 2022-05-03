@@ -12,8 +12,8 @@
     "updatesTitle": "{{orgDisplayName}} Campus está disponible en árabe, turco y español.",
     "updatesText": "Cambie sus preferencias de idioma en su página de Perfil.",
     "countrySpecificTitle": "Más en {{orgDisplayName}} Campus",
-    "mentoringTitle": "Mentoría",
-    "mentoringDesciption": "Curso virtual de tres meses con un mentor",
+    "mentoringTitle": "Programas de Mentoría en Kiron",
+    "mentoringDesciption": "Descubre nuestros programas",
     "referralShareText": "Únete a {{orgDisplayName}}",
     "referralCardTitle": "Compartir {{orgDisplayName}} con mis amigos",
     "referralCopy": "Copiar",
@@ -52,5 +52,5 @@
     "loadMore": "Ver más",
     "memberSince": "Miembro desde {{year}}",
     "more": "más",
-    "noStudents": "No hay estudiantes todavía"
+    "noStudents": "No hay participantes todavía"
 }
