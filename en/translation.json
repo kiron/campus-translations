@@ -428,6 +428,7 @@
         "lostCourseDesc": "We cannot find the course you are looking for.",
         "backToProgram": "Back to program",
         "goToExplore": "Go to explore",
-        "backToCourse": "Back to course"
+        "backToCourse": "Back to course",
+        "lostProgram": "This program is lost"
     }
 }
