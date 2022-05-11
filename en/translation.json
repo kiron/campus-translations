@@ -424,6 +424,7 @@
         "lessonCount": "lesson"
     },
     "errors": {
-        "lostCourse": "This course is lost"
+        "lostCourse": "This course is lost",
+        "lostCourseDesc": "We cannot find the course you are looking for."
     }
 }
