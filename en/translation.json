@@ -422,5 +422,8 @@
         "averageRating": "Average rating by students:",
         "lessonCount_plural": "lessons",
         "lessonCount": "lesson"
+    },
+    "errors": {
+        "lostCourse": "This course is lost"
     }
 }
