@@ -449,5 +449,18 @@
         "onYourWay": "¡Vas por buen camino!",
         "estimate": "Tiempo estimado de estudio",
         "attachmentsTab": "Archivos adjuntos"
+    },
+    "errors": {
+        "lostPageDesc": "No podemos encontrar lo que buscas.",
+        "lostPage": "Esta página se ha perdido",
+        "lostLessonDesc": "No podemos encontrar la lección que estás buscando.",
+        "lostLesson": "Esta lección se ha perdido",
+        "lostProgramDesc": "No podemos encontrar el programa que estás buscando.",
+        "lostProgram": "Este programa se ha perdido",
+        "backToCourse": "Volver al curso",
+        "goToExplore": "Ir a Explorar",
+        "backToProgram": "Volver al programa",
+        "lostCourseDesc": "No podemos encontrar el curso que estás buscando.",
+        "lostCourse": "Este curso se ha perdido"
     }
 }
