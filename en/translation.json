@@ -430,6 +430,7 @@
         "goToExplore": "Go to explore",
         "backToCourse": "Back to course",
         "lostProgram": "This program is lost",
-        "lostProgramDesc": "We cannot find the program you are looking for."
+        "lostProgramDesc": "We cannot find the program you are looking for.",
+        "lostLesson": "This lesson is lost"
     }
 }
