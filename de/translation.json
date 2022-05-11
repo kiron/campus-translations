@@ -455,6 +455,9 @@
         "backToCourse": "Zurück zum Kurs",
         "goToExplore": "Gehe zu Entdecken",
         "backToProgram": "Zurück zum Programm",
-        "lostCourseDesc": "Wir können diesen Kurs leider nicht finden."
+        "lostCourseDesc": "Wir können diesen Kurs leider nicht finden.",
+        "backHome": "Zurück zu Start",
+        "techProblemDesc": "Entschuldigung, diese Seite funktioniert nicht richtig.",
+        "techProblem": "Es ist ein technisches Problem aufgetreten"
     }
 }
