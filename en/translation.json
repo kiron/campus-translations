@@ -436,6 +436,7 @@
         "lostPage": "We lost this page",
         "lostPageDesc": "We cannot find what you are looking for.",
         "techProblem": "Technical problem detected",
-        "techProblemDesc": "Apologies, this page is not working properly."
+        "techProblemDesc": "Apologies, this page is not working properly.",
+        "backHome": "Back home"
     }
 }
