@@ -432,6 +432,7 @@
         "lostProgram": "This program is lost",
         "lostProgramDesc": "We cannot find the program you are looking for.",
         "lostLesson": "This lesson is lost",
-        "lostLessonDesc": "We cannot find the lesson you are looking for."
+        "lostLessonDesc": "We cannot find the lesson you are looking for.",
+        "lostPage": "We lost this page"
     }
 }
