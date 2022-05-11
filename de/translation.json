@@ -443,5 +443,18 @@
         "congratulations": "Herzlichen Glückwunsch!",
         "wellDone": "Gut gemacht! Du hast den Kurs abgeschlossen.",
         "registerBefore": "Registrier dich vor"
+    },
+    "errors": {
+        "lostCourse": "Dieser Kurs ist verschwunden",
+        "lostPageDesc": "Wir können diese Seite leider nicht finden.",
+        "lostPage": "Wir haben diese Seite verloren",
+        "lostLessonDesc": "Wir können diese Lektion leider nicht finden.",
+        "lostLesson": "Diese Lektion ist verschwunden",
+        "lostProgramDesc": "Wir können dieses Programm leider nicht finden.",
+        "lostProgram": "Dieses Programm ist verschwunden",
+        "backToCourse": "Zurück zum Kurs",
+        "goToExplore": "Gehe zu Entdecken",
+        "backToProgram": "Zurück zum Programm",
+        "lostCourseDesc": "Wir können diesen Kurs leider nicht finden."
     }
 }
