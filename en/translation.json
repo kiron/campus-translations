@@ -434,6 +434,9 @@
         "lostLesson": "This lesson is lost",
         "lostLessonDesc": "We cannot find the lesson you are looking for.",
         "lostPage": "We lost this page",
-        "lostPageDesc": "We cannot find what you are looking for."
+        "lostPageDesc": "We cannot find what you are looking for.",
+        "techProblem": "Technical problem detected",
+        "techProblemDesc": "Apologies, this page is not working properly.",
+        "backHome": "Back home"
     }
 }
