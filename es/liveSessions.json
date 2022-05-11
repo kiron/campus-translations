@@ -10,13 +10,13 @@
     "moduleLiveCard": {
         "title": "¡Sigamos aprendiendo!",
         "subtitle": "Su sesión en línea ha empezado",
-        "live": "Activo",
+        "live": "Está en curso",
         "cta": "Unirme a la sesión"
     },
     "moduleSessionCard": {
         "at": "a las",
-        "more": "y {{0}} más sesiones en línea",
-        "more_plural": "y {{0}} más sesiones en línea",
+        "more": "y {{0}} sesión más en línea",
+        "more_plural": "y {{0}} sesiones más en línea",
         "today": "Hoy",
         "startTime": "{{- 0}} a las {{1}}"
     },
