@@ -426,6 +426,7 @@
     "errors": {
         "lostCourse": "This course is lost",
         "lostCourseDesc": "We cannot find the course you are looking for.",
-        "backToProgram": "Back to program"
+        "backToProgram": "Back to program",
+        "goToExplore": "Go to explore"
     }
 }
