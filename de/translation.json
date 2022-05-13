@@ -458,6 +458,8 @@
         "lostCourseDesc": "Wir können diesen Kurs leider nicht finden.",
         "backHome": "Zurück zu Start",
         "techProblemDesc": "Entschuldigung, diese Seite funktioniert nicht richtig.",
-        "techProblem": "Es ist ein technisches Problem aufgetreten"
+        "techProblem": "Es ist ein technisches Problem aufgetreten",
+        "completeCourses": "Das Zertifikat kann erst heruntergeladen werden, sobald du alle Kurse erfolgreich abgeschlossen hast.",
+        "almostThere": "Du hast es fast geschafft"
     }
 }
