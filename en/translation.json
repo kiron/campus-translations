@@ -437,6 +437,8 @@
         "lostPageDesc": "We cannot find what you are looking for.",
         "techProblem": "Technical problem detected",
         "techProblemDesc": "Apologies, this page is not working properly.",
-        "backHome": "Back home"
+        "backHome": "Back home",
+        "almostThere": "You are almost there",
+        "completeCourses": "You should complete all the courses to download the certificate."
     }
 }
