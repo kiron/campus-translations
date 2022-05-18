@@ -1,6 +1,6 @@
 {
     "title": "Datennutzung",
-    "info": "Diese Einstellungen zeigen an, welche deiner Daten {{orgDisplayName}} mit Dritten teilen darf. Verwende den On/Off-Regler, um den Angeboten zuzustimmen oder ihnen zu widerrufen.",
+    "info": "Diese Einstellungen zeigen an, welche deiner Daten {{orgDisplayName}} mit Dritten teilen darf. Verwende 'Anzeigen', um die Details der jeweiligen Zustimmung zu sehen oder ihnen zu widerrufen.",
     "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
     "linkView": "Anzeigen",
     "linkCancel": "Abbrechen",
