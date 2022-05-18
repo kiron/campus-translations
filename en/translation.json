@@ -439,6 +439,7 @@
         "techProblemDesc": "Apologies, this page is not working properly.",
         "backHome": "Back home",
         "almostThere": "You are almost there",
-        "completeCourses": "You should complete all the courses to download the certificate."
+        "completeCourses": "You should complete all the courses to download the certificate.",
+        "lostCategory": "This category is lost"
     }
 }
