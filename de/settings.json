@@ -1,6 +1,6 @@
 {
     "title": "Datennutzung",
-    "info": "Diese Einstellungen zeigen die Daten, die du {{orgDisplayName}} erlaubt hast, mit bestimmten Dritten zu teilen. Verwende 'Anzeigen', um die Details dieser Zustimmung zu sehen oder sie zu widerrufen.",
+    "info": "Diese Einstellungen zeigen an, welche deiner Daten {{orgDisplayName}} mit Dritten teilen darf. Verwende 'Anzeigen', um die Details der jeweiligen Zustimmung zu sehen oder ihnen zu widerrufen.",
     "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
     "linkView": "Anzeigen",
     "linkCancel": "Abbrechen",
@@ -23,23 +23,23 @@
         "view": "Anzeigen"
     },
     "emailSubscription": {
-        "title": "Email Abos",
-        "info": "Stelle hier ein, welche Emails du von uns bekommen möchtest.",
+        "title": "E-Mail-Abonnements",
+        "info": "Stelle hier ein, welche E-Mails du von uns bekommen möchtest.",
         "courseReminders": {
             "title": "Erinnerungen",
-            "info": "Ich möchte Updates zu meinem Fortschritt, motivierende Erinnerungen und andere Informationen zu Kursen, die ich begonnen habe bekommen."
+            "info": "Ich möchte Updates zu meinem Fortschritt, motivierende Erinnerungen und andere Informationen zu Kursen, die ich begonnen habe, bekommen."
         },
         "campusNews": {
             "title": "Campus Neuigkeiten",
-            "info": "Ich möchte Emails über neue Lernangebote und andere Campus Updates bekommen."
+            "info": "Ich möchte E-Mails über neue Lernangebote und andere Updates auf dem Campus bekommen."
         },
         "externalOffers": {
             "title": "Externe Angebote",
-            "info": "Ich möchte Emails mit Infos zu Stipendien, Angeboten, Empfehlungen, besonderen Veranstaltungen, etc. bekommen."
+            "info": "Ich möchte E-Mails mit Infos zu Stipendien, Angeboten, Empfehlungen, besonderen Veranstaltungen, etc. bekommen."
         },
         "unsubscribe": {
             "title": "Du hast dich erfolgreich abgemeldet!",
-            "descriptionHeadline": "Von nun an wirst du folgende Emails nicht mehr von uns bekommen:",
+            "descriptionHeadline": "Von nun an wirst du folgende E-Mails nicht mehr von uns bekommen:",
             "descriptionFooter": "Wenn du deine Email Abonnements verwalten möchtest <1>klicke hier</1>.",
             "unsubscribing": "Abmelden...",
             "errorMessage": "Abmeldung abgebrochen: {{0}}"
