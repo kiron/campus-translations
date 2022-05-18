@@ -461,6 +461,8 @@
         "goToExplore": "Ir a Explorar",
         "backToProgram": "Volver al programa",
         "lostCourseDesc": "No podemos encontrar el curso que estás buscando.",
-        "lostCourse": "Este curso se ha perdido"
+        "lostCourse": "Este curso se ha perdido",
+        "lostCategoryDesc": "No podemos encontrar la categoría que estás buscando.",
+        "lostCategory": "Esta categoría se ha perdido"
     }
 }
