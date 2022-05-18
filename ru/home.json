@@ -52,5 +52,6 @@
   "loadMore": "Загрузить больше",
   "memberSince": "Член с {{year}}",
   "more": "больше",
-  "noStudents": "Участников пока нет"
+  "noStudents": "Участников пока нет",
+  "interests": "Interests"
 }
