@@ -52,5 +52,6 @@
     "loadMore": "Load more",
     "memberSince": "Member since {{year}}",
     "more": "more",
-    "noStudents": "No participants yet"
+    "noStudents": "No participants yet",
+    "interests": "Interests"
 }
