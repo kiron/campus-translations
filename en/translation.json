@@ -441,6 +441,7 @@
         "almostThere": "You are almost there",
         "completeCourses": "You should complete all the courses to download the certificate.",
         "lostCategory": "This category is lost",
-        "lostCategoryDesc": "We cannot find the category you are looking for."
+        "lostCategoryDesc": "We cannot find the category you are looking for.",
+        "internetBroken": "The internet is broken"
     }
 }
