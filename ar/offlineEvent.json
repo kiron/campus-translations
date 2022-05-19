@@ -29,7 +29,7 @@
     "leaveClosedEventInfo": "تم إغلاق التسجيل ولن تكون قادر على الحضور بعد الآن",
     "leaveNo": "لا، البقاء",
     "leaveYes": "نعم، المغادرة",
-    "otherAppontments": "مواعيد أخرى",
+    "otherAppointments": "مواعيد أخرى",
     "participants": "المشاركون",
     "participantsCount": "{number} طلاب",
     "daysCount": "{{0}} أيام",
