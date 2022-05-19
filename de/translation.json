@@ -460,6 +460,8 @@
         "techProblemDesc": "Entschuldigung, diese Seite funktioniert nicht richtig.",
         "techProblem": "Es ist ein technisches Problem aufgetreten",
         "completeCourses": "Das Zertifikat kann erst heruntergeladen werden, sobald du alle Kurse erfolgreich abgeschlossen hast.",
-        "almostThere": "Du hast es fast geschafft"
+        "almostThere": "Du hast es fast geschafft",
+        "lostCategoryDesc": "Wir können diese Kategorie leider nicht finden.",
+        "lostCategory": "Diese Kategorie ist verschwunden"
     }
 }
