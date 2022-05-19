@@ -52,5 +52,11 @@
   "loadMore": "Load more",
   "memberSince": "Member since {{year}}",
   "more": "daha",
-  "interests": "Interests"
+  "interests": "Interests",
+  "selectAll": "Select all",
+  "clearAll": "Clear all",
+  "apply": "Apply",
+  "filterBy": "Filter by categories",
+  "backToList": "Back to list",
+  "readMore": "Read more"
 }

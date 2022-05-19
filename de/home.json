@@ -53,5 +53,11 @@
     "noStudents": "Noch keine Lernenden",
     "mentoringDesciption": "Onlinekurs mit Mentor über drei Monate",
     "mentoringTitle": "Mentoring",
-    "interests": "Interessen"
+    "interests": "Interessen",
+    "selectAll": "Select all",
+    "clearAll": "Clear all",
+    "apply": "Apply",
+    "filterBy": "Filter by categories",
+    "backToList": "Back to list",
+    "readMore": "Read more"
 }

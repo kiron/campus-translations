@@ -51,5 +51,11 @@
   "since": "از آنجا که",
   "loadMore": "بارگذاری بیشتر",
   "memberSince": "عضو از {{year}}",
-  "more": "بیشتر"
+  "more": "بیشتر",
+  "selectAll": "Select all",
+  "clearAll": "Clear all",
+  "apply": "Apply",
+  "filterBy": "Filter by categories",
+  "backToList": "Back to list",
+  "readMore": "Read more"
 }

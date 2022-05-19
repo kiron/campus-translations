@@ -50,5 +50,11 @@
     "loadMore": "تحميل أكثر",
     "memberSince": "{{year}} عضو منذ",
     "more": "أكثر",
-    "interests": "Interessen"
+    "interests": "Interessen",
+    "selectAll": "Select all",
+    "clearAll": "Clear all",
+    "apply": "Apply",
+    "filterBy": "Filter by categories",
+    "backToList": "Back to list",
+    "readMore": "Read more"
 }

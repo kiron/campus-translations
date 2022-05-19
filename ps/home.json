@@ -51,5 +51,11 @@
   "since": "له",
   "loadMore": "نور بار کړئ",
   "memberSince": "له {{year}} راهیسې غړی",
-  "more": "نور"
+  "more": "نور",
+  "selectAll": "Select all",
+  "clearAll": "Clear all",
+  "apply": "Apply",
+  "filterBy": "Filter by categories",
+  "backToList": "Back to list",
+  "readMore": "Read more"
 }

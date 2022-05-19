@@ -53,5 +53,11 @@
     "memberSince": "Miembro desde {{year}}",
     "more": "más",
     "noStudents": "No hay participantes todavía",
-    "interests": "Intereses"
+    "interests": "Intereses",
+    "selectAll": "Select all",
+    "clearAll": "Clear all",
+    "apply": "Apply",
+    "filterBy": "Filter by categories",
+    "backToList": "Back to list",
+    "readMore": "Read more"
 }
