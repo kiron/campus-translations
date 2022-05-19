@@ -30,7 +30,6 @@
     "leaveClosedEventInfo": "This action can't be undone. You won't be able to attend the event anymore.",
     "leaveNo": "No, stay",
     "leaveYes": "Yes, leave",
-    "otherAppointments": "Other Appointments",
     "participants": "Participants",
     "participantsCount": "{number} students",
     "daysCount": "{{count}} day",
