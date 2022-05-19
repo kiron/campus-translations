@@ -1,6 +1,6 @@
 {
   "slotsLeft": "{{count}} слотов oсталось",
-  "slotsLeft_0": "Свободных слотов не осталось",
+  "noSlotsLeft": "Свободных слотов не осталось",
   "registerUntil": "Зарегистрироваться до {{deadline}}",
   "registerToday": "Последняя дата регистрации",
   "seeAllDates": "Смотреть все даты",
