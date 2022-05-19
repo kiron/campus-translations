@@ -1,6 +1,7 @@
 {
-    "slotsLeft": "{{count}} Plätze",
-    "noSlotsLeft": "Ausgebucht",
+    "slotsLeft": "{{count}} Platz",
+    "slotsLeft_plural": "{{count}} Plätze",
+    "slotsLeft_zero": "Ausgebucht",
     "registerUntil": "Anmelden bis zum {{deadline}}",
     "registerToday": "Anmeldung bis heute",
     "seeAllDates": "Alle Termine anzeigen",

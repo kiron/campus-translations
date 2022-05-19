@@ -13,7 +13,7 @@
   "noAvailableAppointments": "په اوس وخت کې شتون شتون نلري",
   "yourAppointments": "ستاسو ملاقاتونه",
   "appointmentsInfo": "ټول وختونه ستاسو په وخت زون کې دي",
-  "slotsLeft": "پاتې سلاټونه",
+  "remainingSlots": "پاتې سلاټونه",
   "registerUntil": "تر {{date}} پورې نوم لیکنه وکړئ",
   "registerToday": "د نوم لیکنې وروستۍ نیټه",
   "seeAllDates": "ټولې نیټې وګورئ",

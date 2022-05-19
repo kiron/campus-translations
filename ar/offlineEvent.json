@@ -13,7 +13,7 @@
     "noAvailableAppointments": "لا توجد مواعيد متاحة في الوقت الراهن",
     "yourAppointments": "مواعيدك",
     "appointmentsInfo": "كل المواعيد متاحة حسب موقعك الجغرافي ",
-    "slotsLeft": "مواعيد متاحة",
+    "remainingSlots": "مواعيد متاحة",
     "registerUntil": "قم بالتسجيل حتى {date}",
     "registerToday": "آخر موعد للتسجيل ",
     "seeAllDates": "شاهد كل التواريخ",

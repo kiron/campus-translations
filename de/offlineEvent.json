@@ -13,7 +13,7 @@
     "noAvailableAppointments": "Derzeit gibt es leider keine verfügbaren Termine ",
     "yourAppointments": "Deine Termine",
     "appointmentsInfo": "Alle Zeiten sind in deiner Zeitzone",
-    "slotsLeft": "Freie Plätze",
+    "remainingSlots": "Freie Plätze",
     "registerUntil": "Anmelden bis zum {date}",
     "registerToday": "Anmeldefrist",
     "seeAllDates": "Alle Termine anzeigen",

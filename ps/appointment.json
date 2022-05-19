@@ -1,6 +1,7 @@
 {
     "slotsLeft": "{{count}} سلاټونه پاتې دي",
-    "noSlotsLeft": "No slots left",
+    "slotsLeft_plural": "{{count}} سلاټونه پاتې دي",
+    "slotsLeft_zero": "No slots left",
     "registerUntil": "تر {{deadline}} پورې نوم لیکنه وکړئ",
     "registerToday": "د نوم لیکنې وروستۍ نیټه",
     "seeAllDates": "ټولې نیټې وګورئ",

@@ -12,7 +12,7 @@
     "noAvailableAppointments": "There are no available appointments at the moment ",
     "yourAppointments": "Your Appointments",
     "appointmentsInfo": "All times are in your timezone",
-    "slotsLeft": "Remaining slots",
+    "remainingSlots": "Remaining slots",
     "registerUntil": "Register until {date}",
     "registerToday": "Last registation date",
     "seeAllDates": "See all dates",

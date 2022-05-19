@@ -13,7 +13,7 @@
     "noAvailableAppointments": "No hay sesiones disponibles en este momento ",
     "yourAppointments": "Sus sesiones",
     "appointmentsInfo": "Todas las horas están en su zona horaria",
-    "slotsLeft": "Plazas disponibles",
+    "remainingSlots": "Plazas disponibles",
     "registerUntil": "Regístrese antes del {date}",
     "registerToday": "Última fecha de inscripción",
     "seeAllDates": "Ver todas las fechas",

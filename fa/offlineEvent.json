@@ -13,7 +13,7 @@
   "noAvailableAppointments": "در حال حاضر هیچ قرار ملاقات در دسترس نیست",
   "yourAppointments": "قرارهای شما",
   "appointmentsInfo": "همه زمان ها در منطقه زمانی شما هستند",
-  "slotsLeft": "اسلات های باقی مانده",
+  "remainingSlots": "اسلات های باقی مانده",
   "registerUntil": "ثبت نام تا {{date}}",
   "registerToday": "آخرین تاریخ ثبت نام",
   "seeAllDates": "همه تاریخ ها را مشاهده کنید",

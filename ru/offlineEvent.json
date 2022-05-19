@@ -12,7 +12,7 @@
   "noAvailableAppointments": "На данный момент нет свободных встречь",
   "yourAppointments": "Твои встречи",
   "appointmentsInfo": "Все время указано в твоем часовом поясе",
-  "slotsLeft": "Оставшиеся слоты",
+  "remainingSlots": "Оставшиеся слоты",
   "registerUntil": "Зарегистрироваться до {date}",
   "registerToday": "Дата последней регистрации",
   "seeAllDates": "Смотреть все даты",
