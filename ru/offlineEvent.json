@@ -33,8 +33,9 @@
   "otherAppontments": "Другие встречи",
   "participants": "Участники",
   "participantsCount": "{number} студент(ов)",
-  "daysCount": "{{count}} день",
-  "daysCount_plural": "{{count}} дней",
+  "daysCount_0": "{{count}} день",
+  "daysCount_1": "{{count}} дня",
+  "daysCount_2": "{{count}} дней",
   "happeningNow": "Проходит сейчас",
   "card": {
     "offline": "Оффлайн",
