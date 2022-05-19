@@ -443,6 +443,7 @@
         "lostCategory": "This category is lost",
         "lostCategoryDesc": "We cannot find the category you are looking for.",
         "internetBroken": "The internet is broken",
-        "internetBrokenDesc": "Apologies, we cannot load your data right now."
+        "internetBrokenDesc": "Apologies, we cannot load your data right now.",
+        "tryAgain": "Try again"
     }
 }
