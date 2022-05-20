@@ -1,6 +1,7 @@
 {
     "slotsLeft": "{{count}} شکاف باقی مانده است",
-    "slotsLeft_0": "No slots left",
+    "slotsLeft_plural": "{{count}} شکاف باقی مانده است",
+    "slotsLeft_zero": "No slots left",
     "registerUntil": "ثبت نام تا {{deadline}}",
     "registerToday": "آخرین تاریخ ثبت نام",
     "seeAllDates": "همه تاریخ ها را مشاهده کنید",
