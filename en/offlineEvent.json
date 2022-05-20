@@ -13,11 +13,6 @@
     "yourAppointments": "Your Appointments",
     "appointmentsInfo": "All times are in your timezone",
     "remainingSlots": "Remaining slots",
-    "registerUntil": "Register until {{date}}",
-    "registerToday": "Last registation date",
-    "seeAllDates": "See all dates",
-    "registerButton": "Register",
-    "registerNowButton": "Register now",
     "currentWeek": "This week",
     "registerInfo": "You are successfully registered in this event ",
     "eventDays": "Next event in",
@@ -45,6 +40,5 @@
     "introPreHeadingOffline": "Offline Event",
     "introPreHeadingOnline": "Online Event",
     "locationOffline": "Offline",
-    "locationOnline": "Online",
-    "unenroll": "Unenroll"
+    "locationOnline": "Online"
 }
