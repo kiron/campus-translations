@@ -1,0 +1,128 @@
+{
+  "reviewInProgress": {
+    "title": "Розгляд триває",
+    "hello": "Привіт,",
+    "descriptionJSX": "Дякуємо за завантаження документа. Зараз ми розглядаємо його, і протягом наступних трьох днів ви отримаєте від нас електронний лист. Тим часом ви вже можете вибрати свої програми на <1>Explore Page</1> або побачити інших учнів у вашому районі <3> на сторінці спільноти </3>."
+  },
+  "uploadDocumentTitle": "Завантажити документ",
+  "description01": "Відскануйте документ або сфотографуйте та завантажте його сюди. Переконайтеся, що вся необхідна інформація добре видно. Перевірте наші",
+  "description02": "рекомендації",
+  "description03": "для завантаження в найкращій якості.",
+  "upload": "Натисніть тут або перекиньте файли, щоб завантажити документ.",
+  "button": "Надіслати",
+  "buttonContinue": "Продовжуйте навчання",
+  "uploadSuccessfulDescription": "Дякуємо за завантаження документа. Зараз ми розглядаємо його, і протягом наступних трьох днів ви отримаєте від нас електронний лист.",
+  "modal": {
+    "yes": "ЗРОБИТИ",
+    "yesDescription": "Завантажуйте лише офіційні документи. Ваше повне ім’я, дата народження та термін придатності мають бути чітко видно.",
+    "no": "НЕ",
+    "noDescription": "Не завантажуйте нічого, що не є офіційним документом, як-от ваше резюме, вашу фотографію, прапор чи будь-яку іншу фотографію."
+  },
+  "doucmentGuideTitle": "Посібник з документами",
+  "documentAlternate": {
+    "part01": "У вас немає жодного з цих документів? Не проблема, ви можете завантажити подібний документ, і ми його розглянемо. Натисніть на",
+    "part02": "{{orgDisplayName}} Центр допомоги",
+    "part03": "для отримання додаткової інформації.",
+    "part04": "{{orgDisplayName}} буде безпечно зберігати ваші документи на наших серверах, і вони не будуть передані іншим.",
+    "part05": "Дізнайтеся більше про те, навіщо нам потрібен ваш документ "
+  },
+  "sampleDocuments": {
+    "title": "Будь ласка, завантажте свій паспорт або форму посвідчення особи. Подивіться на кілька прикладів:",
+    "germanRefugees": {
+      "infoPoints": [
+        "BüMA (Заява про надання притулку)",
+        "Aufenthaltsgestattung (Дозвіл залишитися)",
+        "Aufenthaltserlaubnis (Вид на проживання)",
+        "Duldung (Національна заборона на депортацію)",
+        "Fiktionsbescheinigung (Посвідка на тимчасове проживання)",
+        "Subsidiärer Schutz (Додатковий захист)"
+      ],
+      "docImageTitles": {
+        "aufenthaltsgestattung": "Дозвіл залишитися",
+        "aufenthaltserlaubnis": "вид на проживання",
+        "duldung": "толерантність"
+      }
+    },
+    "jordanianRefugees": {
+      "infoPoints": [
+        "UNHCR картка",
+        "UNRWA (палестинців)",
+        "Йорданська державна службова картка"
+      ],
+      "docImageTitles": {
+        "unhcrCard": "UNHCR картка",
+        "unhcrAsylum": "UNHCR притулок"
+      }
+    },
+    "jordanianIDPs": {
+      "infoPoints": ["ID card هوية شخصية", "Passport جواز سفر"],
+      "docImageTitles": {
+        "idCard": "ID card  هوية شخصية",
+        "passport": "Passport  جواز سفر"
+      }
+    },
+    "lebaneseRefugees": {
+      "infoPoints": ["UNHCR картка", "UNRWA документ"],
+      "docImageTitles": {
+        "unhcrDocument": "UNHCR документ",
+        "unrwaDocument": "UNRWA документ"
+      }
+    },
+    "lebaneseIDPs": {
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
+      "docImageTitles": {
+        "idCard": "ID هوية شخصية",
+        "passport": "Passport جواز سفر"
+      }
+    },
+    "yemenisIDPs": {
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
+      "docImageTitles": {
+        "idCard": "ID card",
+        "passport": "Passport"
+      }
+    },
+    "syrianIDPs": {
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
+      "docImageTitles": {
+        "idCard": "посвідчення особи",
+        "passport": "паспорт"
+      }
+    },
+    "turkishIDPs": {
+      "infoPoints": [
+        "Тимчасовий захист",
+        "Вид на проживання",
+        "UNHCR документ"
+      ],
+      "docImageTitles": {
+        "temporaryProtection": "Тимчасовий захист",
+        "residencePermit": "Вид на проживання",
+        "unhcrDocument": "UNHCR документ"
+      }
+    },
+    "sudanisIPDs": {
+      "infoPoints": ["паспорт", "IDP Дарфур документ", "IDP картка"],
+      "docImageTitles": {
+        "passport": "паспорт",
+        "idpDarfurDocument": "IDP Дарфур документ",
+        "idpCard": "IDP картка"
+      }
+    },
+    "default": {
+      "infoPoints": [
+        "Статус біженця",
+        "Заява про надання притулку",
+        "IDP картка",
+        "UNHCR документ"
+      ],
+      "docImageTitles": {
+        "unhcrCard": "UNHCR картка",
+        "unhcrFamily": "UNHCR сім'ї",
+        "kenyaRefugeeCard": "Картка біженця Кенії"
+      }
+    }
+  },
+  "backWarningBtn": "Повернутися до профілю",
+  "warningTextNationality": "Будь ласка, введіть свою національність на сторінці профілю, перш ніж повторно завантажувати документи"
+}

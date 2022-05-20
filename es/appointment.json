@@ -1,5 +1,7 @@
 {
-    "slotsLeft": "{{count}} plazas disponibles",
+    "slotsLeft": "{{count}} plaza disponible",
+    "slotsLeft_plural": "{{count}} plazas disponibles",
+    "slotsLeft_zero": "No plazas disponibles",
     "registerUntil": "Regístrese antes del {{deadline}}",
     "registerToday": "Último día para registrarse",
     "seeAllDates": "Ver todas las fechas",
