@@ -13,7 +13,6 @@
     "yourAppointments": "Your Appointments",
     "appointmentsInfo": "All times are in your timezone",
     "remainingSlots": "Remaining slots",
-    "registerUntil": "Register until {{date}}",
     "registerToday": "Last registation date",
     "seeAllDates": "See all dates",
     "registerButton": "Register",
