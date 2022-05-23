@@ -53,10 +53,10 @@
   "memberSince": "Member since {{year}}",
   "more": "daha",
   "interests": "Interests",
-  "selectAll": "Select all",
-  "clearAll": "Clear all",
-  "apply": "Apply",
-  "filterBy": "Filter by categories",
-  "backToList": "Back to list",
-  "readMore": "Read more"
+  "selectAll": "Tümünü seç",
+  "clearAll": "Tümünü seç",
+  "apply": "Uygula",
+  "filterBy": "kategorilere göre süz",
+  "backToList": "Listeye geri dön",
+  "readMore": "Daha fazla oku"
 }

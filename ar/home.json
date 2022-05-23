@@ -51,10 +51,10 @@
     "memberSince": "{{year}} عضو منذ",
     "more": "أكثر",
     "interests": "Interessen",
-    "selectAll": "Select all",
-    "clearAll": "Clear all",
-    "apply": "Apply",
-    "filterBy": "Filter by categories",
-    "backToList": "Back to list",
-    "readMore": "Read more"
+    "selectAll": "تحديد الكل",
+    "clearAll": "مسح الكل",
+    "apply": "تطبيق",
+    "filterBy": "تصفية حسب الفئات",
+    "backToList": "العودة للقائمة",
+    "readMore": "قراءة المزيد"
 }

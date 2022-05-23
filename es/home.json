@@ -54,10 +54,10 @@
     "more": "más",
     "noStudents": "No hay participantes todavía",
     "interests": "Intereses",
-    "selectAll": "Select all",
-    "clearAll": "Clear all",
-    "apply": "Apply",
-    "filterBy": "Filter by categories",
-    "backToList": "Back to list",
-    "readMore": "Read more"
+    "selectAll": "Seleccionar todo",
+    "clearAll": "Borrar todo",
+    "apply": "Aplicar filtros",
+    "filterBy": "Filtrar por categorías",
+    "backToList": "Volver a la lista",
+    "readMore": "Ver más"
 }
