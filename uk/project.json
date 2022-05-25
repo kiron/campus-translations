@@ -23,7 +23,7 @@
   "closeBtn": "Закрити",
   "optOutModal": "Ви впевнені, що хочете піти?",
   "modalAccept": "Так, залишити проект",
-  "modalReject": "Ні, залишайся",
+  "modalReject": "Ні, залишитися в проекті",
   "aboutTitle": "Про",
   "preferences": "вподобання",
   "since": "вподобання",
@@ -32,7 +32,7 @@
   "video": "Відео",
   "document": "документ",
   "card": {
-    "collaborative": "Спільна",
+    "collaborative": "Спільний",
     "type": "Проект "
   },
   "toolsTitle": "Інструменти",

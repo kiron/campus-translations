@@ -1,5 +1,5 @@
 {
-  "introCTA": "Див. Призначення",
+  "introCTA": "Див. Зустрічі",
   "ctaJoin": "Зареєструйтеся зараз",
   "introCTALeave": "Залишити подію",
   "eventStarted": "Подія розпочалася",
@@ -28,8 +28,8 @@
   "leaveEventTitle": "Ви впевнені, що хочете залишити подію?",
   "leaveOpenEventInfo": "Ви все ще можете повторно приєднатися до події доки {{1}}",
   "leaveClosedEventInfo": "Цю дію не можна скасувати. Ви більше не зможете відвідати захід.",
-  "leaveNo": "Ні, залишайся",
-  "leaveYes": "Так, відійди",
+  "leaveNo": "Ні, залишитися",
+  "leaveYes": "Так, вийти",
   "participants": "Учасники",
   "participantsCount": "{{number}} студентів",
   "daysCount_0": "{{count}} день",
