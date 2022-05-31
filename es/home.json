@@ -59,5 +59,8 @@
     "backToList": "Volver a la lista",
     "readMore": "Ver más",
     "viewMap": "Ver mapa",
-    "viewList": "Ver lista"
+    "viewList": "Ver lista",
+    "locations": "Lugares",
+    "resultCount": "{{count}} resultado",
+    "resultCount_plural": "{{count}} resultados"
 }
