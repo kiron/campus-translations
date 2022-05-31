@@ -1,0 +1,8 @@
+{
+  "blockConcurrentModal": {
+    "CTA": "Ok",
+    "title": "Oops, we found a scheduling conflict",
+    "errorMessage": "Unfortunately you cannot enroll here since you are already taking part in the following appointment at the same time:",
+    "decide": "Please decide on which one you want to participate in."
+  }
+}

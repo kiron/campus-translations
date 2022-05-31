@@ -73,10 +73,10 @@
         "completed": "completado",
         "finishedCourses": "Cursos completados",
         "toBeVerified": "por verificar",
-        "coursesFinishedSingular": "curso terminado",
-        "coursesFinishedPlural": "coursos terminados",
-        "coursesLeftSingular": "cursos restantes",
-        "coursesLeftPlural": "cursos restantes",
+        "coursesFinished": "curso terminado",
+        "coursesFinished_plural": "coursos terminados",
+        "coursesLeft": "cursos restantes",
+        "coursesLeft_plural": "cursos restantes",
         "language": {
             "en": "Inglés",
             "de": "Alemán",
@@ -463,6 +463,14 @@
         "lostCourseDesc": "No podemos encontrar el curso que estás buscando.",
         "lostCourse": "Este curso se ha perdido",
         "lostCategoryDesc": "No podemos encontrar la categoría que estás buscando.",
-        "lostCategory": "Esta categoría se ha perdido"
+        "lostCategory": "Esta categoría se ha perdido",
+        "tryAgain": "Intentarlo otra vez",
+        "internetBrokenDesc": "Lo sentimos, no podemos cargar tus datos en este momento.",
+        "internetBroken": "El Internet no funciona",
+        "completeCourses": "Debes completar todos los cursos para descargar tu certificado.",
+        "almostThere": "Ya casi has llegado",
+        "backHome": "Volver al inicio",
+        "techProblemDesc": "Lo sentimos, esta página no funciona correctamente.",
+        "techProblem": "Hemos detectado un problema técnico"
     }
 }

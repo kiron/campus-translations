@@ -12,12 +12,7 @@
     "noAvailableAppointments": "There are no available appointments at the moment ",
     "yourAppointments": "Your Appointments",
     "appointmentsInfo": "All times are in your timezone",
-    "slotsLeft": "Remaining slots",
-    "registerUntil": "Register until {date}",
-    "registerToday": "Last registation date",
-    "seeAllDates": "See all dates",
-    "registerButton": "Register",
-    "registerNowButton": "Register now",
+    "remainingSlots": "Remaining slots",
     "currentWeek": "This week",
     "registerInfo": "You are successfully registered in this event ",
     "eventDays": "Next event in",
@@ -30,9 +25,8 @@
     "leaveClosedEventInfo": "This action can't be undone. You won't be able to attend the event anymore.",
     "leaveNo": "No, stay",
     "leaveYes": "Yes, leave",
-    "otherAppontments": "Other Appointments",
     "participants": "Participants",
-    "participantsCount": "{number} students",
+    "participantsCount": "{{number}} students",
     "daysCount": "{{count}} day",
     "daysCount_plural": "{{count}} days",
     "happeningNow": "Happening now",
@@ -46,6 +40,5 @@
     "introPreHeadingOffline": "Offline Event",
     "introPreHeadingOnline": "Online Event",
     "locationOffline": "Offline",
-    "locationOnline": "Online",
-    "unenroll": "Unenroll"
+    "locationOnline": "Online"
 }
