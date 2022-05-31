@@ -58,5 +58,8 @@
   "backToList": "Listeye geri dön",
   "readMore": "Daha fazla oku",
   "viewMap": "haritayı incele",
-  "viewList": "Liste görüntüleme"
+  "viewList": "Liste görüntüleme",
+  "locations": "konumlar",
+  "resultCount": "{{count}} Sonuç",
+  "resultCount_plural": "{{count}} Sonuçlar"
 }

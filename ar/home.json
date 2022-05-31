@@ -57,5 +57,12 @@
     "backToList": "العودة للقائمة",
     "readMore": "قراءة المزيد",
     "viewMap": "إعرض الخريطة",
-    "viewList": "عرض القائمة"
+    "viewList": "عرض القائمة",
+    "locations": "المواقع",
+    "resultCount_0": "{{count}} نتيجة",
+    "resultCount_1": "{{count}} نتيجة واحدة",
+    "resultCount_2": "{{count}} نتيجتين",
+    "resultCount_3": "{{count}} نتائج",
+    "resultCount_4": "{{count}} نتائج",
+    "resultCount_5": "{{count}} نتائج"
 }
