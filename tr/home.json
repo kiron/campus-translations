@@ -50,5 +50,13 @@
   "loadMore": "Load more",
   "memberSince": "Member since {{year}}",
   "more": "daha",
-  "interests": "Interests"
+  "interests": "Interests",
+  "selectAll": "Tümünü seç",
+  "clearAll": "Tümünü seç",
+  "apply": "Uygula",
+  "filterBy": "kategorilere göre süz",
+  "backToList": "Listeye geri dön",
+  "readMore": "Daha fazla oku",
+  "viewMap": "haritayı incele",
+  "viewList": "Liste görüntüleme"
 }
