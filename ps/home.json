@@ -55,5 +55,7 @@
   "apply": "Apply",
   "filterBy": "Filter by categories",
   "backToList": "Back to list",
-  "readMore": "Read more"
+  "readMore": "Read more",
+  "viewMap": "View Map",
+  "viewList": "View List"
 }

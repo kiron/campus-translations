@@ -57,5 +57,7 @@
     "apply": "Übernehmen",
     "filterBy": "Nach Kategorie filtern",
     "backToList": "Zurück zur Liste",
-    "readMore": "Mehr anzeigen"
+    "readMore": "Mehr anzeigen",
+    "viewMap": "Karte anzeigen",
+    "viewList": "Liste anzeigen"
 }
