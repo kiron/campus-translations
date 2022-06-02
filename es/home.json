@@ -62,5 +62,6 @@
     "viewList": "Ver lista",
     "locations": "Lugares",
     "resultCount": "{{count}} resultado",
-    "resultCount_plural": "{{count}} resultados"
+    "resultCount_plural": "{{count}} resultados",
+    "website": "Sitio web"
 }

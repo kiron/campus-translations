@@ -61,5 +61,6 @@
   "viewList": "Liste görüntüleme",
   "locations": "konumlar",
   "resultCount": "{{count}} Sonuç",
-  "resultCount_plural": "{{count}} Sonuçlar"
+  "resultCount_plural": "{{count}} Sonuçlar",
+  "website": "web sitesi"
 }
