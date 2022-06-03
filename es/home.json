@@ -51,5 +51,17 @@
     "memberSince": "Miembro desde {{year}}",
     "more": "más",
     "noStudents": "No hay participantes todavía",
-    "interests": "Intereses"
+    "interests": "Intereses",
+    "selectAll": "Seleccionar todo",
+    "clearAll": "Borrar todo",
+    "apply": "Aplicar filtros",
+    "filterBy": "Filtrar por categorías",
+    "backToList": "Volver a la lista",
+    "readMore": "Ver más",
+    "viewMap": "Ver mapa",
+    "viewList": "Ver lista",
+    "locations": "Lugares",
+    "resultCount": "{{count}} resultado",
+    "resultCount_plural": "{{count}} resultados",
+    "website": "Sitio web"
 }

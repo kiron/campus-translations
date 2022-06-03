@@ -49,5 +49,21 @@
     "loadMore": "تحميل أكثر",
     "memberSince": "{{year}} عضو منذ",
     "more": "أكثر",
-    "interests": "Interessen"
+    "interests": "Interessen",
+    "selectAll": "تحديد الكل",
+    "clearAll": "مسح الكل",
+    "apply": "تطبيق",
+    "filterBy": "تصفية حسب الفئات",
+    "backToList": "العودة للقائمة",
+    "readMore": "قراءة المزيد",
+    "viewMap": "إعرض الخريطة",
+    "viewList": "عرض القائمة",
+    "locations": "المواقع",
+    "resultCount_0": "{{count}} نتيجة",
+    "resultCount_1": "{{count}} نتيجة واحدة",
+    "resultCount_2": "{{count}} نتيجتين",
+    "resultCount_3": "{{count}} نتائج",
+    "resultCount_4": "{{count}} نتائج",
+    "resultCount_5": "{{count}} نتائج",
+    "website": "موقع الكتروني"
 }

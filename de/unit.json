@@ -1,0 +1,8 @@
+{
+  "blockConcurrentModal": {
+    "CTA": "Ok",
+    "title": "Ups, dein Kalender ist schon voll",
+    "errorMessage": "Leider kannst du dich hier nicht anmelden, da du bereits zeitgleich für folgenden Termin angemeldet bist:",
+    "decide": "Bitte entscheide dich für einen der beiden Termine."
+  }
+}

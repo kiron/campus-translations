@@ -52,5 +52,18 @@
   "loadMore": "Завантажити ще",
   "memberSince": "Учасник з {{year}}",
   "more": "більше",
-  "noStudents": "Учасників поки немає"
+  "noStudents": "Учасників поки немає",
+  "interests": "Interests",
+  "selectAll": "Select all",
+  "clearAll": "Clear all",
+  "apply": "Apply",
+  "filterBy": "Filter by categories",
+  "backToList": "Back to list",
+  "readMore": "Read more",
+  "viewMap": "View Map",
+  "viewList": "View List",
+  "locations": "Locations",
+  "resultCount": "{{count}} result",
+  "resultCount_plural": "{{count}} results",
+  "website": "Website"
 }
