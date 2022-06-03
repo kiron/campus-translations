@@ -517,6 +517,15 @@
         "lostCourseDesc": "لا يمكننا العثور على الدورة التي تبحث عنها.",
         "lostCourse": "هذه الدورة مفقودة",
         "completeCourses": "يجب إكمال جميع الدورات لتحميل الشهادة.",
-        "almostThere": "كدت تصل"
+        "almostThere": "كدت تصل",
+        "tryAgain": "حاول مجددا",
+        "internetBrokenDesc": "عذرا ، لا يمكننا تحميل بياناتك الآن.",
+        "internetBroken": "عطل فني",
+        "lostCategoryDesc": "لا يمكننا العثور على الفئة التي تبحث عنها.",
+        "lostCategory": "هذه الفئة مفقودة"
+    },
+    "participation": {
+        "projectTutor": "هو/ي مرشدك/تك لهذا المشروع",
+        "eventTutor": "هو/ي مرشدك/تك لهذا الحدث"
     }
 }
