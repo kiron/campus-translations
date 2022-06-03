@@ -447,6 +447,7 @@
         "tryAgain": "Try again"
     },
     "participation": {
-        "projectTutor": "is your tutor for this project"
+        "projectTutor": "is your tutor for this project",
+        "eventTutor": "is your tutor for this event"
     }
 }
