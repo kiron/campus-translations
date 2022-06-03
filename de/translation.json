@@ -466,5 +466,9 @@
         "tryAgain": "Bitte versuche das noch mal",
         "internetBrokenDesc": "Entschuldigung, wir können deine Daten gerade nicht laden.",
         "internetBroken": "Das Internet ist kaputt"
+    },
+    "participation": {
+        "eventTutor": "ist dein/e Tutor/in für diese Veranstaltung",
+        "projectTutor": "ist dein/e Tutor/in für dieses Projekt"
     }
 }
