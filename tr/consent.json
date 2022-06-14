@@ -42,7 +42,7 @@
     },
     "profilePhoto": {
       "header": "Profile Photo",
-      "checkbox01": "Upload profile photo.",
+      "checkbox01": "Upload profile photo. (.jpeg, .png, .jpg)",
       "checkbox02": "Show uploaded profile photo instead of the default one."
     },
     "activity": {
