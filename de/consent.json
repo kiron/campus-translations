@@ -42,7 +42,7 @@
     },
     "profilePhoto": {
       "header": "Profilbild",
-      "checkbox01": "Profilbild hochladen",
+      "checkbox01": "Profilbild hochladen (.jpeg, .png, .jpg)",
       "checkbox02": "Zeige hochgeladenes Profilbild anstelle des voreingestelltes Bildes."
     },
     "activity": {

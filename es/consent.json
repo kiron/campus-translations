@@ -42,7 +42,7 @@
         },
         "profilePhoto": {
             "header": "Foto de perfil",
-            "checkbox01": "Añadir foto de perfil.",
+            "checkbox01": "Añadir foto de perfil. (.jpeg, .png, .jpg)",
             "checkbox02": "Mostrar foto de perfil en lugar de la foto predeterminada."
         },
         "activity": {
