@@ -2,7 +2,7 @@
   "reviewInProgress": {
     "title": "Überprüfung in Arbeit",
     "hello": "Hallo, ",
-    "descriptionJSX": "Vielen Dank, dass du deine Dokumente hochgeladen hast. Wir werden diese nun überprüfen und du wirst in den nächsten drei Tagen eine E-Mail von uns erhalten. In der Zwischenzeit kannst du bereits deine Module auf der <1>Explore Seite</1> auswählen oder andere Lernende in deiner Umgebung <3>auf der Community Seite</3> sehen."
+    "descriptionJSX": "Vielen Dank, dass du deine Dokumente hochgeladen hast. Wir werden diese nun überprüfen und du wirst in den nächsten zehn Tagen eine E-Mail von uns erhalten. In der Zwischenzeit kannst du bereits deine Module auf der <1>Explore Seite</1> auswählen oder andere Lernende in deiner Umgebung <3>auf der Community Seite</3> sehen."
   },
   "uploadDocumentTitle": "Dokument hochladen",
   "description01": "Scanne oder mache ein Foto von deinen Dokumenten und lade sie hier hoch. Achte darauf, dass alle wichtigen Informationen gut sichtbar sind. Prüfe unsere ",
