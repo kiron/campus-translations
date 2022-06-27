@@ -2,7 +2,7 @@
     "reviewInProgress": {
         "title": "Review in Progress",
         "hello": "Hello, ",
-        "descriptionJSX": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days. In the meantime, you can already select your programs on the <1>Explore Page</1> or see other learners in your area <3>on the Community Page</3>."
+        "descriptionJSX": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next ten days. In the meantime, you can already select your programs on the <1>Explore Page</1> or see other learners in your area <3>on the Community Page</3>."
     },
     "uploadDocumentTitle": "Upload document",
     "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
