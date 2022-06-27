@@ -435,6 +435,8 @@
     "averageRating": "Средняя оценка студентов:",
     "lessonCount_1": "урокa",
     "lessonCount_2": "уроков",
-    "lessonCount_0": "урок"
+    "lessonCount_0": "урок",
+    "isLocked": "This course is locked",
+    "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
   }
 }

@@ -74,7 +74,7 @@
     "toBeVerified": "підлягає перевірці",
     "coursesFinished_0": "курс закінчено",
     "coursesFinished_1": "курси закінчені",
-    "coursesFinished_2": "закінчених курсів", 
+    "coursesFinished_2": "закінчених курсів",
     "coursesLeft_0": "курс залишився",
     "coursesLeft_1": "курси залишилися",
     "coursesLeft_2": "курсів залишилися",
@@ -284,7 +284,6 @@
       "nextSession": "Наступна  онлайн-сесія",
       "joinSession": "Приєднатися до сесії",
       "allSessionsCompleted": "Усі ваші онлайн-сесії завершено.",
-
       "markFinished": "Позначте як закінчено",
       "registerBefore": "Зареєструйтеся раніше",
       "startDate": "Дата початку",
@@ -294,7 +293,7 @@
       "registered": "Зареєстровано",
       "participantsCount_0": "Ви і {{0}} інший",
       "participantsCount_1": "Ви і {{0}} інші",
-      "participantsCount_2": "Ви і {{0}} інших", 
+      "participantsCount_2": "Ви і {{0}} інших",
       "isExpired": "Реєстрація вже неможлива. Нові дати початку будуть опубліковані найближчим часом.",
       "noSessions": "Для цього блоку не планується жодних онлайн-сесій. Будь ласка, перевірте незабаром.",
       "selectSession": "Виберіть сеанс, щоб продовжити",
@@ -436,6 +435,8 @@
     "averageRating": "Середня оцінка студентів:",
     "lessonCount_0": "урок",
     "lessonCount_1": "уроки",
-    "lessonCount_2": "уроків"
+    "lessonCount_2": "уроків",
+    "isLocked": "This course is locked",
+    "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
   }
 }

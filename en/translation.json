@@ -421,7 +421,9 @@
         "editRating": "Edit your rating",
         "averageRating": "Average rating by students:",
         "lessonCount_plural": "lessons",
-        "lessonCount": "lesson"
+        "lessonCount": "lesson",
+        "isLocked": "This course is locked",
+        "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
     },
     "errors": {
         "lostCourse": "This course is lost",
