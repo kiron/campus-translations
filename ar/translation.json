@@ -433,7 +433,9 @@
         "close": "أغلق",
         "documentsInReview": "يتم التحقق من وثائقك.",
         "students": "طُلاب",
-        "contains": "يحتوي"
+        "contains": "يحتوي",
+        "isLocked": "هذه الدورة مقفلة",
+        "lockedMessage": "عليك إكمال <1>الوحدة:{{}}<1> لفتح هذه الدورة"
     },
     "register": {
         "registerConfirmed": {

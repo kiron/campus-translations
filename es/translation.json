@@ -448,7 +448,9 @@
         "finishLessons": "Finaliza todas las lecciones para completar este curso.",
         "onYourWay": "¡Vas por buen camino!",
         "estimate": "Tiempo estimado de estudio",
-        "attachmentsTab": "Archivos adjuntos"
+        "attachmentsTab": "Archivos adjuntos",
+        "isLocked": "This course is locked",
+        "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
     },
     "errors": {
         "lostPageDesc": "No podemos encontrar lo que buscas.",

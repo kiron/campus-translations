@@ -442,7 +442,9 @@
         "onYourWay": "Du bist auf einem guten Weg!",
         "congratulations": "Herzlichen Glückwunsch!",
         "wellDone": "Gut gemacht! Du hast den Kurs abgeschlossen.",
-        "registerBefore": "Registrier dich vor"
+        "registerBefore": "Registrier dich vor",
+        "isLocked": "Dieser Kurs ist noch nicht freigeschaltet",
+        "lockedMessage": "Um diesen Kurs freizuschalten musst du zuerst <1>Einheit: {{0}}</1> abschließen"
     },
     "errors": {
         "lostCourse": "Dieser Kurs ist verschwunden",
