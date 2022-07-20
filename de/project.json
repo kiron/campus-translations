@@ -44,6 +44,7 @@
     "nextUp": "Nächster Termin",
     "viewAll": "Alle Termine",
     "noAppointmentsYet": "Es wurden noch keine Termine für dieses Projekt hinterlegt.",
+    "noAppointmentsYetByTutor": "Ihr Tutor hat noch keine Termine vereinbart.",
     "noParticipantsYet": "Noch keine Teilnehmenden. Du kannst der/die Erste sein!",
     "leaveOpenProjectInfo": "Du kannst dieser Veranstaltung noch bis zum {{registrationDeadline}} wieder beitreten.",
     "leaveClosedProjectInfo": "Diese Aktion kann nicht rückgängig gemacht werden. Du wirst an dem Projekt nicht mehr teilnehmen können."

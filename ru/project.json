@@ -48,6 +48,7 @@
   "appointments": "Встречи",
   "noParticipantsYet": "Участников пока нет. Будь первым, кто присоединится!",
   "noAppointmentsYet": "Для этого проекта пока не запланировано никаких встреч.",
+  "noAppointmentsYetByTutor": "Ваш репетитор еще не назначил встречи.",
   "linkTo": "Ссылка на",
   "leaveOpenProjectInfo": "Ты все еще можешь повторно вступить в проект до {{registrationDeadline}}.",
   "leaveClosedProjectInfo": "Это действие нельзя отменить. Ты больше не сможешь посещать проект."
