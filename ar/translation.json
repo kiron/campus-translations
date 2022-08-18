@@ -246,6 +246,8 @@
         "unit": "unit",
         "notificationPopupTitle": "بناء عادة التعلم",
         "notificationPopupDescription": "قم بتمكين الإشعارات للحصول على تذكيرات ل دوراتك التدريبية.",
+        "notificationPopupMaybeLater": "ربما لاحقًا",
+        "notificationPopupCoolThanks": "حسناً",
         "hostedCourse": {
             "start": "Start unit",
             "finish": "أنهي الدورة",

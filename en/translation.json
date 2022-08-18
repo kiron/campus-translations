@@ -235,6 +235,8 @@
         "course": "Course",
         "notificationPopupTitle": "Build a learning habit",
         "notificationPopupDescription": "Enable notifications to get reminders for your courses.",
+        "notificationPopupMaybeLater": "Maybe later",
+        "notificationPopupCoolThanks": "Cool, thanks!",
         "hostedCourse": {
             "finish": "Finish  course"
         },
