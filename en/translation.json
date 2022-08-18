@@ -183,7 +183,6 @@
         "type": "Program",
         "selfPaced": "Self-paced",
         "titleProgram": "Program",
-        "certificateProgram": "This is a program in your online study track",
         "addProgramText": "This program has been added to your home tab",
         "stayInOldProgram": "I want to stay in the old program",
         "updatedProgramMaintained": "Don't worry, your progress will be maintained when you join the new program.",
