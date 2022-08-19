@@ -47,7 +47,11 @@
         "whatsappCheckPositive": "{{orgDisplayName}} <1>puede</1> contactarme a través de WhatsApp Messenger en este número",
         "whatsappCheckNegative": "{{orgDisplayName}} <1>NO puede</1> contactarme a través de WhatsApp Messenger en este número",
         "email": "Email privado",
-        "emailMsg": "¿Tiene una nueva dirección <1>privada</1> de email? Puede cambiarla aquí. Le enviaremos un email de confirmación a esta dirección - <2>confírmela por favor</2> en los próximos días."
+        "emailMsg": "¿Tiene una nueva dirección <1>privada</1> de email? Puede cambiarla aquí. Le enviaremos un email de confirmación a esta dirección - <2>confírmela por favor</2> en los próximos días.",
+        "emailVerified": "Correo electrónico verificado",
+        "privateEmailConfirmed": "¡Gracias! Tu dirección de correo eletrónico se ha confirmado.",
+        "emailChangesReverted": "Los cambios en tu correo electronico se han revertido.",
+        "privateEmailReverted": "Gracias. Has revertido el cambio de tu correo electrónico privado."
     },
     "certificate": {
         "title": "Certificado de inscripción",

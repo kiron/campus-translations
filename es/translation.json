@@ -255,6 +255,8 @@
         "unit": "Unidad",
         "notificationPopupTitle": "Construye un hábito de aprendizaje",
         "notificationPopupDescription": "Habilita las notificaciones para obtener recordatorios sobre tus cursos.",
+        "notificationPopupMaybeLater": "Quizás más tarde",
+        "notificationPopupCoolThanks": "¡Genial, gracias!",
         "hostedCourse": {
             "start": "Comenzar la Unidad",
             "finish": "Completar la Unidad",
