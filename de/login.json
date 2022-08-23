@@ -16,7 +16,7 @@
     "errorKironEmail": "Benutze \"Weiter mit Google\" um dich einzuloggen",
     "buttonLogin": "Login",
     "forgotPassword": "Passwort vergessen?",
-    "createAccountTitle": "Noch keinen Account vorhanden?",
+    "createAccountTitle": "Noch kein Account vorhanden?",
     "createAccountLink": "Registrieren",
     "passwordReset": "Du wirst bald eine Email auf deine persönliche E-Mail Adresse mit deinem neuen Passwort für deinen {{orgDisplayName}} Google Account erhalten.",
     "sessionTerminated": "Du bist ausgeloggt.",
