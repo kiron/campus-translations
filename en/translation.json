@@ -454,5 +454,6 @@
         "eventTutor": "is your tutor for this event",
         "isUserTutor": "You are assigned as the tutor for this project"
     },
-    "stayTuned": "Stay tuned! More information coming soon."
+    "stayTuned": "Stay tuned! More information coming soon.",
+    "category": "Category"
 }
