@@ -478,5 +478,7 @@
         "isUserTutor": "Du bist als Tutor/in in diesem Projekt eingeschrieben."
     },
     "stayTuned": "Bleib dran! Bald gibt es hier mehr Informationen.",
-    "category": "Kategorie"
+    "category": "Kategorie",
+    "moreBtn": "Mehr Infos",
+    "lessBtn": "Minimieren"
 }

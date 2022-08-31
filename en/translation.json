@@ -455,5 +455,7 @@
         "isUserTutor": "You are assigned as the tutor for this project"
     },
     "stayTuned": "Stay tuned! More information coming soon.",
-    "category": "Category"
+    "category": "Category",
+    "moreBtn": "See more",
+    "lessBtn": "Collapse"
 }

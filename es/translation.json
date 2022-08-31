@@ -480,5 +480,7 @@
     "participation": {
         "isUserTutor": "Usted ha sido asignado/a como tutor/a de este proyecto"
     },
-    "category": "Categoría"
+    "category": "Categoría",
+    "moreBtn": "Ver más",
+    "lessBtn": "Minimizar"
 }

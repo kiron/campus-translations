@@ -438,5 +438,7 @@
     "isLocked": "This course is locked",
     "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
   },
-  "category": "Категорія"
+  "category": "Категорія",
+  "moreBtn": "Побачити більше",
+  "lessBtn": "Згорнути"
 }

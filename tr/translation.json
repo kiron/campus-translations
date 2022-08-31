@@ -328,5 +328,7 @@
         "week": "week",
         "weeks": "weeks"
     },
-    "category": "Kategori"
+    "category": "Kategori",
+    "moreBtn": "Daha fazla",
+    "lessBtn": "Daha az"
 }
