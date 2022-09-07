@@ -152,7 +152,7 @@
         "addModuleText": "Bu Skill Booster programı ana sayfanıza eklendi",
         "enrollModuleBtnNo": "Şimdi değil",
         "enrollModuleBtnStart": "Öğrenmeye başla",
-        "enrollModuleText": "Merhaba {{0}},bu bizim eğitim programımızın bir parçası. <1>{{1}}</1>. Hakkında bilgi almaya başlatmak istiyor musun <3>{{3}}</3>?",
+        "enrollModuleText": "Merhaba {{0}},bu bizim eğitim programımızın bir parçası. <1>{{- 1}}</1>. Hakkında bilgi almaya başlatmak istiyor musun <3>{{- 3}}</3>?",
         "showContent": "Ekstra içeriği göster",
         "hideContent": "Ekstra içeriği gizle",
         "titleModule": "",

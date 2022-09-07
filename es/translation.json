@@ -161,7 +161,7 @@
         "addModuleText": "Este skill booster program ha sido añadido a su pestaña de inicio",
         "enrollModuleBtnNo": "Ahora no",
         "enrollModuleBtnStart": "Comenzar a estudiar",
-        "enrollModuleText": "Hola {{0}}, esto es parte de su programa de estudios <1>{{1}}</1>. ¿Quiere empezarlo para aprender <3>{{3}}</3>?",
+        "enrollModuleText": "Hola {{0}}, esto es parte de su programa de estudios <1>{{- 1}}</1>. ¿Quiere empezarlo para aprender <3>{{- 3}}</3>?",
         "showContent": "Mostrar contenido extra",
         "hideContent": "Esconder contenido extra",
         "titleModule": "Módulo",

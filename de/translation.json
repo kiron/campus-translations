@@ -161,7 +161,7 @@
         "addModuleText": "Dieses Skill Booster Program wurde deinem Home Tab hinzugefügt",
         "enrollModuleBtnNo": "Jetzt nicht",
         "enrollModuleBtnStart": "Jetzt starten",
-        "enrollModuleText": "Hi {{0}}, dies ist Teil unseres Lernprogramms <1>{{1}}</1>. Willst du damit beginnen und etwas lernen über <3>{{3}}</3>?",
+        "enrollModuleText": "Hi {{0}}, dies ist Teil unseres Lernprogramms <1>{{- 1}}</1>. Willst du damit beginnen und etwas lernen über <3>{{- 3}}</3>?",
         "showContent": "Zusätzlichen Inhalt anzeigen",
         "hideContent": "Zusätzlichen Inhalt ausblenden",
         "titleModule": "Modul",
