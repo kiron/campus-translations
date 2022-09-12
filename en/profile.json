@@ -17,7 +17,6 @@
     },
     "personalInfo": {
         "title": "Personal Information",
-        "popup": "Personal Information is helpful for us to know our students better and provide specific services, e.g. study places for female students",
         "nickname": "Nickname",
         "country": "Nationality",
         "countryPlaceholder": "Select a nationality",

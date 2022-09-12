@@ -17,7 +17,6 @@
     },
     "personalInfo": {
         "title": "Persönliche Informationen",
-        "popup": "Persönliche Informationen sind nützlich um unsere Studierenden besser kennenzulernen und ihnen spezifische Dienstleistungen anzubieten, z.b. Lernorte für weibliche Studierende",
         "nickname": "Nickname",
         "country": "Nationalität",
         "countryPlaceholder": "Wähle eine Nationalität",

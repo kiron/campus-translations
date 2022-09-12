@@ -17,7 +17,6 @@
     },
     "personalInfo": {
         "title": "Kişisel bilgiler",
-        "popup": "Kişisel bilgiler, öğrencilerimizi daha iyi tanımak için ve 'kadın öğrenciler için çalışma yerleri' gibi belirli hizmetleri sağlamak için yardımcı olmaktadır",
         "nickname": "Takma isim",
         "country": "Uyruk",
         "countryPlaceholder": "Milletinizi seçin ",

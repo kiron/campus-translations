@@ -17,7 +17,6 @@
     },
     "personalInfo": {
         "title": "Información personal",
-        "popup": "Su información personal es muy útil para que conozcamos mejor a nuestros estudiantes y podamos proveer servicios específicos, por ejemplo, lugares de estudio para mujeres",
         "nickname": "Apodo",
         "country": "Nacionalidad",
         "countryPlaceholder": "Seleccione su nacionalidad",
