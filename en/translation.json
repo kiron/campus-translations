@@ -447,7 +447,9 @@
         "lostCategoryDesc": "We cannot find the category you are looking for.",
         "internetBroken": "The internet is broken",
         "internetBrokenDesc": "Apologies, we cannot load your data right now.",
-        "tryAgain": "Try again"
+        "tryAgain": "Try again",
+        "expiredLink": "The link has expired",
+        "expiredLinkDesc": "Apologies, this page is no longer available."
     },
     "participation": {
         "projectTutor": "is your tutor for this project",
@@ -457,5 +459,11 @@
     "stayTuned": "Stay tuned! More information coming soon.",
     "category": "Category",
     "moreBtn": "See more",
-    "lessBtn": "Collapse"
+    "lessBtn": "Collapse",
+    "survey": {
+        "takeSurvey": "Take a self-assessment survey",
+        "recommendedContent": "You will get recommended content based on survey results",
+        "accessLater": "Access later in my profile",
+        "accessNow": "Access now"
+    }
 }

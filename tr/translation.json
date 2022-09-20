@@ -328,7 +328,38 @@
         "week": "week",
         "weeks": "weeks"
     },
+    "errors": {
+        "lostCourse": "Bu kurs kayıp",
+        "lostCourseDesc": "Aradığınız kursu bulunamadı",
+        "backToProgram": "Programa geri dön",
+        "goToExplore": "Keşfetmeye git",
+        "backToCourse": "Kursa geri dön",
+        "lostProgram": "Bu program kayıp",
+        "lostProgramDesc": "Aradığınız programı bulunamadı.",
+        "lostLesson": "Bu ders kayıp",
+        "lostLessonDesc": "Aradığınız dersi bulunamadı.",
+        "lostPage": "Bu sayfayı kaybettik",
+        "lostPageDesc": "Aradığınızı bulunamadı.",
+        "techProblem": "Teknik sorun algılandı",
+        "techProblemDesc": "Özür dileriz, bu sayfa düzgün çalışmıyor.",
+        "backHome": "Ana sayfaya dön",
+        "almostThere": "Neredeyse oradasınız",
+        "completeCourses": "Sertifikayı indirmek için tüm kursları tamamlamanız gerekir.",
+        "lostCategory": "Bu kategori kayıp",
+        "lostCategoryDesc": "Aradığınız kategoriyi bulunamadı.",
+        "internetBroken": "Internet sorunu yaşanıyor",
+        "internetBrokenDesc": "Özür dileriz, şu anda verilerinizi yükleyemiyoruz.",
+        "tryAgain": "Tekrar deneyin",
+        "expiredLink": "Bağlantının süresi doldu",
+        "expiredLinkDesc": "Özür dileriz, bu sayfa artık mevcut değil."
+    },
     "category": "Kategori",
     "moreBtn": "Daha fazla",
-    "lessBtn": "Daha az"
+    "lessBtn": "Daha az",
+    "survey": {
+        "takeSurvey": "Bir özdeğerlendirme anketi yapın",
+        "recommendedContent": "Anket sonuçlarına göre önerilen içeriği alacaksınız",
+        "accessLater": "Sonra profilde değerlendir",
+        "accessNow": "Şimdi değerlendir"
+    }
 }

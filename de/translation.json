@@ -470,7 +470,9 @@
         "lostCategory": "Diese Kategorie ist verschwunden",
         "tryAgain": "Bitte versuche das noch mal",
         "internetBrokenDesc": "Entschuldigung, wir können deine Daten gerade nicht laden.",
-        "internetBroken": "Das Internet ist kaputt"
+        "internetBroken": "Das Internet ist kaputt",
+        "expiredLink": "Der Link ist abgelaufen",
+        "expiredLinkDesc": "Sorry, diese Seite ist leider nicht mehr verfügbar."
     },
     "participation": {
         "eventTutor": "ist dein/e Tutor/in für diese Veranstaltung",
@@ -480,5 +482,11 @@
     "stayTuned": "Bleib dran! Bald gibt es hier mehr Informationen.",
     "category": "Kategorie",
     "moreBtn": "Mehr Infos",
-    "lessBtn": "Minimieren"
+    "lessBtn": "Minimieren",
+    "survey": {
+        "takeSurvey": "Mach bei einer Umfrage zur Selbsteinschätzung mit",
+        "recommendedContent": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage",
+        "accessLater": "Später im Profil mitmachen",
+        "accessNow": "Jetzt mitmachen"
+    }
 }

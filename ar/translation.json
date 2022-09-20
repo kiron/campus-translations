@@ -525,7 +525,9 @@
         "internetBrokenDesc": "عذرا ، لا يمكننا تحميل بياناتك الآن.",
         "internetBroken": "عطل فني",
         "lostCategoryDesc": "لا يمكننا العثور على الفئة التي تبحث عنها.",
-        "lostCategory": "هذه الفئة مفقودة"
+        "lostCategory": "هذه الفئة مفقودة",
+        "expiredLink": "انتهت صلاحية الرابط",
+        "expiredLinkDesc": "عذرا، هذه الصفحة لم تعد متوفرة."
     },
     "participation": {
         "projectTutor": "هو/ي مرشدك/تك لهذا المشروع",
@@ -535,5 +537,11 @@
     "stayTuned": "ابق على اطلاع! سيتم نشر مزيد من المعلومات قريبا.",
     "category": "الفئة",
     "moreBtn": "مشاهدة المزيد",
-    "lessBtn": "تصغير"
+    "lessBtn": "تصغير",
+    "survey": {
+        "takeSurvey": "قم بإجراء استبيان تقييم ذاتي",
+        "recommendedContent": "سوف تحصل على محتوى موصى به بناءً على نتائج الاستبيان",
+        "accessLater": "تقييم لاحقًا في الملف الشخصي",
+        "accessNow": "تقييم الآن"
+    }
 }
