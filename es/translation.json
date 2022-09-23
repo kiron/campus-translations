@@ -489,6 +489,13 @@
         "takeSurvey": "Haz tu test de autoevaluación",
         "recommendedContent": "Te recomendaremos el contenido más adecuado en función del resultado",
         "accessLater": "Hacer más tarde desde mi perfil",
-        "accessNow": "Hacer ahora"
+        "accessNow": "Hacer ahora",
+        "selfAssessment": "Test de autoevaluación",
+        "reset": "Reiniciar",
+        "answerAll": "Por favor, contesta a todas las preguntas para poder enviar el cuestionario",
+        "leaveSurveyWarning": "Estás a punto de abandonar el test de autoevaluación",
+        "leaveSurveyWarningDesc": "No te preocupes, siempre puedes reiniciar el test desde tu perfil",
+        "quit": "Salir",
+        "stay": "Seguir"
     }
 }

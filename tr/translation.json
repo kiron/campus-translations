@@ -360,6 +360,13 @@
         "takeSurvey": "Bir özdeğerlendirme anketi yapın",
         "recommendedContent": "Anket sonuçlarına göre önerilen içeriği alacaksınız",
         "accessLater": "Sonra profilde değerlendir",
-        "accessNow": "Şimdi değerlendir"
+        "accessNow": "Şimdi değerlendir",
+        "selfAssessment": "Özdeğerlendirme anketi",
+        "reset": "Sıfırla",
+        "answerAll": "Anketi göndermek için lütfen tüm soruları yanıtlayın",
+        "leaveSurveyWarning": "Özdeğerlendirme anketinden çıkmak üzeresiniz",
+        "leaveSurveyWarningDesc": "Merak etmeyin, anketi her zaman Profil sayfanızda yeniden başlatabileceksiniz.",
+        "quit": "Çıkış",
+        "stay": "Kal"
     }
 }

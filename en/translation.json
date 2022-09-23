@@ -464,6 +464,13 @@
         "takeSurvey": "Take a self-assessment survey",
         "recommendedContent": "You will get recommended content based on survey results",
         "accessLater": "Access later in my profile",
-        "accessNow": "Access now"
+        "accessNow": "Access now",
+        "selfAssessment": "Self-Assessment Survey",
+        "reset": "Reset",
+        "answerAll": "Please answer all the questions in order to submit the survey",
+        "leaveSurveyWarning": "You are about to quit the self-assessment survey",
+        "leaveSurveyWarningDesc": "No worries, you will always be able to restart the survey in your Profile page.",
+        "quit": "Quit",
+        "stay": "Stay"
     }
 }
