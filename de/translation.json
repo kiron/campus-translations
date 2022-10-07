@@ -484,9 +484,28 @@
     "moreBtn": "Mehr Infos",
     "lessBtn": "Minimieren",
     "survey": {
-        "takeSurvey": "Mach bei einer Umfrage zur Selbsteinschätzung mit",
-        "recommendedContent": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage",
-        "accessLater": "Später im Profil mitmachen",
-        "accessNow": "Jetzt mitmachen"
+        "takeSurveyTitle": "Schätze dich selber ein",
+        "recommendedContentSubtitle": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage.",
+        "recommendedContentSubtitleProfilePage": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage.",
+        "btnLabelGoToSurvey": "Jetzt mitmachen",
+        "btnLabelHide": "Verstecken",
+        "survey": "Umfrage",
+        "btnLabelSubmit": "Abschicken",
+        "update": "Aktualisieren",
+        "answerAll": "Bitte beantworte alle Fragen, um die Umfrage abzuschicken",
+        "answerQuestion": "Bitte beantworte diese Frage",
+        "btnLabelViewFeedback": "Ergebnisse ansehen",
+        "btnLabelRetakeSurvey": "Umfrage wiederholen",
+        "leaveSurveyWarning": "Du bist dabei, die Umfrage zu verlassen",
+        "leaveSurveyWarningDesc": "Keine Sorge, du kannst die Umfrage jederzeit unter deinem Profil wiederholen.",
+        "btnLabelLeave": "Umfrage verlassen",
+        "btnLabelStay": "Bleiben",
+        "preHeaderSurveyFeedback": "Ergebnisse der Umfrage",
+        "headerThankYouMessage": "Vielen Dank für die Teilnahme an der Umfrage!",
+        "headerSurveyFeedback": "Deine Ergebnisse von",
+        "btnLabelExplore": "Empfohlene Inhalte ansehen",
+        "subHeaderFeedback": "Feedback",
+        "headerRecommendedForYou": "Empfehlungen für dich",
+        "headerRecommendedForYouBy": "Empfehlungen für dich von"
     }
 }
