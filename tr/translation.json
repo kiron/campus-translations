@@ -350,7 +350,7 @@
         "internetBroken": "Internet sorunu yaşanıyor",
         "internetBrokenDesc": "Özür dileriz, şu anda verilerinizi yükleyemiyoruz.",
         "tryAgain": "Tekrar deneyin",
-        "expiredLink": "Bağlantının süresi doldu",
+        "expiredLink": "Üzgünüz, Bağlantının süresi doldu",
         "expiredLinkDesc": "Özür dileriz, bu sayfa artık mevcut değil."
     },
     "category": "Kategori",
