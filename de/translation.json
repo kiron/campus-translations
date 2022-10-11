@@ -503,6 +503,8 @@
         "preHeaderSurveyFeedback": "Ergebnisse der Umfrage",
         "headerThankYouMessage": "Vielen Dank für die Teilnahme an der Umfrage!",
         "headerSurveyFeedback": "Deine Ergebnisse von",
+        "headerSurveyNoFeedback": "Wir konnten kein Feedback finden für",
+        "altImgNoFeedback": "Kein Feedback",
         "btnLabelExplore": "Empfohlene Inhalte ansehen",
         "subHeaderFeedback": "Feedback",
         "headerRecommendedForYou": "Empfehlungen für dich",
