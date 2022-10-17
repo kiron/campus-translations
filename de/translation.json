@@ -254,7 +254,7 @@
         "unit": "Einheit",
         "notificationPopupTitle": "Entwickle eine Lerngewohnheit",
         "notificationPopupDescription": "Aktiviere Benachrichtigungen, um Erinnerungen für deine Kurse zu erhalten.",
-        "notificationPopupMaybeLater": "Vielleicth später",
+        "notificationPopupMaybeLater": "Vielleicht später",
         "notificationPopupCoolThanks": " Cool, danke!",
         "hostedCourse": {
             "start": "Starte Einheit",
@@ -484,7 +484,7 @@
     "moreBtn": "Mehr Infos",
     "lessBtn": "Minimieren",
     "survey": {
-        "takeSurveyTitle": "Schätze dich selber ein",
+        "takeSurveyTitle": "Schätze dich selbst ein",
         "recommendedContentSubtitle": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage.",
         "recommendedContentSubtitleProfilePage": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage.",
         "btnLabelGoToSurvey": "Jetzt mitmachen",
