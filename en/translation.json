@@ -187,7 +187,9 @@
         "stayInOldProgram": "I want to stay in the old program",
         "updatedProgramMaintained": "Don't worry, your progress will be maintained when you join the new program.",
         "updatedProgramText": "We have updated the program you're currently enrolled in with new courses! We recommend you to join the new program by clicking on",
-        "updatedProgram": "This program has been updated!"
+        "updatedProgram": "This program has been updated!",
+        "evaluate": "Evaluate the course",
+        "evaluateHelp": ""
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
@@ -486,6 +488,11 @@
         "subHeaderFeedback": "Feedback",
         "altImgNoFeedback": "No feedback",
         "headerRecommendedForYou": "Recommended for you",
-        "headerRecommendedForYouBy": "Recommended for you by"
+        "headerRecommendedForYouBy": "Recommended for you by",
+        "leaveSurveyWarningDescription": "Are you sure you want to leave?",
+        "thankYouModal": "Thank you for your review! 😄",
+        "helpUsBtn": "Help us improve",
+        "notNowBtn": "Not now",
+        "helpUsText": "Help us improve your learning experience by answering some more questions about this course."
     }
 }
