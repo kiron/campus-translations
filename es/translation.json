@@ -198,7 +198,9 @@
         "stayInOldProgram": "Quiero quedarme en la versión antigua del programa",
         "updatedProgramMaintained": "No te preocupes, tu progreso se guardará aunque te registres en la nueva versión del programa.",
         "updatedProgramText": "¡Hemos actualizado el programa en el que te registraste! Te recomendamos unirte a la nueva versión del programa haciendo clic en",
-        "updatedProgram": "¡El programa se ha actualizado!"
+        "updatedProgram": "¡El programa se ha actualizado!",
+        "evaluate": "Evalúa este curso",
+        "evaluateHelp": "Ayúdanos a mejorar evaluando este curso"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Siguiente"
@@ -508,7 +510,10 @@
         "btnLabelExplore": "Ver contenido recomendado",
         "subHeaderFeedback": "Feedback",
         "headerRecommendedForYou": "Recomendado para ti",
-        "headerRecommendedForYouBy": "Recomendado para ti por"
+        "headerRecommendedForYouBy": "Recomendado para ti por",
+        "helpUsBtn": "Ayúdanos a mejorar",
+        "helpUsText": "Ayúdanos a mejorar tu experiencia educativa contestando algunas preguntas sobre este curso.",
+        "thankYouModal": "Gracias por tu valoración!"
     },
     "textAreaPlaceholder": "Escribe algo aquí..."
 }
