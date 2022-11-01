@@ -382,5 +382,6 @@
         "altImgNoFeedback": "Sonuç yok",
         "headerRecommendedForYou": "Sizin için tavsiye edilen",
         "headerRecommendedForYouBy": "Sizin için önerildi"
-    }
+    },
+    "textAreaPlaceholder": "Yazmaya başlayın..."
 }

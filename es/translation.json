@@ -509,5 +509,6 @@
         "subHeaderFeedback": "Feedback",
         "headerRecommendedForYou": "Recomendado para ti",
         "headerRecommendedForYouBy": "Recomendado para ti por"
-    }
+    },
+    "textAreaPlaceholder": "Escribe algo aquí..."
 }

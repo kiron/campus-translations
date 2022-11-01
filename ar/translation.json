@@ -566,5 +566,6 @@
         "altImgNoFeedback": "لا يوجد نتائج",
         "headerRecommendedForYou": "مقترح لك",
         "headerRecommendedForYouBy": "مقترح لك من قبل"
-    }
+    },
+    "textAreaPlaceholder": "ابدأ الكتابة هنا..."
 }
