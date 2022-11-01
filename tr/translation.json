@@ -381,7 +381,12 @@
         "subHeaderFeedback": "Sonuçlar",
         "altImgNoFeedback": "Sonuç yok",
         "headerRecommendedForYou": "Sizin için tavsiye edilen",
-        "headerRecommendedForYouBy": "Sizin için önerildi"
+        "headerRecommendedForYouBy": "Sizin için önerildi",
+        "helpUsText": "Bu kursla ilgili birkaç soruyu daha yanıtlayarak öğrenme deneyiminizi geliştirmemize yardımcı olun.",
+        "notNowBtn": "Şimdi değil",
+        "helpUsBtn": "Geliştirmemize yardım et",
+        "thankYouModal": "İncelemeniz için teşekkür ederiz!",
+        "leaveSurveyWarningDescription": "Ayrılmak istediğine emin misin?"
     },
     "textAreaPlaceholder": "Yazmaya başlayın..."
 }
