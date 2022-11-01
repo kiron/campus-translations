@@ -198,7 +198,8 @@
         "updatedProgramMaintained": "Keine Sorge, dein Stand wird beibehalten, wenn du dem neuen Programm beitrittst.",
         "updatedProgram": "Dieses Programm wurde aktualisiert!",
         "updatedProgramText": "Wir haben dem Programm, in dem du derzeit eingeschrieben bist, neue Kurse hinzugefügt! Wir empfehlen dir, dem neuen Programm beizutreten, klick hier",
-        "evaluate": "Bewerte den Kurs"
+        "evaluate": "Bewerte den Kurs",
+        "evaluateHelp": "Deine Bewertung hilft uns besser zu werden"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
@@ -509,7 +510,10 @@
         "btnLabelExplore": "Empfohlene Inhalte ansehen",
         "subHeaderFeedback": "Feedback",
         "headerRecommendedForYou": "Empfehlungen für dich",
-        "headerRecommendedForYouBy": "Empfehlungen für dich von"
+        "headerRecommendedForYouBy": "Empfehlungen für dich von",
+        "helpUsText": "Beantworte noch einige andere Fragen und hilf uns dabei, deine Lernerfahrung zu verbessern.",
+        "thankYouModal": "Danke für deine Bewertung!",
+        "helpUsBtn": "Hilf uns besser zu werden"
     },
     "textAreaPlaceholder": "Schreibe etwas hier…"
 }
