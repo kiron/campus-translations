@@ -161,7 +161,8 @@
         "stayInOldProgram": "اريد البقاء في البرنامج القديم",
         "addProgramText": "تمت إضافة هذا البرنامج إلى الصفحة الرئيسية الخاصة بك",
         "titleProgram": "برنامج",
-        "Text": "عذراً، يمكنك التسجيل في ما يصل إلى {{0}} دورة تدريبية"
+        "Text": "عذراً، يمكنك التسجيل في ما يصل إلى {{0}} دورة تدريبية",
+        "evaluateHelp": "ساعدنا على التحسن من خلال تقييم الدورة"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "التالي"
@@ -565,7 +566,12 @@
         "subHeaderFeedback": "النتائج",
         "altImgNoFeedback": "لا يوجد نتائج",
         "headerRecommendedForYou": "مقترح لك",
-        "headerRecommendedForYouBy": "مقترح لك من قبل"
+        "headerRecommendedForYouBy": "مقترح لك من قبل",
+        "thankYouModal": "شكرا لك على مراجعتك!",
+        "notNowBtn": "ليس الان",
+        "leaveSurveyWarningDescription": "هل انت متاكد انك تريد ان تغادر؟",
+        "helpUsText": "ساعدنا في تحسين تجربة التعلم الخاصة بك من خلال الإجابة على المزيد من الأسئلة حول هذه الدورة.",
+        "helpUsBtn": "ساعدنا على التحسن"
     },
     "textAreaPlaceholder": "ابدأ الكتابة هنا..."
 }
