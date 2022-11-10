@@ -23,19 +23,19 @@
         "view": "Anzeigen"
     },
     "emailSubscription": {
-        "title": "E-Mail-Abonnements",
+        "title": "Deine Email Abonnements",
         "info": "Stelle hier ein, welche E-Mails du von uns bekommen möchtest.",
         "courseReminders": {
-            "title": "Erinnerungen",
-            "info": "Ich möchte Updates zu meinem Fortschritt, motivierende Erinnerungen und andere Informationen zu Kursen, die ich begonnen habe, bekommen."
+            "title": "Persönliche Updates",
+            "info": "Ich möchte Erinnerungen und Updates zu Kursen und Programmen erhalten, an denen ich teilnehme."
         },
         "campusNews": {
-            "title": "Campus Neuigkeiten",
-            "info": "Ich möchte E-Mails über neue Lernangebote und andere Updates auf dem Campus bekommen."
+            "title": "Updates",
+            "info": "Ich möchte Informationen über neue Angebote erhalten (z. B. neue Kurse oder Programme)."
         },
         "externalOffers": {
-            "title": "Externe Angebote",
-            "info": "Ich möchte E-Mails mit Infos zu Stipendien, Angeboten, Empfehlungen, besonderen Veranstaltungen, etc. bekommen."
+            "title": "Weitere Angebote",
+            "info": "Ich möchte über neue interessante Angebote von Dritten informiert werden."
         },
         "unsubscribe": {
             "title": "Du hast dich erfolgreich abgemeldet!",
