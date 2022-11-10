@@ -1,48 +1,48 @@
 {
-  "title": "Bilgi paylaşımı",
-  "info": "Bu ayarlar, {{orgDisplayName}}'un bazı üçüncü kişilerle paylaşmasına izin verdiğin verileri göstermektedir. Detayları görmek veya izni geri almak için 'İnceleyin' butonunu kullan.",
-  "infoConsent": "Onay isteğini henüz kabul etmedin.",
-  "linkView": "Görüntüle",
-  "linkCancel": "İptal",
-  "linkBack": "Geri git",
-  "linkAccept": "Kabul et",
-  "noInfo": "Üzgünüz, geçerli bilgi bulunmamaktadır ",
-  "linkBackSettings": "Ayarlara geri dön",
-  "titleReceived": "için olan anlaşmanızı teslim aldık",
-  "linkGoSettings": "Ayarlara git",
-  "linkRevoke": "Geri almak ",
-  "revokeConsent": {
-    "yes": "Evet",
-    "no": "Hayır",
-    "title": "Bu izni geri almak istediğinden emin misin? ",
-    "desc": "Bu izni geri alarak {{orgDisplayName}}'un sağladığı bazı hizmetlere erişimi kaybedebilirsin.",
-    "goToSettings": "Ayarlara git",
-    "revoked": "Geri alındı"
-  },
-  "listItem": {
-    "view": "Görüntüle"
-  },
-  "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
-    "courseReminders": {
-      "title": "Reminders",
-      "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
+    "title": "Bilgi paylaşımı",
+    "info": "Bu ayarlar, {{orgDisplayName}}'un bazı üçüncü kişilerle paylaşmasına izin verdiğin verileri göstermektedir. Detayları görmek veya izni geri almak için 'İnceleyin' butonunu kullan.",
+    "infoConsent": "Onay isteğini henüz kabul etmedin.",
+    "linkView": "Görüntüle",
+    "linkCancel": "İptal",
+    "linkBack": "Geri git",
+    "linkAccept": "Kabul et",
+    "noInfo": "Üzgünüz, geçerli bilgi bulunmamaktadır",
+    "linkBackSettings": "Ayarlara geri dön",
+    "titleReceived": "için olan anlaşmanızı teslim aldık",
+    "linkGoSettings": "Ayarlara git",
+    "linkRevoke": "Geri almak",
+    "revokeConsent": {
+        "yes": "Evet",
+        "no": "Hayır",
+        "title": "Bu izni geri almak istediğinden emin misin?",
+        "desc": "Bu izni geri alarak {{orgDisplayName}}'un sağladığı bazı hizmetlere erişimi kaybedebilirsin.",
+        "goToSettings": "Ayarlara git",
+        "revoked": "Geri alındı"
     },
-    "campusNews": {
-      "title": "Campus News",
-      "info": "Send me emails about new learning opportunities and other campus updates."
+    "listItem": {
+        "view": "Görüntüle"
     },
-    "externalOffers": {
-      "title": "External Offers",
-      "info": "Send me emails about scholarships, offers, promotions, special events, etc."
-    },
-    "unsubscribe": {
-      "title": "You are successfully unsubscribed!",
-      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-      "unsubscribing": "Unsubscribing...",
-      "errorMessage": "Unsubscribing failed: {{0}}"
+    "emailSubscription": {
+        "title": "E-posta Abonelikleriniz",
+        "info": "Bizden aldığınız e-postaları yönetin.",
+        "courseReminders": {
+            "title": "Kişisel Güncellemeler",
+            "info": "Kayıtlı olduğum kurslar ve programlarla ilgili hatırlatıcılar ve güncellemeler gönderin."
+        },
+        "campusNews": {
+            "title": "Güncellemeler",
+            "info": "İlgimi çekebilecek yeni içerik teklifleri (yeni kurslar veya programlar gibi) hakkında bana bilgi gönderin."
+        },
+        "externalOffers": {
+            "title": "Ek Teklifler",
+            "info": "Öğrenme platformunun dışındaki ilginç fırsatlar hakkında beni bilgilendir."
+        },
+        "unsubscribe": {
+            "title": "Abonelikten başarıyla çıktınız!",
+            "descriptionHeadline": "Şu andan itibaren, bizden aşağıdaki e-postaları almayacaksınız:",
+            "descriptionFooter": "E-posta aboneliklerinizi özelleştirmek istiyorsanız, <1>buradan yönetin</1>.",
+            "unsubscribing": "Abonelikten çıkılıyor...",
+            "errorMessage": "Abonelikten çıkılamadı: {{0}}"
+        }
     }
-  }
 }

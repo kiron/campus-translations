@@ -23,19 +23,19 @@
         "view": "Ver"
     },
     "emailSubscription": {
-        "title": "Suscripción por correo electrónico",
+        "title": "Tus suscripciones de correo electrónico",
         "info": "Elija qué correos electrónicos quiere recibir de Kiron.",
         "courseReminders": {
-            "title": "Recordatorios",
-            "info": "Quiero recibir actualizaciones sobre mi progreso, mensajes de motivación y otras informaciones sobre mis cursos."
+            "title": "Novedades personalizadas",
+            "info": "Enviadme recordatorios y novedades sobre los cursos y programas a los que me he inscrito."
         },
         "campusNews": {
-            "title": "Noticias de Kiron Campus",
-            "info": "Quiero recibir información sobre nuevos cursos y otras novedades del campus."
+            "title": "Actualizaciones",
+            "info": "Envíame información sobre novedades como cursos o programas que puedan ser interesantes para mí."
         },
         "externalOffers": {
-            "title": "Oportunidades externas",
-            "info": "Quiero recibir información sobre becas, eventos y promociones."
+            "title": "Ofertas adicionales",
+            "info": "Por favor, infórmame sobre oportunidades interesantes que puedo encontrar fuera de la plataforma."
         },
         "unsubscribe": {
             "title": "¡Ha anulado la suscripción correctamente!",
