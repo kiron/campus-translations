@@ -191,7 +191,8 @@
         "evaluate": "Evaluate the course",
         "evaluateHelp": "Help us improve your learning experience by answering some questions about this course.",
         "btnShareReview": "Share your review",
-        "helpReviewCourse": "Help other learners by reviewing this course."
+        "helpReviewCourse": "Help other learners by reviewing this course.",
+        "shareYourOpinion": "Share your opinion with other learners"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
