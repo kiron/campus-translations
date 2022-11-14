@@ -47,6 +47,9 @@
         "personalUpdates": {
             "title": "Personal Updates",
             "info": "Send me reminders and updates about the courses and programs I am currently enrolled in."
+        },
+        "updates": {
+            "title": "Updates"
         }
     }
 }
