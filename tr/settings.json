@@ -43,6 +43,18 @@
             "descriptionFooter": "E-posta aboneliklerinizi özelleştirmek istiyorsanız, <1>buradan yönetin</1>.",
             "unsubscribing": "Abonelikten çıkılıyor...",
             "errorMessage": "Abonelikten çıkılamadı: {{0}}"
+        },
+        "additionalOffers": {
+            "info": "Öğrenme platformunun dışındaki ilginç fırsatlar hakkında beni bilgilendir.",
+            "title": "Ek Teklifler"
+        },
+        "updates": {
+            "info": "İlgimi çekebilecek yeni içerik teklifleri (yeni kurslar veya programlar gibi) hakkında bana bilgi gönderin.",
+            "title": "Güncellemeler"
+        },
+        "personalUpdates": {
+            "info": "Kayıtlı olduğum kurslar ve programlarla ilgili hatırlatıcılar ve güncellemeler gönderin.",
+            "title": "Kişisel Güncellemeler"
         }
     }
 }

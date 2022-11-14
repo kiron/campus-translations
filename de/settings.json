@@ -43,6 +43,18 @@
             "descriptionFooter": "Wenn du deine Email Abonnements verwalten möchtest <1>klicke hier</1>.",
             "unsubscribing": "Abmelden...",
             "errorMessage": "Abmeldung abgebrochen: {{0}}"
+        },
+        "additionalOffers": {
+            "info": "Ich möchte über neue interessante Angebote von Dritten informiert werden.",
+            "title": "Weitere Angebote"
+        },
+        "updates": {
+            "info": "Ich möchte Informationen über neue Angebote erhalten (z. B. neue Kurse oder Programme).",
+            "title": "Updates"
+        },
+        "personalUpdates": {
+            "info": "Ich möchte Erinnerungen und Updates zu Kursen und Programmen erhalten, an denen ich teilnehme.",
+            "title": "Persönliche Updates"
         }
     }
 }

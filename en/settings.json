@@ -25,24 +25,24 @@
     "emailSubscription": {
         "title": "Your Email Subscriptions",
         "info": "Manage the emails you receive from us.",
-        "courseReminders": {
-            "title": "Personal Updates",
-            "info": "Send me reminders and updates about the courses and programs I am currently enrolled in."
-        },
-        "campusNews": {
-            "title": "Updates",
-            "info": "Send me information about new content offers (like new courses or programs) that might be interesting to me."
-        },
-        "externalOffers": {
-            "title": "Additional Offers",
-            "info": "Keep me updated about interesting opportunities outside the learning platform."
-        },
         "unsubscribe": {
             "title": "You are successfully unsubscribed!",
             "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
             "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
             "unsubscribing": "Unsubscribing...",
             "errorMessage": "Unsubscribing failed: {{0}}"
+        },
+        "personalUpdates": {
+            "title": "Personal Updates",
+            "info": "Send me reminders and updates about the courses and programs I am currently enrolled in."
+        },
+        "updates": {
+            "title": "Updates",
+            "info": "Send me information about new content offers (like new courses or programs) that might be interesting to me."
+        },
+        "additionalOffers": {
+            "title": "Additional Offers",
+            "info": "Keep me updated about interesting opportunities outside the learning platform."
         }
     }
 }

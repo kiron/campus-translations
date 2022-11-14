@@ -43,6 +43,18 @@
             "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
             "unsubscribing": "إلغاء الاشتراك ...",
             "errorMessage": "فشل إلغاء الاشتراك: {{0}}"
+        },
+        "additionalOffers": {
+            "info": "أبقني على اطلاع بالفرص المثيرة للاهتمام خارج منصة التعلم.",
+            "title": "عروض إضافية"
+        },
+        "updates": {
+            "info": "أرسل لي معلومات حول عروض المحتوى الجديدة (مثل الدورات أو البرامج الجديدة) التي قد تكون مهمة بالنسبة لي.",
+            "title": "التحديثات"
+        },
+        "personalUpdates": {
+            "info": "أرسل لي تذكيرات وتحديثات حول الدورات والبرامج التي انضممت إليها حاليًا.",
+            "title": "التحديثات الشخصية"
         }
     }
 }
