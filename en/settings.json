@@ -49,7 +49,8 @@
             "info": "Send me reminders and updates about the courses and programs I am currently enrolled in."
         },
         "updates": {
-            "title": "Updates"
+            "title": "Updates",
+            "info": "Send me information about new content offers (like new courses or programs) that might be interesting to me."
         }
     }
 }
