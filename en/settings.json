@@ -51,6 +51,9 @@
         "updates": {
             "title": "Updates",
             "info": "Send me information about new content offers (like new courses or programs) that might be interesting to me."
+        },
+        "additionalOffers": {
+            "title": "Additional Offers"
         }
     }
 }
