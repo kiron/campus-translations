@@ -182,7 +182,10 @@
         "feedbackLoading": "Ders yükleniyor",
         "enrollCourseLimitText": "Üzgünüz, en fazla {{0}} tane kursa kaydolabilirsiniz. ",
         "type": "Program",
-        "selfPaced": "Kendi hızınızda"
+        "selfPaced": "Kendi hızınızda",
+        "helpReviewCourse": "Bu kursu inceleyerek diğer öğrencilere yardımcı olun.",
+        "btnShareReview": "Yorumunuzu paylaşın",
+        "shareYourOpinion": "Fikrinizi diğer öğrencilerle paylaşın"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Sonraki"
