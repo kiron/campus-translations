@@ -200,7 +200,10 @@
         "updatedProgramText": "¡Hemos actualizado el programa en el que te registraste! Te recomendamos unirte a la nueva versión del programa haciendo clic en",
         "updatedProgram": "¡El programa se ha actualizado!",
         "evaluate": "Evalúa este curso",
-        "evaluateHelp": "Ayúdanos a mejorar evaluando este curso"
+        "evaluateHelp": "Ayúdanos a mejorar evaluando este curso",
+        "helpReviewCourse": "Ayuda a otros estudiantes valorando este curso.",
+        "btnShareReview": "Comparte tu opinión",
+        "shareYourOpinion": "Comparte tu opinión con otros estudiantes"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Siguiente"
