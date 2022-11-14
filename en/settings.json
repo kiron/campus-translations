@@ -43,6 +43,9 @@
             "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
             "unsubscribing": "Unsubscribing...",
             "errorMessage": "Unsubscribing failed: {{0}}"
+        },
+        "personalUpdates": {
+            "title": "Personal Updates"
         }
     }
 }
