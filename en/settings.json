@@ -26,7 +26,6 @@
         "title": "Your Email Subscriptions",
         "info": "Manage the emails you receive from us.",
         "externalOffers": {
-            "title": "Additional Offers",
             "info": "Keep me updated about interesting opportunities outside the learning platform."
         },
         "unsubscribe": {
