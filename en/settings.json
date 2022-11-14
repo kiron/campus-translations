@@ -25,9 +25,6 @@
     "emailSubscription": {
         "title": "Your Email Subscriptions",
         "info": "Manage the emails you receive from us.",
-        "campusNews": {
-            "info": "Send me information about new content offers (like new courses or programs) that might be interesting to me."
-        },
         "externalOffers": {
             "title": "Additional Offers",
             "info": "Keep me updated about interesting opportunities outside the learning platform."
