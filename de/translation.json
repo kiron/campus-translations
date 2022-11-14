@@ -135,8 +135,8 @@
         "loading": "Programm wird geladen",
         "studyTrack": "Studiengang Modul",
         "skillBooster": "Skill Booster Program",
-        "notFoundTitle": "Unbekanntes Modul",
-        "notFoundDesc": "Dieses Modul existiert nicht oder gehört nicht zu deinem Studiengang. Bitte kehre zu deiner Studienübersicht zurück, um eine Liste aller verfügbaren Module anzuzeigen.",
+        "notFoundTitle": "Unbekanntes Programm",
+        "notFoundDesc": "Dieses Programm existiert nicht oder gehört nicht zu deinem Studiengang. Bitte kehre zu deiner Studienübersicht zurück, um eine Liste aller verfügbaren Module anzuzeigen.",
         "certificateDownload": "Download Zertifikat",
         "certificatePreview": "Dies ist eine Vorschau von <1/><2>{{2}}</2>",
         "certificateStart": "Starte dieses Programm noch heute, um Zugang zu allen Kursen zu erhalten",
@@ -199,7 +199,10 @@
         "updatedProgram": "Dieses Programm wurde aktualisiert!",
         "updatedProgramText": "Wir haben dem Programm, in dem du derzeit eingeschrieben bist, neue Kurse hinzugefügt! Wir empfehlen dir, dem neuen Programm beizutreten, klick hier",
         "evaluate": "Bewerte den Kurs",
-        "evaluateHelp": "Deine Bewertung hilft uns besser zu werden"
+        "evaluateHelp": "Hilf uns, deine Lernerfahrung zu verbessern, indem du uns einige Fragen zu diesem Kurs beantwortest.",
+        "shareYourOpinion": "Teile deine Meinung mit anderen Lernenden",
+        "btnShareReview": "Teile deine Bewertung",
+        "helpReviewCourse": "Helfe anderen Lernenden, indem du diesen Kurs bewertest."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
@@ -257,7 +260,7 @@
         "notificationPopupTitle": "Entwickle eine Lerngewohnheit",
         "notificationPopupDescription": "Aktiviere Benachrichtigungen, um Erinnerungen für deine Kurse zu erhalten.",
         "notificationPopupMaybeLater": "Vielleicht später",
-        "notificationPopupCoolThanks": " Cool, danke!",
+        "notificationPopupCoolThanks": "Cool, danke!",
         "hostedCourse": {
             "start": "Starte Einheit",
             "finish": "Beende Einheit",
@@ -332,7 +335,7 @@
             "appointmentFrequency_plural": "Wiederholt sich alle {{1}} Wochen bis zum {{0}}"
         },
         "sureLeave": "Bist Du sicher, dass Du aufhören möchtest?",
-        "noStay": "Nein, bleiben",
+        "noStay": "Nein, ich möchte weitermachen",
         "yesLeave": "Ja, aufhören",
         "howItWorks": "Wie geht das?",
         "retakeCourse": "Kurs wiederholen",
@@ -346,11 +349,11 @@
     "lessonTest": {
         "takeTest": "Test beginnen",
         "passHint": "Bestehe den Test, um fortzufahren",
-        "answerHint": "Beantworte mindestens {{0}} richtig um zu bestehen. ",
+        "answerHint": "Beantworte mindestens {{0}} richtig um zu bestehen.",
         "questions": "Fragen",
         "question": "Frage",
         "send": "Fertig",
-        "thankParticipation": "Vielen Dank für deine Teilnahme.",
+        "thankParticipation": "Vielen Dank für deine Teilnahme",
         "congrats": "Gratulation, du hast die Lektion abgeschlossen. Du kannst den Test noch einmal machen, oder fortfahren.",
         "testAgain": "Bevor du fortfahren kannst, solltest du diese Fragen überprüfen und den Test noch einmal machen.",
         "testNonRetakeable": "Leider hast du nicht die erforderliche Punktzahl für diesen Test erreicht. Du kannst gerne in dieser Einheit weiterlernen, sie allerdings nicht abschließen.",
@@ -361,9 +364,9 @@
     "attachmentItem": {
         "download": "Download",
         "delete": "Delete",
-        "deleting": "Deleting file...",
-        "uploading": "Uploading file...",
-        "uploadingPleaseWait": "Please wait"
+        "deleting": "Datei löschen...",
+        "uploading": "Datei hochladen...",
+        "uploadingPleaseWait": "Bitte warten"
     },
     "certificate": {
         "noFirstAndLastNameProvided": "Du musst einen Vor- und Nachnamen angeben, damit du ein Zertifikat bekommen kannst.",
@@ -382,14 +385,14 @@
         "fillInText": "Beantworte die Fragen, um zu verstehen wo du gerade stehst und was du als nächstes tun solltest. Diese Infos helfen uns dabei, dich besser zu unterstützen.",
         "fillIn": "Fragebogen ausfüllen",
         "cardInfoText": "In jeder Kategorie findest du oben einige Infos. Gucke dir auf jeden Fall die videos an und lies die Texte genau um alles Wichtige für deinen Weg an die Universität zu lernen.",
-        "cardInfo": "Information",
+        "cardInfo": "Information zur Karte",
         "goBackText": "Zurück zur ganzen Liste: klicke hier.",
         "goBack": "Zurück",
         "firstCategoryText": "Du bist nun in der ersten Kategorie über <1>{{1}}</1>",
         "firstCategory": "Erste Kategorie",
         "errorLoading": "Fehler beim Lagen von {{0}} Sprachzertifikaten",
         "seeOtherStudents": "Mehr von anderen Kiron Lernenden sehen…",
-        "updatedInfo": "Hallo! Auf dieser Seite bekommst du aktuelle Infos von Kiron, über unsere Kurse, Lerntips und interessante Artikel, die wir für dich heraussuchen. Klicke auf die Überschriften um den Text zu sehen und komme immer wieder hier her zurück um zu sehen was es Neues gibt.",
+        "updatedInfo": "Hallo! Auf dieser Seite bekommst du aktuelle Infos von Kiron, über unsere Kurse, Lerntips und interessante Artikel, die wir für dich heraussuchen. Klicke auf die Überschriften um den Text zu sehen und komme immer wieder hier her zurück um zu sehen was es Neues gibt!",
         "newsFeed": "Neuigkeiten",
         "feedBack": "Feedback geben",
         "isItUsefull": "Wenn du denkst, dass das hilfreich war, teile uns gern dein Feedback mit. Es dauert nur eine Minute!",
@@ -400,7 +403,7 @@
         "nextPage": "Nächste Seite",
         "submitResult": "Klicke auf \"Abschicken\" um das Ergebnis zu sehen.",
         "submit": "Abschicken",
-        "findUniversity": "In der Kategorie \"Previous Education\" findest du heraus, welche Art von Hochschulzugangsberechtigung du hast. Komme danach zurück hier her.",
+        "findUniversity": "In der Kategorie \"Previous Education\" findest du heraus, welche Art von Hochschulzugangsberechtigung du hast. Komme danach hierher zurück",
         "loadingLangCertificate": "Lade Sprachzertifikate"
     },
     "downloadLessonRecordings": "Alle Aufnahmen herunterladen",
@@ -449,7 +452,10 @@
         "wellDone": "Gut gemacht! Du hast den Kurs abgeschlossen.",
         "registerBefore": "Registrier dich vor",
         "isLocked": "Dieser Kurs ist noch nicht freigeschaltet",
-        "lockedMessage": "Um diesen Kurs freizuschalten musst du zuerst <1>Einheit: {{0}}</1> abschließen"
+        "lockedMessage": "Um diesen Kurs freizuschalten musst du zuerst <1>Einheit: {{0}}</1> abschließen",
+        "youWillGetNotified": "Du wirst benachrichtigt, sobald wir fertig sind",
+        "documentsInReview": "Deine Dokumente werden verifiziert.",
+        "reviews": "Bewertungen"
     },
     "errors": {
         "lostCourse": "Dieser Kurs ist verschwunden",
@@ -479,7 +485,7 @@
     "participation": {
         "eventTutor": "ist dein/e Tutor/in für diese Veranstaltung",
         "projectTutor": "ist dein/e Tutor/in für dieses Projekt",
-        "isUserTutor": "Du bist als Tutor/in in diesem Projekt eingeschrieben."
+        "isUserTutor": "Du bist als Tutor/in in diesem Projekt eingeschrieben"
     },
     "stayTuned": "Bleib dran! Bald gibt es hier mehr Informationen.",
     "category": "Kategorie",
@@ -488,7 +494,7 @@
     "survey": {
         "takeSurveyTitle": "Schätze dich selbst ein",
         "recommendedContentSubtitle": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage.",
-        "recommendedContentSubtitleProfilePage": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage.",
+        "recommendedContentSubtitleProfilePage": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage",
         "btnLabelGoToSurvey": "Jetzt mitmachen",
         "btnLabelHide": "Verstecken",
         "survey": "Umfrage",
@@ -513,7 +519,10 @@
         "headerRecommendedForYouBy": "Empfehlungen für dich von",
         "helpUsText": "Beantworte noch einige andere Fragen und hilf uns dabei, deine Lernerfahrung zu verbessern.",
         "thankYouModal": "Danke für deine Bewertung!",
-        "helpUsBtn": "Hilf uns besser zu werden"
+        "helpUsBtn": "Hilf uns besser zu werden",
+        "notNowBtn": "Nicht jetzt",
+        "leaveSurveyWarningDescription": "Bist du sicher, dass du gehen willst?",
+        "reset": "Zurücksetzen"
     },
     "textAreaPlaceholder": "Fange hier an zu tippen..."
 }
