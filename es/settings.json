@@ -43,6 +43,18 @@
             "descriptionFooter": "Si quiere cambiar sus suscripciones, haga clic aquí.",
             "unsubscribing": "Anulando la suscripción...",
             "errorMessage": "Anulación cancelada: {{0}}"
+        },
+        "additionalOffers": {
+            "info": "Por favor, infórmame sobre oportunidades interesantes que puedo encontrar fuera de la plataforma.",
+            "title": "Ofertas adicionales"
+        },
+        "updates": {
+            "info": "Envíame información sobre novedades como cursos o programas que puedan ser interesantes para mí.",
+            "title": "Actualizaciones"
+        },
+        "personalUpdates": {
+            "info": "Enviadme recordatorios y novedades sobre los cursos y programas a los que me he inscrito.",
+            "title": "Novedades personalizadas"
         }
     }
 }
