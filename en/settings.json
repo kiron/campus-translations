@@ -26,7 +26,6 @@
         "title": "Your Email Subscriptions",
         "info": "Manage the emails you receive from us.",
         "courseReminders": {
-            "title": "Personal Updates",
             "info": "Send me reminders and updates about the courses and programs I am currently enrolled in."
         },
         "campusNews": {
