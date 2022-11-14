@@ -162,7 +162,11 @@
         "addProgramText": "تمت إضافة هذا البرنامج إلى الصفحة الرئيسية الخاصة بك",
         "titleProgram": "برنامج",
         "Text": "عذراً، يمكنك التسجيل في ما يصل إلى {{0}} دورة تدريبية",
-        "evaluateHelp": "ساعدنا على التحسن من خلال تقييم الدورة"
+        "evaluateHelp": "ساعدنا على التحسن من خلال تقييم الدورة",
+        "helpReviewCourse": "ساعد المتعلمين الآخرين من خلال مراجعة هذه الدورة.",
+        "btnShareReview": "شارك رأيك",
+        "evaluate": "قيّم الدورة",
+        "shareYourOpinion": "شارك مراجعتك مع المتعلمين الآخرين"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "التالي"
