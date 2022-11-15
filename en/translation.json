@@ -499,5 +499,15 @@
         "helpUsText": "Help us improve your learning experience by answering some more questions about this course."
     },
     "textAreaPlaceholder": "Start typing here...",
-    "commentBoxPlaceholder": "Write a short summary of your learning experience…"
+    "commentBoxPlaceholder": "Write a short summary of your learning experience…",
+    "rating": {
+        "empty": "no rating yet",
+        "fiveStar": "five stars",
+        "fourStar": "four stars",
+        "threeStar": "three stars",
+        "twoStar": "two stars",
+        "oneStar": "one star"
+    },
+    "textAreaAriaLabel": "Input box for your answer",
+    "commentBoxLabel": "Input box for your review"
 }
