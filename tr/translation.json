@@ -391,5 +391,15 @@
         "thankYouModal": "İncelemeniz için teşekkür ederiz!",
         "leaveSurveyWarningDescription": "Ayrılmak istediğine emin misin?"
     },
-    "textAreaPlaceholder": "Yazmaya başlayın..."
+    "textAreaPlaceholder": "Yazmaya başlayın...",
+    "commentBoxLabel": "değerlendirmeniz için giriş kutusu",
+    "textAreaAriaLabel": "cevabınız için giriş kutusu",
+    "rating": {
+        "oneStar": "bir yıldız",
+        "twoStar": "iki yıldız",
+        "threeStar": "üç yıldız",
+        "fourStar": "dört yıldız",
+        "fiveStar": "beş yıldız",
+        "empty": "henüz değerlendirme yok"
+    }
 }
