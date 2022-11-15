@@ -518,5 +518,15 @@
         "helpUsText": "Ayúdanos a mejorar tu experiencia educativa contestando algunas preguntas sobre este curso.",
         "thankYouModal": "Gracias por tu valoración!"
     },
-    "textAreaPlaceholder": "Escribe algo aquí..."
+    "textAreaPlaceholder": "Escribe algo aquí...",
+    "commentBoxLabel": "Espacio para escribir tu recomendación",
+    "textAreaAriaLabel": "Espacio para escribir tu respuesta",
+    "rating": {
+        "oneStar": "una estrella",
+        "twoStar": "dos estrellas",
+        "threeStar": "tres estrellas",
+        "fourStar": "cuatro estrellas",
+        "fiveStar": "cinco estrellas",
+        "empty": "todavía no hay puntuación"
+    }
 }

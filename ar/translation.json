@@ -577,5 +577,15 @@
         "helpUsText": "ساعدنا في تحسين تجربة التعلم الخاصة بك من خلال الإجابة على المزيد من الأسئلة حول هذه الدورة.",
         "helpUsBtn": "ساعدنا على التحسن"
     },
-    "textAreaPlaceholder": "ابدأ الكتابة هنا..."
+    "textAreaPlaceholder": "ابدأ الكتابة هنا...",
+    "commentBoxLabel": "حقل ادخال لوضع مراجعتك",
+    "textAreaAriaLabel": "حقل ادخال لوضع اجابتك",
+    "rating": {
+        "oneStar": "نجمة واحدة",
+        "twoStar": "نجمتان",
+        "threeStar": "ثلاث نجوم",
+        "fourStar": "اربع نجوم",
+        "fiveStar": "خمس نجوم",
+        "empty": "لا يوجد تقييم بعد"
+    }
 }

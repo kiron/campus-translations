@@ -524,5 +524,15 @@
         "leaveSurveyWarningDescription": "Bist du sicher, dass du gehen willst?",
         "reset": "Zurücksetzen"
     },
-    "textAreaPlaceholder": "Fange hier an zu tippen..."
+    "textAreaPlaceholder": "Fange hier an zu tippen...",
+    "commentBoxLabel": "Textfeld für dein Feedback",
+    "textAreaAriaLabel": "Textfeld für deine Antwort",
+    "rating": {
+        "fiveStar": "fünf Sterne",
+        "fourStar": "vier Sterne",
+        "threeStar": "drei Sterne",
+        "twoStar": "zwei Sterne",
+        "oneStar": "ein Stern",
+        "empty": "noch keine Bewertungen"
+    }
 }
