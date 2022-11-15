@@ -192,7 +192,7 @@
         "evaluateHelp": "Help us improve your learning experience by answering some questions about this course.",
         "btnShareReview": "Share your review",
         "helpReviewCourse": "Help other learners by reviewing this course.",
-        "shareYourOpinion": "Share your opinion with other learners"
+        "shareYourOpinion": "Tell us more"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
@@ -499,5 +499,5 @@
         "helpUsText": "Help us improve your learning experience by answering some more questions about this course."
     },
     "textAreaPlaceholder": "Start typing here...",
-    "commentBoxPlaceholder": "Write a short summary of your learning experience..."
+    "commentBoxPlaceholder": "Write a short summary of your learning experience…"
 }
