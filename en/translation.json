@@ -498,5 +498,6 @@
         "notNowBtn": "Not now",
         "helpUsText": "Help us improve your learning experience by answering some more questions about this course."
     },
-    "textAreaPlaceholder": "Start typing here..."
+    "textAreaPlaceholder": "Start typing here...",
+    "commentBoxPlaceholder": "Write a short summary of your learning experience..."
 }
