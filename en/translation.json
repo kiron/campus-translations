@@ -496,7 +496,8 @@
         "thankYouModal": "Thank you for your review!",
         "helpUsBtn": "Help us improve",
         "notNowBtn": "Not now",
-        "helpUsText": "Help us improve your learning experience by answering some more questions about this course."
+        "helpUsText": "Help us improve your learning experience by answering some more questions about this course.",
+        "oneMoreThing": "One more thing"
     },
     "textAreaPlaceholder": "Start typing here...",
     "commentBoxPlaceholder": "Write a short summary of your learning experience…",
