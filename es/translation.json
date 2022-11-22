@@ -516,7 +516,8 @@
         "headerRecommendedForYouBy": "Recomendado para ti por",
         "helpUsBtn": "Ayúdanos a mejorar",
         "helpUsText": "Ayúdanos a mejorar tu experiencia educativa contestando algunas preguntas sobre este curso.",
-        "thankYouModal": "Gracias por tu valoración!"
+        "thankYouModal": "Gracias por tu valoración!",
+        "oneMoreThing": "Una última cosa"
     },
     "textAreaPlaceholder": "Escribe algo aquí...",
     "commentBoxLabel": "Espacio para escribir tu recomendación",
