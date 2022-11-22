@@ -389,7 +389,8 @@
         "notNowBtn": "Şimdi değil",
         "helpUsBtn": "Geliştirmemize yardım et",
         "thankYouModal": "İncelemeniz için teşekkür ederiz!",
-        "leaveSurveyWarningDescription": "Ayrılmak istediğine emin misin?"
+        "leaveSurveyWarningDescription": "Ayrılmak istediğine emin misin?",
+        "oneMoreThing": "Bir şey daha var"
     },
     "textAreaPlaceholder": "Yazmaya başlayın...",
     "commentBoxLabel": "değerlendirmeniz için giriş kutusu",
