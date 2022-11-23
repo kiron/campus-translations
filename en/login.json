@@ -45,6 +45,5 @@
         "submit": "Submit",
         "passwordChangedTitle": "Password changed!",
         "login": "Login"
-    },
-    "daadCTA": "Continue with DAAD ID"
+    }
 }
