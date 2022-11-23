@@ -535,5 +535,13 @@
         "twoStar": "zwei Sterne",
         "oneStar": "ein Stern",
         "empty": "noch keine Bewertungen"
+    },
+    "customSurvey": {
+        "answersReceived": "Wir haben deine Antworten erhalten",
+        "thanks": "Danke für's Abschicken!"
+    },
+    "imageAlt": {
+        "documentWithStar": "Papier Symbol mit Stern",
+        "happyHeartPerson": "Fröhliche Person mit Herzchen"
     }
 }
