@@ -529,5 +529,13 @@
         "fourStar": "cuatro estrellas",
         "fiveStar": "cinco estrellas",
         "empty": "todavía no hay puntuación"
+    },
+    "customSurvey": {
+        "answersReceived": "Hemos recibido tus respuestas",
+        "thanks": "Gracias por tu contribución!"
+    },
+    "imageAlt": {
+        "documentWithStar": "Icono de un documento con una imagen",
+        "happyHeartPerson": "Persona feliz con corazones"
     }
 }
