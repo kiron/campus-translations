@@ -23,7 +23,8 @@
         "wrongGoogleAccount": "You used the wrong Google account for accessing campus. Please make sure to choose your student account in the next step!",
         "logout": "You're logged out.",
         "loginFailed": "Login failed, please try again.",
-        "loginRequired": "You must log in to view this page"
+        "loginRequired": "You must log in to view this page",
+        "daadCTA": "Continue with DAAD ID"
     },
     "forgotPassword": {
         "title": "Enter the email address you used to register",
