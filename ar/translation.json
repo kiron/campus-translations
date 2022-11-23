@@ -588,5 +588,13 @@
         "fourStar": "اربع نجوم",
         "fiveStar": "خمس نجوم",
         "empty": "لا يوجد تقييم بعد"
+    },
+    "customSurvey": {
+        "answersReceived": "لقد تلقينا إجاباتك",
+        "thanks": "شكرا لإرسالك الاستبيان!"
+    },
+    "imageAlt": {
+        "documentWithStar": "رمز مستند مع نجمة",
+        "happyHeartPerson": "شخص سعيد مع قلوب"
     }
 }
