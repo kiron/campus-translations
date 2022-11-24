@@ -73,6 +73,7 @@
         "connectionSuccess": "Verbindung erfolgreich",
         "connected": "Verbindung hergestellt",
         "loading": "Lade Data Wallet Details...",
-        "error": "Fehler beim Laden der Data Wallet Details"
+        "error": "Fehler beim Laden der Data Wallet Details",
+        "load": "Lädt"
     }
 }
