@@ -23,7 +23,8 @@
     "wrongGoogleAccount": "Du hast den falschen Google Account benutzt um den Campus zu betreten. Bitte stelle sicher, dass du im nächsten Schritt deinen Studierenden-Account benutzt!",
     "logout": "Du bist ausgeloggt.",
     "loginFailed": "Login fehlgeschlagen, bitte versuche es erneut.",
-    "loginRequired": "Du musst dich einloggen um diese Seite zu sehen"
+    "loginRequired": "Du musst dich einloggen um diese Seite zu sehen",
+    "daadCTA": "Weiter mit der DAAD ID"
   },
   "forgotPassword": {
     "title": "Gib die E-Mail Adresse an, mit der du dich registriert hast",

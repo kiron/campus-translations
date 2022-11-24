@@ -385,7 +385,7 @@
         "altImgNoFeedback": "Sonuç yok",
         "headerRecommendedForYou": "Sizin için tavsiye edilen",
         "headerRecommendedForYouBy": "Sizin için önerildi",
-        "helpUsText": "Bu kursla ilgili birkaç soruyu daha yanıtlayarak öğrenme deneyiminizi geliştirmemize yardımcı olun.",
+        "helpUsText": "Bu kursla ilgili bazı soruları yanıtlayarak öğrenme deneyiminizi geliştirmemize yardımcı olun.",
         "notNowBtn": "Şimdi değil",
         "helpUsBtn": "Geliştirmemize yardım et",
         "thankYouModal": "İncelemeniz için teşekkür ederiz!",
@@ -402,5 +402,13 @@
         "fourStar": "dört yıldız",
         "fiveStar": "beş yıldız",
         "empty": "henüz değerlendirme yok"
+    },
+    "customSurvey": {
+        "answersReceived": "Yanıtlarınız aldık",
+        "thanks": "Gönderdiğiniz için teşekkür ederiz!"
+    },
+    "imageAlt": {
+        "documentWithStar": "Yıldızlı belge simgesi",
+        "happyHeartPerson": "kalpli mutlu insan"
     }
 }

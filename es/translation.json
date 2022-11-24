@@ -515,7 +515,7 @@
         "headerRecommendedForYou": "Recomendado para ti",
         "headerRecommendedForYouBy": "Recomendado para ti por",
         "helpUsBtn": "Ayúdanos a mejorar",
-        "helpUsText": "Ayúdanos a mejorar tu experiencia educativa contestando algunas preguntas sobre este curso.",
+        "helpUsText": "Ayúdanos a mejorar tu experiencia educativa respondiendo unas preguntas sobre este curso.",
         "thankYouModal": "Gracias por tu valoración!",
         "oneMoreThing": "Una última cosa"
     },
@@ -529,5 +529,13 @@
         "fourStar": "cuatro estrellas",
         "fiveStar": "cinco estrellas",
         "empty": "todavía no hay puntuación"
+    },
+    "customSurvey": {
+        "answersReceived": "Hemos recibido tus respuestas",
+        "thanks": "Gracias por tu contribución!"
+    },
+    "imageAlt": {
+        "documentWithStar": "Icono de un documento con una imagen",
+        "happyHeartPerson": "Persona feliz con corazones"
     }
 }

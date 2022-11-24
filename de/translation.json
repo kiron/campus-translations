@@ -517,7 +517,7 @@
         "subHeaderFeedback": "Feedback",
         "headerRecommendedForYou": "Empfehlungen für dich",
         "headerRecommendedForYouBy": "Empfehlungen für dich von",
-        "helpUsText": "Beantworte noch einige andere Fragen und hilf uns dabei, deine Lernerfahrung zu verbessern.",
+        "helpUsText": "Hilf uns, deine Lernerfahrung zu verbessern, indem du uns einige Fragen zu diesem Kurs beantwortest.",
         "thankYouModal": "Danke für deine Bewertung!",
         "helpUsBtn": "Hilf uns besser zu werden",
         "notNowBtn": "Nicht jetzt",
@@ -535,5 +535,13 @@
         "twoStar": "zwei Sterne",
         "oneStar": "ein Stern",
         "empty": "noch keine Bewertungen"
+    },
+    "customSurvey": {
+        "answersReceived": "Wir haben deine Antworten erhalten",
+        "thanks": "Danke für's Abschicken!"
+    },
+    "imageAlt": {
+        "documentWithStar": "Papier Symbol mit Stern",
+        "happyHeartPerson": "Fröhliche Person mit Herzchen"
     }
 }

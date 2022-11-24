@@ -510,5 +510,13 @@
         "oneStar": "one star"
     },
     "textAreaAriaLabel": "Input box for your answer",
-    "commentBoxLabel": "Input box for your review"
+    "commentBoxLabel": "Input box for your review",
+    "imageAlt": {
+        "documentWithStar": "document icon with a star",
+        "happyHeartPerson": "happy person with hearts"
+    },
+    "customSurvey": {
+        "answersReceived": "We have received your answers",
+        "thanks": "Thanks for submitting!"
+    }
 }
