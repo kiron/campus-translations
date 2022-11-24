@@ -70,5 +70,8 @@
         "en": "English",
         "de": "German",
         "fr": "French"
+    },
+    "dataWallet": {
+        "error": "Error loading Data Wallet details"
     }
 }
