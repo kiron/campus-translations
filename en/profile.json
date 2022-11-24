@@ -75,6 +75,7 @@
         "error": "Error loading Data Wallet details",
         "loading": "Loading data wallet details...",
         "connected": "Connected",
-        "connectionSuccess": "Connection Success"
+        "connectionSuccess": "Connection Success",
+        "scan": "Scan this code using the enmeshed app to connect this account"
     }
 }
