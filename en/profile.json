@@ -73,6 +73,7 @@
     },
     "dataWallet": {
         "error": "Error loading Data Wallet details",
-        "loading": "Loading data wallet details..."
+        "loading": "Loading data wallet details...",
+        "connected": "Connected"
     }
 }
