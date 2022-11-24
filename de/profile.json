@@ -66,5 +66,13 @@
         "en": "Englisch",
         "de": "Deutsch",
         "fr": "Französisch"
+    },
+    "dataWallet": {
+        "link": "Verknüpfe deinen Account mit deinem Enmeshed Data Wallet.",
+        "scan": "Scanne den Code mit der Enmeshed App um deinen Account zu verbinden",
+        "connectionSuccess": "Verbindung erfolgreich",
+        "connected": "Verbindung hergestellt",
+        "loading": "Lade Data Wallet Details...",
+        "error": "Fehler beim Laden der Data Wallet Details"
     }
 }
