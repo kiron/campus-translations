@@ -78,6 +78,7 @@
         "connectionSuccess": "Connection Success",
         "scan": "Scan this code using the enmeshed app to connect this account",
         "link": "Link your account to your Enmeshed Data Wallet.",
-        "load": "Loading"
+        "load": "Loading",
+        "cta": "Continue"
     }
 }
