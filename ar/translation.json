@@ -166,7 +166,12 @@
         "helpReviewCourse": "ساعد المتعلمين الآخرين من خلال مراجعة هذه الدورة.",
         "btnShareReview": "شارك رأيك",
         "evaluate": "قيّم الدورة",
-        "shareYourOpinion": "شارك مراجعتك مع المتعلمين الآخرين"
+        "shareYourOpinion": "شارك مراجعتك مع المتعلمين الآخرين",
+        "thankYouHeader": "شكرا لك على مراجعتك!",
+        "shareYourProgress": "شارك تقدمك مع أصدقائك",
+        "continueNextCourseBtn": "أكمل الدورة التالية",
+        "backToProgramBtn": "العودة إلى البرنامج",
+        "subHeaderNextUp": "التالي في هذا البرنامج"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "التالي"
@@ -596,5 +601,6 @@
     "imageAlt": {
         "documentWithStar": "رمز مستند مع نجمة",
         "happyHeartPerson": "شخص سعيد مع قلوب"
-    }
+    },
+    "commentBoxPlaceholder": "اكتب ملخصًا قصيرًا عن تجربتك التعليمية…"
 }
