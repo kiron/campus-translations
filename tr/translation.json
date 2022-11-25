@@ -185,7 +185,12 @@
         "selfPaced": "Kendi hızınızda",
         "helpReviewCourse": "Bu kursu inceleyerek diğer öğrencilere yardımcı olun.",
         "btnShareReview": "Yorumunuzu paylaşın",
-        "shareYourOpinion": "Fikrinizi diğer öğrencilerle paylaşın"
+        "shareYourOpinion": "Fikrinizi diğer öğrencilerle paylaşın",
+        "shareYourProgress": "İlerlemenizi arkadaşlarınızla paylaşın",
+        "continueNextCourseBtn": "Sonraki kursa devam et",
+        "backToProgramBtn": "Programa geri dön",
+        "subHeaderNextUp": "Bu programda sıradaki",
+        "thankYouHeader": "İncelemeniz için teşekkür ederiz!"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Sonraki"
