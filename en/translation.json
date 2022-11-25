@@ -195,7 +195,8 @@
         "shareYourOpinion": "Share your opinion with other learners",
         "thankYouHeader": "Thank you for your review!",
         "subHeaderNextUp": "Next up in this program",
-        "backToProgramBtn": "Back to the program"
+        "backToProgramBtn": "Back to the program",
+        "continueNextCourseBtn": "Continue next course"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
