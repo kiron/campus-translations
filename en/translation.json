@@ -193,7 +193,8 @@
         "btnShareReview": "Share your review",
         "helpReviewCourse": "Help other learners by reviewing this course.",
         "shareYourOpinion": "Share your opinion with other learners",
-        "thankYouHeader": "Thank you for your review!"
+        "thankYouHeader": "Thank you for your review!",
+        "subHeaderNextUp": "Next up in this program"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
