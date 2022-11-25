@@ -202,7 +202,8 @@
         "evaluateHelp": "Hilf uns, deine Lernerfahrung zu verbessern, indem du uns einige Fragen zu diesem Kurs beantwortest.",
         "shareYourOpinion": "Teile deine Meinung mit anderen Lernenden",
         "btnShareReview": "Teile deine Bewertung",
-        "helpReviewCourse": "Helfe anderen Lernenden, indem du diesen Kurs bewertest."
+        "helpReviewCourse": "Helfe anderen Lernenden, indem du diesen Kurs bewertest.",
+        "thankYouHeader": "Danke für deine Bewertung!"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
