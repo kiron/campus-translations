@@ -200,7 +200,8 @@
         "shareYourProgress": "Share your progress with your friends",
         "sentCertificateDatawalletBtn": "Send certificate to your datawallet",
         "downloadCertificateBtn": "Download certificate",
-        "earnedACertificateHeader": "Hooray! You earned a certificate."
+        "earnedACertificateHeader": "Hooray! You earned a certificate.",
+        "completedAProgramHeader": "Hooray! You have completed this program."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
