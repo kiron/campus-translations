@@ -203,7 +203,12 @@
         "evaluateHelp": "Ayúdanos a mejorar evaluando este curso",
         "helpReviewCourse": "Ayuda a otros estudiantes valorando este curso.",
         "btnShareReview": "Comparte tu opinión",
-        "shareYourOpinion": "Comparte tu opinión con otros estudiantes"
+        "shareYourOpinion": "Comparte tu opinión con otros estudiantes",
+        "continueNextCourseBtn": "Continúa con el siguiente curso",
+        "backToProgramBtn": "Vuelve al programa",
+        "subHeaderNextUp": "Lo siguiente en este programa",
+        "thankYouHeader": "¡Gracias por tu valoración!",
+        "shareYourProgress": "Comparte el avance con tus amigos"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Siguiente"
