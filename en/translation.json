@@ -199,7 +199,8 @@
         "continueNextCourseBtn": "Continue next course",
         "shareYourProgress": "Share your progress with your friends",
         "sentCertificateDatawalletBtn": "Send certificate to your datawallet",
-        "downloadCertificateBtn": "Download certificate"
+        "downloadCertificateBtn": "Download certificate",
+        "earnedACertificateHeader": "Hooray! You earned a certificate."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
