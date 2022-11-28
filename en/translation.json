@@ -197,7 +197,8 @@
         "subHeaderNextUp": "Next up in this program",
         "backToProgramBtn": "Back to the program",
         "continueNextCourseBtn": "Continue next course",
-        "shareYourProgress": "Share your progress with your friends"
+        "shareYourProgress": "Share your progress with your friends",
+        "sentCertificateDatawalletBtn": "Sent certificate to your datawallet"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
