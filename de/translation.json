@@ -203,7 +203,11 @@
         "shareYourOpinion": "Teile deine Meinung mit anderen Lernenden",
         "btnShareReview": "Teile deine Bewertung",
         "helpReviewCourse": "Helfe anderen Lernenden, indem du diesen Kurs bewertest.",
-        "thankYouHeader": "Danke für deine Bewertung!"
+        "thankYouHeader": "Danke für deine Bewertung!",
+        "continueNextCourseBtn": "Weiter zum nächsten Kurs",
+        "backToProgramBtn": "Zurück zum Programm",
+        "subHeaderNextUp": "Als nächstes in diesem Programm",
+        "shareYourProgress": "Teile deinen Fortschritt mit Freunden"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
