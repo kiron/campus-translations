@@ -198,7 +198,7 @@
         "backToProgramBtn": "Back to the program",
         "continueNextCourseBtn": "Continue next course",
         "shareYourProgress": "Share your progress with your friends",
-        "sentCertificateDatawalletBtn": "Sent certificate to your datawallet"
+        "sentCertificateDatawalletBtn": "Send certificate to your datawallet"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
