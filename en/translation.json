@@ -197,7 +197,11 @@
         "subHeaderNextUp": "Next up in this program",
         "backToProgramBtn": "Back to the program",
         "continueNextCourseBtn": "Continue next course",
-        "shareYourProgress": "Share your progress with your friends"
+        "shareYourProgress": "Share your progress with your friends",
+        "sentCertificateDatawalletBtn": "Send certificate to your datawallet",
+        "downloadCertificateBtn": "Download certificate",
+        "earnedACertificateHeader": "Hooray! You earned a certificate.",
+        "completedAProgramHeader": "Hooray! You have completed this program."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
