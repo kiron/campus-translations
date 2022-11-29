@@ -190,7 +190,11 @@
         "continueNextCourseBtn": "Sonraki kursa devam et",
         "backToProgramBtn": "Programa geri dön",
         "subHeaderNextUp": "Bu programda sıradaki",
-        "thankYouHeader": "İncelemeniz için teşekkür ederiz!"
+        "thankYouHeader": "İncelemeniz için teşekkür ederiz!",
+        "completedAProgramHeader": "Yupi! Bu programı tamamladınız.",
+        "earnedACertificateHeader": "Yupi! Bir sertifika kazandınız.",
+        "downloadCertificateBtn": "Sertifikayı İndir",
+        "socialShareTextBtn": "{{courseDenomination}} bitirdim"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Sonraki"

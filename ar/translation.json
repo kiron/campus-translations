@@ -171,7 +171,12 @@
         "shareYourProgress": "شارك تقدمك مع أصدقائك",
         "continueNextCourseBtn": "أكمل الدورة التالية",
         "backToProgramBtn": "العودة إلى البرنامج",
-        "subHeaderNextUp": "التالي في هذا البرنامج"
+        "subHeaderNextUp": "التالي في هذا البرنامج",
+        "socialShareTextBtn": "لقد انهيت {{courseDenomination}}",
+        "completedAProgramHeader": "مرحى! لقد أكملت هذا البرنامج.",
+        "earnedACertificateHeader": "مرحى! لقد حصلت على الشهادة.",
+        "downloadCertificateBtn": "تحميل الشهادة",
+        "sentCertificateDatawalletBtn": "أرسل الشهادة إلى Datawallet الخاصة بك"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "التالي"
