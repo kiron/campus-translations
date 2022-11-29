@@ -208,7 +208,12 @@
         "backToProgramBtn": "Vuelve al programa",
         "subHeaderNextUp": "Lo siguiente en este programa",
         "thankYouHeader": "¡Gracias por tu valoración!",
-        "shareYourProgress": "Comparte el avance con tus amigos"
+        "shareYourProgress": "Comparte el avance con tus amigos",
+        "completedAProgramHeader": "¡Hurra! Has completado este programa.",
+        "earnedACertificateHeader": "¡Hurra! Te has ganado un certificado.",
+        "downloadCertificateBtn": "Descarga el certificado",
+        "sentCertificateDatawalletBtn": "Envía el certificado a tu cartera de datos",
+        "socialShareTextBtn": "He completado {{courseDenomination}}"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Siguiente"

@@ -207,7 +207,12 @@
         "continueNextCourseBtn": "Weiter zum nächsten Kurs",
         "backToProgramBtn": "Zurück zum Programm",
         "subHeaderNextUp": "Als nächstes in diesem Programm",
-        "shareYourProgress": "Teile deinen Fortschritt mit Freunden"
+        "shareYourProgress": "Teile deinen Fortschritt mit Freunden",
+        "completedAProgramHeader": "Hurrah! Du hast dieses Programm abgeschlossen.",
+        "earnedACertificateHeader": "Hurrah! Du hast ein Zertifikat erworben.",
+        "downloadCertificateBtn": "Zertifikat herunterladen",
+        "sentCertificateDatawalletBtn": "Zertifikat an dein Datawallet senden",
+        "socialShareTextBtn": "Ich habe {{courseDenomination}} abgeschlossen"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
