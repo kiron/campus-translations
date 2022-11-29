@@ -176,7 +176,8 @@
         "completedAProgramHeader": "مرحى! لقد أكملت هذا البرنامج.",
         "earnedACertificateHeader": "مرحى! لقد حصلت على الشهادة.",
         "downloadCertificateBtn": "تحميل الشهادة",
-        "sentCertificateDatawalletBtn": "أرسل الشهادة إلى Datawallet الخاصة بك"
+        "sentCertificateDatawalletBtn": "أرسل الشهادة إلى Datawallet الخاصة بك",
+        "exploreMoreProgramsBtn": "اكتشف المزيد من البرامج"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "التالي"

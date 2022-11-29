@@ -202,7 +202,8 @@
         "downloadCertificateBtn": "Download certificate",
         "earnedACertificateHeader": "Hooray! You earned a certificate.",
         "completedAProgramHeader": "Hooray! You have completed this program.",
-        "socialShareTextBtn": "I finished {{courseDenomination}}"
+        "socialShareTextBtn": "I finished {{courseDenomination}}",
+        "exploreMoreProgramsBtn": "Explore more programs"
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Next"
