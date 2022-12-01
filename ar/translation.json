@@ -177,7 +177,8 @@
         "earnedACertificateHeader": "مرحى! لقد حصلت على الشهادة.",
         "downloadCertificateBtn": "تحميل الشهادة",
         "sentCertificateDatawalletBtn": "أرسل الشهادة إلى Datawallet الخاصة بك",
-        "exploreMoreProgramsBtn": "اكتشف المزيد من البرامج"
+        "exploreMoreProgramsBtn": "اكتشف المزيد من البرامج",
+        "completedACourseHeader": "مرحى! لقد أكملت هذا الدورة."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "التالي"
