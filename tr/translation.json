@@ -195,7 +195,8 @@
         "earnedACertificateHeader": "Yupi! Bir sertifika kazandınız.",
         "downloadCertificateBtn": "Sertifikayı İndir",
         "socialShareTextBtn": "{{courseDenomination}} bitirdim",
-        "exploreMoreProgramsBtn": "Diğer programlar keşfedin"
+        "exploreMoreProgramsBtn": "Diğer programlar keşfedin",
+        "completedACourseHeader": "Yupi! Bu kursu tamamladınız."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Sonraki"
