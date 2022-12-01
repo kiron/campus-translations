@@ -213,7 +213,9 @@
         "earnedACertificateHeader": "¡Hurra! Te has ganado un certificado.",
         "downloadCertificateBtn": "Descarga el certificado",
         "sentCertificateDatawalletBtn": "Envía el certificado a tu cartera de datos",
-        "socialShareTextBtn": "He completado {{courseDenomination}}"
+        "socialShareTextBtn": "He completado {{courseDenomination}}",
+        "exploreMoreProgramsBtn": "Descubre más programas",
+        "completedACourseHeader": "¡Hurra! Has completado este curso."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Siguiente"
