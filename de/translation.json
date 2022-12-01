@@ -212,7 +212,9 @@
         "earnedACertificateHeader": "Hurrah! Du hast ein Zertifikat erworben.",
         "downloadCertificateBtn": "Zertifikat herunterladen",
         "sentCertificateDatawalletBtn": "Zertifikat an dein Datawallet senden",
-        "socialShareTextBtn": "Ich habe {{courseDenomination}} abgeschlossen"
+        "socialShareTextBtn": "Ich habe {{courseDenomination}} abgeschlossen",
+        "exploreMoreProgramsBtn": "Entdecke mehr Programme",
+        "completedACourseHeader": "Hurrah! Du hast dieses Programm abgeschlossen."
     },
     "shortProgramUnitLesson": {
         "lessonNavigatorCtaNext": "Weiter"
