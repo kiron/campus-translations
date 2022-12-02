@@ -530,5 +530,10 @@
     "customSurvey": {
         "answersReceived": "We have received your answers",
         "thanks": "Thanks for submitting!"
+    },
+    "successPage": {
+        "addCert": "Add certificate",
+        "completedPrograms": "Your completed  programs",
+        "completedCourses": "Your completed courses"
     }
 }
