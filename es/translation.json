@@ -549,5 +549,10 @@
     "imageAlt": {
         "documentWithStar": "Icono de un documento con una imagen",
         "happyHeartPerson": "Persona feliz con corazones"
+    },
+    "successPage": {
+        "addCert": "Añadir certificado",
+        "completedPrograms": "Tus programas completados",
+        "completedCourses": "Tus cursos completados"
     }
 }
