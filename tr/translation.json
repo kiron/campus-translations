@@ -421,5 +421,10 @@
     "imageAlt": {
         "documentWithStar": "Yıldızlı belge simgesi",
         "happyHeartPerson": "kalpli mutlu insan"
+    },
+    "successPage": {
+        "addCert": "Bir sertifika ekle",
+        "completedPrograms": "Tamamladığınız programlar",
+        "completedCourses": "Tamamladığınız kurslar"
     }
 }
