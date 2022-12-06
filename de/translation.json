@@ -555,5 +555,10 @@
     "imageAlt": {
         "documentWithStar": "Papier Symbol mit Stern",
         "happyHeartPerson": "Fröhliche Person mit Herzchen"
+    },
+    "successPage": {
+        "completedPrograms": "Deine abgeschlossenen Programme",
+        "addCert": "Zertifikat hinzufügen",
+        "completedCourses": "Deine abgeschlossenen Kurse"
     }
 }
