@@ -609,5 +609,10 @@
         "documentWithStar": "رمز مستند مع نجمة",
         "happyHeartPerson": "شخص سعيد مع قلوب"
     },
-    "commentBoxPlaceholder": "اكتب ملخصًا قصيرًا عن تجربتك التعليمية…"
+    "commentBoxPlaceholder": "اكتب ملخصًا قصيرًا عن تجربتك التعليمية…",
+    "successPage": {
+        "addCert": "أضف شهادة",
+        "completedPrograms": "البرامج المكتملة الخاصة بك",
+        "completedCourses": "الدورات المكتملة الخاصة بك"
+    }
 }
