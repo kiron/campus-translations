@@ -23,8 +23,5 @@
     "createAppointment": "Create appointment",
     "addAppointment": "Add appointment",
     "wasAdded": "The appointment was successfully added!",
-    "success": "Hooray!",
-    "course": {
-        "badges": "Badges"
-    }
+    "success": "Hooray!"
 }
