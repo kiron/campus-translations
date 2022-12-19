@@ -23,5 +23,8 @@
     "occursUntil": "En curso hasta",
     "drawerTitle": "Añadir una cita",
     "ends": "Termina",
-    "starts": "Empieza"
+    "starts": "Empieza",
+    "course": {
+        "badges": "Insignias"
+    }
 }
