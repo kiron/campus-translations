@@ -10,5 +10,8 @@
     "unenroll": "الغاء التسجيل",
     "starts": "يبدأ",
     "ends": "ينتهي",
-    "upcomingSessionIn": "ستبدأ الجلسة خلال {{distance}}"
+    "upcomingSessionIn": "ستبدأ الجلسة خلال {{distance}}",
+    "course": {
+        "badges": "الشارات"
+    }
 }
