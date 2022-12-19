@@ -23,8 +23,5 @@
     "frequencyHelperText": "Termin findet alle ... Wochen statt",
     "occursUntil": "Findet statt bis zum",
     "ends": "Endet",
-    "starts": "Beginnt",
-    "course": {
-        "badges": "Abzeichen"
-    }
+    "starts": "Beginnt"
 }
