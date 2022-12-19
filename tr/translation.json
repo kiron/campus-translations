@@ -426,5 +426,8 @@
         "addCert": "Bir sertifika ekle",
         "completedPrograms": "Tamamladığınız programlar",
         "completedCourses": "Tamamladığınız kurslar"
+    },
+    "course": {
+        "badges": "Rozetler"
     }
 }

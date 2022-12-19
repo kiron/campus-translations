@@ -467,7 +467,8 @@
         "lockedMessage": "Um diesen Kurs freizuschalten musst du zuerst <1>Einheit: {{0}}</1> abschließen",
         "youWillGetNotified": "Du wirst benachrichtigt, sobald wir fertig sind",
         "documentsInReview": "Deine Dokumente werden verifiziert.",
-        "reviews": "Bewertungen"
+        "reviews": "Bewertungen",
+        "badges": "Badges"
     },
     "errors": {
         "lostCourse": "Dieser Kurs ist verschwunden",
