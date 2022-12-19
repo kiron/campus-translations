@@ -7,5 +7,8 @@
     "seeAllDates": "See all dates",
     "registerButton": "Register",
     "registerNowButton": "Register Now",
-    "upcomingSessionIn": "Oturum {{distance}} içinde başlayacaktır"
+    "upcomingSessionIn": "Oturum {{distance}} içinde başlayacaktır",
+    "course": {
+        "badges": "Rozetler"
+    }
 }
