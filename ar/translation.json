@@ -453,7 +453,8 @@
         "students": "طُلاب",
         "contains": "يحتوي",
         "isLocked": "هذه الدورة مقفلة",
-        "lockedMessage": "عليك إكمال <1>الوحدة:{{}}<1> لفتح هذه الدورة"
+        "lockedMessage": "عليك إكمال <1>الوحدة:{{}}<1> لفتح هذه الدورة",
+        "badges": "الشارات"
     },
     "register": {
         "registerConfirmed": {
