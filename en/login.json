@@ -46,5 +46,6 @@
         "submit": "Submit",
         "passwordChangedTitle": "Password changed!",
         "login": "Login"
-    }
+    },
+    "accessibility": "Accessibility"
 }
