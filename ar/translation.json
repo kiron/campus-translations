@@ -615,5 +615,9 @@
         "addCert": "أضف شهادة",
         "completedPrograms": "البرامج المكتملة الخاصة بك",
         "completedCourses": "الدورات المكتملة الخاصة بك"
+    },
+    "accessibility": {
+        "comingSoonHeader": "قريباً!",
+        "comingSoonSubHeader": "ما زلنا نعمل على هذه الصفحة. شكرا لك على صبرك!"
     }
 }
