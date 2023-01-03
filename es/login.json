@@ -44,5 +44,6 @@
         "submit": "Guardar",
         "passwordChangedTitle": "¡Su contraseña ha cambiado correctamente!",
         "login": "Acceder"
-    }
+    },
+    "accessibility": "Accesibilidad"
 }
