@@ -536,5 +536,8 @@
         "addCert": "Add certificate",
         "completedPrograms": "Your completed programs",
         "completedCourses": "Your completed courses"
+    },
+    "accessibility": {
+        "comingSoonHeader": "Coming soon!"
     }
 }
