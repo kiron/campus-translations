@@ -538,6 +538,7 @@
         "completedCourses": "Your completed courses"
     },
     "accessibility": {
-        "comingSoonHeader": "Coming soon!"
+        "comingSoonHeader": "Coming soon!",
+        "comingSoonSubHeader": "We are still working on this page. Thank you for your patience!"
     }
 }
