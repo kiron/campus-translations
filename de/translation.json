@@ -561,5 +561,9 @@
         "completedPrograms": "Deine abgeschlossenen Programme",
         "addCert": "Zertifikat hinzufügen",
         "completedCourses": "Deine abgeschlossenen Kurse"
+    },
+    "accessibility": {
+        "comingSoonSubHeader": "Wir arbeiten zur Zeit noch an dieser Seite. Vielen Dank für Deine Geduld!",
+        "comingSoonHeader": "Diese Seite ist demnächst für Dich erreichbar!"
     }
 }
