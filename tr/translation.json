@@ -429,5 +429,9 @@
     },
     "course": {
         "badges": "Rozetler"
+    },
+    "accessibility": {
+        "comingSoonSubHeader": "Bu sayfa üzerinde çalışmaya devam ediyoruz. Sabrınız için teşekkür ederiz!",
+        "comingSoonHeader": "Yakında!"
     }
 }
