@@ -65,5 +65,6 @@
     "locations": "Locations",
     "resultCount": "{{count}} result",
     "resultCount_plural": "{{count}} results",
-    "website": "Website"
+    "website": "Website",
+    "heading": "Hello there!"
 }
