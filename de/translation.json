@@ -53,7 +53,8 @@
         "recommended": "Empfohlen von",
         "showAll": "Alle anzeigen",
         "collapse": "Einklappen",
-        "programs": "Programme"
+        "programs": "Programme",
+        "heading": "Entdecke unsere Programme"
     },
     "success": {
         "introTitle": "Deine Erfolgsgeschichte!",
@@ -565,5 +566,6 @@
     "accessibility": {
         "comingSoonSubHeader": "Wir arbeiten zur Zeit noch an dieser Seite. Vielen Dank für Deine Geduld!",
         "comingSoonHeader": "Diese Seite ist demnächst für Dich erreichbar!"
-    }
+    },
+    "commentBoxPlaceholder": "Schreibe eine kurze Zusammenfassung deiner Lernerfahrung…"
 }

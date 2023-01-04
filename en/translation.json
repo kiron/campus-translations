@@ -52,7 +52,8 @@
         "showAll": "Show all",
         "collapse": "Collapse",
         "course": "Course",
-        "programs": "Programs"
+        "programs": "Programs",
+        "heading": "Explore our programs"
     },
     "success": {
         "introTitle": "Your success story!",
