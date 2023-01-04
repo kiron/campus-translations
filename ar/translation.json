@@ -21,7 +21,7 @@
     "success": {
         "introTitle": "قصة نجاحك!",
         "introDescription": "عد يوميًا وانهي الدورات التدريبية للمزيد!",
-        "titleNew": "ما هو الجديد؟",
+        "titleNew": "أحدث إنجازاتك",
         "courseVer": "✓ تم التحقق!",
         "courseVerificationPend": "التحقق معلق",
         "verifyCta": "تحقق",
@@ -453,7 +453,8 @@
         "students": "طُلاب",
         "contains": "يحتوي",
         "isLocked": "هذه الدورة مقفلة",
-        "lockedMessage": "عليك إكمال <1>الوحدة:{{}}<1> لفتح هذه الدورة"
+        "lockedMessage": "عليك إكمال <1>الوحدة:{{}}<1> لفتح هذه الدورة",
+        "badges": "الشارات"
     },
     "register": {
         "registerConfirmed": {
@@ -609,5 +610,14 @@
         "documentWithStar": "رمز مستند مع نجمة",
         "happyHeartPerson": "شخص سعيد مع قلوب"
     },
-    "commentBoxPlaceholder": "اكتب ملخصًا قصيرًا عن تجربتك التعليمية…"
+    "commentBoxPlaceholder": "اكتب ملخصًا قصيرًا عن تجربتك التعليمية…",
+    "successPage": {
+        "addCert": "أضف شهادة",
+        "completedPrograms": "البرامج المكتملة الخاصة بك",
+        "completedCourses": "الدورات المكتملة الخاصة بك"
+    },
+    "accessibility": {
+        "comingSoonHeader": "قريباً!",
+        "comingSoonSubHeader": "ما زلنا نعمل على هذه الصفحة. شكرا لك على صبرك!"
+    }
 }

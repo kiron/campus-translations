@@ -55,7 +55,7 @@
     "success": {
         "introTitle": "Başarı Öykün!",
         "introDescription": "Daha fazlası için kurslar bitir ve her gün burayı kontrol et!",
-        "titleNew": "Yeni Ne Var?",
+        "titleNew": "En son başarılarınız",
         "courseVer": "✓ Onaylandı !",
         "courseVerificationPend": "Onay bekliyor",
         "verifyCta": "ONAYLAT",
@@ -421,5 +421,17 @@
     "imageAlt": {
         "documentWithStar": "Yıldızlı belge simgesi",
         "happyHeartPerson": "kalpli mutlu insan"
+    },
+    "successPage": {
+        "addCert": "Bir sertifika ekle",
+        "completedPrograms": "Tamamladığınız programlar",
+        "completedCourses": "Tamamladığınız kurslar"
+    },
+    "course": {
+        "badges": "Rozetler"
+    },
+    "accessibility": {
+        "comingSoonSubHeader": "Bu sayfa üzerinde çalışmaya devam ediyoruz. Sabrınız için teşekkür ederiz!",
+        "comingSoonHeader": "Yakında!"
     }
 }

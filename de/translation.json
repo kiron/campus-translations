@@ -58,7 +58,7 @@
     "success": {
         "introTitle": "Deine Erfolgsgeschichte!",
         "introDescription": "Komm täglich wieder und beende Kurse für mehr!",
-        "titleNew": "Was ist neu?",
+        "titleNew": "Deine letzten Erfolge",
         "courseVer": "✓ Verifiziert!",
         "courseVerificationPend": "Verifizierung läuft noch",
         "verifyCta": "ÜBERPRÜFEN",
@@ -467,7 +467,8 @@
         "lockedMessage": "Um diesen Kurs freizuschalten musst du zuerst <1>Einheit: {{0}}</1> abschließen",
         "youWillGetNotified": "Du wirst benachrichtigt, sobald wir fertig sind",
         "documentsInReview": "Deine Dokumente werden verifiziert.",
-        "reviews": "Bewertungen"
+        "reviews": "Bewertungen",
+        "badges": "Badges"
     },
     "errors": {
         "lostCourse": "Dieser Kurs ist verschwunden",
@@ -555,5 +556,14 @@
     "imageAlt": {
         "documentWithStar": "Papier Symbol mit Stern",
         "happyHeartPerson": "Fröhliche Person mit Herzchen"
+    },
+    "successPage": {
+        "completedPrograms": "Deine abgeschlossenen Programme",
+        "addCert": "Zertifikat hinzufügen",
+        "completedCourses": "Deine abgeschlossenen Kurse"
+    },
+    "accessibility": {
+        "comingSoonSubHeader": "Wir arbeiten zur Zeit noch an dieser Seite. Vielen Dank für Deine Geduld!",
+        "comingSoonHeader": "Diese Seite ist demnächst für Dich erreichbar!"
     }
 }

@@ -57,7 +57,7 @@
     "success": {
         "introTitle": "Your success story!",
         "introDescription": "Come back daily and finish courses for more!",
-        "titleNew": "What's new?",
+        "titleNew": "Your latest achievements",
         "courseVer": "✓ Verified!",
         "courseVerificationPend": "Verification pending",
         "verifyCta": "VERIFY",
@@ -441,7 +441,8 @@
         "lessonCount_plural": "lessons",
         "lessonCount": "lesson",
         "isLocked": "This course is locked",
-        "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
+        "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course",
+        "badges": "Badges"
     },
     "errors": {
         "lostCourse": "This course is lost",
@@ -530,5 +531,14 @@
     "customSurvey": {
         "answersReceived": "We have received your answers",
         "thanks": "Thanks for submitting!"
+    },
+    "successPage": {
+        "addCert": "Add certificate",
+        "completedPrograms": "Your completed programs",
+        "completedCourses": "Your completed courses"
+    },
+    "accessibility": {
+        "comingSoonHeader": "Coming soon!",
+        "comingSoonSubHeader": "We are still working on this page. Thank you for your patience!"
     }
 }

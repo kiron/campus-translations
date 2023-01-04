@@ -58,7 +58,7 @@
     "success": {
         "introTitle": "¡Su historia de éxito!",
         "introDescription": "¡Vuelva cada día y finalice cursos para más!",
-        "titleNew": "¿Qué hay de nuevo?",
+        "titleNew": "Tus últimos logros",
         "courseVer": "✓ ¡Verificado!",
         "courseVerificationPend": "Esperando verificación",
         "verifyCta": "VERIFICAR",
@@ -468,7 +468,8 @@
         "estimate": "Tiempo estimado de estudio",
         "attachmentsTab": "Archivos adjuntos",
         "isLocked": "This course is locked",
-        "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
+        "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course",
+        "badges": "Insignias"
     },
     "errors": {
         "lostPageDesc": "No podemos encontrar lo que buscas.",
@@ -549,5 +550,14 @@
     "imageAlt": {
         "documentWithStar": "Icono de un documento con una imagen",
         "happyHeartPerson": "Persona feliz con corazones"
+    },
+    "successPage": {
+        "addCert": "Añadir certificado",
+        "completedPrograms": "Tus programas completados",
+        "completedCourses": "Tus cursos completados"
+    },
+    "accessibility": {
+        "comingSoonSubHeader": "Estamos trabajando en esta página. ¡Gracias por tu paciencia!",
+        "comingSoonHeader": "Próximamente..."
     }
 }
