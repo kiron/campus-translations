@@ -66,5 +66,8 @@
         "en": "İngilizce",
         "de": "Almanca",
         "fr": "Fransızca"
+    },
+    "dataWallet": {
+        "accountConnected": "Data wallet hesabınız bağlandı."
     }
 }
