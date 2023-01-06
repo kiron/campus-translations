@@ -99,7 +99,8 @@
             "yes": "Yes",
             "no": "No"
         },
-        "addToWallet": "Add to data wallet"
+        "addToWallet": "Add to data wallet",
+        "addedToWallet": "Added to data wallet"
     },
     "transcriptOfRecords": {
         "descriptionSupport": "Great, you already have a lot of verified courses! If you are applying for university you can request a PDF with a list of your achievements. Please contact {{orgDisplayName}} support"
