@@ -75,6 +75,7 @@
         "loading": "Lade Data Wallet Details...",
         "error": "Fehler beim Laden der Data Wallet Details",
         "load": "Lädt",
-        "cta": "Weiter"
+        "cta": "Weiter",
+        "accountConnected": "Dein data wallet ist verknüpft."
     }
 }
