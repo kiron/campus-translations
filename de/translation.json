@@ -99,7 +99,9 @@
             "certificateDateDesc": "Das Hinzufügen eines Zertifikats hilft bei der Bewerbung an einer Universität.",
             "yes": "Ja",
             "no": "Nein"
-        }
+        },
+        "addedToWallet": "Zum data wallet hinzugefügt",
+        "addToWallet": "Zum data wallet hinzufügen"
     },
     "transcriptOfRecords": {
         "descriptionSupport": "Prima, Du hast schon eine Menge verifizierter Kurse! Wenn du dich für eine Universität bewirbst, kannst du ein PDF mit einer Liste deiner Leistungen anfordern. Bitte kontaktiere den {{orgDisplayName}} Support"

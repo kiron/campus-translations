@@ -96,7 +96,9 @@
             "certificateDateDesc": "Sertifika eklemek üniversite başvurunda sana yardımcı olacaktır.",
             "yes": "Evet ",
             "no": "Hayır"
-        }
+        },
+        "addToWallet": "Data wallete ekle",
+        "addedToWallet": "Data wallete eklendi"
     },
     "transcriptOfRecords": {
         "descriptionSupport": "Harika, zaten çok fazla onaylanmış kursun var! Üniversiteye başvuruyorsan, başarılarının listesini içeren bir PDF talep edebilirsin. Lütfen {{orgDisplayName}} destek ile iletişime geç."

@@ -62,7 +62,9 @@
             "certificateDateDesc": "ستساعد إضافة شهادة في تقديم طلبك للجامعة.",
             "yes": "نعم",
             "no": "لا"
-        }
+        },
+        "addedToWallet": "تمت الإضافة إلى data wallet",
+        "addToWallet": "أضف إلى data wallet"
     },
     "transcriptOfRecords": {
         "descriptionSupport": "عظيم، لديك بالفعل العديد من الدورات التدريبية التى تم التحقق منها! إذا كنت تقوم بالتقديم للجامعة تستطيع الآن طلب الحصول على ملف PDF يحتوي على قائمة بإنجازاتك. رجاءً قم بالتواصل مع {{orgDisplayName}} للدعم الإضافي"
