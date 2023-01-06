@@ -70,5 +70,8 @@
         "en": "Inglés",
         "de": "Alemán",
         "fr": "Francés"
+    },
+    "dataWallet": {
+        "accountConnected": "Tu cartera de datos está conectada."
     }
 }
