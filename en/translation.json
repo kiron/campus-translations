@@ -98,7 +98,8 @@
             "certificateDateDesc": "Adding a certificate will help with your application to university.",
             "yes": "Yes",
             "no": "No"
-        }
+        },
+        "addToWallet": "Add to data wallet"
     },
     "transcriptOfRecords": {
         "descriptionSupport": "Great, you already have a lot of verified courses! If you are applying for university you can request a PDF with a list of your achievements. Please contact {{orgDisplayName}} support"
