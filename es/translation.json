@@ -99,7 +99,9 @@
             "certificateDateDesc": "Añadir un certificado le ayudará con su solicitud de ingreso en la universidad.",
             "yes": "Sí",
             "no": "No"
-        }
+        },
+        "addedToWallet": "Añadido a tu cartera",
+        "addToWallet": "Añadir a tu cartera"
     },
     "transcriptOfRecords": {
         "descriptionSupport": "¡Estupendo, ya tiene muchos cursos verificados! Si está solicitando ingreso en una universidad, puede pedir un PDF con una lista de sus logros. Por favor contacte el soporte de {{orgDisplayName}}"
