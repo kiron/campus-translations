@@ -100,8 +100,8 @@
             "yes": "Ja",
             "no": "Nein"
         },
-        "addedToWallet": "Zum data wallet hinzugefügt",
-        "addToWallet": "Zum data wallet hinzufügen"
+        "addedToWallet": "Zur Data Wallet hinzugefügt",
+        "addToWallet": "Zur Data Wallet hinzufügen"
     },
     "transcriptOfRecords": {
         "descriptionSupport": "Prima, Du hast schon eine Menge verifizierter Kurse! Wenn du dich für eine Universität bewirbst, kannst du ein PDF mit einer Liste deiner Leistungen anfordern. Bitte kontaktiere den {{orgDisplayName}} Support"
