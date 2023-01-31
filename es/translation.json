@@ -534,7 +534,10 @@
         "helpUsText": "Ayúdanos a mejorar tu experiencia educativa respondiendo unas preguntas sobre este curso.",
         "thankYouModal": "Gracias por tu valoración!",
         "oneMoreThing": "Una última cosa",
-        "notNowBtn": "Ahora no"
+        "notNowBtn": "Ahora no",
+        "multipleSurveysGenericSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido.",
+        "multipleSurveysSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido. También puedes revisarlo más adelante desde tu perfil.",
+        "btnLabelGoToSurveyList": "Ver todos los cuestionarios"
     },
     "textAreaPlaceholder": "Escribe algo aquí...",
     "commentBoxLabel": "Espacio para escribir tu recomendación",
