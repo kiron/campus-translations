@@ -513,7 +513,9 @@
         "helpUsBtn": "Help us improve",
         "notNowBtn": "Not now",
         "helpUsText": "Help us improve your learning experience by answering some questions about this course.",
-        "oneMoreThing": "One more thing"
+        "oneMoreThing": "One more thing",
+        "btnLabelGoToSurveyList": "Explore all surveys",
+        "multipleSurveysSubtitle": "Explore all the surveys you can take to get content recommendations. You can also explore them later on your profile page."
     },
     "textAreaPlaceholder": "Start typing here...",
     "commentBoxPlaceholder": "Write a short summary of your learning experience…",
