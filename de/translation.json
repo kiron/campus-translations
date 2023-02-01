@@ -539,7 +539,10 @@
         "notNowBtn": "Nicht jetzt",
         "leaveSurveyWarningDescription": "Bist du sicher, dass du gehen willst?",
         "reset": "Zurücksetzen",
-        "oneMoreThing": "Eine Kleinigkeit noch"
+        "oneMoreThing": "Eine Kleinigkeit noch",
+        "multipleSurveysGenericSubtitle": "Sieh Dir alle Umfragen an, um Deine persönlichen Empfehlungen für Inhalte zu erhalten.",
+        "multipleSurveysSubtitle": "Sieh Dir alle Deine Umfragen an, um persönliche Empfehlungen für Inhalte zu erhalten. Du kannst die Umfragen auch später auf Deiner Profilseite einsehen.",
+        "btnLabelGoToSurveyList": "Alle Umfragen ansehen"
     },
     "textAreaPlaceholder": "Fange hier an zu tippen...",
     "commentBoxLabel": "Textfeld für dein Feedback",
