@@ -592,7 +592,10 @@
         "leaveSurveyWarningDescription": "هل انت متاكد انك تريد ان تغادر؟",
         "helpUsText": "ساعدنا في تحسين تجربة التعلم الخاصة بك من خلال الإجابة على بعض الأسئلة حول هذه الدورة.",
         "helpUsBtn": "ساعدنا على التحسن",
-        "oneMoreThing": "شيء اخر"
+        "oneMoreThing": "شيء اخر",
+        "multipleSurveysSubtitle": "استكشف جميع الاستطلاعات التي يمكنك إجراؤها للحصول على محتوى موصى به. يمكنك أيضًا استكشافها لاحقًا على صفحة ملفك الشخصي.",
+        "btnLabelGoToSurveyList": "استكشف جميع الاستطلاعات",
+        "multipleSurveysGenericSubtitle": "استكشف جميع الاستطلاعات التي يمكنك إجراؤها للحصول على محتوى موصى به."
     },
     "textAreaPlaceholder": "ابدأ الكتابة هنا...",
     "commentBoxLabel": "حقل ادخال لوضع مراجعتك",
