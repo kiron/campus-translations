@@ -404,7 +404,10 @@
         "helpUsBtn": "Geliştirmemize yardım et",
         "thankYouModal": "İncelemeniz için teşekkür ederiz!",
         "leaveSurveyWarningDescription": "Ayrılmak istediğine emin misin?",
-        "oneMoreThing": "Bir şey daha var"
+        "oneMoreThing": "Bir şey daha var",
+        "multipleSurveysGenericSubtitle": "İçerik önerileri almak için katılabileceğiniz tüm anketleri keşfedin.",
+        "multipleSurveysSubtitle": "İçerik önerileri almak için katılabileceğiniz tüm anketleri keşfedin. Bunları daha sonra profil sayfanızda da keşfedebilirsiniz.",
+        "btnLabelGoToSurveyList": "Tüm anketleri keşfedin"
     },
     "textAreaPlaceholder": "Yazmaya başlayın...",
     "commentBoxLabel": "değerlendirmeniz için giriş kutusu",
