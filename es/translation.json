@@ -537,7 +537,8 @@
         "notNowBtn": "Ahora no",
         "multipleSurveysGenericSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido.",
         "multipleSurveysSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido. También puedes revisarlo más adelante desde tu perfil.",
-        "btnLabelGoToSurveyList": "Ver todos los cuestionarios"
+        "btnLabelGoToSurveyList": "Ver todos los cuestionarios",
+        "btnLabelRetake": "Repetir"
     },
     "textAreaPlaceholder": "Escribe algo aquí...",
     "commentBoxLabel": "Espacio para escribir tu recomendación",
