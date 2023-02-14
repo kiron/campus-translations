@@ -595,7 +595,8 @@
         "oneMoreThing": "شيء اخر",
         "multipleSurveysSubtitle": "استكشف جميع الاستطلاعات التي يمكنك إجراؤها للحصول على محتوى موصى به. يمكنك أيضًا استكشافها لاحقًا على صفحة ملفك الشخصي.",
         "btnLabelGoToSurveyList": "استكشف جميع الاستطلاعات",
-        "multipleSurveysGenericSubtitle": "استكشف جميع الاستطلاعات التي يمكنك إجراؤها للحصول على محتوى موصى به."
+        "multipleSurveysGenericSubtitle": "استكشف جميع الاستطلاعات التي يمكنك إجراؤها للحصول على محتوى موصى به.",
+        "btnLabelRetake": "إعادة"
     },
     "textAreaPlaceholder": "ابدأ الكتابة هنا...",
     "commentBoxLabel": "حقل ادخال لوضع مراجعتك",
