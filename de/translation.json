@@ -542,7 +542,8 @@
         "oneMoreThing": "Eine Kleinigkeit noch",
         "multipleSurveysGenericSubtitle": "Sieh Dir alle Umfragen an, um Deine persönlichen Empfehlungen für Inhalte zu erhalten.",
         "multipleSurveysSubtitle": "Sieh Dir alle Deine Umfragen an, um persönliche Empfehlungen für Inhalte zu erhalten. Du kannst die Umfragen auch später auf Deiner Profilseite einsehen.",
-        "btnLabelGoToSurveyList": "Alle Umfragen ansehen"
+        "btnLabelGoToSurveyList": "Alle Umfragen ansehen",
+        "btnLabelRetake": "Wiederholen"
     },
     "textAreaPlaceholder": "Fange hier an zu tippen...",
     "commentBoxLabel": "Textfeld für dein Feedback",
