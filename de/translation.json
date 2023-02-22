@@ -200,7 +200,7 @@
         "stayInOldProgram": "Ich möchte im alten Programm bleiben",
         "updatedProgramMaintained": "Keine Sorge, dein Stand wird beibehalten, wenn du dem neuen Programm beitrittst.",
         "updatedProgram": "Dieses Programm wurde aktualisiert!",
-        "updatedProgramText": "Wir haben dem Programm, in dem du derzeit eingeschrieben bist, neue Kurse hinzugefügt! Wir empfehlen dir, dem neuen Programm beizutreten, klick hier",
+        "updatedProgramText": "Wir haben diesem Programm neue Kurse hinzugefügt. Wir empfehlen dir, dem neuen Programm beizutreten. Klicke dafür auf „Weiterlernen“.\n\nKeine Sorge, dein aktueller Stand wird beibehalten, wenn Du der aktuellsten Version des Programms beitrittst.",
         "evaluate": "Bewerte den Kurs",
         "evaluateHelp": "Hilf uns, deine Lernerfahrung zu verbessern, indem du uns einige Fragen zu diesem Kurs beantwortest.",
         "shareYourOpinion": "Teile deine Meinung mit anderen Lernenden",
