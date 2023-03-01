@@ -547,5 +547,8 @@
     "accessibility": {
         "comingSoonHeader": "Coming soon!",
         "comingSoonSubHeader": "We are still working on this page. Thank you for your patience!"
+    },
+    "program": {
+        "createdBy": "created by"
     }
 }
