@@ -543,7 +543,8 @@
         "multipleSurveysGenericSubtitle": "Sieh Dir alle Umfragen an, um Deine persönlichen Empfehlungen für Inhalte zu erhalten.",
         "multipleSurveysSubtitle": "Sieh Dir alle Deine Umfragen an, um persönliche Empfehlungen für Inhalte zu erhalten. Du kannst die Umfragen auch später auf Deiner Profilseite einsehen.",
         "btnLabelGoToSurveyList": "Alle Umfragen ansehen",
-        "btnLabelRetake": "Wiederholen"
+        "btnLabelRetake": "Wiederholen",
+        "allSurveys": "Alle Umfragen"
     },
     "textAreaPlaceholder": "Fange hier an zu tippen...",
     "commentBoxLabel": "Textfeld für dein Feedback",
