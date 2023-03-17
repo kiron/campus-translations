@@ -408,7 +408,8 @@
         "multipleSurveysGenericSubtitle": "İçerik önerileri almak için katılabileceğiniz tüm anketleri keşfedin.",
         "multipleSurveysSubtitle": "İçerik önerileri almak için katılabileceğiniz tüm anketleri keşfedin. Bunları daha sonra profil sayfanızda da keşfedebilirsiniz.",
         "btnLabelGoToSurveyList": "Tüm anketleri keşfedin",
-        "btnLabelRetake": "Tekrar al"
+        "btnLabelRetake": "Tekrar al",
+        "allSurveys": "Tüm anketler"
     },
     "textAreaPlaceholder": "Yazmaya başlayın...",
     "commentBoxLabel": "değerlendirmeniz için giriş kutusu",
