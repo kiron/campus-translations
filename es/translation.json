@@ -538,7 +538,8 @@
         "multipleSurveysGenericSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido.",
         "multipleSurveysSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido. También puedes revisarlo más adelante desde tu perfil.",
         "btnLabelGoToSurveyList": "Ver todos los cuestionarios",
-        "btnLabelRetake": "Repetir"
+        "btnLabelRetake": "Repetir",
+        "allSurveys": "Todas las encuestas"
     },
     "textAreaPlaceholder": "Escribe algo aquí...",
     "commentBoxLabel": "Espacio para escribir tu recomendación",
