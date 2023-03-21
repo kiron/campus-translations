@@ -596,7 +596,8 @@
         "multipleSurveysSubtitle": "استكشف جميع الاستطلاعات التي يمكنك إجراؤها للحصول على محتوى موصى به. يمكنك أيضًا استكشافها لاحقًا على صفحة ملفك الشخصي.",
         "btnLabelGoToSurveyList": "استكشف جميع الاستطلاعات",
         "multipleSurveysGenericSubtitle": "استكشف جميع الاستطلاعات التي يمكنك إجراؤها للحصول على محتوى موصى به.",
-        "btnLabelRetake": "إعادة"
+        "btnLabelRetake": "إعادة",
+        "allSurveys": "جميع الاستبيانات"
     },
     "textAreaPlaceholder": "ابدأ الكتابة هنا...",
     "commentBoxLabel": "حقل ادخال لوضع مراجعتك",
@@ -626,5 +627,9 @@
     "accessibility": {
         "comingSoonHeader": "قريباً!",
         "comingSoonSubHeader": "ما زلنا نعمل على هذه الصفحة. شكرا لك على صبرك!"
+    },
+    "program": {
+        "createdBy": "انشأ من قِبَل",
+        "createdOthers": "آخرون"
     }
 }
