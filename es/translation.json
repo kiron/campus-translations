@@ -568,5 +568,8 @@
     "accessibility": {
         "comingSoonSubHeader": "Estamos trabajando en esta página. ¡Gracias por tu paciencia!",
         "comingSoonHeader": "Próximamente..."
+    },
+    "program": {
+        "createdBy": "Ofrecido por"
     }
 }

@@ -574,5 +574,8 @@
         "comingSoonSubHeader": "Wir arbeiten zur Zeit noch an dieser Seite. Vielen Dank für Deine Geduld!",
         "comingSoonHeader": "Diese Seite ist demnächst für Dich erreichbar!"
     },
-    "commentBoxPlaceholder": "Schreibe eine kurze Zusammenfassung deiner Lernerfahrung…"
+    "commentBoxPlaceholder": "Schreibe eine kurze Zusammenfassung deiner Lernerfahrung…",
+    "program": {
+        "createdBy": "Angeboten von"
+    }
 }
