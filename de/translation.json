@@ -471,7 +471,8 @@
         "youWillGetNotified": "Du wirst benachrichtigt, sobald wir fertig sind",
         "documentsInReview": "Deine Dokumente werden verifiziert.",
         "reviews": "Bewertungen",
-        "badges": "Badges"
+        "badges": "Badges",
+        "platform": "Plattform"
     },
     "errors": {
         "lostCourse": "Dieser Kurs ist verschwunden",
@@ -576,6 +577,7 @@
     },
     "commentBoxPlaceholder": "Schreibe eine kurze Zusammenfassung deiner Lernerfahrung…",
     "program": {
-        "createdBy": "Angeboten von"
+        "createdBy": "Angeboten von",
+        "createdOthers": "andere"
     }
 }
