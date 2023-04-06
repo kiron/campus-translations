@@ -553,5 +553,11 @@
     "program": {
         "createdBy": "Offered by",
         "createdOthers": "others"
+    },
+    "bookmarks": {
+        "save": "Save",
+        "keepTrack": "Keep track of your saved content.",
+        "saveForLater": "Content saved for later",
+        "myLists": "My lists"
     }
 }
