@@ -560,6 +560,8 @@
         "saveForLater": "Content saved for later",
         "myLists": "My lists",
         "removedFail": "Failed to remove",
-        "removed": "was removed from your lists."
+        "removed": "was removed from your lists.",
+        "addedFail": "Failed to add",
+        "added": "was added to your lists."
     }
 }
