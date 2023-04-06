@@ -574,5 +574,16 @@
     },
     "program": {
         "createdBy": "Ofrecido por"
+    },
+    "bookmarks": {
+        "organize": "Organiza tu itinerario de aprendizaje",
+        "keepTrack": "Aquí tienes el contenido que has guardado.",
+        "saveForLater": "Contenido guardado para más tarde",
+        "save": "Guardar",
+        "addedFail": "No se ha podido añadir",
+        "removedFail": "No se ha podido eliminar",
+        "removed": "se ha eliminado de tu lista.",
+        "myLists": "mis listas",
+        "added": "se ha añadido a tu lista."
     }
 }
