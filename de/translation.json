@@ -579,5 +579,15 @@
     "program": {
         "createdBy": "Angeboten von",
         "createdOthers": "andere"
+    },
+    "bookmarks": {
+        "keepTrack": "Überblick deiner gespeicherten Inhalte.",
+        "addedFail": "Hinzufügen fehlgeschlagen",
+        "added": "wurde zu deiner Liste hinzugefügt.",
+        "removedFail": "Entfernen fehlgeschlagen",
+        "removed": "wurde von deiner Liste entfernt.",
+        "myLists": "Meine Listen",
+        "save": "Speichern",
+        "saveForLater": "Für später gespeicherte Inhalte"
     }
 }
