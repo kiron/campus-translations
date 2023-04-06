@@ -558,6 +558,8 @@
         "save": "Save",
         "keepTrack": "Keep track of your saved content.",
         "saveForLater": "Content saved for later",
-        "myLists": "My lists"
+        "myLists": "My lists",
+        "removedFail": "Failed to remove",
+        "removed": "was removed from your lists."
     }
 }
