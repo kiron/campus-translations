@@ -470,38 +470,41 @@
         "onYourWay": "¡Vas por buen camino!",
         "estimate": "Tiempo estimado de estudio",
         "attachmentsTab": "Archivos adjuntos",
-        "isLocked": "This course is locked",
-        "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course",
-        "badges": "Insignias"
+        "isLocked": "Este curso no está disponible",
+        "lockedMessage": "Tienes que completar  <1>Unit: {{0}}</1>  para desboquear este curso",
+        "badges": "Insignias",
+        "platform": "Portal web"
     },
     "errors": {
         "lostPageDesc": "No podemos encontrar lo que buscas.",
-        "lostPage": "Esta página se ha perdido",
+        "lostPage": "Esta página ha desaparecido",
         "lostLessonDesc": "No podemos encontrar la lección que estás buscando.",
-        "lostLesson": "Esta lección se ha perdido",
+        "lostLesson": "Esta lección ha desaparecido",
         "lostProgramDesc": "No podemos encontrar el programa que estás buscando.",
-        "lostProgram": "Este programa se ha perdido",
+        "lostProgram": "Este programa ha desaparecido",
         "backToCourse": "Volver al curso",
         "goToExplore": "Ir a Explorar",
         "backToProgram": "Volver al programa",
         "lostCourseDesc": "No podemos encontrar el curso que estás buscando.",
-        "lostCourse": "Este curso se ha perdido",
+        "lostCourse": "Este curso ha desaparecido",
         "lostCategoryDesc": "No podemos encontrar la categoría que estás buscando.",
-        "lostCategory": "Esta categoría se ha perdido",
-        "tryAgain": "Intentarlo otra vez",
+        "lostCategory": "Esta categoría ha desaparecido",
+        "tryAgain": "Inténtalo otra vez",
         "internetBrokenDesc": "Lo sentimos, no podemos cargar tus datos en este momento.",
-        "internetBroken": "El Internet no funciona",
+        "internetBroken": "Internet no funciona",
         "completeCourses": "Debes completar todos los cursos para descargar tu certificado.",
-        "almostThere": "Ya casi has llegado",
+        "almostThere": "Ya casi has terminado",
         "backHome": "Volver al inicio",
         "techProblemDesc": "Lo sentimos, esta página no funciona correctamente.",
         "techProblem": "Hemos detectado un problema técnico",
         "expiredLink": "El enlace ha caducado",
         "expiredLinkDesc": "Lo sentimos, esta página ya no se encuentra disponible."
     },
-    "stayTuned": "¡Pronto te daremos más información.",
+    "stayTuned": "En breve habrá más información disponible.",
     "participation": {
-        "isUserTutor": "Usted ha sido asignado/a como tutor/a de este proyecto"
+        "isUserTutor": "Has sido asignado/a como tutor/a de este proyecto",
+        "eventTutor": "es tu tutor/a en este evento",
+        "projectTutor": "es tu tutor/a en este proyecto"
     },
     "category": "Categoría",
     "moreBtn": "Ver más",
@@ -571,5 +574,16 @@
     },
     "program": {
         "createdBy": "Ofrecido por"
+    },
+    "bookmarks": {
+        "organize": "Organiza tu itinerario de aprendizaje",
+        "keepTrack": "Aquí tienes el contenido que has guardado.",
+        "saveForLater": "Contenido guardado para más tarde",
+        "save": "Guardar",
+        "addedFail": "No se ha podido añadir",
+        "removedFail": "No se ha podido eliminar",
+        "removed": "se ha eliminado de tu lista.",
+        "myLists": "mis listas",
+        "added": "se ha añadido a tu lista."
     }
 }

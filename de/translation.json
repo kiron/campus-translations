@@ -471,7 +471,8 @@
         "youWillGetNotified": "Du wirst benachrichtigt, sobald wir fertig sind",
         "documentsInReview": "Deine Dokumente werden verifiziert.",
         "reviews": "Bewertungen",
-        "badges": "Badges"
+        "badges": "Badges",
+        "platform": "Plattform"
     },
     "errors": {
         "lostCourse": "Dieser Kurs ist verschwunden",
@@ -576,6 +577,17 @@
     },
     "commentBoxPlaceholder": "Schreibe eine kurze Zusammenfassung deiner Lernerfahrung…",
     "program": {
-        "createdBy": "Angeboten von"
+        "createdBy": "Angeboten von",
+        "createdOthers": "andere"
+    },
+    "bookmarks": {
+        "keepTrack": "Überblick deiner gespeicherten Inhalte.",
+        "addedFail": "Hinzufügen fehlgeschlagen",
+        "added": "wurde zu deiner Liste hinzugefügt.",
+        "removedFail": "Entfernen fehlgeschlagen",
+        "removed": "wurde von deiner Liste entfernt.",
+        "myLists": "Meine Listen",
+        "save": "Speichern",
+        "saveForLater": "Für später gespeicherte Inhalte"
     }
 }
