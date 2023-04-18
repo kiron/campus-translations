@@ -557,12 +557,13 @@
     "bookmarks": {
         "save": "Save",
         "keepTrack": "Keep track of your saved content.",
-        "saveForLater": "Content saved for later",
+        "saveForLater": "Saved for later",
         "myLists": "My lists",
         "removedFail": "Failed to remove",
         "removed": "was removed from your lists.",
         "addedFail": "Failed to add",
         "added": "was added to your lists.",
-        "organize": "Organize your learning journey"
+        "organize": "Organize your learning journey",
+        "saved": "Saved"
     }
 }

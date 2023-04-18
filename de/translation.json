@@ -589,6 +589,7 @@
         "myLists": "Meine Listen",
         "save": "Speichern",
         "saveForLater": "Für später gespeicherte Inhalte",
-        "organize": "Gestalte deinen Lernpfad"
+        "organize": "Gestalte deinen Lernpfad",
+        "saved": "Gespeichert"
     }
 }
