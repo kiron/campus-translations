@@ -563,6 +563,7 @@
         "removed": "was removed from your lists.",
         "addedFail": "Failed to add",
         "added": "was added to your lists.",
-        "organize": "Organize your learning journey"
+        "organize": "Organize your learning journey",
+        "saved": "Saved"
     }
 }
