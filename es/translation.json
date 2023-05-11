@@ -382,10 +382,10 @@
         "delete": "Borrar",
         "deleting": "Borrando archivo...",
         "uploading": "Cargando archivo...",
-        "uploadingPleaseWait": "Por favor espera"
+        "uploadingPleaseWait": "Por favor, espera"
     },
     "certificate": {
-        "noFirstAndLastNameProvided": "Por favor, escriba su nombre y apellidos para poder obtener su certificado.",
+        "noFirstAndLastNameProvided": "Por favor, escribe tu nombre y apellido(s) para obtener tu certificado.",
         "contactSupport": "Pedir ayuda"
     },
     "appointmentCardInfo": {
@@ -583,7 +583,8 @@
         "addedFail": "No se ha podido añadir",
         "removedFail": "No se ha podido eliminar",
         "removed": "se ha eliminado de tu lista.",
-        "myLists": "mis listas",
-        "added": "se ha añadido a tu lista."
+        "myLists": "Mis listas",
+        "added": "se ha añadido a tu lista.",
+        "saved": "guardado"
     }
 }
