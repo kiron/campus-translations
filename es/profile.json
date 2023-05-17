@@ -2,7 +2,7 @@
     "header": {
         "imgSave": "Guardar",
         "imgDelete": "Borrar",
-        "imgReplace": "Reemplazar",
+        "imgReplace": "Editar",
         "imgTitle": "Suba su foto de perfil",
         "imgInputLabel": "Permito mostrar mi imagen a otros estudiantes y empleados",
         "imgUploadMsg": "Suba su foto de perfil"
@@ -72,6 +72,8 @@
         "fr": "Francés"
     },
     "dataWallet": {
-        "accountConnected": "Tu cartera de datos está conectada."
+        "accountConnected": "Tu cartera de datos está conectada.",
+        "cta": "Continuar",
+        "load": "Cargando"
     }
 }
