@@ -268,7 +268,7 @@
         "reviewCount_plural": "{{0}} valoraciones",
         "noReviews": "No hay valoraciones todavía",
         "preventEnroll": "Esta unidad únicamente está disponible después de que tus documentos hayan sido cargados y verificados",
-        "updating": "actualizando…",
+        "updating": "Actualizando…",
         "participantsCount": "{{0}} estudiante en la unidad",
         "participantsCount_plural": "{{0}} estudiantes en la unidad",
         "course": "Curso",
@@ -535,14 +535,18 @@
         "headerRecommendedForYouBy": "Recomendado para ti por",
         "helpUsBtn": "Ayúdanos a mejorar",
         "helpUsText": "Ayúdanos a mejorar tu experiencia educativa respondiendo unas preguntas sobre este curso.",
-        "thankYouModal": "Gracias por tu valoración!",
+        "thankYouModal": "¡Gracias por tu valoración!",
         "oneMoreThing": "Una última cosa",
         "notNowBtn": "Ahora no",
         "multipleSurveysGenericSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido.",
         "multipleSurveysSubtitle": "Explora todos los cuestionarios que puedes realizar para obtener recomendaciones de contenido. También puedes revisarlo más adelante desde tu perfil.",
         "btnLabelGoToSurveyList": "Ver todos los cuestionarios",
         "btnLabelRetake": "Repetir",
-        "allSurveys": "Todas las encuestas"
+        "allSurveys": "Todas las encuestas",
+        "leaveSurveyWarningDescription": "¿De verdad quieres marcharte?",
+        "altImgNoFeedback": "No hay feedback",
+        "headerSurveyNoFeedback": "No hemos podido encontrar feedback relativo a",
+        "reset": "Reiniciar"
     },
     "textAreaPlaceholder": "Escribe algo aquí...",
     "commentBoxLabel": "Espacio para escribir tu recomendación",
@@ -573,12 +577,13 @@
         "comingSoonHeader": "Próximamente..."
     },
     "program": {
-        "createdBy": "Ofrecido por"
+        "createdBy": "Ofrecido por",
+        "createdOthers": "otros"
     },
     "bookmarks": {
         "organize": "Organiza tu itinerario de aprendizaje",
         "keepTrack": "Aquí tienes el contenido que has guardado.",
-        "saveForLater": "Contenido guardado para más tarde",
+        "saveForLater": "Guardado para más tarde",
         "save": "Guardar",
         "addedFail": "No se ha podido añadir",
         "removedFail": "No se ha podido eliminar",
@@ -586,5 +591,6 @@
         "myLists": "Mis listas",
         "added": "se ha añadido a tu lista.",
         "saved": "guardado"
-    }
+    },
+    "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
 }
