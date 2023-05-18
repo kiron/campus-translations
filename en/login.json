@@ -24,7 +24,8 @@
         "logout": "You're logged out.",
         "loginFailed": "Login failed, please try again.",
         "loginRequired": "You must log in to view this page",
-        "daadCTA": "Continue with DAAD ID"
+        "daadCTA": "Continue with DAAD ID",
+        "togglePasswordVisibility": "Show or hide the password"
     },
     "forgotPassword": {
         "title": "Enter the email address you used to register",
