@@ -24,7 +24,8 @@
         "logout": "Du bist ausgeloggt.",
         "loginFailed": "Login fehlgeschlagen, bitte versuche es erneut.",
         "loginRequired": "Du musst dich einloggen um diese Seite zu sehen",
-        "daadCTA": "Weiter mit der DAAD ID"
+        "daadCTA": "Weiter mit der DAAD ID",
+        "togglePasswordVisibility": "Passwort ein- oder ausblenden"
     },
     "forgotPassword": {
         "title": "Gib die E-Mail Adresse an, mit der du dich registriert hast",

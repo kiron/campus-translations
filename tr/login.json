@@ -22,7 +22,8 @@
         "wrongGoogleAccount": "Kampüse erişmek için yanlış Google hesabını kullandın. Lütfen bir sonraki adımda öğrenci hesabını seçtiğinden emin ol!",
         "logout": "Çıkış yaptın.",
         "loginFailed": "Oturum açılamadı, lütfen tekrar dene.",
-        "loginRequired": "Bu sayfayı görmek için giriş yapmalısınız"
+        "loginRequired": "Bu sayfayı görmek için giriş yapmalısınız",
+        "togglePasswordVisibility": "Şifreyi göster veya gizle"
     },
     "forgotPassword": {
         "title": "Kayıt için kullandığın e-posta adresini gir",
