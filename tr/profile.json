@@ -27,7 +27,7 @@
         "other": "Diğer"
     },
     "location": {
-        "title": "Erkek/ Kadın",
+        "title": "Konum",
         "popup": "Bazı hizmetlerimize yalnızca belirli bölgelerde erişilebilir. Konumunu bilmemiz sana doğru bilgileri göndermemizi sağlar.",
         "infoMsg": "Herhangi bir hassas bilgiyi üçüncü bir kişiye göndermeyeceğiz; ancak, sana en yakın özel atölye çalışmaları veya etkinlikler sunmak için konum bilgilerine ihtiyacımız var.",
         "country": "Ülke",
