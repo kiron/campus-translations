@@ -23,7 +23,8 @@
         "logout": "Su sesión no está activa.",
         "loginFailed": "El acceso no ha funcionado. Por favor, inténtelo otra vez.",
         "loginRequired": "Debes acceder al campus para ver esta página",
-        "togglePasswordVisibility": "Mostrar u ocultar la contraseña"
+        "togglePasswordVisibility": "Mostrar u ocultar la contraseña",
+        "daadCTA": "Continuar con DAAD ID"
     },
     "forgotPassword": {
         "title": "Escriba la dirección de correo electrónico que utilizó para registrarse",
@@ -46,5 +47,6 @@
         "passwordChangedTitle": "¡Su contraseña ha cambiado correctamente!",
         "login": "Acceder"
     },
-    "accessibility": "Accesibilidad"
+    "accessibility": "Accesibilidad",
+    "imprint": "Aviso legal"
 }
