@@ -331,7 +331,8 @@
     "howItWorks": "How does it work?",
     "startLearning": "Start learning",
     "retakeCourse": "Retake course",
-    "updating": "Updating..."
+    "updating": "Updating...",
+    "materials": "Materials"
   },
   "landingPage": {
     "login": "Login",

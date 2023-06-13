@@ -309,7 +309,8 @@
       "liveSessionLinkReminder": "Canlı oturumunuzun linki şu gün aktif olacaktır.",
       "appointmentFrequency": "{{0}} 'e kadar her hafta tekrar eder.",
       "appointmentFrequency_plural": "{{0}} 'e kadar {{1}} haftada bir tekrar eder."
-    }
+    },
+    "materials": "Ders materyalleri"
   },
   "landingPage": {
     "login": "Oturum aç",

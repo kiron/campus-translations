@@ -356,7 +356,8 @@
     "howItWorks": "¿Cómo funciona?",
     "sureLeave": "¿Seguro que quieres salir del curso?",
     "noStay": "No, quiero continuar",
-    "yesLeave": "Sí, salir del curso"
+    "yesLeave": "Sí, salir del curso",
+    "materials": "Materiales"
   },
   "landingPage": {
     "login": "Acceder",

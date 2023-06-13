@@ -357,7 +357,8 @@
     "noStay": "لا، أريد الاستمرار",
     "yesLeave": "نعم ، اترك الدورة",
     "retakeCourse": "إعادة الدورة",
-    "startLearning": "ابدأ التعلم"
+    "startLearning": "ابدأ التعلم",
+    "materials": "مواد الدورة"
   },
   "landingPage": {
     "login": "تسجيل دخول",
