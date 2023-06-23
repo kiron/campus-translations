@@ -53,7 +53,9 @@
     "collapse": "Collapse",
     "course": "Course",
     "programs": "Programs",
-    "heading": "Explore our programs"
+    "heading": "Explore our programs",
+    "learningContentHeader": "Learning content creators",
+    "learningContentDescSubHeader": "Expand your knowledge through certified courses and programs offered by renowned institutions and companies."
   },
   "success": {
     "introTitle": "Your success story!",

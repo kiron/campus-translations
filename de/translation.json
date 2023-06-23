@@ -54,7 +54,9 @@
     "showAll": "Alle anzeigen",
     "collapse": "Einklappen",
     "programs": "Programme",
-    "heading": "Entdecke unsere Programme"
+    "heading": "Entdecke unsere Programme",
+    "learningContentHeader": "Bildungsanbieter",
+    "learningContentDescSubHeader": "Erweitere dein Wissen mit zertifizierten Kursen und Programmen von renommierten Institutionen und Unternehmen."
   },
   "success": {
     "introTitle": "Deine Erfolgsgeschichte!",
