@@ -569,5 +569,8 @@
     "added": "was added to your lists.",
     "organize": "Organize your learning journey",
     "saved": "Saved"
+  },
+  "contentProviders": {
+    "offerContentSubHeader": "We offer content from {{cpCount}} different providers"
   }
 }
