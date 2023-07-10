@@ -571,6 +571,7 @@
     "saved": "Saved"
   },
   "contentProviders": {
-    "offerContentSubHeader": "We offer content from {{cpCount}} different providers"
+    "offerContentSubHeader": "We offer content from {{cpCount}} different providers",
+    "noDescriptionAvailable": "It seems that there is no description available at the moment."
   }
 }
