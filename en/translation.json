@@ -572,6 +572,8 @@
   },
   "contentProviders": {
     "offerContentSubHeader": "We offer content from {{cpCount}} different providers",
-    "noDescriptionAvailable": "It seems that there is no description available at the moment."
+    "noDescriptionAvailable": "It seems that there is no description available at the moment.",
+    "btnOthers": "Others",
+    "btnShowLess": "Show less"
   }
 }
