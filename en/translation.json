@@ -570,8 +570,7 @@
     "organize": "Organize your learning journey",
     "saved": "Saved",
     "add": "Add",
-    "createNewList": "Create a new list",
-    "addToList": "Add to list",
+    "createNewList": "Add a new list",
     "saveToList": "Save to list",
     "show": "Show",
     "emptyList": "This list is empty",
@@ -588,6 +587,5 @@
     "btnShowLess": "Show less",
     "preHeadingComingSoon": "Coming soon...",
     "headingContentNotFound": "Sorry, no content was found"
-
   }
 }
