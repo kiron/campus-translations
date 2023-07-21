@@ -568,7 +568,18 @@
     "addedFail": "Failed to add",
     "added": "was added to your lists.",
     "organize": "Organize your learning journey",
-    "saved": "Saved"
+    "saved": "Saved",
+    "add": "Add",
+    "createNewList": "Create a new list",
+    "addToList": "Add to list",
+    "saveToList": "Save to list",
+    "show": "Show",
+    "emptyList": "This list is empty",
+    "emptyListSubtitle": "You haven’t added any content. Add content now to keep track of your learning journey.",
+    "listCreated": "List created successfully",
+    "listCreationError": "Error creating list",
+    "listUpdated": "Lists updated successfully",
+    "listUpdateError": "Error updating lists"
   },
   "contentProviders": {
     "offerContentSubHeader": "We offer content from {{cpCount}} different providers",
