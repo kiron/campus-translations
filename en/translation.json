@@ -574,7 +574,7 @@
     "saveToList": "Save to list",
     "show": "Show",
     "emptyList": "This list is empty",
-    "emptyListSubtitle": "You haven’t added any content. Add content now to keep track of your learning journey.",
+    "emptyListSubtitle": "You haven't added any content.",
     "listCreated": "List created successfully",
     "listCreationError": "Error creating list",
     "listUpdated": "Lists updated successfully",
