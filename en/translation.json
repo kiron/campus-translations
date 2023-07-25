@@ -578,7 +578,9 @@
     "listCreated": "List created successfully",
     "listCreationError": "Error creating list",
     "listUpdated": "Lists updated successfully",
-    "listUpdateError": "Error updating lists"
+    "listUpdateError": "Error updating lists",
+    "renameList": "Rename list",
+    "areYouSure": "Are you sure you want to delete this list?"
   },
   "contentProviders": {
     "offerContentSubHeader": "We offer content from {{cpCount}} different providers",
