@@ -594,6 +594,18 @@
     "save": "Speichern",
     "saveForLater": "Für später gespeicherte Inhalte",
     "organize": "Gestalte deinen Lernpfad",
-    "saved": "Gespeichert"
+    "saved": "Gespeichert",
+    "add": "Hinzufügen",
+    "createNewList": "Neue Liste erstellen",
+    "saveToList": "zur Liste hinzufügen",
+    "show": "Anzeigen",
+    "emptyList": "Diese Liste ist leer",
+    "emptyListSubtitle": "Du hast keine Inhalte hinzugefügt.",
+    "listCreated": "Die Liste wurde erfolgreich erstellt",
+    "listCreationError": "Beim Erstellen der Liste ist ein Fehler aufgetreten",
+    "listUpdated": "Die Liste wurde erfolgreich aktualisiert",
+    "listUpdateError": "Beim Aktualisieren der Liste ist ein Fehler aufgetreten",
+    "renameList": "Liste umbenennen",
+    "areYouSure": "Bist Du sicher, dass Du diese Liste löschen möchtest?"
   }
 }

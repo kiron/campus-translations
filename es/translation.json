@@ -592,7 +592,17 @@
     "removed": "se ha eliminado de tu lista.",
     "myLists": "Mis listas",
     "added": "se ha añadido a tu lista.",
-    "saved": "guardado"
+    "saved": "guardado",
+    "add": "Añadir",
+    "createNewList": "Crear una nueva lista",
+    "saveToList": "Añadir a la lista",
+    "show": "Mostrar",
+    "emptyList": "Esta lista está vacía.",
+    "emptyListSubtitle": "No has añadido ningún contenido.",
+    "listCreated": "La lista ha sido creada con éxito",
+    "listCreationError": "Error creando la lista",
+    "listUpdated": "La lista ha sido actualizada con éxito",
+    "listUpdateError": "Error actualizando la lista"
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
 }
