@@ -602,7 +602,11 @@
     "listCreated": "La lista ha sido creada con éxito",
     "listCreationError": "Error creando la lista",
     "listUpdated": "La lista ha sido actualizada con éxito",
-    "listUpdateError": "Error actualizando la lista"
+    "listUpdateError": "Error actualizando la lista",
+    "confirmDelete": "Borrar lista",
+    "renameList": "Cambiar nombre a la lista",
+    "areYouSure": "¿De verdad quieres borrar esta lista?"
+
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
 }

@@ -605,7 +605,10 @@
     "listCreationError": "Beim Erstellen der Liste ist ein Fehler aufgetreten",
     "listUpdated": "Die Liste wurde erfolgreich aktualisiert",
     "listUpdateError": "Beim Aktualisieren der Liste ist ein Fehler aufgetreten",
+    "confirmDelete": "Liste löschen",    
     "renameList": "Liste umbenennen",
-    "areYouSure": "Bist Du sicher, dass Du diese Liste löschen möchtest?"
+    "areYouSure": "Bist Du sicher, dass Du die Liste löschen möchtest? Beachte, dass alle gespeicherten Inhalte in der Liste ebenfalls entfernt werden",
+    "listDeleted": "Die Liste wurde erfolgreich gelöscht",
+    "listDeleteError": "Beim Löschen der Liste ist ein Problem aufgetreten"
   }
 }

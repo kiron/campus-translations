@@ -577,11 +577,13 @@
     "emptyListSubtitle": "You haven't added any content.",
     "listCreated": "List created successfully",
     "listCreationError": "Error creating list",
-    "listUpdated": "Lists updated successfully",
+    "listUpdated": "List updated successfully",
     "listUpdateError": "Error updating lists",
     "renameList": "Rename list",
-    "areYouSure": "Are you sure you want to delete this list?",
-    "confirmDelete": "Delete list"
+    "areYouSure": "Are you sure you want to delete this list? Note that all the saved content inside this list will be removed as well.",
+    "confirmDelete": "Delete list",
+    "listDeleted": "List deleted successfully",
+    "listDeleteError": "Error deleting list"
   },
   "contentProviders": {
     "offerContentSubHeader": "We offer content from {{cpCount}} different providers",
