@@ -580,6 +580,7 @@
     "listUpdated": "List updated successfully",
     "listUpdateError": "Error updating lists",
     "renameList": "Rename list",
+    "editList": "Edit list",
     "areYouSure": "Are you sure you want to delete this list? Note that all the saved content inside this list will be removed as well.",
     "confirmDelete": "Delete list",
     "listDeleted": "List deleted successfully",
