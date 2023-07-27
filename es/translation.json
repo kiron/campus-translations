@@ -600,12 +600,14 @@
     "emptyList": "Esta lista está vacía.",
     "emptyListSubtitle": "No has añadido ningún contenido.",
     "listCreated": "La lista ha sido creada con éxito",
-    "listCreationError": "Error creando la lista",
+    "listCreationError": "Se ha producido un error creando la lista",
     "listUpdated": "La lista ha sido actualizada con éxito",
-    "listUpdateError": "Error actualizando la lista",
+    "listUpdateError": "Se ha producido un error actualizando la lista",
     "confirmDelete": "Borrar lista",
     "renameList": "Cambiar nombre a la lista",
-    "areYouSure": "¿De verdad quieres borrar esta lista?"
+    "areYouSure": "¿De verdad quieres borrar esta lista?",
+    "listDeleted": "La lista se ha borrado con éxito",
+    "listDeleteError": "Se ha producido un error al borrar la lista"
 
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
