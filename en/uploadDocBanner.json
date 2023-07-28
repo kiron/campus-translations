@@ -1,11 +1,14 @@
 {
-  "invalidText": "Oops, it doesn’t look like you’ve uploaded the right document.",
-  "invalidBtn": "Upload documents again",
-  "invalidWhyUpload": "Why do I need to upload my documents?",
-  "reviewText": "Our team is currently reviewing your document.",
-  "noUploadText": "Please verify your account to get access to unlimited free courses and certificates.",
-  "noUploadTime": "It only takes 5 minutes.",
-  "noUploadBtn": "Verify documents",
-  "noUploadImgAlt": "Upload your documents to gain refugee status",
-  "noUploadEligible": "Not eligible? You can still study with us for free."
+  "noUploadHeader": "Please verify your account to get access to unlimited free courses and certificates.",
+  "noUploadDescription": "This only takes 5 minutes. If you are not eligible you can still study our Kiron hosted courses for free.",
+  "uploadDocumentBtn": "Upload document",
+  "inReviewHeader": "Review in progress",
+  "inReviewDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next 10 days.",
+  "reuploadDocumentBtn": "Re-upload document",
+  "invalidUploadHeader": "Oops, it looks like that wasn't the right document",
+  "invalidUploadDescription": "Please upload other document.",
+  "rejectedHeader": "Sorry, we couldn't verify you with the document you sent us",
+  "rejectedDescription": "Not eligible? You can still study with us for free.",
+  "rejectedBtn": "Contact us",
+  "whyVerify": "Why verify?"
 }

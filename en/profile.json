@@ -5,7 +5,9 @@
         "imgReplace": "Edit",
         "imgTitle": "Upload your profile picture",
         "imgInputLabel": "I allow my image to be shown to other students & staff",
-        "imgUploadMsg": "Upload your profile picture"
+        "imgUploadMsg": "Upload your profile picture",
+        "accountVerified": "Account verified",
+        "accountNotVerified": "Account not verified"
     },
     "editBox": {
         "cancel": "Cancel",
