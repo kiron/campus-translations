@@ -1,11 +1,14 @@
 {
-  "invalidText": "Vaya, parece que no ha subido el documento apropiado.",
-  "invalidBtn": "Suba documentos de nuevo",
-  "invalidWhyUpload": "¿Por qué necesito subir mis documentos?",
-  "reviewText": "Nuestro equipo está revisando sus documentos.",
-  "noUploadText": "Por favor verifique su cuenta para obtener acceso ilimitado a cursos y certificados gratuitos.",
-  "noUploadTime": "Sólo toma 5 minutos.",
-  "noUploadBtn": "Verificar documentos",
-  "noUploadImgAlt": "Suba sus documentos para ganar estado de refugiado",
-  "rejectedDescription": "¿No cumple los requisitos? Todavía puede estudiar con nosotros gratuitamente."
+  "noUploadHeader": "Por favor, verifica tu cuenta para tener acceso ilimitado a cursos y certificados.",
+  "noUploadDescription": "Te llevará cinco minutos. Si no cumples los requisitos, puedes seguir aprendiendo con los cursos alojados en Kiron de manera gratuita.",
+  "uploadDocumentBtn": "Subir documento",
+  "inReviewHeader": "La revisión está en curso.",
+  "inReviewDescription": "Gracias por subir tu documento. Vamos a proceder con la revisión. Recibirás un correo electrónico en los próximos diez días.",
+  "reuploadDocumentBtn": "Volver a subir documento",
+  "invalidUploadHeader": "Vaya, parece que ese no era el documento correcto.",
+  "invalidUploadDescription": "Por favor, sube otro documento.",
+  "rejectedHeader": "Lo sentimos, no hemos podido verificarte con el documento que nos has enviado.",
+  "rejectedDescription": "Si no cumples los requisitos, puedes seguir estudiando con Kiron de manera gratuita.",
+  "rejectedBtn": "Contáctanos",
+  "whyVerify": "¿Por qué es necesario verificar?"
 }

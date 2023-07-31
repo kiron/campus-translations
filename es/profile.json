@@ -5,7 +5,9 @@
         "imgReplace": "Editar",
         "imgTitle": "Suba su foto de perfil",
         "imgInputLabel": "Permito mostrar mi imagen a otros estudiantes y empleados",
-        "imgUploadMsg": "Suba su foto de perfil"
+        "imgUploadMsg": "Suba su foto de perfil",
+        "accountVerified": "Cuenta verificada",
+        "accountNotVerified": "Cuenta no verificada"
     },
     "editBox": {
         "cancel": "Cancelar",
