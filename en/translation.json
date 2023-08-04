@@ -116,7 +116,10 @@
     "removeFile": "Remove",
     "maxFilesLimitReached": "Cannot upload any more simultaneously",
     "cancelUpload": "Cancel",
-    "cancelUploadConfirmation": "Are you sure you want to cancel this upload?"
+    "cancelUploadConfirmation": "Are you sure you want to cancel this upload?",
+    "clickToBrowse": "Click to browse your device",
+    "addAnotherFile": "Add another file",
+    "orDropFiles": "or drop your files here"
   },
   "moduleStatus": {
     "hour": "hour",
