@@ -6,9 +6,11 @@
   "inReviewDescription": "Gracias por subir tu documento. Vamos a proceder con la revisión. Recibirás un correo electrónico en los próximos diez días.",
   "reuploadDocumentBtn": "Volver a subir documento",
   "invalidUploadHeader": "Vaya, parece que ese no era el documento correcto.",
-  "invalidUploadDescription": "Por favor, sube otro documento.",
-  "rejectedHeader": "Lo sentimos, no hemos podido verificarte con el documento que nos has enviado.",
-  "rejectedDescription": "Si no cumples los requisitos, puedes seguir estudiando con Kiron de manera gratuita.",
+  "invalidUploadDescription": "Por favor, consulta la guía del documento e inténtalo de nuevo.",
+  "rejectedHeader": "No hemos podido verificarte con el documento subido.",
+  "rejectedDescription": "Lo sentimos, no podemos verificar el documento subido. Aún puedes acceder a los programas gratuitos de Kiron. Para consultas, contacta student-support@kiron.ngo",
   "rejectedBtn": "Contáctanos",
+  "acceptedHeader": "Tu documento es válido",
+  "acceptedDescription": "Disfruta de nuestros programas de aprendizaje en la página Explorar o conoce a otros estudiantes en tu área en la página Comunidad.",
   "whyVerify": "¿Por qué es necesario verificar?"
 }

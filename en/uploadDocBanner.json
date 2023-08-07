@@ -6,9 +6,11 @@
   "inReviewDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next 10 days.",
   "reuploadDocumentBtn": "Re-upload document",
   "invalidUploadHeader": "Oops, it looks like that wasn't the right document",
-  "invalidUploadDescription": "Please upload other document.",
-  "rejectedHeader": "Sorry, we couldn't verify you with the document you sent us",
-  "rejectedDescription": "Not eligible? You can still study with us for free.",
+  "invalidUploadDescription": "Please refer to the document guide and try again.",
+  "rejectedHeader": "Your document could not be verified",
+  "rejectedDescription": "Apologies, we can't verify the uploaded document. You can still access Kiron's free programs. For questions, contact student-support@kiron.ngo",
   "rejectedBtn": "Contact us",
+  "acceptedHeader": "Your document is valid",
+  "acceptedDescription": "Enjoy our learning programs on the Explore page or meet other learners in your area on the Community page.",
   "whyVerify": "Why verify?"
 }
