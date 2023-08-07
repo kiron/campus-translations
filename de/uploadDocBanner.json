@@ -1,11 +1,16 @@
 {
-  "invalidText": "Ups, es sieht so aus, als hättest du das falsche Dokument hochgeladen.",
-  "invalidBtn": "Dokumente erneut hochladen",
-  "invalidWhyUpload": "Warum muss ich meine Dokumente hochladen?",
-  "reviewText": "Unser Team prüft gerade deine Dokumente.",
-  "noUploadText": "Bitte verifiziere dein Konto, um Zugang zu unbegrenzten kostenlosen Kursen und Zertifikaten zu erhalten.",
-  "noUploadTime": "Es dauet nur 5 Minuten.",
-  "noUploadBtn": "Dokumente prüfen",
-  "noUploadImgAlt": "Lade dein Dokumente hoch, um den Flüchtlingsstatus zu erhalten",
-  "rejectedDescription": "Keine Berechtigung? Du kannst trotzdem kostenlos bei uns studieren."
+  "noUploadHeader": "Bitte verifiziere dein Konto, um unbegrenzten Zugang zu kostenlosen Kursen und Zertifikaten zu erhalten.",
+  "noUploadDescription": "Das dauert nur 5 Minuten. Wenn du nicht berechtigt bist, kannst du trotzdem kostenlos bei uns lernen.",
+  "uploadDocumentBtn": "Dokument hochladen",
+  "inReviewHeader": "Prüfung läuft",
+  "inReviewDescription": "Vielen Dank für das Hochladen deines Dokuments. Wir prüfen es jetzt und du erhältst in den nächsten 10 Tagen eine E-Mail von uns.",
+  "reuploadDocumentBtn": "Dokument erneut hochladen",
+  "invalidUploadHeader": "Hoppla, anscheinend war das nicht das richtige Dokument",
+  "invalidUploadDescription": "Bitte schau dir den Dokumentenleitfaden an und versuche es erneut.",
+  "rejectedHeader": "Dein Dokument konnte nicht verifiziert werden",
+  "rejectedDescription": "Es tut uns leid, wir können das hochgeladene Dokument nicht verifizieren. Du hast jedoch weiterhin Zugang zu unseren kostenlosen Inhalten. Bei Fragen wende dich an student-support@kiron.ngo",
+  "rejectedBtn": "Kontaktiere uns",
+  "acceptedHeader": "Dein Dokument ist gültig",
+  "acceptedDescription": "Starte mit unseren Lerninhalten auf der Seite Entdecken oder triff andere Lernende in deiner Umgebung auf der Seite Community.",
+  "whyVerify": "Warum verifizieren?"
 }
