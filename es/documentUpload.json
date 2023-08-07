@@ -133,6 +133,6 @@
   "backWarningBtn": "Volver al Perfil",
   "warningTextNationality": "Por favor indique su nacionalidad en su perfil antes de reenviar sus documentos",
   "confirmReuploadHeader": "¿Subir documentos de nuevo?",
-  "confirmReuploadText": "Haz clic en 'Continuar' para eliminar los documentos antiguos. Luego puedes agregar los nuevos.",
+  "confirmReuploadText": "Haz clic en 'Continuar' para eliminar tus documentos antiguos. Luego puedes agregar los nuevos.",
   "confirmReuploadBtnLabel": "Continuar"
 }

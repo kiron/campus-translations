@@ -126,6 +126,6 @@
   "backWarningBtn": "Back to Profile",
   "warningTextNationality": "Please enter your nationality on the profile page before reuploading your documents",
   "confirmReuploadHeader": "Reupload Documents?",
-  "confirmReuploadText": "Click 'Continue' to remove old documents. You can then add new ones.",
+  "confirmReuploadText": "Click 'Continue' to remove your old documents. You can then add new ones.",
   "confirmReuploadBtnLabel": "Continue"
 }
