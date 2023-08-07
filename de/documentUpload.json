@@ -55,50 +55,35 @@
       }
     },
     "jordanianIDPs": {
-      "infoPoints": [
-        "ID-Ausweis هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
+      "infoPoints": ["ID-Ausweis هوية شخصية", "Reisepass جواز سفر"],
       "docImageTitles": {
         "idCard": "ID-Ausweis  هوية شخصية",
         "passport": "Reisepass  جواز سفر"
       }
     },
     "lebaneseRefugees": {
-      "infoPoints": [
-        "UNHCR-Ausweis",
-        "UNRWA-Dokument"
-      ],
+      "infoPoints": ["UNHCR-Ausweis", "UNRWA-Dokument"],
       "docImageTitles": {
         "unhcrDocument": "UNHCR-Dokument",
         "unrwaDocument": "UNRWA-Dokument"
       }
     },
     "lebaneseIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Reisepass جواز سفر"],
       "docImageTitles": {
         "idCard": "ID هوية شخصية",
         "passport": "Reisepass جواز سفر"
       }
     },
     "yemenisIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Reisepass جواز سفر"],
       "docImageTitles": {
         "idCard": "ID-Ausweis",
         "passport": "Reisepass"
       }
     },
     "syrianIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Reisepass جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Reisepass جواز سفر"],
       "docImageTitles": {
         "idCard": "ID-Ausweis",
         "passport": "Reisepass"
@@ -117,11 +102,7 @@
       }
     },
     "sudanisIPDs": {
-      "infoPoints": [
-        "Reisepass",
-        "IDP Darfur-Dokument",
-        "IDP Ausweis"
-      ],
+      "infoPoints": ["Reisepass", "IDP Darfur-Dokument", "IDP Ausweis"],
       "docImageTitles": {
         "passport": "Reisepass",
         "idpDarfurDocument": "IDP Darfur-Dokument",
@@ -136,12 +117,15 @@
         "UNHCR-Dokument"
       ],
       "docImageTitles": {
-          "unhcrCard": "UNHCR Ausweis",
-          "unhcrFamily": "UNHCR Familie",
-          "kenyaRefugeeCard": "Kenya Flüchtlingsausweis"
+        "unhcrCard": "UNHCR Ausweis",
+        "unhcrFamily": "UNHCR Familie",
+        "kenyaRefugeeCard": "Kenya Flüchtlingsausweis"
       }
     }
   },
   "backWarningBtn": "Zurück zum Profil",
-  "warningTextNationality": "Bitte gib vor dem erneuten Hochladen deiner Dokumente deine Nationalität in deinem Profil ein "
+  "warningTextNationality": "Bitte gib vor dem erneuten Hochladen deiner Dokumente deine Nationalität in deinem Profil ein ",
+  "confirmReuploadHeader": "Dokumente erneut hochladen?",
+  "confirmReuploadText": "Klicken Sie auf 'Weiter', um alte Dokumente zu entfernen. Danach können Sie neue hinzufügen.",
+  "confirmReuploadBtnLabel": "Weiter"
 }
