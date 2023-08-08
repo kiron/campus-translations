@@ -115,7 +115,10 @@
     "cancelUpload": "Cancelar",
     "maxFilesLimitReached": "No se puede subir más de un archivo simultáneamente",
     "removeFile": "Eliminar",
-    "fileTypeNotSupported": "Lo sentimos, este tipo de archivo no está permitido"
+    "fileTypeNotSupported": "Lo sentimos, este tipo de archivo no está permitido",
+    "clickToBrowse": "Haz click aquí para abrir el explorador de archivos",
+    "addAnotherFile": "Añadir otro archivo",
+    "orDropFiles": "o arrastra los archivos aquí."
   },
   "moduleStatus": {
     "hour": "hora",

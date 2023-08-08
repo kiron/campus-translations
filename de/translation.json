@@ -117,7 +117,10 @@
     "fileTypeNotSupported": "Entschuldige bitte, dieser Dateityp ist nicht erlaubt",
     "maxFilesLimitReached": "Kann nicht mehr gleichzeitig hochladen",
     "cancelUploadConfirmation": "Bist du sicher, dass du diesen Upload abbrechen möchtest?",
-    "cancelUpload": "Abbrechen"
+    "cancelUpload": "Abbrechen",
+    "clickToBrowse": "Klicke zum Durchsuchen deines Geräts",
+    "addAnotherFile": "Füge eine weitere Datei hinzu",
+    "orDropFiles": "oder ziehe deine Dateien hierher"
   },
   "moduleStatus": {
     "hour": "Stunde",
