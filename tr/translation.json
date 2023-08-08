@@ -107,7 +107,11 @@
     "description": "Sertifikanı yüklemek için buraya tıkla ya da dosyaları buraya sürükle <br />(Sertifikanı daha sonra da yükleyebilirsin)",
     "exampleDesc": "Sertifika örneğini yeni bir sekmede görüntülemek için lütfen tıkla",
     "verificationExample": "Onaylama örneği ",
-    "save": "Kaydet"
+    "save": "Kaydet",
+    "clickToBrowse": "Cihazını gözatmak için tıkla",
+    "addAnotherFile": "Başka bir dosya ekle",
+    "orDropFiles": "ya da dosyalarını buraya sürükle",
+    "replaceFile": "Değiştir"
   },
   "moduleStatus": {
     "hour": "saat",

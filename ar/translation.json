@@ -78,7 +78,11 @@
     "cancelUpload": "إلغاء",
     "maxFilesLimitReached": "لا يمكن تحميل المزيد في وقت واحد",
     "removeFile": "حذف",
-    "fileTypeNotSupported": "عذرا، نوع الملف هذا غير مسموح به"
+    "fileTypeNotSupported": "عذرا، نوع الملف هذا غير مسموح به",
+    "clickToBrowse": "اضغط لتصفح جهازك",
+    "addAnotherFile": "أضف ملفًا آخر",
+    "orDropFiles": "أو قم بإسقاط الملفات هنا",
+    "replaceFile": "استبدل"
   },
   "moduleStatus": {
     "hour": "ساعة",

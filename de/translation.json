@@ -120,7 +120,8 @@
     "cancelUpload": "Abbrechen",
     "clickToBrowse": "Klicke zum Durchsuchen deines Geräts",
     "addAnotherFile": "Füge eine weitere Datei hinzu",
-    "orDropFiles": "oder ziehe deine Dateien hierher"
+    "orDropFiles": "oder ziehe deine Dateien hierher",
+    "replaceFile": "Ersetzen"
   },
   "moduleStatus": {
     "hour": "Stunde",
@@ -608,7 +609,7 @@
     "listCreationError": "Beim Erstellen der Liste ist ein Fehler aufgetreten",
     "listUpdated": "Die Liste wurde erfolgreich aktualisiert",
     "listUpdateError": "Beim Aktualisieren der Liste ist ein Fehler aufgetreten",
-    "confirmDelete": "Liste löschen",    
+    "confirmDelete": "Liste löschen",
     "renameList": "Liste umbenennen",
     "areYouSure": "Bist Du sicher, dass Du die Liste löschen möchtest? Beachte, dass alle gespeicherten Inhalte in der Liste ebenfalls entfernt werden",
     "listDeleted": "Die Liste wurde erfolgreich gelöscht",

@@ -118,7 +118,8 @@
     "fileTypeNotSupported": "Lo sentimos, este tipo de archivo no está permitido",
     "clickToBrowse": "Haz click aquí para abrir el explorador de archivos",
     "addAnotherFile": "Añadir otro archivo",
-    "orDropFiles": "o arrastra los archivos aquí."
+    "orDropFiles": "o arrastra los archivos aquí.",
+    "replaceFile": "Reemplazar"
   },
   "moduleStatus": {
     "hour": "hora",
@@ -611,7 +612,6 @@
     "areYouSure": "¿De verdad quieres borrar esta lista?",
     "listDeleted": "La lista se ha borrado con éxito",
     "listDeleteError": "Se ha producido un error al borrar la lista"
-
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
 }
