@@ -128,5 +128,6 @@
   "confirmReuploadHeader": "Dokumente erneut hochladen?",
   "confirmReuploadText": "Klicken Sie auf 'Weiter', um deine alten Dokumente zu entfernen. Danach kannst du neue Dokumente hochladen.",
   "confirmReuploadBtnLabel": "Weiter",
-  "fileDeletionError": "Fehler beim Löschen von Dateien"
+  "fileDeletionError": "Fehler beim Löschen von Dateien",
+  "fileUploadError": "Fehler beim Hochladen von Dateien"
 }

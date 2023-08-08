@@ -128,5 +128,6 @@
   "confirmReuploadHeader": "Reupload Documents?",
   "confirmReuploadText": "Click 'Continue' to remove your old documents. You can then add new ones.",
   "confirmReuploadBtnLabel": "Continue",
-  "fileDeletionError": "Error deleting files"
+  "fileDeletionError": "Error deleting files",
+  "fileUploadError": "Error uploading files"
 }

@@ -55,61 +55,42 @@
       }
     },
     "jordanianIDPs": {
-      "infoPoints": [
-        "ID card هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID card هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card  هوية شخصية",
         "passport": "Passport  جواز سفر"
       }
     },
     "lebaneseRefugees": {
-      "infoPoints": [
-        "بطاقة UNHCR",
-        "وثيقة من الأونروا UNRWA"
-      ],
+      "infoPoints": ["بطاقة UNHCR", "وثيقة من الأونروا UNRWA"],
       "docImageTitles": {
         "unhcrDocument": "بطاقة UNHCR",
         "unrwaDocument": "وثيقة من الأونروا UNRWA"
       }
     },
     "lebaneseIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID هوية شخصية",
         "passport": "Passport جواز سفر"
       }
     },
     "yemenisIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card  هوية شخصية",
         "passport": "Passport  جواز سفر"
       }
     },
     "syrianIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card  هوية شخصية",
         "passport": "Passport  جواز سفر"
       }
     },
     "turkishIDPs": {
-      "infoPoints": [
-        "وثيقة حماية مؤقتة",
-        "وثيقة إقامة",
-        "وثيقة UNHCR"
-      ],
+      "infoPoints": ["وثيقة حماية مؤقتة", "وثيقة إقامة", "وثيقة UNHCR"],
       "docImageTitles": {
         "temporaryProtection": "وثيقة حماية مؤقتة",
         "residencePermit": "وثيقة إقامة",
@@ -136,12 +117,17 @@
         "وثيقة UNHCR"
       ],
       "docImageTitles": {
-          "unhcrCard": "بطاقة UNHCR",
-          "unhcrFamily": "وثائق UNHCR الخاصة بالأسر",
-          "kenyaRefugeeCard": "بطاقة لجوء صادرة من كينيا"
+        "unhcrCard": "بطاقة UNHCR",
+        "unhcrFamily": "وثائق UNHCR الخاصة بالأسر",
+        "kenyaRefugeeCard": "بطاقة لجوء صادرة من كينيا"
       }
     }
   },
   "backWarningBtn": "العودة إلى الملف الشخصي",
-  "warningTextNationality": "يرجى تعبيئة خانة الجنسية في صفحة الملف الشخصي قبل إعادة تحميل مستنداتك"
+  "warningTextNationality": "يرجى تعبيئة خانة الجنسية في صفحة الملف الشخصي قبل إعادة تحميل مستنداتك",
+  "confirmReuploadHeader": "إعادة تحميل الوثائق؟",
+  "confirmReuploadText": "اضغط على 'استمر' لحذف الوثائق القديمة. بعد ذلك يمكنك إضافة وثائق جديدة.",
+  "confirmReuploadBtnLabel": "استمر",
+  "fileDeletionError": "خطأ في حذف الملفات",
+  "fileUploadError": "خطأ أثناء رفع الملفات"
 }

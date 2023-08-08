@@ -135,5 +135,6 @@
   "confirmReuploadHeader": "¿Subir documentos de nuevo?",
   "confirmReuploadText": "Haz clic en 'Continuar' para eliminar tus documentos antiguos. Luego puedes agregar los nuevos.",
   "confirmReuploadBtnLabel": "Continuar",
-  "fileDeletionError": "Error al eliminar archivos"
+  "fileDeletionError": "Error al eliminar archivos",
+  "fileUploadError": "Error al subir archivos"
 }
