@@ -134,5 +134,6 @@
   "warningTextNationality": "Por favor indique su nacionalidad en su perfil antes de reenviar sus documentos",
   "confirmReuploadHeader": "¿Subir documentos de nuevo?",
   "confirmReuploadText": "Haz clic en 'Continuar' para eliminar tus documentos antiguos. Luego puedes agregar los nuevos.",
-  "confirmReuploadBtnLabel": "Continuar"
+  "confirmReuploadBtnLabel": "Continuar",
+  "fileDeletionError": "Error al eliminar archivos"
 }
