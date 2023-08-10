@@ -120,6 +120,7 @@
     "clickToBrowse": "Click to browse your device",
     "addAnotherFile": "Add another file",
     "orDropFiles": "or drop your files here",
+    "orDropSingleFile": "or drop your file here",
     "replaceFile": "Replace"
   },
   "moduleStatus": {

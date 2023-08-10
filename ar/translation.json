@@ -82,6 +82,7 @@
     "clickToBrowse": "اضغط لتصفح جهازك",
     "addAnotherFile": "أضف ملفًا آخر",
     "orDropFiles": "أو قم بإسقاط الملفات هنا",
+    "orDropSingleFile": "أو قم بإسقاط الملف هنا",
     "replaceFile": "استبدل"
   },
   "moduleStatus": {

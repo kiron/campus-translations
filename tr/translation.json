@@ -104,13 +104,14 @@
     "descriptionSupport": "Harika, zaten çok fazla onaylanmış kursun var! Üniversiteye başvuruyorsan, başarılarının listesini içeren bir PDF talep edebilirsin. Lütfen {{orgDisplayName}} destek ile iletişime geç."
   },
   "fileUpload": {
-    "description": "Sertifikanı yüklemek için buraya tıkla ya da dosyaları buraya sürükle <br />(Sertifikanı daha sonra da yükleyebilirsin)",
-    "exampleDesc": "Sertifika örneğini yeni bir sekmede görüntülemek için lütfen tıkla",
+    "description": "Sertifikanızı yüklemek için buraya tıklayınız ya da dosyaları buraya bırakın <br />(Sertifikanızı daha sonra da yükleyebilirsiniz)",
+    "exampleDesc": "Sertifika örneğini yeni bir sekmede görüntülemek için lütfen tıklayınız",
     "verificationExample": "Onaylama örneği ",
     "save": "Kaydet",
-    "clickToBrowse": "Cihazını gözatmak için tıkla",
+    "clickToBrowse": "Cihazınızı gözatmak için tıkla",
     "addAnotherFile": "Başka bir dosya ekle",
-    "orDropFiles": "ya da dosyalarını buraya sürükle",
+    "orDropFiles": "ya da dosyalarınızı buraya bırakın",
+    "orDropSingleFile": "ya da dosyanızı buraya bırakın",
     "replaceFile": "Değiştir"
   },
   "moduleStatus": {

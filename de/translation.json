@@ -121,6 +121,7 @@
     "clickToBrowse": "Klicke zum Durchsuchen deines Geräts",
     "addAnotherFile": "Füge eine weitere Datei hinzu",
     "orDropFiles": "oder ziehe deine Dateien hierher",
+    "orDropSingleFile": "oder zieh deine Datei hierher",
     "replaceFile": "Ersetzen"
   },
   "moduleStatus": {
