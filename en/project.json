@@ -47,5 +47,6 @@
     "noAppointmentsYetByTutor": "Your tutor has not scheduled appointmetns yet.",
     "linkTo": "Link to",
     "leaveOpenProjectInfo": "You can still re-join the project until {{registrationDeadline}}.",
-    "leaveClosedProjectInfo": "This action can't be undone. You won't be able to attend the project anymore."
+    "leaveClosedProjectInfo": "This action can't be undone. You won't be able to attend the project anymore.",
+    "uploadedBy": "Uploaded by {{nickname}}"
 }

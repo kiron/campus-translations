@@ -47,5 +47,6 @@
     "linkTo": "Enlazar a",
     "noAppointmentsYet": "Todavía no hay eventos programados en este proyecto.",
     "noAppointmentsYetByTutor": "Su tutor aún no ha programado citas.",
-    "noParticipantsYet": "No hay participantes todavía. ¡Anímate a participar!"
+    "noParticipantsYet": "No hay participantes todavía. ¡Anímate a participar!",
+    "uploadedBy": "Subido por {{nickname}}"
 }
