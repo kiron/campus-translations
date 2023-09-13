@@ -34,5 +34,6 @@
     "instructionsText": "Daha fazla bilgi edinmek için projeye katılın.",
     "noAppointmentsYet": "Henüz bu proje için planlanmış bir randevu yoktur.",
     "noAppointmentsYetByTutor": "Öğretmeniniz henüz randevuları planlanmamıştır.",
-    "uploadedBy": "{{nickname}} tarafından yüklendi"
+    "uploadedBy": "{{nickname}} tarafından yüklendi",
+    "downloadError": "Bir hata oluştu. Sayfayı yenileyip tekrar deneyin."
 }

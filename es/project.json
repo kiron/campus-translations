@@ -48,5 +48,6 @@
     "noAppointmentsYet": "Todavía no hay eventos programados en este proyecto.",
     "noAppointmentsYetByTutor": "Su tutor aún no ha programado citas.",
     "noParticipantsYet": "No hay participantes todavía. ¡Anímate a participar!",
-    "uploadedBy": "Subido por {{nickname}}"
+    "uploadedBy": "Subido por {{nickname}}",
+    "downloadError": "Ha ocurrido un error. Actualiza la página."
 }

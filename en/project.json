@@ -48,5 +48,6 @@
     "linkTo": "Link to",
     "leaveOpenProjectInfo": "You can still re-join the project until {{registrationDeadline}}.",
     "leaveClosedProjectInfo": "This action can't be undone. You won't be able to attend the project anymore.",
-    "uploadedBy": "Uploaded by {{nickname}}"
+    "uploadedBy": "Uploaded by {{nickname}}",
+    "downloadError": "Something went wrong. Refresh and try again."
 }

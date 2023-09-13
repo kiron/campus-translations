@@ -54,5 +54,6 @@
     "instructionsText": "انضم إلى المشروع لمعرفة المزيد عنه.",
     "toolsText": "{{0}} أدوات ستتوفر لك بمجرد انضمامك إلى هذا المشروع.",
     "toolsTitle": "أدوات",
-    "uploadedBy": "{{nickname}} رفع من قبل"
+    "uploadedBy": "{{nickname}} رفع من قبل",
+    "downloadError": "حدث خطأ. قم بالتحديث وحاول مرة أخرى."
 }
