@@ -46,5 +46,6 @@
     "noParticipantsYet": "Noch keine Teilnehmenden. Du kannst der/die Erste sein!",
     "leaveOpenProjectInfo": "Du kannst dieser Veranstaltung noch bis zum {{registrationDeadline}} wieder beitreten.",
     "leaveClosedProjectInfo": "Diese Aktion kann nicht rückgängig gemacht werden. Du wirst an dem Projekt nicht mehr teilnehmen können.",
-    "uploadedBy": "Hochgeladen von {{nickname}}"
+    "uploadedBy": "Hochgeladen von {{nickname}}",
+    "downloadError": "Leider ist etwas schiefgelaufen. Aktualisiere die Seite und versuche es noch einmal."
 }
