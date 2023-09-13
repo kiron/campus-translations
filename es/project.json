@@ -49,5 +49,5 @@
     "noAppointmentsYetByTutor": "Su tutor aún no ha programado citas.",
     "noParticipantsYet": "No hay participantes todavía. ¡Anímate a participar!",
     "uploadedBy": "Subido por {{nickname}}",
-    "downloadError": "Ha ocurrido un error. Actualiza la página."
+    "downloadError": "Ha ocurrido un error. Actualiza la página e inténtalo de nuevo."
 }
