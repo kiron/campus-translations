@@ -509,7 +509,7 @@
   },
   "stayTuned": "En breve habrá más información disponible.",
   "participation": {
-    "isUserTutor": "Has sido asignado/a como tutor/a de este proyecto",
+    "isUserTutor": "Tutor/a del proyecto",
     "eventTutor": "es tu tutor/a en este evento",
     "projectTutor": "es tu tutor/a en este proyecto"
   },
