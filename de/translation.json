@@ -55,7 +55,7 @@
     "collapse": "Einklappen",
     "programs": "Programme",
     "heading": "Entdecke unsere Programme",
-    "learningContentHeader": "Bildungsanbieter",
+    "learningContentHeader": "Inhalte angeboten von",
     "learningContentDescSubHeader": "Erweitere dein Wissen mit zertifizierten Kursen und Programmen von renommierten Institutionen und Unternehmen."
   },
   "success": {
@@ -615,5 +615,10 @@
     "areYouSure": "Bist Du sicher, dass Du die Liste löschen möchtest? Beachte, dass alle gespeicherten Inhalte in der Liste ebenfalls entfernt werden",
     "listDeleted": "Die Liste wurde erfolgreich gelöscht",
     "listDeleteError": "Beim Löschen der Liste ist ein Problem aufgetreten"
+  },
+  "contentProviders": {
+    "noDescriptionAvailable": "Es scheint als wäre noch keine Beschreibung vorhanden.",
+    "preHeadingComingSoon": "Coming soon...",
+    "headingContentNotFound": "Noch sind keine Inhalte vorhanden"
   }
 }
