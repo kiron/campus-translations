@@ -481,7 +481,8 @@
     "documentsInReview": "Deine Dokumente werden verifiziert.",
     "reviews": "Bewertungen",
     "badges": "Badges",
-    "platform": "Plattform"
+    "platform": "Plattform",
+    "participantsTitle": "Teilnehmende"
   },
   "errors": {
     "lostCourse": "Dieser Kurs ist verschwunden",

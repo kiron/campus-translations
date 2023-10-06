@@ -480,7 +480,8 @@
     "isLocked": "Este curso no está disponible",
     "lockedMessage": "Tienes que completar  <1>Unit: {{0}}</1>  para desboquear este curso",
     "badges": "Insignias",
-    "platform": "Portal web"
+    "platform": "Portal web",
+    "participantsTitle": "Participantes"
   },
   "errors": {
     "lostPageDesc": "No podemos encontrar lo que buscas.",
