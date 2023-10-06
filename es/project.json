@@ -62,6 +62,7 @@
   "participantCard": {
     "sendMessage": "Enviar mensaje",
     "markAsCompleted": "Marcar como completado",
+    "markAsCompletedTitle": "¿Marcar como completado?",
     "removeFromCourse": "Eliminar del curso",
     "continue": "Continuar",
     "markAsCompletedComment": "Al marcar como completado, el/la estudiante dejará de estar inscrito/a en el programa.",

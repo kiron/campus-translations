@@ -60,6 +60,7 @@
   "participantCard": {
     "sendMessage": "Nachricht schreiben",
     "markAsCompleted": "Abschluss bestätigen",
+    "markAsCompletedTitle": "Abschluss bestätigen?",
     "removeFromCourse": "Aus dem Kurs entfernen",
     "continue": "Fortfahren",
     "markAsCompletedComment": "Abschluss bestätigen bedeutet, dass der/die Lerner*in nicht länger im Kurs/Projekt/Programm eingeschrieben ist",
