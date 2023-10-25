@@ -520,7 +520,7 @@
   "lessBtn": "Minimieren",
   "survey": {
     "takeSurveyTitle": "Schätze dich selbst ein",
-    "recommendedContentSubtitle": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage.",
+    "recommendedContentSubtitle": "Sieh Dir alle Umfragen an, um Deine persönlichen Empfehlungen für Inhalte zu erhalten.",
     "recommendedContentSubtitleProfilePage": "Du erhältst Lernempfehlungen basierend auf den Ergebnissen der Umfrage",
     "btnLabelGoToSurvey": "Jetzt mitmachen",
     "btnLabelHide": "Verbergen",
@@ -552,7 +552,7 @@
     "reset": "Zurücksetzen",
     "oneMoreThing": "Eine Kleinigkeit noch",
     "multipleSurveysGenericSubtitle": "Sieh Dir alle Umfragen an, um Deine persönlichen Empfehlungen für Inhalte zu erhalten.",
-    "multipleSurveysSubtitle": "Sieh Dir alle Deine Umfragen an, um persönliche Empfehlungen für Inhalte zu erhalten. Du kannst die Umfragen auch später auf Deiner Profilseite einsehen.",
+    "multipleSurveysSubtitle": "Sieh Dir alle Umfragen an, um Deine persönlichen Empfehlungen für Inhalte zu erhalten.",
     "btnLabelGoToSurveyList": "Alle Umfragen ansehen",
     "btnLabelRetake": "Wiederholen",
     "allSurveys": "Alle Umfragen"
