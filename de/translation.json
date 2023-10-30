@@ -507,7 +507,9 @@
     "internetBrokenDesc": "Entschuldigung, wir können deine Daten gerade nicht laden.",
     "internetBroken": "Das Internet ist kaputt",
     "expiredLink": "Dieser Link ist leider abgelaufen",
-    "expiredLinkDesc": "Sorry, diese Seite ist leider nicht mehr verfügbar."
+    "expiredLinkDesc": "Sorry, diese Seite ist leider nicht mehr verfügbar.",
+    "maintenance": "Vorgesehene Wartungsarbeiten Im Gange",
+    "maintenanceDesc": "Entschuldigung, bitte versuche es später noch einmal."
   },
   "participation": {
     "eventTutor": "ist dein/e Tutor/in für diese Veranstaltung",

@@ -375,7 +375,10 @@
     "internetBrokenDesc": "Özür dileriz, şu anda verilerinizi yükleyemiyoruz.",
     "tryAgain": "Tekrar deneyin",
     "expiredLink": "Üzgünüz, Bağlantının süresi doldu",
-    "expiredLinkDesc": "Özür dileriz, bu sayfa artık mevcut değil."
+    "expiredLinkDesc": "Özür dileriz, bu sayfa artık mevcut değil.",
+    "maintenance": "Planlı Bakım Devam Ediyor",
+    "maintenanceDesc": "Özür dileriz, lütfen kısa süre sonra tekrar kontrol edin"
+
   },
   "category": "Kategori",
   "moreBtn": "Daha fazla",

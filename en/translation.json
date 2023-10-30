@@ -481,7 +481,9 @@
     "internetBrokenDesc": "Apologies, we cannot load your data right now.",
     "tryAgain": "Try again",
     "expiredLink": "Unfortunately, this link has expired",
-    "expiredLinkDesc": "Apologies, this page is no longer available."
+    "expiredLinkDesc": "Apologies, this page is no longer available.",
+    "maintenance": "Scheduled Maintenance in Progress",
+    "maintenanceDesc": "Apologies, please check back with us shortly"
   },
   "participation": {
     "projectTutor": "is your tutor for this project",

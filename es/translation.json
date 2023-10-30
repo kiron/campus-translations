@@ -506,7 +506,9 @@
     "techProblemDesc": "Lo sentimos, esta página no funciona correctamente.",
     "techProblem": "Hemos detectado un problema técnico",
     "expiredLink": "El enlace ha caducado",
-    "expiredLinkDesc": "Lo sentimos, esta página ya no se encuentra disponible."
+    "expiredLinkDesc": "Lo sentimos, esta página ya no se encuentra disponible.",
+    "maintenance": "Mantenimiento programado en progreso",
+    "maintenanceDesc": "lo sentimos, por favor vuelve a intentarlo en breve"
   },
   "stayTuned": "En breve habrá más información disponible.",
   "participation": {

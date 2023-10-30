@@ -553,7 +553,9 @@
     "lostCategoryDesc": "لا يمكننا العثور على الفئة التي تبحث عنها.",
     "lostCategory": "هذه الفئة مفقودة",
     "expiredLink": "للأسف، انتهت صلاحية الرابط",
-    "expiredLinkDesc": "عذرا، هذه الصفحة لم تعد متوفرة."
+    "expiredLinkDesc": "عذرا، هذه الصفحة لم تعد متوفرة.",
+    "maintenance": "الصيانة المجدولة جارية",
+    "maintenanceDesc": "عذرا، يرجى إعادة المحاولة لاحقا"
   },
   "participation": {
     "projectTutor": "هو/ي مرشدك/تك لهذا المشروع",
