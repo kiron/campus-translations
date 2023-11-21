@@ -1,10 +1,14 @@
 {
-    "slotsLeft": "{{count}} شکاف باقی مانده است",
-    "slotsLeft_plural": "{{count}} شکاف باقی مانده است",
-    "slotsLeft_zero": "No slots left",
-    "registerUntil": "ثبت نام تا {{deadline}}",
-    "registerToday": "آخرین تاریخ ثبت نام",
-    "seeAllDates": "همه تاریخ ها را مشاهده کنید",
-    "registerButton": "ثبت نام",
-    "registerNowButton": "همین حالا ثبت نام کنید"
+  "slotsLeft": "{{count}} شکاف باقی مانده است",
+  "slotsLeft_plural": "{{count}} شکاف باقی مانده است",
+  "slotsLeft_zero": "No slots left",
+  "registerUntil": "ثبت نام تا {{deadline}}",
+  "registerToday": "آخرین تاریخ ثبت نام",
+  "seeAllDates": "همه تاریخ ها را مشاهده کنید",
+  "registerButton": "ثبت نام",
+  "registerNowButton": "همین حالا ثبت نام کنید",
+  "deleteAppointment": "قرار ملاقات را حذف کن",
+  "deleteAppointmentConfirmationText": "آیا مطمئنی که می‌خواهی این قرار ملاقات را حذف کنی؟",
+  "appointmentDeleted": "قرار ملاقات با موفقیت حذف شد",
+  "appointmentDeleteError": "خطا در حذف قرار ملاقات"
 }

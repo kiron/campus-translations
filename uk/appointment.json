@@ -24,5 +24,9 @@
   "createAppointment": "Створити зустріч",
   "addAppointment": "Додати зустріч",
   "wasAdded": "Призначення успішно додано",
-  "success": "Ура!"
+  "success": "Ура!",
+  "deleteAppointment": "Видалити зустріч",
+  "deleteAppointmentConfirmationText": "Ви впевнені, що хочете видалити цю зустріч?",
+  "appointmentDeleted": "Зустріч успішно видалена",
+  "appointmentDeleteError": "Помилка при видаленні зустрічі"
 }

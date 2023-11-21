@@ -1,10 +1,14 @@
 {
-    "slotsLeft": "{{count}} سلاټونه پاتې دي",
-    "slotsLeft_plural": "{{count}} سلاټونه پاتې دي",
-    "slotsLeft_zero": "No slots left",
-    "registerUntil": "تر {{deadline}} پورې نوم لیکنه وکړئ",
-    "registerToday": "د نوم لیکنې وروستۍ نیټه",
-    "seeAllDates": "ټولې نیټې وګورئ",
-    "registerButton": "نوم لیکنه",
-    "registerNowButton": "اوس ې ثبت کړه"
+  "slotsLeft": "{{count}} سلاټونه پاتې دي",
+  "slotsLeft_plural": "{{count}} سلاټونه پاتې دي",
+  "slotsLeft_zero": "No slots left",
+  "registerUntil": "تر {{deadline}} پورې نوم لیکنه وکړئ",
+  "registerToday": "د نوم لیکنې وروستۍ نیټه",
+  "seeAllDates": "ټولې نیټې وګورئ",
+  "registerButton": "نوم لیکنه",
+  "registerNowButton": "اوس ې ثبت کړه",
+  "deleteAppointment": "موعد له منځه وړل",
+  "deleteAppointmentConfirmationText": "آیا تاسو ډاډه یاست چې غواړئ دا موعد له منځه ووړئ؟",
+  "appointmentDeleted": "موعد په بریالیتوب سره له منځه وړل شوی دی",
+  "appointmentDeleteError": "د موعد د له منځه وړلو په وخت کې تېروتنه"
 }

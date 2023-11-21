@@ -24,5 +24,9 @@
   "createAppointment": "Создать встречу",
   "addAppointment": "Добавить встречу",
   "wasAdded": "Встреча была успешно добавлена",
-  "success": "Ура!"
+  "success": "Ура!",
+  "deleteAppointment": "Удалить встречу",
+  "deleteAppointmentConfirmationText": "Вы уверены, что хотите удалить эту встречу?",
+  "appointmentDeleted": "Встреча успешно удалена",
+  "appointmentDeleteError": "Ошибка при удалении встречи"
 }
