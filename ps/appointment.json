@@ -1,7 +1,7 @@
 {
   "slotsLeft": "{{count}} سلاټونه پاتې دي",
   "slotsLeft_plural": "{{count}} سلاټونه پاتې دي",
-  "slotsLeft_zero": "No slots left",
+  "slotsLeft_zero": "سلاټونه نور نشته",
   "registerUntil": "تر {{deadline}} پورې نوم لیکنه وکړئ",
   "registerToday": "د نوم لیکنې وروستۍ نیټه",
   "seeAllDates": "ټولې نیټې وګورئ",
@@ -10,5 +10,21 @@
   "deleteAppointment": "موعد له منځه وړل",
   "deleteAppointmentConfirmationText": "آیا تاسو ډاډه یاست چې غواړئ دا موعد له منځه ووړئ؟",
   "appointmentDeleted": "موعد په بریالیتوب سره له منځه وړل شوی دی",
-  "appointmentDeleteError": "د موعد د له منځه وړلو په وخت کې تېروتنه"
+  "appointmentDeleteError": "د موعد د له منځه وړلو په وخت کې تېروتنه",
+  "unenroll": "نوم لیکنه لغوه کړئ",
+  "starts": "پیل کیږي",
+  "ends": "ختمیږي",
+  "drawerTitle": "یوه موعد اضافه کړئ",
+  "occursUntil": "تر دې وخته پورې روان وي",
+  "frequencyHelperText": "موعد باید هر X اونۍ کې یو ځل وشي",
+  "frequency": "دوران",
+  "weekly": "آیا دا په اونیز ډول تکرار کیدای شي؟",
+  "timezone": "وختي زون غوره کړئ",
+  "endDateTime": "د پای نیټه او وخت",
+  "startDateTime": "د پیل نیټه او وخت",
+  "anotherAppointment": "بل موعد اضافه کړئ",
+  "createAppointment": "موعد جوړول",
+  "addAppointment": "موعد اضافه کړئ",
+  "wasAdded": "موعد په بریالیتوب سره اضافه شو!",
+  "success": "چیغه!"
 }

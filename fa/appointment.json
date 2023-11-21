@@ -1,7 +1,7 @@
 {
   "slotsLeft": "{{count}} شکاف باقی مانده است",
   "slotsLeft_plural": "{{count}} شکاف باقی مانده است",
-  "slotsLeft_zero": "No slots left",
+  "slotsLeft_zero": "شکاف باقی نمانده است",
   "registerUntil": "ثبت نام تا {{deadline}}",
   "registerToday": "آخرین تاریخ ثبت نام",
   "seeAllDates": "همه تاریخ ها را مشاهده کنید",
@@ -10,5 +10,22 @@
   "deleteAppointment": "قرار ملاقات را حذف کن",
   "deleteAppointmentConfirmationText": "آیا مطمئنی که می‌خواهی این قرار ملاقات را حذف کنی؟",
   "appointmentDeleted": "قرار ملاقات با موفقیت حذف شد",
-  "appointmentDeleteError": "خطا در حذف قرار ملاقات"
+  "appointmentDeleteError": "خطا در حذف قرار ملاقات",
+  "unenroll": "لغو ثبت نام",
+  "starts": "شروع می‌شود",
+  "ends": "پایان می‌یابد",
+  "upcomingSessionIn": "جلسه {{distance}} شروع خواهد شد",
+  "drawerTitle": "یک قرار ملاقات اضافه کن",
+  "occursUntil": "تا زمان",
+  "frequencyHelperText": "قرار ملاقات باید هر X هفته یکبار اتفاق بیفتد",
+  "frequency": "فرکانس",
+  "weekly": "آیا باید هر هفته تکرار شود؟",
+  "timezone": "انتخاب منطقه زمانی",
+  "endDateTime": "تاریخ و زمان پایان",
+  "startDateTime": "تاریخ و زمان شروع",
+  "anotherAppointment": "یک قرار ملاقات دیگر اضافه کن",
+  "createAppointment": "ایجاد قرار ملاقات",
+  "addAppointment": "اضافه کردن قرار ملاقات",
+  "wasAdded": "قرار ملاقات با موفقیت اضافه شد!",
+  "success": "هورا!"
 }

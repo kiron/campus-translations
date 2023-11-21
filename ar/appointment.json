@@ -14,5 +14,18 @@
   "deleteAppointment": "حذف الموعد",
   "deleteAppointmentConfirmationText": "هل أنت متأكد من أنك تريد حذف هذا الموعد؟",
   "appointmentDeleted": "تم حذف الموعد بنجاح",
-  "appointmentDeleteError": "خطأ في حذف الموعد"
+  "appointmentDeleteError": "خطأ في حذف الموعد",
+  "drawerTitle": "أضف موعدًا",
+  "occursUntil": "يستمر حتى",
+  "frequencyHelperText": "ينبغي أن يتكرر الموعد كل X أسابيع",
+  "frequency": "التكرار",
+  "weekly": "هل يتكرر أسبوعيًا؟",
+  "timezone": "اختر المنطقة الزمنية",
+  "endDateTime": "تاريخ ووقت الانتهاء",
+  "startDateTime": "تاريخ ووقت البدء",
+  "anotherAppointment": "أضف موعدًا آخر",
+  "createAppointment": "إنشاء موعد",
+  "addAppointment": "إضافة موعد",
+  "wasAdded": "تم إضافة الموعد بنجاح!",
+  "success": "رائع!"
 }
