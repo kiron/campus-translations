@@ -46,7 +46,7 @@
   "leaveClosedProjectInfo": "Atención, esta acción no puede modificarse. Usted no podrá asistir al proyecto.",
   "linkTo": "Enlazar a",
   "noAppointmentsYet": "Todavía no hay eventos programados en este proyecto.",
-  "noAppointmentsYetByTutor": "Su tutor aún no ha programado citas.",
+  "noAppointmentsYetByTutor": "Su tutor aún no ha programado eventos.",
   "noParticipantsYet": "No hay participantes todavía. ¡Anímate a participar!",
   "uploadedBy": "Subido por {{nickname}}",
   "downloadError": "Ha ocurrido un error. Actualiza la página e inténtalo de nuevo.",
