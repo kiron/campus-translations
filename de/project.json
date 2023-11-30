@@ -31,7 +31,7 @@
     "collaborative": "Kollaborativ",
     "type": "Projekt"
   },
-  "chatText": "Du kannst dich mit den Projektteilnehmer austauschen, sobald du diesem Projekt beigetreten bist.",
+  "chatText": "Du kannst dich mit den Projektteilnehmenden austauschen, sobald du diesem Projekt beigetreten bist.",
   "attachmentsText": "Du kannst deine Arbeitsdokumente hier hochladen, sobald du diesem Projekt beigetreten bist.",
   "instructionsText": "Nimm an dem Projekt teil, um mehr darüber zu erfahren.",
   "toolsText": "In diesem Projekt kannst du mit {{0}} verschiedenen Tools arbeiten.",
@@ -63,7 +63,7 @@
     "markAsCompletedTitle": "Abschluss bestätigen?",
     "removeFromCourse": "Aus dem Kurs entfernen",
     "continue": "Fortfahren",
-    "markAsCompletedComment": "Abschluss bestätigen bedeutet, dass der/die Lerner*in nicht länger im Kurs/Projekt/Programm eingeschrieben ist",
+    "markAsCompletedComment": "Abschluss bestätigen bedeutet, dass die Lernenden nicht länger im Kurs/Projekt/Programm eingeschrieben ist",
     "errorMessage": "Ups! Etwas ist schiefgegangen.",
     "retry": "Erneut versuchen"
   }
