@@ -617,7 +617,8 @@
     "renameList": "Liste umbenennen",
     "areYouSure": "Bist Du sicher, dass Du die Liste löschen möchtest? Beachte, dass alle gespeicherten Inhalte in der Liste ebenfalls entfernt werden",
     "listDeleted": "Die Liste wurde erfolgreich gelöscht",
-    "listDeleteError": "Beim Löschen der Liste ist ein Problem aufgetreten"
+    "listDeleteError": "Beim Löschen der Liste ist ein Problem aufgetreten",
+    "dragAndDropInfo": "Jetzt kannst du die Elemente in dieser Liste per Drag-and-Drop sortieren."
   },
   "contentProviders": {
     "noDescriptionAvailable": "Es scheint als wäre noch keine Beschreibung vorhanden.",

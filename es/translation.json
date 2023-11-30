@@ -615,7 +615,8 @@
     "renameList": "Cambiar nombre a la lista",
     "areYouSure": "¿De verdad quieres borrar esta lista?",
     "listDeleted": "La lista se ha borrado con éxito",
-    "listDeleteError": "Se ha producido un error al borrar la lista"
+    "listDeleteError": "Se ha producido un error al borrar la lista",
+    "dragAndDropInfo": "Arrastra y suelta los elementos para ordenarlos."
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
 }
