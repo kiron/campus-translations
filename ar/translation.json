@@ -638,5 +638,34 @@
   "program": {
     "createdBy": "انشأ من قِبَل",
     "createdOthers": "آخرون"
+  },
+  "bookmarks": {
+    "save": "احفظ",
+    "keepTrack": "تابع المحتوى الذي قمت بحفظه.",
+    "saveForLater": "محفوظ للقراءة لاحقًا",
+    "myLists": "قوائمي",
+    "removedFail": "فشل في الإزالة",
+    "removed": "تم إزالته من قوائمك.",
+    "addedFail": "فشل في الإضافة",
+    "added": "تم إضافته إلى قوائمك.",
+    "organize": "نظم رحلة تعلمك",
+    "saved": "تم الحفظ",
+    "add": "أضف",
+    "createNewList": "أضف قائمة جديدة",
+    "saveToList": "احفظ في قائمة",
+    "show": "عرض",
+    "emptyList": "هذه القائمة فارغة",
+    "emptyListSubtitle": "لم تضف أي محتوى بعد.",
+    "listCreated": "تم إنشاء القائمة بنجاح",
+    "listCreationError": "خطأ في إنشاء القائمة",
+    "listUpdated": "تم تحديث القائمة بنجاح",
+    "listUpdateError": "خطأ في تحديث القائمة",
+    "renameList": "أعد تسمية القائمة",
+    "editList": "تعديل القائمة",
+    "areYouSure": "هل أنت متأكد أنك تريد حذف هذه القائمة؟ تذكر أن كل المحتوى المحفوظ داخل هذه القائمة سيتم إزالته أيضًا.",
+    "confirmDelete": "حذف القائمة",
+    "listDeleted": "تم حذف القائمة بنجاح",
+    "listDeleteError": "خطأ في حذف القائمة",
+    "dragAndDropInfo": "يمكنك السحب والإفلات لترتيب الوحدات"
   }
 }

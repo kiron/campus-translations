@@ -378,7 +378,6 @@
     "expiredLinkDesc": "Özür dileriz, bu sayfa artık mevcut değil.",
     "maintenance": "Planlı Bakım Devam Ediyor",
     "maintenanceDesc": "Özür dileriz, lütfen kısa süre sonra tekrar kontrol edin"
-
   },
   "category": "Kategori",
   "moreBtn": "Daha fazla",
@@ -451,5 +450,34 @@
   "accessibility": {
     "comingSoonSubHeader": "Bu sayfa üzerinde çalışmaya devam ediyoruz. Sabrınız için teşekkür ederiz!",
     "comingSoonHeader": "Yakında!"
+  },
+  "bookmarks": {
+    "save": "Kaydet",
+    "keepTrack": "Kaydettiğiniz içerikleri takip edin.",
+    "saveForLater": "Daha sonra için kaydedildi",
+    "myLists": "Listelerim",
+    "removedFail": "Kaldırma başarısız",
+    "removed": "listelerinizden kaldırıldı.",
+    "addedFail": "Ekleme başarısız",
+    "added": "listelerinize eklendi.",
+    "organize": "Öğrenme yolculuğunuzu düzenleyin",
+    "saved": "Kaydedildi",
+    "add": "Ekle",
+    "createNewList": "Yeni bir liste ekle",
+    "saveToList": "Listeye kaydet",
+    "show": "Göster",
+    "emptyList": "Bu liste boş",
+    "emptyListSubtitle": "Henüz herhangi bir içerik eklemediniz.",
+    "listCreated": "Liste başarıyla oluşturuldu",
+    "listCreationError": "Liste oluşturma hatası",
+    "listUpdated": "Liste başarıyla güncellendi",
+    "listUpdateError": "Liste güncelleme hatası",
+    "renameList": "Listeyi yeniden adlandır",
+    "editList": "Listeyi düzenle",
+    "areYouSure": "Bu listeyi silmek istediğinizden emin misiniz? Bu listenin içindeki tüm kaydedilmiş içeriklerin de silineceğini unutmayın.",
+    "confirmDelete": "Listeyi sil",
+    "listDeleted": "Liste başarıyla silindi",
+    "listDeleteError": "Liste silme hatası",
+    "dragAndDropInfo": "Artık bu listedeki öğeleri sürükleyip bırakarak sıralayabilirsiniz."
   }
 }
