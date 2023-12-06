@@ -19,6 +19,7 @@
     "locationTitle": "Location",
     "Location": "Offline",
     "leaveEventTitle": "Are you sure you want to leave event?",
+    "leaveEventDesc": "You will be removed from all appointments, and rejoining may not be possible.",
     "leaveOpenEventInfo": "You can still re-join the event until {{1}}",
     "leaveClosedEventInfo": "This action can't be undone. You won't be able to attend the event anymore.",
     "leaveNo": "No, stay",

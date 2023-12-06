@@ -519,6 +519,7 @@
   "stayTuned": "Bleib dran! Bald gibt es hier mehr Informationen.",
   "category": "Kategorie",
   "moreBtn": "Mehr Infos",
+  "seeLessBtn": "Weniger anzeigen",
   "lessBtn": "Minimieren",
   "survey": {
     "takeSurveyTitle": "Schätze dich selbst ein",
@@ -624,5 +625,9 @@
     "noDescriptionAvailable": "Es scheint als wäre noch keine Beschreibung vorhanden.",
     "preHeadingComingSoon": "Coming soon...",
     "headingContentNotFound": "Noch sind keine Inhalte vorhanden"
+  },
+  "sessions": {
+    "joinMeeting": "Termin beitreten",
+    "multipleSessions": "Mehrere Termine"
   }
 }

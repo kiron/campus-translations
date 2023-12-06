@@ -24,6 +24,12 @@
   "startDateTime": "د پیل نیټه او وخت",
   "anotherAppointment": "بل موعد اضافه کړئ",
   "createAppointment": "موعد جوړول",
+  "title": "سرلیک",
+  "description": "تشریح",
+  "url": "URL",
+  "validUrl": "مهرباني وکړئ یو باوري URL اضافه کړئ",
+  "maxParticipants": "د ګډون کوونکو زیات شمیر",
+  "unlimitedParticipants": "که بې کچه وي، دا 0 ته ټاکئ",
   "addAppointment": "موعد اضافه کړئ",
   "wasAdded": "موعد په بریالیتوب سره اضافه شو!",
   "success": "چیغه!"

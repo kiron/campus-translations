@@ -23,6 +23,7 @@
   "locationTitle": "Lugar",
   "Location": "En persona",
   "leaveEventTitle": "¿Estás seguro/a de que quieres salir del evento?",
+  "leaveEventDesc": "¿Estás seguro de que quieres abandonar el evento? Se te eliminará de todos los eventos y volver a registrarte puede no ser posible.",
   "leaveOpenEventInfo": "Puede volver a unirse al evento hasta el {{1}}",
   "leaveClosedEventInfo": "Esta acción no es reversible. No podrás participar en el evento.",
   "leaveNo": "Quiero asistir",

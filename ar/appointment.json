@@ -25,6 +25,12 @@
   "startDateTime": "تاريخ ووقت البدء",
   "anotherAppointment": "أضف موعدًا آخر",
   "createAppointment": "إنشاء موعد",
+  "title": "العنوان",
+  "description": "العنوان",
+  "url": "URL",
+  "validUrlPrompt": "يرجى إضافة رابط صالح",
+  "maxParticipants": "الحد الأقصى لعدد المشاركين",
+  "unlimitedParticipants": "اضبط على 0 إذا كان غير محدود",
   "addAppointment": "إضافة موعد",
   "wasAdded": "تم إضافة الموعد بنجاح!",
   "success": "رائع!"

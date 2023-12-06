@@ -338,6 +338,7 @@
     "weeks": "اونۍ"
   },
   "moreBtn": "نور وګوره",
+  "seeLessBtn": "لږ وګورئ",
   "lessBtn": "سقوط",
   "bookmarks": {
     "save": "خوندي کړئ",
@@ -367,5 +368,9 @@
     "listDeleted": "لیست په بریالیتوب سره لرې شو",
     "listDeleteError": "په لرې کولو کې د لیست ستونزه",
     "dragAndDropInfo": "اوس کولی شئ د دې لیست کې توکي په کښې او بیا راویستلو سره مرتب کړئ."
+  },
+  "sessions": {
+    "joinMeeting": "د غونډې برخه کېدل",
+    "multipleSessions": "ګڼ شمېر ناستې"
   }
 }

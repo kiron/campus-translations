@@ -338,6 +338,7 @@
     "weeks": "هفته ها"
   },
   "moreBtn": "بیشتر ببین",
+  "seeLessBtn": "کمتر ببینید",
   "lessBtn": "سقوط - فروپاشی",
   "bookmarks": {
     "save": "ذخیره",
@@ -367,5 +368,9 @@
     "listDeleted": "لیست با موفقیت حذف شد",
     "listDeleteError": "خطا در حذف لیست",
     "dragAndDropInfo": "اکنون می‌توانید آیتم‌های موجود در این لیست را با کشیدن و رها کردن مرتب کنید."
+  },
+  "sessions": {
+    "joinMeeting": "به جلسه بپیوندید",
+    "multipleSessions": "چندین جلسه"
   }
 }

@@ -25,6 +25,12 @@
   "startDateTime": "تاریخ و زمان شروع",
   "anotherAppointment": "یک قرار ملاقات دیگر اضافه کن",
   "createAppointment": "ایجاد قرار ملاقات",
+  "title": "عنوان",
+  "description": "توضیحات",
+  "url": "URL",
+  "validUrlPrompt": "لطفاً یک آدرس اینترنتی معتبر اضافه کنید",
+  "maxParticipants": "حداکثر تعداد شرکت‌کنندگان",
+  "unlimitedParticipants": "اگر نامحدود است، 0 را تنظیم کنید",
   "addAppointment": "اضافه کردن قرار ملاقات",
   "wasAdded": "قرار ملاقات با موفقیت اضافه شد!",
   "success": "هورا!"

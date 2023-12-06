@@ -381,6 +381,7 @@
   },
   "category": "Kategori",
   "moreBtn": "Daha fazla",
+  "seeLessBtn": "Az Göster",
   "lessBtn": "Daha az",
   "survey": {
     "takeSurveyTitle": "Kendinizi bir ankette değerlendirin",
@@ -479,5 +480,9 @@
     "listDeleted": "Liste başarıyla silindi",
     "listDeleteError": "Liste silme hatası",
     "dragAndDropInfo": "Artık bu listedeki öğeleri sürükleyip bırakarak sıralayabilirsiniz."
+  },
+  "sessions": {
+    "joinMeeting": "Toplantıya Katıl",
+    "multipleSessions": "Birden Fazla Oturum"
   }
 }

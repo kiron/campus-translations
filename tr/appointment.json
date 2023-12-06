@@ -25,6 +25,12 @@
   "startDateTime": "Başlangıç tarihi ve saati",
   "anotherAppointment": "Başka bir randevu ekle",
   "createAppointment": "Randevu oluştur",
+  "title": "Başlık",
+  "description": "Açıklama",
+  "url": "URL",
+  "validUrl": "Lütfen geçerli bir URL ekleyin",
+  "maxParticipants": "Maks. katılımcı sayısı",
+  "unlimitedParticipants": "Sınırsız ise 0 olarak ayarlayın",
   "addAppointment": "Randevu ekle",
   "wasAdded": "Randevu başarıyla eklendi!",
   "success": "Harika!"

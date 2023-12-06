@@ -518,6 +518,7 @@
   },
   "category": "Categoría",
   "moreBtn": "Ver más",
+  "seeLessBtn": "Ocultar",
   "lessBtn": "Minimizar",
   "survey": {
     "takeSurveyTitle": "Rellena tu cuestionario de autoevaluación",
@@ -617,6 +618,10 @@
     "listDeleted": "La lista se ha borrado con éxito",
     "listDeleteError": "Se ha producido un error al borrar la lista",
     "dragAndDropInfo": "Arrastra y suelta los elementos para ordenarlos."
+  },
+  "sessions": {
+    "joinMeeting": "Unirse a la reunión",
+    "multipleSessions": "múltiples sesiones"
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
 }

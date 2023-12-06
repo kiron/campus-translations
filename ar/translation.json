@@ -565,6 +565,7 @@
   "stayTuned": "ابق على اطلاع! سيتم نشر مزيد من المعلومات قريبا.",
   "category": "الفئة",
   "moreBtn": "مشاهدة المزيد",
+  "seeLessBtn": "عرض أقل",
   "lessBtn": "تصغير",
   "survey": {
     "takeSurveyTitle": "قم بإجراء استبيان تقييم ذاتي",
@@ -667,5 +668,9 @@
     "listDeleted": "تم حذف القائمة بنجاح",
     "listDeleteError": "خطأ في حذف القائمة",
     "dragAndDropInfo": "يمكنك السحب والإفلات لترتيب الوحدات"
+  },
+  "sessions": {
+    "joinMeeting": "انضم إلى الاجتماع",
+    "multipleSessions": "جلسات متعددة"
   }
 }

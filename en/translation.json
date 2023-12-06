@@ -493,6 +493,7 @@
   "stayTuned": "Stay tuned! More information coming soon.",
   "category": "Category",
   "moreBtn": "See more",
+  "seeLessBtn": "See less",
   "lessBtn": "Collapse",
   "survey": {
     "takeSurveyTitle": "Assess yourself in a survey",
@@ -602,5 +603,9 @@
     "btnShowLess": "Show less",
     "preHeadingComingSoon": "Coming soon...",
     "headingContentNotFound": "Sorry, no content was found"
+  },
+  "sessions": {
+    "joinMeeting": "Join Meeting",
+    "multipleSessions": "Multiple sessions"
   }
 }
