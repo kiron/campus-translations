@@ -1,5 +1,5 @@
 {
-  "slotsLeft": "{{count}} spots left",
+  "slotsLeft": "{{count}} spot left",
   "slotsLeft_plural": "{{count}} spots left",
   "slotsLeft_zero": "No spots left",
   "registerUntil": "Register until {{deadline}}",
