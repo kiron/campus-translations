@@ -456,7 +456,8 @@
     "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course",
     "badges": "Badges",
     "platform": "Platform",
-    "participantsTitle": "Participants"
+    "participantsTitle": "Participants",
+    "relatedTopics": "Related topics"
   },
   "errors": {
     "lostCourse": "This course is lost",

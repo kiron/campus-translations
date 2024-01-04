@@ -482,7 +482,8 @@
     "reviews": "Bewertungen",
     "badges": "Badges",
     "platform": "Plattform",
-    "participantsTitle": "Teilnehmende"
+    "participantsTitle": "Teilnehmende",
+    "relatedTopics": "Verwandte Themen"
   },
   "errors": {
     "lostCourse": "Dieser Kurs ist verschwunden",
