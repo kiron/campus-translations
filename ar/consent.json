@@ -86,9 +86,9 @@
     "details": "{{codeOfConduct}}"
   },
   "cookieBanner": {
-    "header": "We value your privacy",
-    "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept All”, you consent to our use of cookies. ",
-    "acceptAll": "Accept all",
-    "rejectAll": "Reject all"
+    "header": "نحن نقدر خصوصيتك",
+    "infoMessage": "نحن نستخدم ملفات تعريف الارتباط لتحسين تجربة التصفح الخاصة بك، وتحليل الحركة  لدينا. بالنقر على  “قبول الكل“، فإنك توافق على استخدامنا لملفات تعريف الارتباط. ",
+    "acceptAll": "قبول الكل",
+    "rejectAll": "رفض الكل"
   }
 }

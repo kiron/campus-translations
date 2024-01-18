@@ -87,8 +87,8 @@
     },
     "cookieBanner": {
         "header": "We value your privacy",
-        "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept All”, you consent to our use of cookies. ",
-        "acceptAll": "Accept all",
-        "rejectAll": "Reject all"
+        "infoMessage": "Utilizamos cookies para mejorar tu experiencia de navegación y analizar nuestro tráfico. Al hacer clic en “Aceptar todo” das tu consentimiento para que utilicemos cookies. ",
+        "acceptAll": "Aceptar todo",
+        "rejectAll": "Rechazar todo"
       }
 }

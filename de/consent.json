@@ -85,9 +85,9 @@
     "details": "{{codeOfConduct}}"
   },
   "cookieBanner": {
-    "header": "We value your privacy",
-    "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept All”, you consent to our use of cookies. ",
-    "acceptAll": "Accept all",
-    "rejectAll": "Reject all"
+    "header": "Deine Privatsphäre ist uns wichtig",
+    "infoMessage": "Für ein optimales Surferlebnis und zur Analyse unseres Datenverkehrs nutzen wir Cookies. Wenn du auf “Alle akzeptieren” klickst, stimmst du der Verarbeitung von Cookies zu. ",
+    "acceptAll": "Alle akzeptieren",
+    "rejectAll": "Alle ablehnen"
   }
 }
