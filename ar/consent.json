@@ -84,5 +84,11 @@
     "description": ".قبل الانضمام ، يرجى قراءة إتفاقية قواعد السلوك الخاصة بنا أدناه",
     "checkbox": ".أوافق على إتفاقية قواعد السلوك الخاصة بمساحة المجتمع",
     "details": "{{codeOfConduct}}"
+  },
+  "cookieBanner": {
+    "header": "We value your privacy",
+    "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept All”, you consent to our use of cookies. ",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all"
   }
 }

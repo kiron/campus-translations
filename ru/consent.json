@@ -83,5 +83,11 @@
     "description": "Прежде чем присоединиться, прочти наш кодекс поведения, приведенный ниже.",
     "checkbox": "Я согласен/на с кодексом поведения в сообществе.",
     "details": "{{codeOfConduct}}"
+  },
+  "cookieBanner": {
+    "header": "We value your privacy",
+    "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept All”, you consent to our use of cookies. ",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all"
   }
 }

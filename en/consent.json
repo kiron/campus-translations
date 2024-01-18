@@ -83,5 +83,11 @@
     "description": "Before you join, please read our Code of Conduct below.",
     "checkbox": "I agree to the community code of conduct.",
     "details": "{{codeOfConduct}}"
+  },
+  "cookieBanner": {
+    "header": "We value your privacy",
+    "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept all”, you consent to our use of cookies. ",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all"
   }
 }

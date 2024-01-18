@@ -83,5 +83,11 @@
     "description": "قبل از عضویت ، لطفاً کد رفتار ما را در زیر بخوانید.",
     "checkbox": "من با قانون رفتار جامعه موافقم.",
     "details": "{{codeOfConduct}}"
+  },
+  "cookieBanner": {
+    "header": "We value your privacy",
+    "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept All”, you consent to our use of cookies. ",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all"
   }
 }
