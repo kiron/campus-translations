@@ -87,7 +87,7 @@
     },
     "cookieBanner": {
         "header": "Valoramos tu privacidad",
-        "infoMessage": "Utilizamos cookies para mejorar tu experiencia de navegación y analizar nuestro tráfico. Al hacer clic en “Aceptar todo” das tu consentimiento para que utilicemos cookies. ",
+        "infoMessage": "Utilizamos cookies para mejorar tu experiencia de navegación y analizar nuestro tráfico. Al hacer clic en “Aceptar todo” das tu consentimiento para que utilicemos cookies.",
         "acceptAll": "Aceptar todo",
         "rejectAll": "Rechazar todo"
       }
