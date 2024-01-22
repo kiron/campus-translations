@@ -61,7 +61,8 @@
         "title": "Benutzerkonto",
         "deleteAccount": {
             "title": "Benutzerkonto löschen",
-            "info": "Du möchtest Dein Benutzerkonto löschen? Schicke bitte eine E-Mail an: <1></1> Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht. "
+            "info": "Du möchtest Dein Benutzerkonto löschen? Schicke bitte eine E-Mail an:",
+            "hint": "Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht. "
         }
     }
 }
