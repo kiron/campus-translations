@@ -58,14 +58,10 @@
         }
     },
     "manageAccount": {
-        "title": "Manage Account",
-        "dataRequest": {
-            "title": "Request your data",
-            "info": "To request your data send an email to <1></1>."
-        },
+        "title": "Benutzerkonto",
         "deleteAccount": {
-            "title": "Delete account",
-            "info": "To delete your account send an email to <1></1> and we will start a process to delete your account. Process will take around 4 weeks. This process cannot be undone."
+            "title": "Benutzerkonto löschen",
+            "info": "Du möchtest Dein Benutzerkonto löschen? Schicke bitte eine E-Mail an: <1></1> Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht. "
         }
     }
 }

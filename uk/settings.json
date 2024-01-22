@@ -46,14 +46,10 @@
     }
   },
   "manageAccount": {
-    "title": "Manage Account",
-    "dataRequest": {
-        "title": "Request your data",
-        "info": "To request your data send an email to <1></1>."
-    },
+    "title": "Account",
     "deleteAccount": {
         "title": "Delete account",
-        "info": "To delete your account send an email to <1></1> and we will start a process to delete your account. Process will take around 4 weeks. This process cannot be undone."
+        "info": "If you wish to delete permanently your account please send an email to: <1></1> Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
     }
   }
 }

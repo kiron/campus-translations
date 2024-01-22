@@ -58,14 +58,10 @@
         }
     },
     "manageAccount": {
-        "title": "Manage Account",
-        "dataRequest": {
-            "title": "Request your data",
-            "info": "To request your data send an email to <1></1>."
-        },
+        "title": "Cuenta",
         "deleteAccount": {
-            "title": "Delete account",
-            "info": "To delete your account send an email to <1></1> and we will start a process to delete your account. Process will take around 4 weeks. This process cannot be undone."
+            "title": "Eliminar cuenta",
+            "info": "Si deseas eliminar permanentemente tu cuenta, por favor envía un correo electrónico a: <1></1> Sólo un recordatorio rápido, al cerrar tu cuenta todos tus progresos y datos se eliminarán permanentemente, incluyendo las certificaciones que hayas recibido."
         }
     }
 }
