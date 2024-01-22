@@ -98,7 +98,8 @@
       "certificateDate": "Fecha del certificado",
       "certificateDateDesc": "Añadir un certificado le ayudará con su solicitud de ingreso en la universidad.",
       "yes": "Sí",
-      "no": "No"
+      "no": "No",
+      "deleteCertificateTitle": "Eliminar certificado"
     },
     "addedToWallet": "Añadido a tu cartera",
     "addToWallet": "Añadir a tu cartera"
@@ -161,12 +162,13 @@
     "certificateCounter": "Ha terminado {{0}} de {{1}} unidades",
     "removeYes": "Sí",
     "removeNo": "No",
-    "removeTitle": "Desinscribirse del curso",
+    "removeTitle": "Desinscribirse de baja",
     "removeQuestion": "¿Está seguro de que desea desinscribirse de este curso?",
     "addModuleSuccess": "Éxito",
     "addModuleBtnContinue": "Continuar mirando",
     "addModuleBtnStart": "Comenzar ahora la primera unidad",
     "addModuleText": "Este skill booster program ha sido añadido a su pestaña de inicio",
+    "enrollModuleTitle": "¿Quieres unirte a este programa?",
     "enrollModuleBtnNo": "Ahora no",
     "enrollModuleBtnStart": "Comenzar a estudiar",
     "enrollModuleText": "Hola {{0}}, esto es parte de su programa de estudios <1>{{- 1}}</1>. ¿Quiere empezarlo para aprender <3>{{- 3}}</3>?",
@@ -203,7 +205,7 @@
     "addProgramText": "Hemos añadido este programa a su página de inicio",
     "titleProgram": "Programa",
     "Text": "Lo sentimos, solamente se puede inscribir a {{0}} cursos",
-    "stayInOldProgram": "Quiero quedarme en la versión antigua del programa",
+    "stayInOldProgram": "Permanecer en el programa antiguo",
     "updatedProgramMaintained": "No te preocupes, tu progreso se guardará aunque te registres en la nueva versión del programa.",
     "updatedProgramText": "¡Hemos actualizado el programa en el que te registraste! Te recomendamos unirte a la nueva versión del programa haciendo clic en",
     "updatedProgram": "¡El programa se ha actualizado!",

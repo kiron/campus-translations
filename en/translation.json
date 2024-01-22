@@ -99,7 +99,8 @@
       "certificateDate": "Certificate date",
       "certificateDateDesc": "Adding a certificate will help with your application to university.",
       "yes": "Yes",
-      "no": "No"
+      "no": "No",
+      "deleteCertificateTitle": "Delete certificate"
     },
     "addToWallet": "Add to data wallet",
     "addedToWallet": "Added to data wallet"
@@ -156,11 +157,12 @@
     "certificateCounter": "You've finished {{0}} of {{1}} units",
     "removeYes": "Yes",
     "removeNo": "No",
-    "removeTitle": "Unenroll from course",
+    "removeTitle": "Unenroll from program",
     "removeQuestion": "Are you sure you want to unenroll from this course?",
     "addModuleSuccess": "Success",
     "addModuleBtnContinue": "Continue browsing",
     "addModuleBtnStart": "Start first unit now",
+    "enrollModuleTitle": "Do you want to join this program?",
     "enrollModuleBtnNo": "Not now",
     "enrollModuleBtnStart": "Start learning",
     "enrollModuleText": "Hi {{0}}, this is part of our learning program <1>{{- 1}}</1>. Do you want to start it to learn about <3>{{- 3}}</3>?",
@@ -194,7 +196,7 @@
     "selfPaced": "Self-paced",
     "titleProgram": "Program",
     "addProgramText": "This program has been added to your home tab",
-    "stayInOldProgram": "I want to stay in the old program",
+    "stayInOldProgram": "Stay in the old program",
     "updatedProgramMaintained": "Don't worry, your progress will be maintained when you join the new program.",
     "updatedProgramText": "We have updated the program you're currently enrolled in with new courses! We recommend you to join the new program by clicking on",
     "updatedProgram": "This program has been updated!",

@@ -100,7 +100,8 @@
       "certificateDate": "Datum des Zertifikats",
       "certificateDateDesc": "Das Hinzufügen eines Zertifikats hilft bei der Bewerbung an einer Universität.",
       "yes": "Ja",
-      "no": "Nein"
+      "no": "Nein",
+      "deleteCertificateTitle": "Zertifikat löschen"
     },
     "addedToWallet": "Zur Data Wallet hinzugefügt",
     "addToWallet": "Zur Data Wallet hinzufügen"
@@ -163,7 +164,7 @@
     "certificateCounter": "Du hast {{0}} von {{1}} Kursen beendet",
     "removeYes": "Ja",
     "removeNo": "Nein",
-    "removeTitle": "Vom Kurs abmelden",
+    "removeTitle": "Vom Programm abmelden",
     "removeQuestion": "Bist du dir sicher, dass du dich von diesem Kurs abmelden möchtest?",
     "addModuleSuccess": "Erfolgreich angemeldet",
     "addModuleBtnContinue": "Weiter browsen",
@@ -171,6 +172,7 @@
     "addModuleText": "Dieses Skill Booster Program wurde deinem Home Tab hinzugefügt",
     "enrollModuleBtnNo": "Jetzt nicht",
     "enrollModuleBtnStart": "Jetzt starten",
+    "enrollModuleTitle": "Möchtest du dich für dieses Programm anmelden?",
     "enrollModuleText": "Hi {{0}}, dies ist Teil unseres Lernprogramms <1>{{- 1}}</1>. Willst du damit beginnen und etwas lernen über <3>{{- 3}}</3>?",
     "showContent": "Zusätzlichen Inhalt anzeigen",
     "hideContent": "Zusätzlichen Inhalt ausblenden",
@@ -204,7 +206,7 @@
     "selfPaced": "Selbstgesteuert",
     "titleProgram": "Programm",
     "addProgramText": "Dieses Programm wurde zu deiner Startseite hinzugefügt",
-    "stayInOldProgram": "Ich möchte im alten Programm bleiben",
+    "stayInOldProgram": "Im alten Programm bleiben",
     "updatedProgramMaintained": "Keine Sorge, dein Stand wird beibehalten, wenn du dem neuen Programm beitrittst.",
     "updatedProgram": "Dieses Programm wurde aktualisiert!",
     "updatedProgramText": "Wir haben diesem Programm neue Kurse hinzugefügt. Wir empfehlen dir, dem neuen Programm beizutreten. Klicke dafür auf „Weiterlernen“.\n\nKeine Sorge, dein aktueller Stand wird beibehalten, wenn Du der aktuellsten Version des Programms beitrittst.",

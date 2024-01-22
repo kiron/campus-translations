@@ -61,7 +61,8 @@
       "certificateDate": "تاريخ الشهادة",
       "certificateDateDesc": "ستساعد إضافة شهادة في تقديم طلبك للجامعة.",
       "yes": "نعم",
-      "no": "لا"
+      "no": "لا",
+      "deleteCertificateTitle": "حذف الشهادة"
     },
     "addedToWallet": "تمت الإضافة إلى data wallet",
     "addToWallet": "أضف إلى data wallet"
@@ -124,7 +125,7 @@
     "certificateCounter": "لقد انتهيت من {{0}} من {{1}} وحدة",
     "removeYes": "نعم",
     "removeNo": "لا",
-    "removeTitle": "إلغاء التسجيل من الدورة التدريبية",
+    "removeTitle": "إلغاء التسجيل من البرنامج",
     "removeQuestion": "هل أنت متأكد أنك تريد إلغاء التسجيل في هذه الدورة؟",
     "addModuleSuccess": "نجاح",
     "addModuleBtnContinue": "تابع التصفح",
@@ -132,6 +133,7 @@
     "addModuleText": "تمت إضافة برنامج تعزيز المهارات هذا إلى علامة التبويب الرئيسية الخاصة بك",
     "enrollModuleBtnNo": "ليس الان",
     "enrollModuleBtnStart": "ابدا بالتعلم",
+    "enrollModuleTitle": "هل تريد الانضمام إلى هذا البرنامج؟",
     "enrollModuleText": "مرحبًا {{0}} ، هذا جزء من برنامج التعلم <1>{{- 1}}</1>. هل تريد البدء في التعرف على <3>{{- 3}}</3>؟",
     "showContent": "إظهار محتوى إضافي",
     "hideContent": "إخفاء المحتوى الإضافي",
@@ -166,7 +168,7 @@
     "updatedProgram": "تم تحديث هذا البرنامج!",
     "updatedProgramText": "لقد قمنا بتحديث هذا البرنامج و أضفنا فيه دورات جديدة! نوصيك بالانضمام إلى البرنامج الجديد بالنقر فوق",
     "updatedProgramMaintained": "لا تقلق، سيتم الحفاظ على تقدمك عندما تنضم إلى البرنامج الجديد.",
-    "stayInOldProgram": "اريد البقاء في البرنامج القديم",
+    "stayInOldProgram": "البقاء في البرنامج القديم",
     "addProgramText": "تمت إضافة هذا البرنامج إلى الصفحة الرئيسية الخاصة بك",
     "titleProgram": "برنامج",
     "Text": "عذراً، يمكنك التسجيل في ما يصل إلى {{0}} دورة تدريبية",
