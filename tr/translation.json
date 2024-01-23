@@ -5,7 +5,7 @@
     "initial": {
       "emailButton": "Eposta ile kayıt ol",
       "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
-      "termsLink": "Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı",
+      "termsLink": "Veri politikası",
       "alreadyUserTitle": "Zaten Kullanıcı mısın?",
       "alreadyUserLink": "Oturum aç",
       "or": "or"
@@ -28,7 +28,7 @@
       "emailSentDescription01": "Epostanı Adresini Kontrol Et.",
       "emailSentDescription02": "Sana hesabını etkinleştirmen için bir bağlantı gönderdik.",
       "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
-      "termsLink": "Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı"
+      "termsLink": "Veri politikası"
     },
     "registerConfirmed": {
       "title": "Neredeyse Bitti!",

@@ -5,7 +5,7 @@
     "initial": {
       "emailButton": "Registrieren mit E-Mail",
       "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unseren",
-      "termsLink": "Datenschutzbestimmungen/Nutzungsbedingungen",
+      "termsLink": "Datenschutzrichtlinie",
       "alreadyUserTitle": "Besitzt du bereits ein Account?",
       "alreadyUserLink": "Login",
       "or": "oder"
@@ -28,7 +28,7 @@
       "emailSentDescription01": "Überprüfe deine E-Mail",
       "emailSentDescription02": "Wir haben dir einen Link geschickt, um dein Konto zu aktivieren.",
       "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unseren",
-      "termsLink": "Datenschutzbestimmungen/Nutzungsbedingungen"
+      "termsLink": "Datenschutzrichtlinie"
     },
     "registerConfirmed": {
       "title": "Fast fertig!",

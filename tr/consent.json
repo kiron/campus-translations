@@ -19,7 +19,7 @@
     "managePreferences": "Manage preferences",
     "cancel": "Cancel",
     "joinCommunity": "Join community",
-    "readMore": "Read more",
+    "readMore": "Okumaya devam et",
     "close": "Close"
   },
   "toasters": {
@@ -85,9 +85,9 @@
     "details": "{{codeOfConduct}}"
   },
   "cookieBanner": {
-    "header": "We value your privacy",
-    "infoMessage": "We use cookies to enhance your browsing experience, and analyze our traffic. By clicking “Accept All”, you consent to our use of cookies.",
-    "acceptAll": "Accept all",
-    "rejectAll": "Reject all"
+    "header": "Gizliliğinize değer veriyoruz",
+    "infoMessage": "Tarama deneyiminizi geliştirmek ve trafiğimizi analiz etmek için çerezleri kullanıyoruz. 'Tümünü kabul et' seçeneğine tıklayarak çerez kullanımımıza izin vermiş olursunuz.cept all",
+    "rejectAll": "Tümünü reddet",
+    "acceptAll": "Tümünü kabul et"
   }
 }

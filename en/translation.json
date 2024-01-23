@@ -5,7 +5,7 @@
     "initial": {
       "emailButton": "Register with email",
       "termsText": "By continuing, you agree to our",
-      "termsLink": "Privacy Policy/Terms of Service",
+      "termsLink": "Data Policy",
       "alreadyUserTitle": "Already a user?",
       "alreadyUserLink": "Login",
       "or": "or"
@@ -28,7 +28,7 @@
       "emailSentDescription01": "Check your email.",
       "emailSentDescription02": "We sent you a link to activate your account.",
       "termsText": "By continuing, you agree to our",
-      "termsLink": "Privacy Policy/Terms of Service"
+      "termsLink": "Data Policy"
     },
     "registerConfirmed": {
       "title": "Almost done!",
