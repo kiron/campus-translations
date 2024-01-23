@@ -95,7 +95,8 @@
       "certificateDate": "Sertifika tarihi",
       "certificateDateDesc": "Sertifika eklemek üniversite başvurunda sana yardımcı olacaktır.",
       "yes": "Evet ",
-      "no": "Hayır"
+      "no": "Hayır",
+      "deleteCertificateTitle": "Sertifikamı sil"
     },
     "addToWallet": "Data wallete ekle",
     "addedToWallet": "Data wallete eklendi"
@@ -152,7 +153,7 @@
     "certificateCounter": "{{1}} Üniteden {{0}} 'ını bitirdin",
     "removeYes": "Yes",
     "removeNo": "Hayır",
-    "removeTitle": "Kurs kaydını sil",
+    "removeTitle": "program kaydını sil",
     "removeQuestion": "Bu kurstan ayrılmak istediğinize emin misiniz?",
     "addModuleSuccess": "Başarılı",
     "addModuleBtnContinue": "Göz atmaya devam et",
@@ -160,6 +161,7 @@
     "addModuleText": "Bu Skill Booster programı ana sayfanıza eklendi",
     "enrollModuleBtnNo": "Şimdi değil",
     "enrollModuleBtnStart": "Öğrenmeye başla",
+    "enrollModuleTitle":"Bu programa katılmak istiyor musun?",
     "enrollModuleText": "Merhaba {{0}},bu bizim eğitim programımızın bir parçası. <1>{{- 1}}</1>. Hakkında bilgi almaya başlatmak istiyor musun <3>{{- 3}}</3>?",
     "showContent": "Ekstra içeriği göster",
     "hideContent": "Ekstra içeriği gizle",
@@ -204,7 +206,8 @@
     "downloadCertificateBtn": "Sertifikayı İndir",
     "socialShareTextBtn": "{{courseDenomination}} bitirdim",
     "exploreMoreProgramsBtn": "Diğer programlar keşfedin",
-    "completedACourseHeader": "Yupi! Bu kursu tamamladınız."
+    "completedACourseHeader": "Yupi! Bu kursu tamamladınız.",
+    "stayInOldProgram":"Eski programda kal"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Sonraki"
