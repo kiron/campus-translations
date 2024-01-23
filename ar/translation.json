@@ -473,7 +473,7 @@
       "title": "يكاد ينتهي!"
     },
     "registerWithEmail": {
-      "termsLink": "سياسة الخصوصية / شروط الخدمة",
+      "termsLink": "سياسة حماية البيانات",
       "termsText": "بالمتابعة، فإنك توافق على",
       "emailSentDescription02": "لقد أرسلنا لك رابطًا لتفعيل حسابك.",
       "emailSentDescription01": "تحقق من بريدك الالكتروني.",
@@ -496,7 +496,7 @@
       "or": "أو",
       "alreadyUserLink": "تسجيل دخول",
       "alreadyUserTitle": "هل انت مسجّّل؟",
-      "termsLink": "سياسة الخصوصية / شروط الخدمة",
+      "termsLink": "سياسة حماية البيانات",
       "termsText": "بمتابعتك, انت توافق على",
       "emailButton": "سجّّل بالايميل"
     },
