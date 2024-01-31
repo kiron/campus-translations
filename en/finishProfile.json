@@ -46,5 +46,6 @@
     }
   },
   "dateOfBirthError": "We are sorry, but the campus is only available for 18+",
-  "phoneError": "Please enter a phone number with a country code e.g (+49, 0049)"
+  "phoneError": "Please enter a phone number with a country code e.g (+49, 0049)",
+  "provideEmail": "One more thing! To continue, please provide us with an email or connect your data wallet."
 }

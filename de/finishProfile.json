@@ -46,5 +46,6 @@
     }
   },
   "dateOfBirthError": "Es tut uns leid, aber der Campus ist er ab 18+ Jahren verfügbar",
-  "phoneError": "Bitte gib eine Telefonnummer mit einem Ländercode am Anfang ein (zum Besipiel +49 oder 0049 für Deutschland)."
+  "phoneError": "Bitte gib eine Telefonnummer mit einem Ländercode am Anfang ein (zum Besipiel +49 oder 0049 für Deutschland).",
+  "provideEmail": "Um fortzufahren, benötigen wir deine E-Mail-Adresse. Gib deine E-Mail direkt ein oder verbinde deine Ablage (Data Wallet), um E-Mail, Name, Geburtsdatum und dein Land zu übertragen."
 }
