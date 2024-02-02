@@ -611,5 +611,8 @@
     "joinMeeting": "Join Meeting",
     "multipleSessions": "Multiple sessions"
   },
+  "datawallet": {
+    "linkWallet": "Link data wallet"
+  },
   "backBtnLabel": "Back"
 }

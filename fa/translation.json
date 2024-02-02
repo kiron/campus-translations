@@ -373,5 +373,8 @@
     "joinMeeting": "به جلسه بپیوندید",
     "multipleSessions": "چندین جلسه"
   },
+  "datawallet": {
+    "linkWallet": "لینک کیف پول داده‌ها"
+  },
   "backBtnLabel": "بازگشت"
 }

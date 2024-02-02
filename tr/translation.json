@@ -488,5 +488,8 @@
     "joinMeeting": "Toplantıya Katıl",
     "multipleSessions": "Birden Fazla Oturum"
   },
+  "datawallet": {
+    "linkWallet": "Veri cüzdanını bağla"
+  },
   "backBtnLabel": "Geri"
 }

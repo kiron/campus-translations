@@ -484,5 +484,8 @@
     "joinMeeting": "Приєднатися до зустрічі",
     "multipleSessions": "Декілька сесій"
   },
+  "datawallet": {
+    "linkWallet": "Посилання на гаманець даних"
+  },
   "backBtnLabel": "Назад"
 }

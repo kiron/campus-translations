@@ -675,5 +675,8 @@
     "joinMeeting": "انضم إلى الاجتماع",
     "multipleSessions": "جلسات متعددة"
   },
+  "datawallet": {
+    "linkWallet": "ربط محفظة البيانات"
+  },
   "backBtnLabel": "رجوع"
 }

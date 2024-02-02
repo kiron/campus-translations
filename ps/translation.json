@@ -373,5 +373,8 @@
     "joinMeeting": "د غونډې برخه کېدل",
     "multipleSessions": "ګڼ شمېر ناستې"
   },
+  "datawallet": {
+    "linkWallet": "معلوماتو کیسې لینک"
+  },
   "backBtnLabel": "بياک"
 }

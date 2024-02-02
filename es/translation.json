@@ -626,5 +626,8 @@
     "multipleSessions": "múltiples sesiones"
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…",
+  "datawallet": {
+    "linkWallet": "Conectar billetera de datos"
+  },
   "backBtnLabel": "Atrás"
 }

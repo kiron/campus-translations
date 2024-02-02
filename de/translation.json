@@ -633,5 +633,8 @@
     "joinMeeting": "Termin beitreten",
     "multipleSessions": "Mehrere Termine"
   },
+  "datawallet": {
+    "linkWallet": "Data Wallet verknüpfen"
+  },
   "backBtnLabel": "Zurück"
 }
