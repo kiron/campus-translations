@@ -632,5 +632,6 @@
   "sessions": {
     "joinMeeting": "Termin beitreten",
     "multipleSessions": "Mehrere Termine"
-  }
+  },
+  "backBtnLabel": "Zurück"
 }

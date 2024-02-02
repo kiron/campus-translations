@@ -625,5 +625,6 @@
     "joinMeeting": "Unirse a la reunión",
     "multipleSessions": "múltiples sesiones"
   },
-  "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…"
+  "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…",
+  "backBtnLabel": "Atrás"
 }

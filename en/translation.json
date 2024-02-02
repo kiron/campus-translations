@@ -610,5 +610,6 @@
   "sessions": {
     "joinMeeting": "Join Meeting",
     "multipleSessions": "Multiple sessions"
-  }
+  },
+  "backBtnLabel": "Back"
 }

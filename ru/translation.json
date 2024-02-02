@@ -482,5 +482,6 @@
   "sessions": {
     "joinMeeting": "Присоединиться к встрече",
     "multipleSessions": "Несколько сессий"
-  }
+  },
+  "backBtnLabel": "Назад"
 }

@@ -372,5 +372,6 @@
   "sessions": {
     "joinMeeting": "د غونډې برخه کېدل",
     "multipleSessions": "ګڼ شمېر ناستې"
-  }
+  },
+  "backBtnLabel": "بياک"
 }

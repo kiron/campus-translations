@@ -372,5 +372,6 @@
   "sessions": {
     "joinMeeting": "به جلسه بپیوندید",
     "multipleSessions": "چندین جلسه"
-  }
+  },
+  "backBtnLabel": "بازگشت"
 }

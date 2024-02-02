@@ -487,5 +487,6 @@
   "sessions": {
     "joinMeeting": "Toplantıya Katıl",
     "multipleSessions": "Birden Fazla Oturum"
-  }
+  },
+  "backBtnLabel": "Geri"
 }

@@ -674,5 +674,6 @@
   "sessions": {
     "joinMeeting": "انضم إلى الاجتماع",
     "multipleSessions": "جلسات متعددة"
-  }
+  },
+  "backBtnLabel": "رجوع"
 }
