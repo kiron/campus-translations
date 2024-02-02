@@ -612,7 +612,8 @@
     "multipleSessions": "Multiple sessions"
   },
   "datawallet": {
-    "linkWallet": "Link data wallet"
+    "linkWallet": "Link data wallet",
+    "scanQR": "Scan the QR code using the data wallet app to connect your account."
   },
   "backBtnLabel": "Back"
 }

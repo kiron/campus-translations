@@ -634,7 +634,8 @@
     "multipleSessions": "Mehrere Termine"
   },
   "datawallet": {
-    "linkWallet": "Data Wallet verknüpfen"
+    "linkWallet": "Data Wallet verknüpfen",
+    "scanQR": "Scanne diesen QR-Code mit deiner Data Wallet App um deine Konten zu verknüpfen."
   },
   "backBtnLabel": "Zurück"
 }

@@ -627,7 +627,8 @@
   },
   "commentBoxPlaceholder": "Escribe un breve resumen sobre tu experiencia de aprendizaje…",
   "datawallet": {
-    "linkWallet": "Conectar billetera de datos"
+    "linkWallet": "Conectar billetera de datos",
+    "scanQR": "Escaneea el código QR utilizando la aplicación de la billetera de datos para conectar tu cuenta."
   },
   "backBtnLabel": "Atrás"
 }

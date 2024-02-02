@@ -489,7 +489,8 @@
     "multipleSessions": "Birden Fazla Oturum"
   },
   "datawallet": {
-    "linkWallet": "Veri cüzdanını bağla"
+    "linkWallet": "Veri cüzdanını bağla",
+    "scanQR": "Hesabınızı bağlamak için veri cüzdanı uygulamasını kullanarak QR kodunu tarayın."
   },
   "backBtnLabel": "Geri"
 }
