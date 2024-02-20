@@ -223,7 +223,8 @@
     "completedAProgramHeader": "Hurrah! Du hast dieses Programm abgeschlossen.",
     "earnedACertificateHeader": "Hurrah! Du hast ein Zertifikat erworben.",
     "downloadCertificateBtn": "Zertifikat herunterladen",
-    "sentCertificateDatawalletBtn": "Zertifikat an dein Datawallet senden",
+    "sentCertificateDatawalletBtn": "Abgeschlossenen Kurs mit der Ablage (Data Wallet) synchronisieren",
+    "syncCourseCompletionDatawalletBtn": "sync course completion with data wallet",
     "socialShareTextBtn": "Ich habe {{courseDenomination}} abgeschlossen",
     "exploreMoreProgramsBtn": "Entdecke mehr Programme",
     "completedACourseHeader": "Hurrah! Du hast dieses Programm abgeschlossen."
