@@ -390,7 +390,7 @@
   },
   "attachmentItem": {
     "download": "Download",
-    "delete": "Delete",
+    "delete": "Löschen",
     "deleting": "Datei löschen...",
     "uploading": "Datei hochladen...",
     "uploadingPleaseWait": "Bitte warten"
