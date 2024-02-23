@@ -33,5 +33,8 @@
   "deleteAppointment": "Termin löschen",
   "deleteAppointmentConfirmationText": "Bist du sicher, dass du diesen Termin löschen möchtest?",
   "appointmentDeleted": "Der Termin wurde erfolgreich gelöscht",
-  "appointmentDeleteError": "Fehler beim Löschen des Termins"
+  "appointmentDeleteError": "Fehler beim Löschen des Termins",
+  "successfullyRegistered": "Du hast dich erfolgreich angemeldet.",
+  "youAreRegistered": "Angemeldet",
+  "OK": "OK"
 }

@@ -33,5 +33,8 @@
   "deleteAppointment": "Delete appointment",
   "deleteAppointmentConfirmationText": "Are you sure you want to delete this appointment?",
   "appointmentDeleted": "The appointment was successfully deleted",
-  "appointmentDeleteError": "Error deleting appointment"
+  "appointmentDeleteError": "Error deleting appointment",
+  "successfullyRegistered": "You have successfully registered.",
+  "youAreRegistered": "Registered",
+  "OK": "OK"
 }

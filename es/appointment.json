@@ -34,5 +34,8 @@
   "deleteAppointment": "Eliminar evento",
   "deleteAppointmentConfirmationText": "¿Estás seguro de que quieres eliminar esto evento?",
   "appointmentDeleted": "El evento se ha eliminado con éxito",
-  "appointmentDeleteError": "Error al eliminar el evento"
+  "appointmentDeleteError": "Error al eliminar el evento",
+  "successfullyRegistered": "Te has registrado con éxito.",
+  "youAreRegistered": "Registrado",
+  "OK": "OK"
 }
