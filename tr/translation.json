@@ -204,6 +204,7 @@
     "completedAProgramHeader": "Yupi! Bu programı tamamladınız.",
     "earnedACertificateHeader": "Yupi! Bir sertifika kazandınız.",
     "downloadCertificateBtn": "Sertifikayı İndir",
+    "syncCourseCompletionDatawalletBtn": "kurs tamamlanmasını veri cüzdanına gönder",
     "socialShareTextBtn": "{{courseDenomination}} bitirdim",
     "exploreMoreProgramsBtn": "Diğer programlar keşfedin",
     "completedACourseHeader": "Yupi! Bu kursu tamamladınız.",
