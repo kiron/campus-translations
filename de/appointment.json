@@ -36,5 +36,8 @@
   "appointmentDeleteError": "Fehler beim Löschen des Termins",
   "successfullyRegistered": "Du hast dich erfolgreich angemeldet.",
   "youAreRegistered": "Angemeldet",
-  "OK": "OK"
+  "OK": "OK",
+  "registerToAllButton": "Anmelden bei allen",
+  "unregisterFromAllButton": "Abmelden von allen",
+  "newAppointmentWarning": "Es gibt neue verfügbare Termine. Klicke auf '{{btnLabel}}', um dich für alle verfügbaren Terminen anzumelden."
 }

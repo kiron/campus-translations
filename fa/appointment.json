@@ -33,5 +33,8 @@
   "unlimitedParticipants": "اگر نامحدود است، 0 را تنظیم کنید",
   "addAppointment": "اضافه کردن قرار ملاقات",
   "wasAdded": "قرار ملاقات با موفقیت اضافه شد!",
-  "success": "هورا!"
+  "success": "هورا!",
+  "registerToAllButton": "ثبت‌نام در همه",
+  "unregisterFromAllButton": "لغو ثبت‌نام از همه",
+  "newAppointmentWarning": "قرارهای ملاقات جدیدی موجود است. برای ثبت نام در تمام قرارهای ملاقات موجود، بر روی '{{btnLabel}}' کلیک کنید."
 }

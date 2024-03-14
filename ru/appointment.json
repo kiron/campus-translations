@@ -34,5 +34,8 @@
   "deleteAppointment": "Удалить встречу",
   "deleteAppointmentConfirmationText": "Вы уверены, что хотите удалить эту встречу?",
   "appointmentDeleted": "Встреча успешно удалена",
-  "appointmentDeleteError": "Ошибка при удалении встречи"
+  "appointmentDeleteError": "Ошибка при удалении встречи",
+  "registerToAllButton": "Зарегистрироваться на все",
+  "unregisterFromAllButton": "Отписаться от всех",
+  "newAppointmentWarning": "Появились новые доступные встречи. Нажмите на '{{btnLabel}}', чтобы записаться на все доступные встречи."
 }

@@ -33,5 +33,8 @@
   "unlimitedParticipants": "اضبط على 0 إذا كان غير محدود",
   "addAppointment": "إضافة موعد",
   "wasAdded": "تم إضافة الموعد بنجاح!",
-  "success": "رائع!"
+  "success": "رائع!",
+  "registerToAllButton": "التسجيل في الكل",
+  "unregisterFromAllButton": "إلغاء التسجيل من الكل",
+  "newAppointmentWarning": "هناك مواعيد جديدة متاحة. اضغط على '{{btnLabel}}' للتسجيل في جميع المواعيد المتاحة."
 }

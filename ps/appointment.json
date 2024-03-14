@@ -32,5 +32,8 @@
   "unlimitedParticipants": "که بې کچه وي، دا 0 ته ټاکئ",
   "addAppointment": "موعد اضافه کړئ",
   "wasAdded": "موعد په بریالیتوب سره اضافه شو!",
-  "success": "چیغه!"
+  "success": "چیغه!",
+  "registerToAllButton": "په ټولو کې ثبت نام",
+  "unregisterFromAllButton": "له ټولو نه ثبت نام لغوه کړه",
+  "newAppointmentWarning": "نوي شته ملاقاتونه شته دي. د ټولو شته ملاقاتونو کې د برخه اخیستلو لپاره په '{{btnLabel}}' کلیک وکړئ."
 }

@@ -5,8 +5,8 @@
   "registerUntil": "{{deadline}}'e kadar kayıt olun",
   "registerToday": "Son kayıt tarihi",
   "seeAllDates": "Tüm tarihleri gör",
-  "registerButton": "Register",
-  "registerNowButton": "Register Now",
+  "registerButton": "Kaydol",
+  "registerNowButton": "Şimdi Kaydol",
   "upcomingSessionIn": "Oturum {{distance}} içinde başlayacaktır",
   "deleteAppointment": "Randevuyu sil",
   "deleteAppointmentConfirmationText": "Bu randevuyu silmek istediğinden emin misin?",
@@ -33,5 +33,8 @@
   "unlimitedParticipants": "Sınırsız ise 0 olarak ayarlayın",
   "addAppointment": "Randevu ekle",
   "wasAdded": "Randevu başarıyla eklendi!",
-  "success": "Harika!"
+  "success": "Harika!",
+  "registerToAllButton": "Tümüne kaydol",
+  "unregisterFromAllButton": "Tümünden çıkış yap",
+  "newAppointmentWarning": "Yeni müsait randevular var. Tüm müsait randevulara katılmak için '{{btnLabel}}' üzerine tıklayın."
 }
