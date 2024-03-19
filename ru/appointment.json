@@ -37,5 +37,5 @@
   "appointmentDeleteError": "Ошибка при удалении встречи",
   "registerToAllButton": "Зарегистрироваться на все",
   "unregisterFromAllButton": "Отписаться от всех",
-  "newAppointmentWarning": "Появились новые доступные встречи. Нажмите на '{{btnLabel}}', чтобы записаться на все доступные встречи."
+  "newAppointmentWarning": "Нажмите на '{{btnLabel}}', чтобы записаться на все доступные встречи."
 }

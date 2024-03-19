@@ -39,5 +39,5 @@
   "OK": "OK",
   "registerToAllButton": "Alle anmelden",
   "unregisterFromAllButton": "Alle abmelden",
-  "newAppointmentWarning": "Es gibt neue verfügbare Termine. Klicke auf '{{btnLabel}}', um dich für alle verfügbaren Terminen anzumelden."
+  "newAppointmentWarning": "Klicke auf '{{btnLabel}}', um dich für alle verfügbaren Terminen anzumelden."
 }

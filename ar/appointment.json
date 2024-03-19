@@ -36,5 +36,5 @@
   "success": "رائع!",
   "registerToAllButton": "التسجيل في الكل",
   "unregisterFromAllButton": "إلغاء التسجيل من الكل",
-  "newAppointmentWarning": "هناك مواعيد جديدة متاحة. اضغط على '{{btnLabel}}' للتسجيل في جميع المواعيد المتاحة."
+  "newAppointmentWarning": "اضغط على '{{btnLabel}}' للتسجيل في جميع المواعيد المتاحة."
 }
