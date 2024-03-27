@@ -630,5 +630,14 @@
     "linkWallet": "Conectar billetera de datos",
     "scanQR": "Escaneea el código QR utilizando la aplicación de la billetera de datos para conectar tu cuenta."
   },
-  "backBtnLabel": "Atrás"
+  "backBtnLabel": "Atrás",
+  "suborgAccess": {
+    "restrictedContent": "Este contenido es parte de ",
+    "sendRequest": "Solicita acceso para acceder a los contenidos educativos",
+    "requestAccess": "Solicitar acceso",
+    "processingRequest": "Estamos procesando tu solicitud",
+    "requestError": "Ocurrió un error",
+    "requestSuccess": "Has enviado con éxito la solicitud de acceso",
+    "duplicateRequest": "Ya has enviado una solicitud"
+  }
 }

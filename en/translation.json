@@ -616,5 +616,14 @@
     "linkWallet": "Link data wallet",
     "scanQR": "Scan the QR code using the data wallet app to connect your account."
   },
-  "backBtnLabel": "Back"
+  "backBtnLabel": "Back",
+  "suborgAccess": {
+    "restrictedContent": "This content is part of ",
+    "sendRequest": "To access the learning offer, please send us a request",
+    "requestAccess": "Request access",
+    "processingRequest": "Processing request",
+    "requestError": "An unknown error occurred",
+    "requestSuccess": "You have successfully submitted access request",
+    "duplicateRequest": "You have sent a request previously"
+  }
 }

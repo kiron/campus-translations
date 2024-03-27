@@ -638,5 +638,14 @@
     "linkWallet": "Data Wallet verknüpfen",
     "scanQR": "Scanne diesen QR-Code mit deiner Data Wallet App um deine Konten zu verknüpfen."
   },
-  "backBtnLabel": "Zurück"
+  "backBtnLabel": "Zurück",
+  "suborgAccess": {
+    "restrictedContent": "Dieser Inhalt ist Teil von ",
+    "sendRequest": "Stelle eine Zugriffsanfrage, um diesen Inhalt aufrufen zu können",
+    "requestAccess": "Zugriff anfragen",
+    "processingRequest": "Anfrage in Bearbeitung",
+    "requestError": "Ein Fehler ist aufgetreten",
+    "requestSuccess": "Du hast erfolgreich eine Zugriffsanfrage gestellt",
+    "duplicateRequest": "Du hast bereits eine Zugriffsanfrage gestellt"
+  }
 }

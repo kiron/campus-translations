@@ -493,5 +493,14 @@
     "linkWallet": "Veri cüzdanını bağla",
     "scanQR": "Hesabınızı bağlamak için veri cüzdanı uygulamasını kullanarak QR kodunu tarayın."
   },
-  "backBtnLabel": "Geri"
+  "backBtnLabel": "Geri",
+  "suborgAccess": {
+    "restrictedContent": "Bu içerik, şunun bir parçasıdır ",
+    "sendRequest": "Öğrenme teklifine erişmek için lütfen bize bir istek gönderin",
+    "requestAccess": "Erişim iste",
+    "processingRequest": "İstek işleniyor",
+    "requestError": "Bilinmeyen bir hata oluştu",
+    "requestSuccess": "Erişim isteğini başarıyla gönderdin",
+    "duplicateRequest": "Daha önce bir istek göndermişsin"
+  }
 }
