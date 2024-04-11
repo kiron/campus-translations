@@ -35,6 +35,7 @@
   "appointmentDeleted": "Der Termin wurde erfolgreich gelöscht",
   "appointmentDeleteError": "Fehler beim Löschen des Termins",
   "successfullyRegistered": "Du hast dich erfolgreich angemeldet.",
+  "successfullyUnregistered": "Du hast dich erfolgreich abgemeldet.",
   "youAreRegistered": "Angemeldet",
   "OK": "OK",
   "registerToAllButton": "Alle anmelden",

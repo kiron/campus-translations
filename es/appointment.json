@@ -36,6 +36,7 @@
   "appointmentDeleted": "El evento se ha eliminado con éxito",
   "appointmentDeleteError": "Error al eliminar el evento",
   "successfullyRegistered": "Te has registrado con éxito.",
+  "successfullyUnregistered": "Te has dado de baja con éxito.",
   "youAreRegistered": "Registrado",
   "OK": "OK",
   "registerToAllButton": "Registrarse en todos",

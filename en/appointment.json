@@ -38,6 +38,7 @@
   "appointmentDeleted": "The appointment was successfully deleted",
   "appointmentDeleteError": "Error deleting appointment",
   "successfullyRegistered": "You have successfully registered.",
+  "successfullyUnregistered": "You have successfully unenrolled.",
   "youAreRegistered": "Registered",
   "OK": "OK"
 }
