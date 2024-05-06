@@ -10,5 +10,7 @@
   "communityAccountFailure": "Возникла проблема при создании твоего аккаунта в сообществе. Пожалуйста, попробуй еще раз",
   "communityAccountLoading": "Настройка твоего аккаунта...",
   "communityLoadingFailure": "Возникла проблема с загрузкой твоего аккаунта в сообществе.",
-  "tryAgain": "Попробуй еще раз"
+  "tryAgain": "Попробуй еще раз",
+  "verify": "Please verify your account on your profile to get access to Kiron's community space.",
+  "ctaVerify": "Go to profile"
 }

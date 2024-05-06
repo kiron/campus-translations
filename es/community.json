@@ -10,5 +10,7 @@
     "communityAccountFailure": "Ha habido un problema en la creación de tu usuario de la comunidad. Por favor, inténtalo de nuevo",
     "communityAccountLoading": "Configurando tu usuario...",
     "communityLoadingFailure": "Ha habido un problema al configurar tu usuario de la comunidad.",
-    "tryAgain": "Intentar de nuevo"
+    "tryAgain": "Intentar de nuevo",
+    "verify": "Por favor verifica tu cuenta en tu perfil para obtener acceso al espacio de comunidad de Kiron.",
+    "ctaVerify": "Ir a perfil"
 }

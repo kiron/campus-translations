@@ -10,5 +10,7 @@
   "communityAccountFailure": "هنگام ایجاد حساب انجمن شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
   "communityAccountLoading": "پیکربندی حساب شما ...",
   "communityLoadingFailure": "هنگام بارگیری حساب انجمن شما مشکلی پیش آمد. لطفا دوباره تلاش کنید",
-  "tryAgain": "Try again"
+  "tryAgain": "Try again",
+  "verify": "Please verify your account on your profile to get access to Kiron's community space.",
+  "ctaVerify": "Go to profile"
 }

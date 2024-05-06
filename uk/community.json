@@ -10,5 +10,7 @@
   "communityAccountFailure": "Виникла проблема зі створенням облікового запису спільноти. Будь ласка спробуйте ще раз",
   "communityAccountLoading": "Налаштування облікового запису...",
   "communityLoadingFailure": "Виникла проблема із завантаженням вашого облікового запису спільноти.",
-  "tryAgain": "Спробуйте ще раз"
+  "tryAgain": "Спробуйте ще раз",
+  "verify": "Please verify your account on your profile to get access to Kiron's community space.",
+  "ctaVerify": "Go to profile"
 }

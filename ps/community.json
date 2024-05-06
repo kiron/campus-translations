@@ -10,5 +10,7 @@
   "communityAccountFailure": "ستاسو د ټولنې حساب جوړولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
   "communityAccountLoading": "د خپل حساب تنظیم کول ...",
   "communityLoadingFailure": "ستاسو د ټولنې حساب په بارولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
-  "tryAgain": "Try again"
+  "tryAgain": "Try again",
+  "verify": "Please verify your account on your profile to get access to Kiron's community space.",
+  "ctaVerify": "Go to profile"
 }

@@ -10,5 +10,7 @@
   "communityAccountFailure": "Beim Erstellen deines Community-Accounts ist ein Problem aufgetreten. Bitte versuche es erneut",
   "communityAccountLoading": "Dein Account wird eingerichtet...",
   "communityLoadingFailure": "Es gab ein Problem beim Laden deines Community-Accounts ",
-  "tryAgain": "Versuch es erneut"
+  "tryAgain": "Versuch es erneut",
+  "verify": "Bitte überprüfen Sie Ihr Konto auf Ihrem Profil, um Zugang zum Community von Kiron zu erhalten.",
+  "ctaVerify": "Go to profile"
 }

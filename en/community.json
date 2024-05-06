@@ -10,5 +10,7 @@
   "communityAccountFailure": "There was a problem creating your community account. Please try again",
   "communityAccountLoading": "Configuring your account...",
   "communityLoadingFailure": "There was a problem loading your community account.",
-  "tryAgain": "Try again"
+  "tryAgain": "Try again",
+  "verify": "Please verify your account on your profile to get access to Kiron's community space.",
+  "ctaVerify": "Go to profile"
 }

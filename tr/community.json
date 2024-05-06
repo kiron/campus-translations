@@ -10,5 +10,7 @@
   "communityAccountFailure": "Topluluk hesabınızı oluştururken bir hata meydana geldi. Lütfen tekrar deneyin",
   "communityAccountLoading": "Hesabınız yapılandırılıyor...",
   "communityLoadingFailure": "There was a problem loading your community account.",
-  "tryAgain": "Try again"
+  "tryAgain": "Try again",
+  "verify": "Kiron'un topluluk alanına erişim sağlamak için lütfen profilinizde hesabınızı doğrulayın..",
+  "ctaVerify": "Profile git"
 }
