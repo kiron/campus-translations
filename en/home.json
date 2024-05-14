@@ -14,6 +14,8 @@
     "countrySpecificTitle": "More on Campus",
     "mentoringTitle": "Mentoring Programs at Kiron",
     "mentoringDesciption": "Explore our current programs",
+    "indeedTitle": "Looking for a job?",
+    "indeedDesciption": "Visit the Indeed x Kiron page",
     "referralShareText": "Join me at {{orgDisplayName}}",
     "referralCardTitle": "Share {{orgDisplayName}} with your friends",
     "referralCopy": "Copy",
