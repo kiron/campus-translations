@@ -601,7 +601,8 @@
     "dragAndDropInfo": "Now you can sort the items in this list using drag-and-drop.",
     "shareList": "Share list",
     "unshareMessage": "Your list is currently not shared",
-    "copyLinkToShare": "Click to copy the list URL",
+    "copyLinkToShare": "Your shareable list URL",
+    "copyToClipboard": "Click to copy the list URL to the clipboard",
     "listPublic": "You have successfully published your list",
     "listPrivate": "You have unshared your list"
   },
