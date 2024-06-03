@@ -603,6 +603,7 @@
     "unshareMessage": "Your list is currently not shared",
     "copyLinkToShare": "Your shareable list URL",
     "copyToClipboard": "Click to copy the list URL to the clipboard",
+    "copiedToClipboard": "URL copied to clipboard",
     "listPublic": "You have successfully published your list",
     "listPrivate": "You have unshared your list"
   },
