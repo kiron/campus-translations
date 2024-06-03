@@ -598,7 +598,12 @@
     "confirmDelete": "Delete list",
     "listDeleted": "List deleted successfully",
     "listDeleteError": "Error deleting list",
-    "dragAndDropInfo": "Now you can sort the items in this list using drag-and-drop."
+    "dragAndDropInfo": "Now you can sort the items in this list using drag-and-drop.",
+    "shareList": "Share list",
+    "unshareMessage": "Your list is currently not shared",
+    "copyLinkToShare": "Click to copy the list URL",
+    "listPublic": "You have successfully published your list",
+    "listPrivate": "You have unshared your list"
   },
   "contentProviders": {
     "offerContentSubHeader": "We offer content from {{cpCount}} different providers",
