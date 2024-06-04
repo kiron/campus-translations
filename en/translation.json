@@ -607,7 +607,7 @@
     "by": "by",
     "private": "Private",
     "public": "Public",
-    "listPublic": "You have successfully published your list",
+    "listPublic": "You have successfully shared your list",
     "listPrivate": "You have unshared your list"
   },
   "contentProviders": {

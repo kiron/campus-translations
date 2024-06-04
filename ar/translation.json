@@ -669,7 +669,17 @@
     "confirmDelete": "حذف القائمة",
     "listDeleted": "تم حذف القائمة بنجاح",
     "listDeleteError": "خطأ في حذف القائمة",
-    "dragAndDropInfo": "يمكنك السحب والإفلات لترتيب الوحدات"
+    "dragAndDropInfo": "يمكنك السحب والإفلات لترتيب الوحدات",
+    "shareList": "مشاركة القائمة",
+    "unshareMessage": "القائمة خاصة ولا يمكن مشاركتها حاليًا",
+    "copyLinkToShare": "رابط القائمة القابلة للمشاركة",
+    "copyToClipboard": "انقر لنسخ رابط القائمة إلى الحافظة",
+    "copiedToClipboard": "تم نسخ الرابط إلى الحافظة",
+    "by": "بواسطة",
+    "private": "خاص",
+    "public": "عام",
+    "listPublic": "تمت مشاركة قائمتك بنجاح",
+    "listPrivate": "لقد أوقفت مشاركة قائمتك"
   },
   "sessions": {
     "joinMeeting": "انضم إلى الاجتماع",

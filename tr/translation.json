@@ -161,7 +161,7 @@
     "addModuleText": "Bu Skill Booster programı ana sayfanıza eklendi",
     "enrollModuleBtnNo": "Şimdi değil",
     "enrollModuleBtnStart": "Öğrenmeye başla",
-    "enrollModuleTitle":"Bu programa katılmak istiyor musun?",
+    "enrollModuleTitle": "Bu programa katılmak istiyor musun?",
     "enrollModuleText": "Merhaba {{0}},bu bizim eğitim programımızın bir parçası. <1>{{- 1}}</1>. Hakkında bilgi almaya başlatmak istiyor musun <3>{{- 3}}</3>?",
     "showContent": "Ekstra içeriği göster",
     "hideContent": "Ekstra içeriği gizle",
@@ -208,7 +208,7 @@
     "socialShareTextBtn": "{{courseDenomination}} bitirdim",
     "exploreMoreProgramsBtn": "Diğer programlar keşfedin",
     "completedACourseHeader": "Yupi! Bu kursu tamamladınız.",
-    "stayInOldProgram":"Eski programda kal"
+    "stayInOldProgram": "Eski programda kal"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Sonraki"
@@ -483,7 +483,17 @@
     "confirmDelete": "Listeyi sil",
     "listDeleted": "Liste başarıyla silindi",
     "listDeleteError": "Liste silme hatası",
-    "dragAndDropInfo": "Artık bu listedeki öğeleri sürükleyip bırakarak sıralayabilirsiniz."
+    "dragAndDropInfo": "Artık bu listedeki öğeleri sürükleyip bırakarak sıralayabilirsiniz.",
+    "shareList": "Listeyi paylaş",
+    "unshareMessage": "Listeniz özel olarak ayarlandı ve şu anda paylaşılamaz",
+    "copyLinkToShare": "Paylaşılabilir liste URL'niz",
+    "copyToClipboard": "Liste URL'sini panoya kopyalamak için tıklayın",
+    "copiedToClipboard": "URL panoya kopyalandı",
+    "by": "tarafından",
+    "private": "Özel",
+    "public": "Genel",
+    "listPublic": "Listenizi başarıyla paylaştınız",
+    "listPrivate": "Listenizin paylaşımını kaldırdınız"
   },
   "sessions": {
     "joinMeeting": "Toplantıya Katıl",

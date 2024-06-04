@@ -623,7 +623,17 @@
     "areYouSure": "Bist Du sicher, dass Du die Liste löschen möchtest? Beachte, dass alle gespeicherten Inhalte in der Liste ebenfalls entfernt werden",
     "listDeleted": "Die Liste wurde erfolgreich gelöscht",
     "listDeleteError": "Beim Löschen der Liste ist ein Problem aufgetreten",
-    "dragAndDropInfo": "Jetzt kannst du die Elemente in dieser Liste per Drag-and-Drop sortieren."
+    "dragAndDropInfo": "Jetzt kannst du die Elemente in dieser Liste per Drag-and-Drop sortieren.",
+    "shareList": "Liste teilen",
+    "unshareMessage": "Deine Liste ist privat und kann derzeit nicht geteilt werden",
+    "copyLinkToShare": "Deine teilbare Listen-URL",
+    "copyToClipboard": "Klicke in das Textfeld, um die Listen-URL in die Zwischenablage zu kopieren",
+    "copiedToClipboard": "URL in die Zwischenablage kopiert",
+    "by": "von",
+    "private": "Privat",
+    "public": "Öffentlich",
+    "listPublic": "Du hast deine Liste erfolgreich geteilt",
+    "listPrivate": "Deine Liste ist nicht mehr geteilt"
   },
   "contentProviders": {
     "noDescriptionAvailable": "Es scheint als wäre noch keine Beschreibung vorhanden.",

@@ -619,7 +619,17 @@
     "areYouSure": "¿De verdad quieres borrar esta lista?",
     "listDeleted": "La lista se ha borrado con éxito",
     "listDeleteError": "Se ha producido un error al borrar la lista",
-    "dragAndDropInfo": "Arrastra y suelta los elementos para ordenarlos."
+    "dragAndDropInfo": "Arrastra y suelta los elementos para ordenarlos.",
+    "shareList": "Compartir lista",
+    "unshareMessage": "Tu lista está configurada como privada y actualmente no se puede compartir",
+    "copyLinkToShare": "Tu URL de lista compartible",
+    "copyToClipboard": "Haz clic para copiar la URL de la lista al portapapeles",
+    "copiedToClipboard": "URL copiada al portapapeles",
+    "by": "por",
+    "private": "Privado",
+    "public": "Público",
+    "listPublic": "Has compartido tu lista con éxito",
+    "listPrivate": "Has dejado de compartir tu lista"
   },
   "sessions": {
     "joinMeeting": "Unirse a la reunión",
