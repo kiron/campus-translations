@@ -605,7 +605,8 @@
     "copyToClipboard": "Click to copy the list URL to the clipboard",
     "copiedToClipboard": "URL copied to clipboard",
     "by": "by",
-    "private": "private",
+    "private": "Private",
+    "public": "Public",
     "listPublic": "You have successfully published your list",
     "listPrivate": "You have unshared your list"
   },
