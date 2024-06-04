@@ -600,7 +600,7 @@
     "listDeleteError": "Error deleting list",
     "dragAndDropInfo": "Now you can sort the items in this list using drag-and-drop.",
     "shareList": "Share list",
-    "unshareMessage": "Your list is currently not shared",
+    "unshareMessage": "Your list is set to private and currently can not be shared",
     "copyLinkToShare": "Your shareable list URL",
     "copyToClipboard": "Click to copy the list URL to the clipboard",
     "copiedToClipboard": "URL copied to clipboard",
