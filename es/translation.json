@@ -629,7 +629,12 @@
     "private": "Privado",
     "public": "Público",
     "listPublic": "Has compartido tu lista con éxito",
-    "listPrivate": "Has dejado de compartir tu lista"
+    "listPrivate": "Has dejado de compartir tu lista",
+    "listFollowed": "Ahora sigues esta lista",
+    "listUnfollowed": "Has dejado de seguir esta lista",
+    "listFollowError": "Error al seguir la lista",
+    "followList": "Seguir",
+    "unfollowList": "Dejar de seguir"
   },
   "sessions": {
     "joinMeeting": "Unirse a la reunión",

@@ -633,7 +633,12 @@
     "private": "Privat",
     "public": "Öffentlich",
     "listPublic": "Du hast deine Liste erfolgreich geteilt",
-    "listPrivate": "Deine Liste ist nicht mehr geteilt"
+    "listPrivate": "Deine Liste ist nicht mehr geteilt",
+    "listFollowed": "Du folgst dieser Liste jetzt",
+    "listUnfollowed": "Du hast diese Liste entfolgt",
+    "listFollowError": "Fehler beim Folgen der Liste",
+    "followList": "Folgen",
+    "unfollowList": "Entfolgen"
   },
   "contentProviders": {
     "noDescriptionAvailable": "Es scheint als wäre noch keine Beschreibung vorhanden.",

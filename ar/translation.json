@@ -679,7 +679,12 @@
     "private": "خاص",
     "public": "عام",
     "listPublic": "تمت مشاركة قائمتك بنجاح",
-    "listPrivate": "لقد أوقفت مشاركة قائمتك"
+    "listPrivate": "لقد أوقفت مشاركة قائمتك",
+    "listFollowed": "أنت الآن تتابع هذه القائمة",
+    "listUnfollowed": "لقد ألغيت متابعة هذه القائمة",
+    "listFollowError": "خطأ في متابعة القائمة",
+    "followList": "تابع",
+    "unfollowList": "إلغاء المتابعة"
   },
   "sessions": {
     "joinMeeting": "انضم إلى الاجتماع",

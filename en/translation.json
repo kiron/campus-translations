@@ -608,7 +608,12 @@
     "private": "Private",
     "public": "Public",
     "listPublic": "You have successfully shared your list",
-    "listPrivate": "You have unshared your list"
+    "listPrivate": "You have unshared your list",
+    "listFollowed": "You are following this list now",
+    "listUnfollowed": "You have unfollowed this list",
+    "listFollowError": "Error following this list",
+    "followList": "Follow",
+    "unfollowList": "Unfollow"
   },
   "contentProviders": {
     "offerContentSubHeader": "We offer content from {{cpCount}} different providers",

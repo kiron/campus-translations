@@ -493,7 +493,12 @@
     "private": "Özel",
     "public": "Genel",
     "listPublic": "Listenizi başarıyla paylaştınız",
-    "listPrivate": "Listenizin paylaşımını kaldırdınız"
+    "listPrivate": "Listenizin paylaşımını kaldırdınız",
+    "listFollowed": "Bu listeyi şimdi takip ediyorsun",
+    "listUnfollowed": "Bu listeyi takip etmeyi bıraktın",
+    "listFollowError": "Listeyi takip ederken hata",
+    "followList": "Takip et",
+    "unfollowList": "Takibi bırak"
   },
   "sessions": {
     "joinMeeting": "Toplantıya Katıl",

@@ -377,7 +377,12 @@
     "private": "شخصي",
     "public": "عام",
     "listPublic": "تاسو خپل لیست په بریالیتوب سره شریک کړ",
-    "listPrivate": "تاسو خپل لیست له شریکولو څخه لرې کړ"
+    "listPrivate": "تاسو خپل لیست له شریکولو څخه لرې کړ",
+    "listFollowed": "تاسو اوس دا لست تعقیب کوئ",
+    "listUnfollowed": "تاسو له دې لست څخه تعقیب لرې کړی",
+    "listFollowError": "د لست تعقیب کولو کې تېروتنه",
+    "followList": "تعقیب کړئ",
+    "unfollowList": "تعقیب بند کړئ"
   },
   "sessions": {
     "joinMeeting": "د غونډې برخه کېدل",
