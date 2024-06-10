@@ -587,7 +587,7 @@
     "saveToList": "Save to list",
     "show": "Show",
     "emptyList": "This list is empty",
-    "emptyListSubtitle": "You haven't added any content.",
+    "emptyListSubtitle": "No content has been added yet.",
     "listCreated": "List created successfully",
     "listCreationError": "Error creating list",
     "listUpdated": "List updated successfully",
