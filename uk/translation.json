@@ -467,7 +467,7 @@
     "saveToList": "Зберегти в список",
     "show": "Показати",
     "emptyList": "Цей список порожній",
-    "emptyListSubtitle": "Ви ще не додали жодного вмісту.",
+    "emptyListSubtitle": "Вміст ще не додано.",
     "listCreated": "Список успішно створено",
     "listCreationError": "Помилка при створенні списку",
     "listUpdated": "Список успішно оновлено",

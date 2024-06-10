@@ -466,7 +466,7 @@
     "saveToList": "Сохранить в список",
     "show": "Показать",
     "emptyList": "Этот список пуст",
-    "emptyListSubtitle": "Вы не добавили никакого контента.",
+    "emptyListSubtitle": "Контент ещё не добавлен.",
     "listCreated": "Список успешно создан",
     "listCreationError": "Ошибка при создании списка",
     "listUpdated": "Список успешно обновлен",

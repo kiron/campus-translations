@@ -658,7 +658,7 @@
     "saveToList": "احفظ في قائمة",
     "show": "عرض",
     "emptyList": "هذه القائمة فارغة",
-    "emptyListSubtitle": "لم تضف أي محتوى بعد.",
+    "emptyListSubtitle": "لم يتم إضافة أي محتوى بعد",
     "listCreated": "تم إنشاء القائمة بنجاح",
     "listCreationError": "خطأ في إنشاء القائمة",
     "listUpdated": "تم تحديث القائمة بنجاح",

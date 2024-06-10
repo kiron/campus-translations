@@ -613,7 +613,7 @@
     "saveToList": "zur Liste hinzufügen",
     "show": "Anzeigen",
     "emptyList": "Diese Liste ist leer",
-    "emptyListSubtitle": "Du hast keine Inhalte hinzugefügt.",
+    "emptyListSubtitle": "Es wurden noch keine Inhalte hinzugefügt.",
     "listCreated": "Die Liste wurde erfolgreich erstellt",
     "listCreationError": "Beim Erstellen der Liste ist ein Fehler aufgetreten",
     "listUpdated": "Die Liste wurde erfolgreich aktualisiert",

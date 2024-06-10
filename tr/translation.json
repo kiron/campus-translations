@@ -472,7 +472,7 @@
     "saveToList": "Listeye kaydet",
     "show": "Göster",
     "emptyList": "Bu liste boş",
-    "emptyListSubtitle": "Henüz herhangi bir içerik eklemediniz.",
+    "emptyListSubtitle": "Henüz içerik eklenmedi.",
     "listCreated": "Liste başarıyla oluşturuldu",
     "listCreationError": "Liste oluşturma hatası",
     "listUpdated": "Liste başarıyla güncellendi",
