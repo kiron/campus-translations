@@ -634,7 +634,8 @@
     "listUnfollowed": "Has dejado de seguir esta lista",
     "listFollowError": "Error al seguir la lista",
     "followList": "Seguir",
-    "unfollowList": "Dejar de seguir"
+    "unfollowList": "Dejar de seguir",
+    "undo": "Deshacer"
   },
   "sessions": {
     "joinMeeting": "Unirse a la reunión",

@@ -492,7 +492,8 @@
     "listUnfollowed": "Вы перестали следить за этим списком",
     "listFollowError": "Ошибка при подписке на список",
     "followList": "Следовать",
-    "unfollowList": "Отписаться"
+    "unfollowList": "Отписаться",
+    "undo": "Отменить"
   },
   "sessions": {
     "joinMeeting": "Присоединиться к встрече",

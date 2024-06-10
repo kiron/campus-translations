@@ -382,7 +382,8 @@
     "listUnfollowed": "تاسو له دې لست څخه تعقیب لرې کړی",
     "listFollowError": "د لست تعقیب کولو کې تېروتنه",
     "followList": "تعقیب کړئ",
-    "unfollowList": "تعقیب بند کړئ"
+    "unfollowList": "تعقیب بند کړئ",
+    "undo": "بیرته اخستل"
   },
   "sessions": {
     "joinMeeting": "د غونډې برخه کېدل",

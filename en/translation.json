@@ -613,7 +613,8 @@
     "listUnfollowed": "You have unfollowed this list",
     "listFollowError": "Error following this list",
     "followList": "Follow",
-    "unfollowList": "Unfollow"
+    "unfollowList": "Unfollow",
+    "undo": "Undo"
   },
   "contentProviders": {
     "offerContentSubHeader": "We offer content from {{cpCount}} different providers",

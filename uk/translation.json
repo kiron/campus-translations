@@ -493,7 +493,8 @@
     "listUnfollowed": "Ви перестали стежити за цим списком",
     "listFollowError": "Помилка під час підписки на список",
     "followList": "Стежити",
-    "unfollowList": "Відписатися"
+    "unfollowList": "Відписатися",
+    "undo": "Скасувати"
   },
   "sessions": {
     "joinMeeting": "Приєднатися до зустрічі",

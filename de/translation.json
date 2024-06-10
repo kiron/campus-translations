@@ -638,7 +638,8 @@
     "listUnfollowed": "Du hast diese Liste entfolgt",
     "listFollowError": "Fehler beim Folgen der Liste",
     "followList": "Folgen",
-    "unfollowList": "Entfolgen"
+    "unfollowList": "Entfolgen",
+    "undo": "Rückgängig"
   },
   "contentProviders": {
     "noDescriptionAvailable": "Es scheint als wäre noch keine Beschreibung vorhanden.",

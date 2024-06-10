@@ -382,7 +382,8 @@
     "listUnfollowed": "شما دنبال کردن این لیست را متوقف کرده‌اید",
     "listFollowError": "خطا در دنبال کردن لیست",
     "followList": "دنبال کنید",
-    "unfollowList": "دنبال نکنید"
+    "unfollowList": "دنبال نکنید",
+    "undo": "واگردانی"
   },
   "sessions": {
     "joinMeeting": "به جلسه بپیوندید",

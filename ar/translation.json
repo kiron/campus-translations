@@ -684,7 +684,8 @@
     "listUnfollowed": "لقد ألغيت متابعة هذه القائمة",
     "listFollowError": "خطأ في متابعة القائمة",
     "followList": "تابع",
-    "unfollowList": "إلغاء المتابعة"
+    "unfollowList": "إلغاء المتابعة",
+    "undo": "تراجع"
   },
   "sessions": {
     "joinMeeting": "انضم إلى الاجتماع",

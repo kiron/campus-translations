@@ -498,7 +498,8 @@
     "listUnfollowed": "Bu listeyi takip etmeyi bıraktın",
     "listFollowError": "Listeyi takip ederken hata",
     "followList": "Takip et",
-    "unfollowList": "Takibi bırak"
+    "unfollowList": "Takibi bırak",
+    "undo": "Geri Al"
   },
   "sessions": {
     "joinMeeting": "Toplantıya Katıl",
