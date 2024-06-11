@@ -607,7 +607,7 @@
     "by": "by",
     "private": "Private",
     "public": "Public",
-    "listPublic": "You have successfully shared your list",
+    "listPublic": "Your list is now public and ready to share",
     "listPrivate": "You have unshared your list",
     "listFollowed": "You are following this list now",
     "listUnfollowed": "You have unfollowed this list",
