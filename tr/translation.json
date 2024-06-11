@@ -514,7 +514,8 @@
     "restrictedContent": "Bu içerik, şunun bir parçasıdır ",
     "sendRequest": "Öğrenme teklifine erişmek için lütfen bize bir istek gönderin",
     "requestAccess": "Erişim iste",
-    "processingRequest": "İstek işleniyor",
+    "joinAccess": "Katıl",
+    "pendingRequest": "Bekleyen talep",
     "requestError": "Bilinmeyen bir hata oluştu",
     "requestSuccess": "Erişim isteğini başarıyla gönderdin",
     "duplicateRequest": "Daha önce bir istek göndermişsin"

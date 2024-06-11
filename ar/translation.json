@@ -695,5 +695,15 @@
     "linkWallet": "ربط محفظة البيانات",
     "scanQR": "مسح رمز الاستجابة السريعة باستخدام تطبيق محفظة البيانات لربط حسابك."
   },
-  "backBtnLabel": "رجوع"
+  "backBtnLabel": "رجوع",
+"suborgAccess": {
+  "restrictedContent": "هذا المحتوى جزء من ",
+  "sendRequest": "للوصول إلى عرض التعلم ، يرجى إرسال طلب إلينا",
+  "requestAccess": "طلب الوصول",
+  "joinAccess": "إنضم",
+  "pendingRequest": "طلب معلق",
+  "requestError": "حدث خطأ غير معروف",
+  "requestSuccess": "لقد قمت بتقديم طلب الوصول بنجاح",
+  "duplicateRequest": "لقد أرسلت طلبًا مسبقًا"
+}
 }

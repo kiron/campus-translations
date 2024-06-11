@@ -659,7 +659,8 @@
     "restrictedContent": "Dieser Inhalt ist Teil von ",
     "sendRequest": "Stelle eine Zugriffsanfrage, um diesen Inhalt aufrufen zu können",
     "requestAccess": "Zugriff anfragen",
-    "processingRequest": "Anfrage in Bearbeitung",
+    "joinAccess": "Beitreten",
+    "pendingRequest": "Ausstehende Anfrage",
     "requestError": "Ein Fehler ist aufgetreten",
     "requestSuccess": "Du hast erfolgreich eine Zugriffsanfrage gestellt",
     "duplicateRequest": "Du hast bereits eine Zugriffsanfrage gestellt"

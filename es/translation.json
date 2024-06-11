@@ -651,7 +651,8 @@
     "restrictedContent": "Este contenido es parte de ",
     "sendRequest": "Solicita acceso para acceder a los contenidos educativos",
     "requestAccess": "Solicitar acceso",
-    "processingRequest": "Estamos procesando tu solicitud",
+    "joinAccess": "Unirse",
+    "pendingRequest": "Solicitud pendiente",
     "requestError": "Ocurrió un error",
     "requestSuccess": "Has enviado con éxito la solicitud de acceso",
     "duplicateRequest": "Ya has enviado una solicitud"

@@ -398,7 +398,8 @@
     "restrictedContent": "دا مینځپانګه د",
     "sendRequest": "د زده کړې وړاندیز ته د لاسرسي لپاره، مهرباني وکړئ موږ ته یوه غوښتنلیک واستوئ",
     "requestAccess": "د لاسرسي غوښتنه",
-    "processingRequest": "د غوښتنلیک پر مخ وړل",
+    "joinAccess": "ګډون کول",
+    "pendingRequest": "د غوښتنه په تمه ",
     "requestError": "یو نامعلومه تېروتنه شوې",
     "requestSuccess": "تاسو په بریالیتوب سره د لاسرسي غوښتنلیک ورکړی",
     "duplicateRequest": "تاسو مخکې یوه غوښتنلیک لیږلی"

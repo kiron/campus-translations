@@ -398,7 +398,8 @@
     "restrictedContent": "این محتوا بخشی از",
     "sendRequest": "برای دسترسی به پیشنهاد یادگیری، لطفاً درخواستی به ما ارسال کنید",
     "requestAccess": "درخواست دسترسی",
-    "processingRequest": "در حال پردازش درخواست",
+    "joinAccess": "پیوستن",
+    "pendingRequest": "درخواست در حال انتظار",
     "requestError": "خطای ناشناخته‌ای رخ داده است",
     "requestSuccess": "شما با موفقیت درخواست دسترسی را ارسال کردید",
     "duplicateRequest": "پیش از این یک درخواست ارسال کرده‌اید"
