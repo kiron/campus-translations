@@ -510,7 +510,9 @@
     "expiredLink": "El enlace ha caducado",
     "expiredLinkDesc": "Lo sentimos, esta página ya no se encuentra disponible.",
     "maintenance": "Mantenimiento programado en progreso",
-    "maintenanceDesc": "lo sentimos, por favor vuelve a intentarlo en breve"
+    "maintenanceDesc": "lo sentimos, por favor vuelve a intentarlo en breve",
+    "listPrivate": "Esta lista está perdida",
+    "listPrivateDesc": "Es posible que esta lista haya sido eliminada o dejada de compartir"
   },
   "stayTuned": "En breve habrá más información disponible.",
   "participation": {

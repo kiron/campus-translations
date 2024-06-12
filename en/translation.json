@@ -487,7 +487,9 @@
     "expiredLink": "Unfortunately, this link has expired",
     "expiredLinkDesc": "Apologies, this page is no longer available.",
     "maintenance": "Scheduled Maintenance in Progress",
-    "maintenanceDesc": "Apologies, please check back with us shortly"
+    "maintenanceDesc": "Apologies, please check back with us shortly",
+    "listPrivate": "This list is lost",
+    "listPrivateDesc": "This list might have been deleted or unshared"
   },
   "participation": {
     "projectTutor": "is your tutor for this project",

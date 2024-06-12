@@ -513,7 +513,9 @@
     "expiredLink": "Dieser Link ist leider abgelaufen",
     "expiredLinkDesc": "Sorry, diese Seite ist leider nicht mehr verfügbar.",
     "maintenance": "Vorgesehene Wartungsarbeiten Im Gange",
-    "maintenanceDesc": "Entschuldigung, bitte versuche es später noch einmal."
+    "maintenanceDesc": "Entschuldigung, bitte versuche es später noch einmal.",
+    "listPrivate": "Diese Liste ist verschwunden",
+    "listPrivateDesc": "Es kann sein, dass diese Liste gelöscht oder nicht mehr geteilt wurde."
   },
   "participation": {
     "eventTutor": "ist dein/e Tutor/in für diese Veranstaltung",

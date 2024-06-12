@@ -557,7 +557,9 @@
     "expiredLink": "للأسف، انتهت صلاحية الرابط",
     "expiredLinkDesc": "عذرا، هذه الصفحة لم تعد متوفرة.",
     "maintenance": "الصيانة المجدولة جارية",
-    "maintenanceDesc": "عذرا، يرجى إعادة المحاولة لاحقا"
+    "maintenanceDesc": "عذرا، يرجى إعادة المحاولة لاحقا",
+    "listPrivate": "هذه القائمة مفقودة",
+    "listPrivateDesc": "ربما تم حذف هذه القائمة أو إلغاء مشاركتها"
   },
   "participation": {
     "projectTutor": "هو/ي مرشدك/تك لهذا المشروع",
