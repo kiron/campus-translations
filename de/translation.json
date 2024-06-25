@@ -220,14 +220,14 @@
     "backToProgramBtn": "Zurück zum Programm",
     "subHeaderNextUp": "Als nächstes in diesem Programm",
     "shareYourProgress": "Teile deinen Fortschritt mit Freunden",
-    "completedAProgramHeader": "Hurrah! Du hast dieses Programm abgeschlossen.",
-    "earnedACertificateHeader": "Hurrah! Du hast ein Zertifikat erworben.",
+    "completedAProgramHeader": "Hurra! Du hast dieses Programm abgeschlossen.",
+    "earnedACertificateHeader": "Hurra! Du hast ein Zertifikat erworben.",
     "downloadCertificateBtn": "Zertifikat herunterladen",
     "sentCertificateDatawalletBtn": "Zertifikat an dein Datawallet senden",
     "syncCourseCompletionDatawalletBtn": "Abgeschlossenen Kurs mit der Ablage (Data Wallet) synchronisieren",
     "socialShareTextBtn": "Ich habe {{courseDenomination}} abgeschlossen",
     "exploreMoreProgramsBtn": "Entdecke mehr Programme",
-    "completedACourseHeader": "Hurrah! Du hast dieses Programm abgeschlossen."
+    "completedACourseHeader": "Hurra! Du hast dieses Programm abgeschlossen."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Weiter"
