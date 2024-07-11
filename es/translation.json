@@ -651,7 +651,7 @@
   "backBtnLabel": "Atrás",
   "suborgAccess": {
     "restrictedContent": "Este contenido es parte de ",
-    "sendRequest": "Solicita acceso para acceder a los contenidos educativos",
+    "subtitle": "Necesitas acceso a la sección {{suborgName}} para poder ver el contenido",
     "requestAccess": "Solicitar acceso",
     "joinAccess": "Unirse",
     "pendingRequest": "Solicitud pendiente",

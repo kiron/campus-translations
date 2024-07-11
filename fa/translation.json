@@ -396,7 +396,7 @@
   "backBtnLabel": "بازگشت",
   "suborgAccess": {
     "restrictedContent": "این محتوا بخشی از",
-    "sendRequest": "برای دسترسی به پیشنهاد یادگیری، لطفاً درخواستی به ما ارسال کنید",
+    "subtitle": "شما برای مشاهده محتوا نیاز به دسترسی به بخش {{suborgName}} دارید",
     "requestAccess": "درخواست دسترسی",
     "joinAccess": "پیوستن",
     "pendingRequest": "درخواست در حال انتظار",

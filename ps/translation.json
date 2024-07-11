@@ -396,7 +396,7 @@
   "backBtnLabel": "بياک",
   "suborgAccess": {
     "restrictedContent": "دا مینځپانګه د",
-    "sendRequest": "د زده کړې وړاندیز ته د لاسرسي لپاره، مهرباني وکړئ موږ ته یوه غوښتنلیک واستوئ",
+    "subtitle": "تاسو د {{suborgName}} برخې ته لاسرسی ته اړتیا لرئ ترڅو وکولی شئ محتوا وګورئ",
     "requestAccess": "د لاسرسي غوښتنه",
     "joinAccess": "ګډون کول",
     "pendingRequest": "د غوښتنه په تمه ",

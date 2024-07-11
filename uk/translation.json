@@ -507,7 +507,7 @@
   "backBtnLabel": "Назад",
   "suborgAccess": {
     "restrictedContent": "Цей контент є частиною ",
-    "sendRequest": "Щоб отримати доступ до навчальної пропозиції, будь ласка, надішліть нам запит",
+    "subtitle": "Вам потрібен доступ до розділу {{suborgName}}, щоб переглянути вміст",
     "requestAccess": "Запитати доступ",
     "joinAccess": "Приєднатися",
     "pendingRequest": "Запит на розгляді",

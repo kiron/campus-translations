@@ -698,14 +698,14 @@
     "scanQR": "مسح رمز الاستجابة السريعة باستخدام تطبيق محفظة البيانات لربط حسابك."
   },
   "backBtnLabel": "رجوع",
-"suborgAccess": {
-  "restrictedContent": "هذا المحتوى جزء من ",
-  "sendRequest": "للوصول إلى عرض التعلم ، يرجى إرسال طلب إلينا",
-  "requestAccess": "طلب الوصول",
-  "joinAccess": "إنضم",
-  "pendingRequest": "طلب معلق",
-  "requestError": "حدث خطأ غير معروف",
-  "requestSuccess": "لقد قمت بتقديم طلب الوصول بنجاح",
-  "duplicateRequest": "لقد أرسلت طلبًا مسبقًا"
-}
+  "suborgAccess": {
+    "restrictedContent": "هذا المحتوى جزء من ",
+    "subtitle": "تحتاج إلى الوصول إلى قسم {{suborgName}} لكي تتمكن من عرض المحتوى",
+    "requestAccess": "طلب الوصول",
+    "joinAccess": "إنضم",
+    "pendingRequest": "طلب معلق",
+    "requestError": "حدث خطأ غير معروف",
+    "requestSuccess": "لقد قمت بتقديم طلب الوصول بنجاح",
+    "duplicateRequest": "لقد أرسلت طلبًا مسبقًا"
+  }
 }

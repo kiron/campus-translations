@@ -658,11 +658,11 @@
   },
   "backBtnLabel": "Zurück",
   "suborgAccess": {
-    "restrictedContent": "Dieser Inhalt ist Teil von ",
-    "sendRequest": "Stelle eine Zugriffsanfrage, um diesen Inhalt aufrufen zu können",
+    "restrictedContent": "Dieser Inhalt gehört zu: ",
+    "subtitle": "Du benötigst Zugriff auf den Bereich von {{suborgName}}, um den Inhalt aufrufen zu können",
     "requestAccess": "Zugriff anfragen",
     "joinAccess": "Beitreten",
-    "pendingRequest": "Ausstehende Anfrage",
+    "pendingRequest": "Anfrage in Bearbeitung",
     "requestError": "Ein Fehler ist aufgetreten",
     "requestSuccess": "Du hast erfolgreich eine Zugriffsanfrage gestellt",
     "duplicateRequest": "Du hast bereits eine Zugriffsanfrage gestellt"

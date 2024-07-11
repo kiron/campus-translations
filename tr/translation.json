@@ -514,7 +514,7 @@
   "backBtnLabel": "Geri",
   "suborgAccess": {
     "restrictedContent": "Bu içerik, şunun bir parçasıdır ",
-    "sendRequest": "Öğrenme teklifine erişmek için lütfen bize bir istek gönderin",
+    "subtitle": "İçeriği görebilmek için {{suborgName}} bölümüne erişiminiz olması gerekir",
     "requestAccess": "Erişim iste",
     "joinAccess": "Katıl",
     "pendingRequest": "Bekleyen talep",
