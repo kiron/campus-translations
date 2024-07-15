@@ -56,7 +56,14 @@
     "programs": "Programme",
     "heading": "Entdecke unsere Programme",
     "learningContentHeader": "Inhalte angeboten von",
-    "learningContentDescSubHeader": "Erweitere dein Wissen mit zertifizierten Kursen und Programmen von renommierten Institutionen und Unternehmen."
+    "learningContentDescSubHeader": "Erweitere dein Wissen mit zertifizierten Kursen und Programmen von renommierten Institutionen und Unternehmen.",
+    "startHere": "Wähle deinen Startpunkt",
+    "filterContent": "Filtere unseren Inhalt",
+    "selected": "Ausgewählt",
+    "applySelection": "Auswahl anwenden",
+    "maxTagNumber": "Maximale Anzahl ausgewählter Tags",
+    "filterNoResults": "Keine Ergebnisse für diese Suche",
+    "retry": "Bitte versuchen Sie es erneut mit einer anderen Kombination"
   },
   "success": {
     "introTitle": "Deine Erfolgsgeschichte!",

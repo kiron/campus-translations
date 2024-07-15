@@ -51,7 +51,14 @@
     "course": "Kurs",
     "courses": "Kurslar",
     "recommended": "Tarafından önerildi",
-    "heading": "Programlarımızı keşfedin"
+    "heading": "Programlarımızı keşfedin",
+    "startHere": "Başlangıç noktanı seç",
+    "filterContent": "İçeriğimizi filtrele",
+    "selected": "Seçilen",
+    "applySelection": "Seçimi uygula",
+    "maxTagNumber": "Seçilen maksimum etiket sayısı",
+    "filterNoResults": "Bu arama için sonuç bulunamadı",
+    "retry": "Lütfen başka bir kombinasyon deneyin"
   },
   "success": {
     "introTitle": "Başarı Öykün!",

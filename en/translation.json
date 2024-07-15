@@ -55,7 +55,14 @@
     "programs": "Programs",
     "heading": "Explore our programs",
     "learningContentHeader": "Learning content creators",
-    "learningContentDescSubHeader": "Expand your knowledge through certified courses and programs offered by renowned institutions and companies."
+    "learningContentDescSubHeader": "Expand your knowledge through certified courses and programs offered by renowned institutions and companies.",
+    "startHere": "Pick your starting point",
+    "filterContent": "Filter our content",
+    "selected": "Selected",
+    "applySelection": "Apply selection",
+    "maxTagNumber": "Maximum number of tags selected",
+    "filterNoResults": "No results for this search",
+    "retry": "Please try again with a diffrent combination"
   },
   "success": {
     "introTitle": "Your success story!",

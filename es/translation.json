@@ -54,7 +54,14 @@
     "showAll": "Mostrar todo",
     "collapse": "Colapsar",
     "programs": "Programas",
-    "heading": "Explora nuestros programas"
+    "heading": "Explora nuestros programas",
+    "startHere": "Elige tu punto de partida",
+    "filterContent": "Filtra nuestro contenido",
+    "selected": "Seleccionado",
+    "applySelection": "Aplicar selección",
+    "maxTagNumber": "Número máximo de etiquetas seleccionadas",
+    "filterNoResults": "No hay resultados para esta búsqueda",
+    "retry": "Por favor, inténtelo de nuevo con una combinación diferente"
   },
   "success": {
     "introTitle": "¡Su historia de éxito!",
