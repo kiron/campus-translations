@@ -61,7 +61,7 @@
     "applySelection": "Apply selection",
     "maxTagNumber": "Maximum number of tags selected",
     "filterNoResults": "No results for this search",
-    "retry": "Please try again with a diffrent combination"
+    "retry": "Please try again with a different combination"
   },
   "success": {
     "introTitle": "Your success story!",
