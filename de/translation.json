@@ -672,5 +672,10 @@
     "requestError": "Ein Fehler ist aufgetreten",
     "requestSuccess": "Du hast erfolgreich eine Zugriffsanfrage gestellt",
     "duplicateRequest": "Du hast bereits eine Zugriffsanfrage gestellt"
+  },
+  "logoutAlert": {
+    "title": "Inaktivitäts-Hinweis",
+    "text": "Du wirst bald automatisch ausgeloggt. Aktualisiere diese Seite, um eingeloggt zu bleiben und weiterzumachen.",
+    "refresh": "Aktualisieren"
   }
 }

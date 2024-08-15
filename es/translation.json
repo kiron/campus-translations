@@ -664,5 +664,10 @@
     "requestError": "Ocurrió un error",
     "requestSuccess": "Has enviado con éxito la solicitud de acceso",
     "duplicateRequest": "Ya has enviado una solicitud"
+  },
+  "logoutAlert": {
+    "title": "Alerta de inactividad",
+    "text": "Tu sesión está a punto de terminar. Para continuar usando la plataforma, por favor, actualiza la página.",
+    "refresh": "Actualizar"
   }
 }

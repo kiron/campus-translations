@@ -650,5 +650,10 @@
     "requestError": "An unknown error occurred",
     "requestSuccess": "You have successfully submitted access request",
     "duplicateRequest": "You have sent a request previously"
+  },
+  "logoutAlert": {
+    "title": "Inactivity Alert",
+    "text": "Your session will end soon. To continue using the platform, please refresh with the page.",
+    "refresh": "Refresh"
   }
 }
