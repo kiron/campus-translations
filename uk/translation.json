@@ -226,15 +226,15 @@
     "unit_1": "{{0}} одиниці",
     "unit_2": "{{0}} одиниць",
     "courseType": {
-      "course_0": "{{0}} курс",
-      "course_1": "{{0}} курси",
-      "course_2": "{{0}} курсів",
-      "project_0": "{{0}} Проект",
-      "project_1": "{{0}} Проекти",
-      "project_2": "{{0}} проектів",
-      "event_0": "{{0}} Подія",
-      "event_1": "{{0}} Події",
-      "event_2": "{{0}} Подій"
+      "course_0": "{{count}} курс",
+      "course_1": "{{count}} курси",
+      "course_2": "{{count}} курсів",
+      "project_0": "{{count}} Проект",
+      "project_1": "{{count}} Проекти",
+      "project_2": "{{count}} проектів",
+      "event_0": "{{count}} Подія",
+      "event_1": "{{count}} Події",
+      "event_2": "{{count}} Подій"
     }
   },
   "courseraProgress": {

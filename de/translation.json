@@ -254,15 +254,15 @@
     "type": "Kurs",
     "selfPaced": "Selbstgesteuert",
     "inProgress": "Laufend",
-    "unit": "{{0}} Einheit",
-    "unit_plural": "{{0}} Einheiten",
+    "unit": "{{count}} Einheit",
+    "unit_plural": "{{count}} Einheiten",
     "courseType": {
-      "course": "{{0}} Kurs",
-      "course_plural": "{{0}} Kurse",
-      "project": "{{0}} Projekt",
-      "project_plural": "{{0}} Projekte",
-      "event": "{{0}} Veranstaltung",
-      "event_plural": "{{0}} Veranstaltungen"
+      "course": "{{count}} Kurs",
+      "course_plural": "{{count}} Kurse",
+      "project": "{{count}} Projekt",
+      "project_plural": "{{count}} Projekte",
+      "event": "{{count}} Veranstaltung",
+      "event_plural": "{{count}} Veranstaltungen"
     }
   },
   "courseraProgress": {
