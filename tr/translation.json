@@ -527,5 +527,14 @@
     "requestError": "Bilinmeyen bir hata oluştu",
     "requestSuccess": "Erişim isteğini başarıyla gönderdin",
     "duplicateRequest": "Daha önce bir istek göndermişsin"
+  },
+  "logoutAlert": {
+    "title": "Pasiflik Uyarısı",
+    "text": "Oturumunuz yakında sona erecek. Platforma erişmeye devam etmek için lütfen sayfayı yenileyin.",
+    "refresh": "Yenile"
+  },
+  "learningMap": {
+    "title": "Öğrenme Haritası",
+    "text": "Konularımızı ve nasıl bağlantılı olduklarını keşfedin. İlgi alanlarınızı seçin ve içerik önerilerinizi kişiselleştirin."
   }
 }
