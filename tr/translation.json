@@ -535,6 +535,8 @@
   },
   "learningMap": {
     "title": "Öğrenme Haritası",
-    "text": "Konularımızı ve nasıl bağlantılı olduklarını keşfedin. İlgi alanlarınızı seçin ve içerik önerilerinizi kişiselleştirin."
+    "text": "Konularımızı ve nasıl bağlantılı olduklarını keşfedin. İlgi alanlarınızı seçin ve içerik önerilerinizi kişiselleştirin.",
+    "successMessage": "Değerlendirme başarıyla güncellendi",
+    "errorMessage": "Değerlendirme güncellenemedi"
   }
 }

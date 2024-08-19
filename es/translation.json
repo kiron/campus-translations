@@ -669,9 +669,11 @@
     "title": "Alerta de inactividad",
     "text": "Tu sesión está a punto de terminar. Para continuar usando la plataforma, por favor, actualiza la página.",
     "refresh": "Actualizar"
-  }, 
-  "learningMap":{
-    "title":"Mapa de Aprendizaje",
-    "text":"Explore nuestros temas y cómo están conectados. Elija sus áreas de interés y personalice sus recomendaciones de contenido."
+  },
+  "learningMap": {
+    "title": "Mapa de Aprendizaje",
+    "text": "Explore nuestros temas y cómo están conectados. Elija sus áreas de interés y personalice sus recomendaciones de contenido.",
+    "successMessage": "Calificación actualizada correctamente",
+    "errorMessage": "Error al actualizar la calificación"
   }
 }

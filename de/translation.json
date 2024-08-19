@@ -680,6 +680,8 @@
   },
   "learningMap": {
     "title": "Lernlandkarte",
-    "text": "Erkunde unsere Themen und wie sie zusammenhängen. Wähle deine Interessenschwerpunkte und personalisiere deine Inhalte-Empfehlungen."
+    "text": "Erkunde unsere Themen und wie sie zusammenhängen. Wähle deine Interessenschwerpunkte und personalisiere deine Inhalte-Empfehlungen.",
+    "successMessage": "Bewertung erfolgreich aktualisiert",
+    "errorMessage": "Bewertung konnte nicht aktualisiert werden"
   }
 }
