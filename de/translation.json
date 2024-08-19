@@ -677,5 +677,9 @@
     "title": "Inaktivitäts-Hinweis",
     "text": "Du wirst bald automatisch ausgeloggt. Aktualisiere diese Seite, um eingeloggt zu bleiben und weiterzumachen.",
     "refresh": "Aktualisieren"
+  },
+  "learningMap": {
+    "title": "Lernlandkarte",
+    "text": "Erkunde unsere Themen und wie sie zusammenhängen. Wähle deine Interessenschwerpunkte und personalisiere deine Inhalte-Empfehlungen."
   }
 }

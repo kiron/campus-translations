@@ -655,5 +655,9 @@
     "title": "Inactivity Alert",
     "text": "Your session will end soon. To continue using the platform, please refresh with the page.",
     "refresh": "Refresh"
+  },
+  "learningMap":{
+    "title":"Learning map",
+    "text":"Explore our topics and how they are connected. Choose your areas of interest and personalize your content recommendations."
   }
 }
