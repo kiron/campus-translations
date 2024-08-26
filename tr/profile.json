@@ -65,7 +65,8 @@
         "downloadLng": "Şu dilde indir:",
         "en": "İngilizce",
         "de": "Almanca",
-        "fr": "Fransızca"
+        "coeen": "Certificate of Registration",
+        "coede": "Registrierungsbestätigung"
     },
     "dataWallet": {
         "accountConnected": "Data wallet hesabınız bağlandı."

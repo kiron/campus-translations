@@ -69,7 +69,8 @@
         "downloadLng": "التحميل باللغة ",
         "en": "اللغة الإنجليزية",
         "de": "اللغة ألمانية",
-        "fr": "اللغة فرنسي"
+        "coeen": "Certificate of Registration",
+        "coede": "Registrierungsbestätigung"
     },
     "dataWallet": {
         "accountConnected": "حساب data wallet الخاص بك متصل."

@@ -65,7 +65,8 @@
         "downloadLng": "Download in",
         "en": "Englisch",
         "de": "Deutsch",
-        "fr": "Französisch"
+        "coeen": "Certificate of Registration",
+        "coede": "Registrierungsbestätigung"
     },
     "dataWallet": {
         "link": "Verknüpfe deinen Account mit deinem Enmeshed Data Wallet.",

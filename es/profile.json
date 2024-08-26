@@ -71,7 +71,8 @@
         "downloadLng": "Descargar en",
         "en": "Inglés",
         "de": "Alemán",
-        "fr": "Francés"
+        "coeen": "Certificate of Registration",
+        "coede": "Registrierungsbestätigung"
     },
     "dataWallet": {
         "accountConnected": "Tu cartera de datos está conectada.",

@@ -71,7 +71,8 @@
         "downloadLng": "Download in",
         "en": "English",
         "de": "German",
-        "fr": "French"
+        "coeen": "Certificate of Registration",
+        "coede": "Registrierungsbestätigung"
     },
     "dataWallet": {
         "error": "Error loading Data Wallet details",
