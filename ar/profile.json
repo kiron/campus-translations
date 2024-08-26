@@ -53,9 +53,9 @@
         "privateEmailReverted": "شكرًا لك. لقد ألغيت تغيير بريدك الإلكتروني الخاص."
     },
     "certificate": {
-        "title": "شهادة التوثيق",
-        "desc": "هل تريد أن تثبت أنك طالب في كيرون؟",
-        "downloadDesc": "قم بتنزيل شهادة التسجيل الخاصة بك!",
+        "title": "تأكيد التسجيل",
+        "desc": "هل تحتاج إلى إثبات أنك تتعلم مع {{orgDisplayName}}؟",
+        "downloadDesc": "قم بتنزيل تأكيد تسجيلك!",
         "btnLabel": "حمل هنا",
         "downloadPlease": "رجاء",
         "clickHere": "انقر هنا",

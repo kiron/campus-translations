@@ -49,9 +49,9 @@
         "emailMsg": "Hast du eine neue <1>private</1> E-Mail Adresse? Du kannst diese hier ändern. Wir senden dir anschließend eine E-Mail zur Bestätigungs an diese Adresse - <2>bitte bestätige</2> diese in den nächsten Tagen."
     },
     "certificate": {
-        "title": "Anmeldebebescheinigung",
-        "desc": "Brauchst du einen Nachweis, dass du Studierender bei {{orgDisplayName}} bist?",
-        "downloadDesc": "Download der Anmeldebebescheinigung",
+        "title": "Bestätigung der Registrierung",
+        "desc": "Möchten Sie nachweisen, dass Sie mit {{orgDisplayName}} lernen?",
+        "downloadDesc": "Laden Sie Ihre Anmeldebestätigung herunter!",
         "btnLabel": "Download hier",
         "downloadPlease": "Bitte",
         "clickHere": "klicke hier",

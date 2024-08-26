@@ -49,9 +49,9 @@
         "emailMsg": "Yeni bir <1>özel</1> eposta adresin mi var? Burada değiştirebilirsin. Bu adrese bir onay epostası göndereceğiz- <2>lütfen önümüzdeki günlerde onayla</2>."
     },
     "certificate": {
-        "title": "Kayıt Belgesi",
-        "desc": "{{orgDisplayName}} ile öğrenci olduğunu kanıtlaman mı gerekiyor?",
-        "downloadDesc": "Kayıt Belgeni indir!",
+        "title": "Kayıt Onayı",
+        "desc": "{{orgDisplayName}} ile öğrenim göstermeniz gerekiyor mu?",
+        "downloadDesc": "Kayıt onayınızı indirin!",
         "btnLabel": "Buradan indir",
         "downloadPlease": "Lütfen",
         "clickHere": "Buraya tıkla",

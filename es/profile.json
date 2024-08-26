@@ -55,9 +55,9 @@
         "privateEmailReverted": "Gracias. Has revertido el cambio de tu correo electrónico privado."
     },
     "certificate": {
-        "title": "Certificado de inscripción",
-        "desc": "¿Necesita probar que es un estudiante en {{orgDisplayName}}?",
-        "downloadDesc": "¡Descargue su certificado de inscripción!",
+        "title": "Confirmación de registro",
+        "desc": "¿Necesita demostrar que está aprendiendo con {{orgDisplayName}}?",
+        "downloadDesc": "¡Descargue su confirmación de registro!",
         "btnLabel": "Descargue aquí",
         "downloadPlease": "Por favor",
         "clickHere": "clique aquí",

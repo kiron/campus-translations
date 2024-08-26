@@ -55,9 +55,9 @@
         "privateEmailReverted": "Thank you. You reverted the change of your private email."
     },
     "certificate": {
-        "title": "Certificate of Enrollment",
-        "desc": "Do you need to prove that you are a student with {{orgDisplayName}}?",
-        "downloadDesc": "Download your Certificate of Enrollment!",
+        "title": "Confirmation of registration",
+        "desc": "Do you need to prove that you are learning with {{orgDisplayName}}?",
+        "downloadDesc": "Download your Confirmation of registration!",
         "btnLabel": "Download here",
         "downloadPlease": "Please",
         "clickHere": "click here",
