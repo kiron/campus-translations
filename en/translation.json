@@ -244,15 +244,15 @@
     "type": "Course",
     "selfPaced": "Self-paced",
     "inProgress": "In progress",
-    "unit": "{{count}} Unit",
-    "unit_plural": "{{count}} Units",
+    "unit": "{{0}} Unit",
+    "unit_plural": "{{0}} Units",
     "courseType": {
-      "course": "{{count}} Course",
-      "course_plural": "{{count}} Courses",
-      "project": "{{count}} Project",
-      "project_plural": "{{count}} Projects",
-      "event": "{{count}} Event",
-      "event_plural": "{{count}} Events"
+      "course": "{{0}} Course",
+      "course_plural": "{{0}} Courses",
+      "project": "{{0}} Project",
+      "project_plural": "{{0}} Projects",
+      "event": "{{0}} Event",
+      "event_plural": "{{0}} Events"
     }
   },
   "courseraProgress": {

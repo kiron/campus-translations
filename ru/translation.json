@@ -226,15 +226,15 @@
     "unit_1": "{{0}} Блоки",
     "unit_2": "{{0}} Блоков",
     "courseType": {
-      "course_0": "{{count}} Курс",
-      "course_1": "{{count}} Курсa",
-      "course_2": "{{count}} Курсов",
-      "project_0": "{{count}} Проект",
-      "project_1": "{{count}} ППроектa",
-      "project_2": "{{count}} Проектов",
-      "event_0": "{{count}} Событие",
-      "event_1": "{{count}} События",
-      "event_2": "{{count}} Событии"
+      "course_0": "{{0}} Курс",
+      "course_1": "{{0}} Курсa",
+      "course_2": "{{0}} Курсов",
+      "project_0": "{{0}} Проект",
+      "project_1": "{{0}} ППроектa",
+      "project_2": "{{0}} Проектов",
+      "event_0": "{{0}} Событие",
+      "event_1": "{{0}} События",
+      "event_2": "{{0}} Событии"
     }
   },
   "courseraProgress": {

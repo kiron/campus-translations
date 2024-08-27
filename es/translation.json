@@ -253,15 +253,15 @@
     "selfPaced": "Autodidacta",
     "inProgress": "En curso",
     "courseType": {
-      "event": "{{count}} Evento",
-      "event_plural": "{{count}} Eventos",
-      "project": "{{count}} Proyecto",
-      "project_plural": "{{count}} Proyectos",
-      "course": "{{count}} Curso",
-      "course_plural": "{{count}} Cursos"
+      "event": "{{0}} Evento",
+      "event_plural": "{{0}} Eventos",
+      "project": "{{0}} Proyecto",
+      "project_plural": "{{0}} Proyectos",
+      "course": "{{0}} Curso",
+      "course_plural": "{{0}} Cursos"
     },
-    "unit": "{{count}} Unidad",
-    "unit_plural": "{{count}} Unidades"
+    "unit": "{{0}} Unidad",
+    "unit_plural": "{{0}} Unidades"
   },
   "courseraProgress": {
     "title": "Progreso en Coursera",
