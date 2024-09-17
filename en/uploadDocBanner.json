@@ -1,6 +1,6 @@
 {
   "noUploadHeader": "Please verify your account to get access to unlimited free courses and certificates.",
-  "noUploadDescription": "This only takes 5 minutes. If you are not eligible you can still study our Kiron hosted courses for free.",
+  "noUploadDescription": "Verification is available to people with a status as refugees, asylum, seekers, or another form of international protection. Eligibility for verification may be extendend according to your location. If you are not eligible you can still study our Kiron hosted courses for free.",
   "uploadDocumentBtn": "Upload document",
   "inReviewHeader": "Review in progress",
   "inReviewDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next few weeks.",
@@ -14,5 +14,6 @@
   "acceptedHeader": "Your document is valid",
   "acceptedDescription": "Enjoy our learning programs on the Explore page or meet other learners in your area on the Community page.",
   "whyVerify": "Why verify?",
-  "moreInfo": "More info"
+  "moreInfo": "More info",
+  "eligibleBtn": "Am I eligible?"
 }

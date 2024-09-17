@@ -1,6 +1,6 @@
 {
   "noUploadHeader": "Por favor, verifica tu cuenta para tener acceso ilimitado a cursos y certificados.",
-  "noUploadDescription": "Te llevará cinco minutos. Si no cumples los requisitos, puedes seguir aprendiendo con los cursos alojados en Kiron de manera gratuita.",
+  "noUploadDescription": "La verificación está disponible para personas con estatus de refugiados, asilo, solicitantes de asilo u otra forma de protección internacional. La elegibilidad para la verificación puede extenderse según su ubicación. Si no es elegible, aún puede estudiar nuestros cursos alojados en Kiron de forma gratuita.",
   "uploadDocumentBtn": "Subir documento",
   "inReviewHeader": "La revisión está en curso.",
   "inReviewDescription": "Gracias por subir tu documento. Vamos a proceder con la revisión. Recibirás un email de nuestra parte en las próximas semanas.",
@@ -14,5 +14,6 @@
   "acceptedHeader": "Tu documento es válido",
   "acceptedDescription": "Disfruta de nuestros programas de aprendizaje en la página Explorar o conoce a otros estudiantes en tu área en la página Comunidad.",
   "whyVerify": "¿Por qué es necesario verificar?",
-  "moreInfo": "Más información"
+  "moreInfo": "Más información",
+  "eligibleBtn": "¿Soy elegible?"
 }

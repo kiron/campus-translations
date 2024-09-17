@@ -1,6 +1,6 @@
 {
   "noUploadHeader": "Sınırsız ücretsiz kurs ve sertifikalara erişim elde etmek için lütfen hesabınızı doğrulayın.",
-  "noUploadDescription": "Bu sadece 5 dakika sürer. Uygun değilseniz, yine de Kiron tarafından sunulan kurslarımızı ücretsiz olarak inceleyebilirsiniz.",
+  "noUploadDescription": "Doğrulama, mülteci, sığınmacı, sığınma başvurusunda bulunan veya başka bir uluslararası koruma formu olarak statüye sahip kişilere sunulmaktadır. Doğrulama için uygunluk, bulunduğunuz yere göre uzatılabilir. Uygun değilseniz, yine de Kiron'un barındırdığı kurslarımızı ücretsiz olarak okuyabilirsiniz.",
   "uploadDocumentBtn": "Belge yükle",
   "inReviewHeader": "İnceleme devam ediyor",
   "inReviewDescription": "Belgenizi yüklediğiniz için teşekkür ederiz. Önümüzdeki birkaç hafta içinde bizden bir e-posta alacaksın.",
@@ -14,5 +14,6 @@
   "acceptedHeader": "Belgeniz geçerli",
   "acceptedDescription": "Keşfet sayfasındaki öğrenme programlarımızın keyfini çıkarın veya Topluluk sayfasında bölgenizdeki diğer öğrencilerle tanışın.",
   "whyVerify": "Neden doğrulamalıyız?",
-  "moreInfo": "Daha fazla bilgi"
+  "moreInfo": "Daha fazla bilgi",
+  "eligibleBtn": "Uygun muyum?"
 }
