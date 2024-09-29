@@ -4,9 +4,9 @@
     "registerHeadline": "Registrieren",
     "initial": {
       "emailButton": "Registrieren mit E-Mail",
-      "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unseren",
+      "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unserer",
       "termsLink": "Datenschutzrichtlinie",
-      "alreadyUserTitle": "Besitzt du bereits ein Account?",
+      "alreadyUserTitle": "Besitzt du bereits einen Account?",
       "alreadyUserLink": "Login",
       "or": "oder"
     },
@@ -14,7 +14,7 @@
       "labelEmail": "E-Mail",
       "labelPassword": "Dein Passwort",
       "buttonRegister": "Registrieren",
-      "alreadyUserTitle": "Besitzt du bereits ein Account?",
+      "alreadyUserTitle": "Besitzt du bereits einen Account?",
       "alreadyUserLink": "Login",
       "errorEmail": "Muss eine gültige E-Mail-Adresse sein und darf keine Leerzeichen enthalten",
       "errorKironEmail": "Bitte nutze 'Weiter mit Google' zum Einloggen",
@@ -27,7 +27,7 @@
       "emailSentTitle": "Fast fertig!",
       "emailSentDescription01": "Überprüfe deine E-Mail",
       "emailSentDescription02": "Wir haben dir einen Link geschickt, um dein Konto zu aktivieren.",
-      "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unseren",
+      "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unserer",
       "termsLink": "Datenschutzrichtlinie"
     },
     "registerConfirmed": {
@@ -176,7 +176,7 @@
     "addModuleBtnContinue": "Weiter browsen",
     "addModuleBtnStart": "Beginne jetzt mit deinem ersten Kurs",
     "addModuleText": "Dieses Skill Booster Program wurde deinem Home Tab hinzugefügt",
-    "enrollModuleBtnNo": "Jetzt nicht",
+    "enrollModuleBtnNo": "Nicht jetzt",
     "enrollModuleBtnStart": "Jetzt starten",
     "enrollModuleTitle": "Möchtest du dich für dieses Programm anmelden?",
     "enrollModuleText": "Hi {{0}}, dies ist Teil unseres Lernprogramms <1>{{- 1}}</1>. Willst du damit beginnen und etwas lernen über <3>{{- 3}}</3>?",
@@ -189,7 +189,7 @@
     "downloadTranscriptBtn": "Download Transkript",
     "unitComplete": "Einheit <1/> Abgeschlossen!",
     "rateHelp": "Hilf Anderen, indem du diesen Kurs bewertest",
-    "notNow": "Jetzt nicht",
+    "notNow": "Nicht jetzt",
     "rate": "Bewerte",
     "thankYou": "Vielen Dank",
     "addComment": "Kommentar hinzufügen",
@@ -217,10 +217,10 @@
     "updatedProgram": "Dieses Programm wurde aktualisiert!",
     "updatedProgramText": "Wir haben diesem Programm neue Kurse hinzugefügt. Wir empfehlen dir, dem neuen Programm beizutreten. Klicke dafür auf „Weiterlernen“.\n\nKeine Sorge, dein aktueller Stand wird beibehalten, wenn Du der aktuellsten Version des Programms beitrittst.",
     "evaluate": "Bewerte den Kurs",
-    "evaluateHelp": "Hilf uns, deine Lernerfahrung zu verbessern, indem du uns einige Fragen zu diesem Kurs beantwortest.",
+    "evaluateHelp": "Hilf uns, deine Lernerfahrung zu verbessern, indem du einige Fragen zu diesem Kurs beantwortest.",
     "shareYourOpinion": "Teile deine Meinung mit anderen Lernenden",
     "btnShareReview": "Teile deine Bewertung",
-    "helpReviewCourse": "Helfe anderen Lernenden, indem du diesen Kurs bewertest.",
+    "helpReviewCourse": "Hilf anderen Lernenden, indem du diesen Kurs bewertest.",
     "thankYouHeader": "Danke für deine Bewertung!",
     "continueNextCourseBtn": "Weiter zum nächsten Kurs",
     "backToProgramBtn": "Zurück zum Programm",
@@ -232,8 +232,8 @@
     "sentCertificateDatawalletBtn": "Zertifikat an dein Datawallet senden",
     "syncCourseCompletionDatawalletBtn": "Abgeschlossenen Kurs mit der Ablage (Data Wallet) synchronisieren",
     "socialShareTextBtn": "Ich habe {{courseDenomination}} abgeschlossen",
-    "exploreMoreProgramsBtn": "Entdecke mehr Programme",
-    "completedACourseHeader": "Hurra! Du hast dieses Programm abgeschlossen."
+    "exploreMoreProgramsBtn": "Entdecke weitere Lernangebote",
+    "completedACourseHeader": "Hurra! Du hast diesen Kurs abgeschlossen."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Weiter"
@@ -489,7 +489,7 @@
     "youWillGetNotified": "Du wirst benachrichtigt, sobald wir fertig sind",
     "documentsInReview": "Deine Dokumente werden verifiziert.",
     "reviews": "Bewertungen",
-    "badges": "Badges",
+    "badges": "Badge",
     "platform": "Plattform",
     "participantsTitle": "Teilnehmende",
     "relatedTopics": "Verwandte Themen"
@@ -559,9 +559,9 @@
     "subHeaderFeedback": "Feedback",
     "headerRecommendedForYou": "Empfehlungen für dich",
     "headerRecommendedForYouBy": "Empfehlungen für dich von",
-    "helpUsText": "Hilf uns, deine Lernerfahrung zu verbessern, indem du uns einige Fragen zu diesem Kurs beantwortest.",
+    "helpUsText": "Hilf uns, deine Lernerfahrung zu verbessern, indem du einige Fragen zu diesem Kurs beantwortest.",
     "thankYouModal": "Danke für deine Bewertung!",
-    "helpUsBtn": "Hilf uns besser zu werden",
+    "helpUsBtn": "Hilf uns, besser zu werden",
     "notNowBtn": "Nicht jetzt",
     "leaveSurveyWarningDescription": "Bist du sicher, dass du gehen willst?",
     "reset": "Zurücksetzen",
