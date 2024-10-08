@@ -650,7 +650,10 @@
     "undo": "Rückgängig"
   },
   "contentProviders": {
-    "noDescriptionAvailable": "Es scheint als wäre noch keine Beschreibung vorhanden.",
+    "offerContentSubHeader": "Entdecke Inhalte von {{cpCount}} verschiedenen Anbietern",
+    "noDescriptionAvailable": "Es scheint, als wäre noch keine Beschreibung vorhanden.",
+    "btnOthers": "Andere",
+    "btnShowLess": "Weniger anzeigen",
     "preHeadingComingSoon": "Coming soon...",
     "headingContentNotFound": "Noch sind keine Inhalte vorhanden"
   },
