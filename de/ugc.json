@@ -1,0 +1,23 @@
+{
+  "document": {
+    "title": "Name",
+    "denominationInputDefault": "Unbenanntes Dokument",
+    "denominationInputPlaceholder": "Name"
+  },
+  "toolbar": {
+    "back": "Zurück",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "preview": "Vorschau"
+  },
+  "notifications": {
+    "saveSuccess": "Dein Inhalt wurde erfolgreich gespeichert",
+    "saveError": "Beim Speichern deines Inhalts ist ein Problem aufgetreten"
+  },
+  "leavePrompt": {
+    "title": "Möchtest du die Seite wirklich verlassen?",
+    "description": "Nicht gespeicherte Änderungen gehen verloren",
+    "stay": "Bleiben",
+    "leave": "Verlassen"
+  }
+}

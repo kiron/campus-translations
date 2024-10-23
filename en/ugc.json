@@ -1,0 +1,23 @@
+{
+  "document": {
+    "title": "Document title",
+    "denominationInputDefault": "Untitled Document",
+    "denominationInputPlaceholder": "Document Title"
+  },
+  "toolbar": {
+    "back": "Back",
+    "save": "Save",
+    "edit": "Edit",
+    "preview": "Preview"
+  },
+  "notifications": {
+    "saveSuccess": "Your content was saved successfully",
+    "saveError": "There was a problem saving your content"
+  },
+  "leavePrompt": {
+    "title": "Do you really want to leave?",
+    "description": "You will lose your unsaved changes",
+    "stay": "Stay",
+    "leave": "Leave"
+  }
+}
