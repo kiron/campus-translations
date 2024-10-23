@@ -1,8 +1,8 @@
 {
   "document": {
-    "title": "Name",
-    "denominationInputDefault": "Unbenanntes Dokument",
-    "denominationInputPlaceholder": "Name"
+    "titleInputLabel": "Name des Inhalts",
+    "titleInputDefault": "Unbenannter Inhalt",
+    "titleInputPlaceholder": "Name des Inhalts"
   },
   "toolbar": {
     "back": "Zurück",
