@@ -12,12 +12,29 @@
   },
   "notifications": {
     "saveSuccess": "Your content was saved successfully",
-    "saveError": "There was a problem saving your content"
+    "saveError": "There was a problem saving your content",
+    "data": "Content was successfully deleted",
+    "deleteError": "Error deleting content"
   },
   "leavePrompt": {
     "title": "Do you really want to leave?",
     "description": "You will lose your unsaved changes",
     "stay": "Stay",
     "leave": "Leave"
-  }
+  },
+  "modal": {
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "deleteConfirmation": "Are you sure you want to delete {{denomination}}?",
+    "deleteCannotBeUndone": "Deletion cannot be undone."
+  },
+  "table": {
+    "title": "Title",
+    "owner": "Owner",
+    "lastUpdated": "Last updated"
+  },
+  "createNewContent": "Create new content",
+  "noUserContent": "There is no user generated content yet.",
+  "responsibilityAlert": "Responsibility alert: Everything is visible, don’t upload personal data, don’t violate copyrights etc.",
+  "help": "Help"
 }
