@@ -36,5 +36,6 @@
   "createNewContent": "Create new content",
   "noUserContent": "There is no user generated content yet.",
   "responsibilityAlert": "Responsibility alert: Everything is visible, don’t upload personal data, don’t violate copyrights etc.",
-  "help": "Help"
+  "help": "Help",
+  "join": "Join the project to create your own content."
 }
