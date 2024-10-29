@@ -12,12 +12,30 @@
   },
   "notifications": {
     "saveSuccess": "Dein Inhalt wurde erfolgreich gespeichert",
-    "saveError": "Beim Speichern deines Inhalts ist ein Problem aufgetreten"
+    "saveError": "Beim Speichern deines Inhalts ist ein Problem aufgetreten",
+    "deleteSuccess": "Der Inhalt wurde erfolgreich gelöscht",
+    "deleteError": "Fehler beim Löschen des Inhalts"
   },
   "leavePrompt": {
     "title": "Möchtest du die Seite wirklich verlassen?",
     "description": "Nicht gespeicherte Änderungen gehen verloren",
     "stay": "Bleiben",
     "leave": "Verlassen"
-  }
+  },
+  "modal": {
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "deleteConfirmation": "Bist du sicher, dass du {{denomination}} löschen möchtest?",
+    "deleteCannotBeUndone": "Das Löschen kann nicht rückgängig gemacht werden."
+  },
+  "table": {
+    "title": "Name",
+    "owner": "Ersteller",
+    "lastUpdated": "Zuletzt aktualisiert"
+  },
+  "createNewContent": "Neuen Inhalt erstellen",
+  "noUserContent": "Es gibt noch keine selbst erstellten Inhalte.",
+  "responsibilityAlert": "Bitte beachte: Alle Inhalte sind öffentlich sichtbar. Hilf uns, einen sicheren Raum zu bewahren, indem du diese Richtlinien befolgst:\n• Teile keine persönlichen Daten\n• Beachte das Urheberrecht\n• Verwende angemessene, lehrreiche Inhalte",
+  "help": "Hilfe",
+  "join": "Tritt dem Projekt bei, um selbst Inhalte zu erstellen."
 }

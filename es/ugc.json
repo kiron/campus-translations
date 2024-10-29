@@ -1,0 +1,41 @@
+{
+  "document": {
+    "titleInputLabel": "Nombre del contenido",
+    "titleInputDefault": "Contenido sin nombre",
+    "titleInputPlaceholder": "Nombre del contenido"
+  },
+  "toolbar": {
+    "back": "Volver",
+    "save": "Guardar",
+    "edit": "Editar",
+    "preview": "Vista previa"
+  },
+  "notifications": {
+    "saveSuccess": "Tu contenido se ha guardado correctamente",
+    "saveError": "Ha ocurrido un problema al guardar tu contenido",
+    "deleteSuccess": "El contenido se ha eliminado correctamente",
+    "deleteError": "Error al eliminar el contenido"
+  },
+  "leavePrompt": {
+    "title": "¿Realmente deseas salir?",
+    "description": "Perderás los cambios no guardados",
+    "stay": "Permanecer",
+    "leave": "Salir"
+  },
+  "modal": {
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "deleteConfirmation": "¿Estás seguro de que deseas eliminar {{denomination}}?",
+    "deleteCannotBeUndone": "Esta acción no se puede deshacer."
+  },
+  "table": {
+    "title": "Nombre",
+    "owner": "Creador",
+    "lastUpdated": "Última actualización"
+  },
+  "createNewContent": "Crear nuevo contenido",
+  "noUserContent": "Aún no hay contenido creado por usuarios.",
+  "responsibilityAlert": "Por favor, ten en cuenta: Todo el contenido es público. Ayúdanos a mantener un espacio seguro siguiendo estas pautas:\n• No compartas información personal\n• Respeta los derechos de autor\n• Utiliza contenido apropiado y educativo",
+  "help": "Ayuda",
+  "join": "Únete al proyecto para crear tu propio contenido."
+}
