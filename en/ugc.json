@@ -35,7 +35,7 @@
   },
   "createNewContent": "Create new content",
   "noUserContent": "There is no user created content yet.",
-  "responsibilityAlert": "Please note: All content is publicly visible. Help us maintain a safe space by following these guidelines:\n• Don't share personal information\n• Respect copyright and intellectual property\n• Use appropriate, educational content",
+  "responsibilityAlert": "Please note: All content is publicly visible. Help us maintain a safe space by following these guidelines: Don't share personal information, respect copyright and intellectual property, and use appropriate, educational content.",
   "help": "Help",
   "join": "Join the project to create your own content."
 }
