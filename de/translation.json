@@ -444,6 +444,7 @@
   "course": {
     "projectChatText": "Du kannst dich mit den Projektteilnehmer austauschen, sobald du diesem Projekt beigetreten bist.",
     "chatTab": "Chat",
+    "userContentTab": "Nutzerinhalte",
     "appointmentsTab": "Termine",
     "attachmentsTab": "Anhänge",
     "aboutTab": "Beschreibung",
