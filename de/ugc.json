@@ -30,12 +30,12 @@
   },
   "table": {
     "title": "Name",
-    "owner": "Ersteller",
+    "owner": "Erstellt von",
     "lastUpdated": "Zuletzt aktualisiert"
   },
   "createNewContent": "Neuen Inhalt erstellen",
   "noUserContent": "Es gibt noch keine selbst erstellten Inhalte.",
   "responsibilityAlert": "Bitte beachte: Alle Inhalte sind öffentlich sichtbar. Hilf uns, einen sicheren Raum zu bewahren, indem du diese Richtlinien befolgst: Teile keine persönlichen Daten, beachte das Urheberrecht und verwende angemessene, lehrreiche Inhalte.",
-  "help": "Hilfe",
+  "help": "Du möchtest mehr über das Erstellen von eigenen Lerninhalten erfahren oder benötigest Hilfe dabei? Schau direkt bei Serlo vorbei",
   "join": "Tritt dem Projekt bei, um selbst Inhalte zu erstellen."
 }
