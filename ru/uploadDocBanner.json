@@ -7,5 +7,9 @@
   "noUploadTime": "Это займет всего 5 минут.",
   "noUploadBtn": "Проверь документы",
   "noUploadImgAlt": "Загрузи свои документы для получения статуса беженца",
-  "rejectedDescription": "Не соответствуешь требованиям? Ты всё ещё можешь учиться у нас бесплатно."
+  "rejectedDescription": "Не соответствуешь требованиям? Ты всё ещё можешь учиться у нас бесплатно.",
+  "eligibleBtn": "Подхожу ли я?",
+  "ineligibleBtn": "Why am I not eligible?",
+  "ineligibleUploadHeader": "Thank you for submitting your documents!",
+  "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment."
 }

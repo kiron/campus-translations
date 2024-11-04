@@ -15,5 +15,8 @@
   "acceptedDescription": "استمتع ببرامجنا التعليمية على صفحة الاستكشاف، أو تعرف على الطلاب الآخرين في منطقتك على صفحة المجتمع.",
   "whyVerify": "لماذا التحقق؟",
   "moreInfo": "مزيد من المعلومات",
-  "eligibleBtn": "هل أنا مؤهل؟"
+  "eligibleBtn": "هل أنا مؤهل؟",
+  "ineligibleBtn": "Why am I not eligible?",
+  "ineligibleUploadHeader": "Thank you for submitting your documents!",
+  "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment."
 }

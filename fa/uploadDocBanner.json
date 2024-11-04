@@ -7,5 +7,9 @@
   "noUploadTime": "فقط 5 دقیقه طول می کشد.",
   "noUploadBtn": "اسناد را تأیید کنید",
   "noUploadImgAlt": "برای به دست آوردن وضعیت پناهندگی مدارک خود را بارگذاری کنید",
-  "rejectedDescription": "واجد شرایط نیست؟ هنوز هم می توانید به صورت رایگان با ما درس بخوانید."
+  "rejectedDescription": "واجد شرایط نیست؟ هنوز هم می توانید به صورت رایگان با ما درس بخوانید.",
+  "eligibleBtn": "Am I eligible?",
+  "ineligibleBtn": "Why am I not eligible?",
+  "ineligibleUploadHeader": "Thank you for submitting your documents!",
+  "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment."
 }

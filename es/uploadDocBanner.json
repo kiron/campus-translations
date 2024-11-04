@@ -15,5 +15,8 @@
   "acceptedDescription": "Disfruta de nuestros programas de aprendizaje en la página Explorar o conoce a otros estudiantes en tu área en la página Comunidad.",
   "whyVerify": "¿Por qué es necesario verificar?",
   "moreInfo": "Más información",
-  "eligibleBtn": "¿Soy elegible?"
+  "eligibleBtn": "¿Soy elegible?",
+  "ineligibleBtn": "Why am I not eligible?",
+  "ineligibleUploadHeader": "Thank you for submitting your documents!",
+  "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment."
 }

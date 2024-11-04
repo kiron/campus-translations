@@ -15,5 +15,8 @@
   "acceptedDescription": "Starte mit unseren Lerninhalten auf der Seite Entdecken oder triff andere Lernende in deiner Umgebung auf der Seite Community.",
   "whyVerify": "Warum verifizieren?",
   "moreInfo": "Mehr Informationen",
-  "eligibleBtn": "Bin ich berechtigt?"
+  "eligibleBtn": "Bin ich berechtigt?",
+  "ineligibleBtn": "Why am I not eligible?",
+  "ineligibleUploadHeader": "Thank you for submitting your documents!",
+  "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment."
 }
