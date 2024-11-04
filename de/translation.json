@@ -489,7 +489,7 @@
     "lockedMessage": "Um diesen Kurs freizuschalten musst du zuerst <1>Einheit: {{0}}</1> abschließen",
     "youWillGetNotified": "Du wirst benachrichtigt, sobald wir fertig sind",
     "documentsInReview": "Deine Dokumente werden verifiziert.",
-    "documentsIneligible": "This course/program is only available to verified learners",
+    "documentsIneligible": "Dieser Kurs/dieses Programm ist nur für verifizierte Lernende verfügbar.",
     "reviews": "Bewertungen",
     "badges": "Badge",
     "platform": "Plattform",
