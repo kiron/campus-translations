@@ -26,7 +26,10 @@
     "cancel": "Cancel",
     "delete": "Delete",
     "deleteConfirmation": "Are you sure you want to delete {{denomination}}?",
-    "deleteCannotBeUndone": "Deletion cannot be undone."
+    "deleteCannotBeUndone": "Deletion cannot be undone.",
+    "conflictTitle": "Conflicting Changes Detected",
+    "conflictDescription": "It looks like the owner or tutor has updated this content recently. Overwriting their changes will discard their input. Are you sure you want to proceed?",
+    "overwriteBtn": "Overwrite Changes"
   },
   "table": {
     "title": "Title",
