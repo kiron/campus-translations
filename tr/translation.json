@@ -363,7 +363,9 @@
     "weeks": "weeks"
   },
   "course": {
-    "documentsIneligible": "Bu kurs/program yalnızca doğrulanmış öğrenicilere açıktır."
+    "documentsIneligible": "Bu kurs/program yalnızca doğrulanmış öğrenicilere açıktır.",
+    "documentCheckClosed": "Kiron, periyodik belge doğrulaması için yeni bir sistem uygulamaya koydu, bu da Kampüs'ün yıl içinde belirli zamanlarda doğrulama için açılacağı anlamına geliyor. Şu anda, yeni öğreniciler için belge doğrulaması kapalıdır. Ancak, temel kurslarımıza ve kaynaklarımıza erişmeye devam edebilir ve bir sonraki doğrulama dönemi açıldığında bilgilendirme dahil güncellemeleri bizden alabilirsiniz.",
+    "moreInfo": "Daha fazla bilgi"
   },
   "errors": {
     "lostCourse": "Bu kurs kayıp",

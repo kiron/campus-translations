@@ -450,6 +450,8 @@
     "close": "Cerrar",
     "documentsInReview": "Sus documentos están siendo verificados.",
     "documentsIneligible": "Este curso/programa solo está disponible para estudiantes verificados.",
+    "documentCheckClosed": "Kiron ha introducido un nuevo sistema para la verificación periódica de documentos, lo que significa que el Campus se abre para verificación en momentos específicos del año. Actualmente, la verificación de documentos está cerrada para los nuevos estudiantes. Sin embargo, aún puedes acceder a nuestros cursos y recursos básicos y recibirás actualizaciones de nuestra parte, incluyendo notificaciones cuando se abra el próximo período de verificación.",
+    "moreInfo": "Más información",
     "students": "Estudiantes",
     "contains": "Contiene",
     "freeCertificate": "Certificado gratuito para estudiantes de Kiron.",

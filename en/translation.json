@@ -456,6 +456,8 @@
     "students": "Students",
     "documentsInReview": "Your documents are being verified.",
     "documentsIneligible": "This course/program is only available to verified learners",
+    "documentCheckClosed": "Kiron has introduced a new system for periodic document verification, which means the Campus opens for verification at specific times during the year. Currently, document verification is closed for new learners. However, you can still access our basic courses and resources and will receive updates from us, including notifications when the next verification period opens.",
+    "moreInfo": "More information",
     "close": "Close",
     "youWillGetNotified": "You will get notified once we are done",
     "save": "Save",
