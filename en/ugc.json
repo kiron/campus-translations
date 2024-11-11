@@ -14,7 +14,9 @@
     "saveSuccess": "Your content was saved successfully",
     "saveError": "There was a problem saving your content",
     "deleteSuccess": "Content was successfully deleted",
-    "deleteError": "Error deleting content"
+    "deleteError": "Error deleting content",
+    "shareSuccess": "Your content is now public and ready to share",
+    "privateSuccess": "Your content is now private"
   },
   "leavePrompt": {
     "title": "Do you really want to leave?",
@@ -31,6 +33,9 @@
     "conflictDescription": "It looks like the owner or tutor has updated this content recently. Overwriting their changes will discard their input. Are you sure you want to proceed?",
     "overwriteBtn": "Overwrite Changes"
   },
+  "shareModal": {
+    "title": "Share this content"
+  },
   "table": {
     "title": "Title",
     "owner": "Creator",
@@ -40,5 +45,8 @@
   "noUserContent": "There is no user created content yet.",
   "responsibilityAlert": "Please note: All content is publicly visible. Help us maintain a safe space by following these guidelines: Don't share personal information, respect copyright and intellectual property, and use appropriate, educational content.",
   "help": "Would you like to learn more about creating your own learning content or need help with it? Visit Serlo directly",
-  "join": "Join the project to create your own content."
+  "join": "Join the project to create your own content.",
+  "share": "Share",
+  "shareUrl": "Your shareable content URL",
+  "private": "This content is set to private and can not be shared"
 }
