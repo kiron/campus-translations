@@ -26,7 +26,7 @@
       "errorSpecialCharacter": "Dein Passwort sollte mindestens ein Sonderzeichen enthalten, ausgenommen <, oder >",
       "errorPasswordsDoNotMatch": "Die Passwörter stimmen nicht überein",
       "errorOldPasswordIncorrect": "Dein altes Passwort ist falsch",
-      "errorCommonPassword": "Dein Passwort ist zu häufig",
+      "errorCommonPassword": "Dein Password wird zu häufig genutzt. Bitte wähle ein anderes.",
       "errorPasswordSameAsOld": "Dein neues Passwort darf nicht dasselbe wie das alte Passwort sein",
       "emailSentTitle": "Fast fertig!",
       "emailSentDescription01": "Überprüfe deine E-Mail",

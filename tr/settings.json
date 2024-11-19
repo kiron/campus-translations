@@ -69,7 +69,12 @@
       "currentPassword": "Mevcut Şifre",
       "newPassword": "Yeni Şifre",
       "newPasswordConfirmation": "Yeni Şifre Onayı",
-      "submitButton": "Şifre değiştir"
+      "submitButton": "Şifre değiştir",
+      "successModal": {
+        "title": "Şifre değiştirildi",
+        "message": "Şifreniz başarıyla değiştirildi.",
+        "closeButton": "Tamam"
+      }
     }
   }
 }

@@ -58,7 +58,12 @@
       "newPassword": "رمز عبور جدید",
       "newPasswordConfirmation": "تأیید رمز عبور جدید",
       "errorPasswordMatch": "رمز عبور جدید شما و تأیید آن مطابقت ندارند",
-      "submitButton": "تغییر رمز عبور"
+      "submitButton": "تغییر رمز عبور",
+      "successModal": {
+        "title": "رمز عبور تغییر کرد",
+        "message": "رمز عبور شما با موفقیت تغییر کرد.",
+        "closeButton": "باشه"
+      }
     }
   }
 }

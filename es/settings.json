@@ -1,75 +1,80 @@
 {
-    "title": "Compartir Datos",
-    "info": "Estas opciones muestran los datos que ha permitido a {{orgDisplayName}} compartir con ciertas terceras personas. Utilice el botón 'Ver' para ver los detalles, o revocar ese consentimiento.",
-    "infoConsent": "Todavía no ha aceptado ninguna petición de consentimiento.",
-    "linkView": "Ver",
-    "linkCancel": "Cancelar",
-    "linkBack": "Volver",
-    "linkAccept": "Aceptar",
-    "noInfo": "Lo sentimos, no hay información disponible",
-    "linkBackSettings": "Volver a Opciones",
-    "titleReceived": "Hemos recibido su consentimiento para",
-    "linkGoSettings": "Ir a Opciones",
-    "linkRevoke": "Revocar",
-    "revokeConsent": {
-        "yes": "Sí",
-        "no": "No",
-        "title": "¿Está seguro/a de que quiere revocar este consentimiento?",
-        "desc": "Al revocar este consentimiento puede perder acceso a algunos de los servicios de {{orgDisplayName}}.",
-        "goToSettings": "Ir a Opciones",
-        "revoked": "Revocado"
+  "title": "Compartir Datos",
+  "info": "Estas opciones muestran los datos que ha permitido a {{orgDisplayName}} compartir con ciertas terceras personas. Utilice el botón 'Ver' para ver los detalles, o revocar ese consentimiento.",
+  "infoConsent": "Todavía no ha aceptado ninguna petición de consentimiento.",
+  "linkView": "Ver",
+  "linkCancel": "Cancelar",
+  "linkBack": "Volver",
+  "linkAccept": "Aceptar",
+  "noInfo": "Lo sentimos, no hay información disponible",
+  "linkBackSettings": "Volver a Opciones",
+  "titleReceived": "Hemos recibido su consentimiento para",
+  "linkGoSettings": "Ir a Opciones",
+  "linkRevoke": "Revocar",
+  "revokeConsent": {
+    "yes": "Sí",
+    "no": "No",
+    "title": "¿Está seguro/a de que quiere revocar este consentimiento?",
+    "desc": "Al revocar este consentimiento puede perder acceso a algunos de los servicios de {{orgDisplayName}}.",
+    "goToSettings": "Ir a Opciones",
+    "revoked": "Revocado"
+  },
+  "listItem": {
+    "view": "Ver"
+  },
+  "emailSubscription": {
+    "title": "Tus suscripciones de correo electrónico",
+    "info": "Elija qué correos electrónicos quiere recibir de Kiron.",
+    "courseReminders": {
+      "title": "Novedades personalizadas",
+      "info": "Enviadme recordatorios y novedades sobre los cursos y programas a los que me he inscrito."
     },
-    "listItem": {
-        "view": "Ver"
+    "campusNews": {
+      "title": "Actualizaciones",
+      "info": "Envíame información sobre novedades como cursos o programas que puedan ser interesantes para mí."
     },
-    "emailSubscription": {
-        "title": "Tus suscripciones de correo electrónico",
-        "info": "Elija qué correos electrónicos quiere recibir de Kiron.",
-        "courseReminders": {
-            "title": "Novedades personalizadas",
-            "info": "Enviadme recordatorios y novedades sobre los cursos y programas a los que me he inscrito."
-        },
-        "campusNews": {
-            "title": "Actualizaciones",
-            "info": "Envíame información sobre novedades como cursos o programas que puedan ser interesantes para mí."
-        },
-        "externalOffers": {
-            "title": "Ofertas adicionales",
-            "info": "Por favor, infórmame sobre oportunidades interesantes que puedo encontrar fuera de la plataforma."
-        },
-        "unsubscribe": {
-            "title": "¡Ha anulado la suscripción correctamente!",
-            "descriptionHeadline": "A partir de ahora, no le enviaremos más correos electrónicos:",
-            "descriptionFooter": "Si quiere cambiar sus suscripciones, haga clic aquí.",
-            "unsubscribing": "Anulando la suscripción...",
-            "errorMessage": "Anulación cancelada: {{0}}"
-        },
-        "additionalOffers": {
-            "info": "Por favor, infórmame sobre oportunidades interesantes que puedo encontrar fuera de la plataforma.",
-            "title": "Ofertas adicionales"
-        },
-        "updates": {
-            "info": "Envíame información sobre novedades como cursos o programas que puedan ser interesantes para mí.",
-            "title": "Actualizaciones"
-        },
-        "personalUpdates": {
-            "info": "Enviadme recordatorios y novedades sobre los cursos y programas a los que me he inscrito.",
-            "title": "Novedades personalizadas"
-        }
+    "externalOffers": {
+      "title": "Ofertas adicionales",
+      "info": "Por favor, infórmame sobre oportunidades interesantes que puedo encontrar fuera de la plataforma."
     },
-    "manageAccount": {
-      "title": "Cuenta",
-      "deleteAccount": {
-        "title": "Eliminar cuenta",
-        "info": "Si deseas eliminar permanentemente tu cuenta, por favor envía un correo electrónico a:",
-        "hint": "Sólo un recordatorio rápido, al cerrar tu cuenta todos tus progresos y datos se eliminarán permanentemente, incluyendo las certificaciones que hayas recibido."
-      },
-      "changePassword": {
-        "title": "Cambiar contraseña",
-        "currentPassword": "Contraseña actual",
-        "newPassword": "Nueva contraseña",
-        "newPasswordConfirmation": "Confirmación de nueva contraseña",
-        "submitButton": "Cambiar contraseña"
+    "unsubscribe": {
+      "title": "¡Ha anulado la suscripción correctamente!",
+      "descriptionHeadline": "A partir de ahora, no le enviaremos más correos electrónicos:",
+      "descriptionFooter": "Si quiere cambiar sus suscripciones, haga clic aquí.",
+      "unsubscribing": "Anulando la suscripción...",
+      "errorMessage": "Anulación cancelada: {{0}}"
+    },
+    "additionalOffers": {
+      "info": "Por favor, infórmame sobre oportunidades interesantes que puedo encontrar fuera de la plataforma.",
+      "title": "Ofertas adicionales"
+    },
+    "updates": {
+      "info": "Envíame información sobre novedades como cursos o programas que puedan ser interesantes para mí.",
+      "title": "Actualizaciones"
+    },
+    "personalUpdates": {
+      "info": "Enviadme recordatorios y novedades sobre los cursos y programas a los que me he inscrito.",
+      "title": "Novedades personalizadas"
+    }
+  },
+  "manageAccount": {
+    "title": "Cuenta",
+    "deleteAccount": {
+      "title": "Eliminar cuenta",
+      "info": "Si deseas eliminar permanentemente tu cuenta, por favor envía un correo electrónico a:",
+      "hint": "Sólo un recordatorio rápido, al cerrar tu cuenta todos tus progresos y datos se eliminarán permanentemente, incluyendo las certificaciones que hayas recibido."
+    },
+    "changePassword": {
+      "title": "Cambiar contraseña",
+      "currentPassword": "Contraseña actual",
+      "newPassword": "Nueva contraseña",
+      "newPasswordConfirmation": "Confirmación de nueva contraseña",
+      "submitButton": "Cambiar contraseña",
+      "successModal": {
+        "title": "Contraseña cambiada",
+        "message": "Tu contraseña ha sido cambiada con éxito.",
+        "closeButton": "Aceptar"
       }
     }
+  }
 }

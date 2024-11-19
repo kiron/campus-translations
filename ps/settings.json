@@ -58,7 +58,12 @@
       "newPassword": "نوی پاسورډ",
       "newPasswordConfirmation": "د نوي پاسورډ تایید",
       "errorPasswordMatch": "ستاسو نوی پاسورډ او د هغې تایید سمون نه خوري",
-      "submitButton": "پاسورډ بدل کړئ"
+      "submitButton": "پاسورډ بدل کړئ",
+      "successModal": {
+        "title": "پاسورډ بدل شو",
+        "message": "ستاسو پاسورډ په بریالیتوب سره بدل شوی.",
+        "closeButton": "سمه ده"
+      }
     }
   }
 }

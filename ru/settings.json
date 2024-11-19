@@ -57,7 +57,12 @@
       "currentPassword": "Текущий пароль",
       "newPassword": "Новый пароль",
       "newPasswordConfirmation": "Подтверждение нового пароля",
-      "submitButton": "Изменить пароль"
+      "submitButton": "Изменить пароль",
+      "successModal": {
+        "title": "Пароль изменен",
+        "message": "Ваш пароль был успешно изменен.",
+        "closeButton": "Окей"
+      }
     }
   }
 }

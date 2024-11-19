@@ -1,75 +1,80 @@
 {
-    "title": "Datennutzung",
-    "info": "Diese Einstellungen zeigen an, welche deiner Daten {{orgDisplayName}} mit Dritten teilen darf. Verwende 'Anzeigen', um die Details der jeweiligen Zustimmung zu sehen oder ihnen zu widerrufen.",
-    "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
-    "linkView": "Anzeigen",
-    "linkCancel": "Abbrechen",
-    "linkBack": "Zurück",
-    "linkAccept": "Zustimmen",
-    "noInfo": "Es sind leider keine Informationen verfügbar",
-    "linkBackSettings": "Zurück zu den Einstellungen",
-    "titleReceived": "Wir haben deine Zustimmung erhalten für",
-    "linkGoSettings": "Zu Einstellungen",
-    "linkRevoke": "Widerrufen",
-    "revokeConsent": {
-        "yes": "Ja",
-        "no": "Nein",
-        "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
-        "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von {{orgDisplayName}} angebotenen Dienste.",
-        "goToSettings": "Zu Einstellungen",
-        "revoked": "Widerrufen"
+  "title": "Datennutzung",
+  "info": "Diese Einstellungen zeigen an, welche deiner Daten {{orgDisplayName}} mit Dritten teilen darf. Verwende 'Anzeigen', um die Details der jeweiligen Zustimmung zu sehen oder ihnen zu widerrufen.",
+  "infoConsent": "Du hast noch keiner Datennutzung zugestimmt.",
+  "linkView": "Anzeigen",
+  "linkCancel": "Abbrechen",
+  "linkBack": "Zurück",
+  "linkAccept": "Zustimmen",
+  "noInfo": "Es sind leider keine Informationen verfügbar",
+  "linkBackSettings": "Zurück zu den Einstellungen",
+  "titleReceived": "Wir haben deine Zustimmung erhalten für",
+  "linkGoSettings": "Zu Einstellungen",
+  "linkRevoke": "Widerrufen",
+  "revokeConsent": {
+    "yes": "Ja",
+    "no": "Nein",
+    "title": "Bist du dir sicher, dass du diese Zustimmung widerrufen möchtest?",
+    "desc": "Wenn du diese Zustimmung widerrufst, verlierst du möglicherweise den Zugang zu einigen der von {{orgDisplayName}} angebotenen Dienste.",
+    "goToSettings": "Zu Einstellungen",
+    "revoked": "Widerrufen"
+  },
+  "listItem": {
+    "view": "Anzeigen"
+  },
+  "emailSubscription": {
+    "title": "Deine Email Abonnements",
+    "info": "Stelle hier ein, welche E-Mails du von uns bekommen möchtest.",
+    "courseReminders": {
+      "title": "Persönliche Updates",
+      "info": "Ich möchte Erinnerungen und Updates zu Kursen und Programmen erhalten, an denen ich teilnehme."
     },
-    "listItem": {
-        "view": "Anzeigen"
+    "campusNews": {
+      "title": "Updates",
+      "info": "Ich möchte Informationen über neue Angebote erhalten (z. B. neue Kurse oder Programme)."
     },
-    "emailSubscription": {
-        "title": "Deine Email Abonnements",
-        "info": "Stelle hier ein, welche E-Mails du von uns bekommen möchtest.",
-        "courseReminders": {
-            "title": "Persönliche Updates",
-            "info": "Ich möchte Erinnerungen und Updates zu Kursen und Programmen erhalten, an denen ich teilnehme."
-        },
-        "campusNews": {
-            "title": "Updates",
-            "info": "Ich möchte Informationen über neue Angebote erhalten (z. B. neue Kurse oder Programme)."
-        },
-        "externalOffers": {
-            "title": "Weitere Angebote",
-            "info": "Ich möchte über neue interessante Angebote von Dritten informiert werden."
-        },
-        "unsubscribe": {
-            "title": "Du hast dich erfolgreich abgemeldet!",
-            "descriptionHeadline": "Von nun an wirst du folgende E-Mails nicht mehr von uns bekommen:",
-            "descriptionFooter": "Wenn du deine Email Abonnements verwalten möchtest <1>klicke hier</1>.",
-            "unsubscribing": "Abmelden...",
-            "errorMessage": "Abmeldung abgebrochen: {{0}}"
-        },
-        "additionalOffers": {
-            "info": "Ich möchte über neue interessante Angebote von Dritten informiert werden.",
-            "title": "Weitere Angebote"
-        },
-        "updates": {
-            "info": "Ich möchte Informationen über neue Angebote erhalten (z. B. neue Kurse oder Programme).",
-            "title": "Updates"
-        },
-        "personalUpdates": {
-            "info": "Ich möchte Erinnerungen und Updates zu Kursen und Programmen erhalten, an denen ich teilnehme.",
-            "title": "Persönliche Updates"
-        }
+    "externalOffers": {
+      "title": "Weitere Angebote",
+      "info": "Ich möchte über neue interessante Angebote von Dritten informiert werden."
     },
-    "manageAccount": {
-      "title": "Benutzerkonto",
-      "deleteAccount": {
-        "title": "Benutzerkonto löschen",
-        "info": "Du möchtest Dein Benutzerkonto löschen? Schicke bitte eine E-Mail an:",
-        "hint": "Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht. "
-      },
-      "changePassword": {
-        "title": "Passwort ändern",
-        "currentPassword": "Aktuelles Passwort",
-        "newPassword": "Neues Passwort",
-        "newPasswordConfirmation": "Neues Passwort bestätigen",
-        "submitButton": "Passwort ändern"
+    "unsubscribe": {
+      "title": "Du hast dich erfolgreich abgemeldet!",
+      "descriptionHeadline": "Von nun an wirst du folgende E-Mails nicht mehr von uns bekommen:",
+      "descriptionFooter": "Wenn du deine Email Abonnements verwalten möchtest <1>klicke hier</1>.",
+      "unsubscribing": "Abmelden...",
+      "errorMessage": "Abmeldung abgebrochen: {{0}}"
+    },
+    "additionalOffers": {
+      "info": "Ich möchte über neue interessante Angebote von Dritten informiert werden.",
+      "title": "Weitere Angebote"
+    },
+    "updates": {
+      "info": "Ich möchte Informationen über neue Angebote erhalten (z. B. neue Kurse oder Programme).",
+      "title": "Updates"
+    },
+    "personalUpdates": {
+      "info": "Ich möchte Erinnerungen und Updates zu Kursen und Programmen erhalten, an denen ich teilnehme.",
+      "title": "Persönliche Updates"
+    }
+  },
+  "manageAccount": {
+    "title": "Benutzerkonto",
+    "deleteAccount": {
+      "title": "Benutzerkonto löschen",
+      "info": "Du möchtest Dein Benutzerkonto löschen? Schicke bitte eine E-Mail an:",
+      "hint": "Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht. "
+    },
+    "changePassword": {
+      "title": "Passwort ändern",
+      "currentPassword": "Aktuelles Passwort",
+      "newPassword": "Neues Passwort",
+      "newPasswordConfirmation": "Neues Passwort bestätigen",
+      "submitButton": "Passwort ändern",
+      "successModal": {
+        "title": "Passwort geändert",
+        "message": "Dein Passwort wurde erfolgreich geändert.",
+        "closeButton": "Okay"
       }
     }
+  }
 }

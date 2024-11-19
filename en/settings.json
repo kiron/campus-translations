@@ -57,7 +57,12 @@
       "currentPassword": "Current Password",
       "newPassword": "New Password",
       "newPasswordConfirmation": "New Password Confirmation",
-      "submitButton": "Change Password"
+      "submitButton": "Change Password",
+      "successModal": {
+        "title": "Password changed",
+        "message": "Your password has been successfully changed.",
+        "closeButton": "Okay"
+      }
     }
   }
 }

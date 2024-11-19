@@ -69,7 +69,12 @@
       "currentPassword": "كلمة المرور الحالية",
       "newPassword": "كلمة المرور الجديدة",
       "newPasswordConfirmation": "تأكيد كلمة المرور الجديدة",
-      "submitButton": "تغيير كلمة المرور"
+      "submitButton": "تغيير كلمة المرور",
+      "successModal": {
+        "title": "تم تغيير كلمة المرور",
+        "message": "تم تغيير كلمة المرور الخاصة بك بنجاح.",
+        "closeButton": "حسنا"
+      }
     }
   }
 }

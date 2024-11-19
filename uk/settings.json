@@ -57,7 +57,12 @@
       "currentPassword": "Поточний пароль",
       "newPassword": "Новий пароль",
       "newPasswordConfirmation": "Підтвердження нового пароля",
-      "submitButton": "Змінити пароль"
+      "submitButton": "Змінити пароль",
+      "successModal": {
+        "title": "Пароль змінено",
+        "message": "Ваш пароль було успішно змінено.",
+        "closeButton": "Гаразд"
+      }
     }
   }
 }
