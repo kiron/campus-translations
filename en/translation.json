@@ -25,7 +25,7 @@
       "errorNumber": "Your password should contain at least one number",
       "errorSpecialCharacter": "Your password should contain at least one special character, not including <, or >",
       "errorPasswordsDoNotMatch": "Passwords do not match",
-      "errorOldPasswordIncorrect": "Old password is incorrect",
+      "errorOldPasswordIncorrect": "Current password is incorrect",
       "errorCommonPassword": "Your password is too common",
       "errorPasswordSameAsOld": "New password cannot be the same as the old password",
       "emailSentTitle": "Almost done!",
