@@ -51,6 +51,13 @@
       "title": "Delete account",
       "info": "If you wish to delete permanently your account please send an email to:",
       "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+    },
+    "changePassword": {
+      "title": "Изменить пароль",
+      "currentPassword": "Текущий пароль",
+      "newPassword": "Новый пароль",
+      "newPasswordConfirmation": "Подтверждение нового пароля",
+      "submitButton": "Изменить пароль"
     }
   }
 }

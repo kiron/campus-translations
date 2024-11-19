@@ -1,68 +1,75 @@
 {
-    "title": "تبادل البيانات",
-    "info": "تعرض هذه الإعدادات البيانات التي سمحت لـ {{orgDisplayName}} بمشاركتها مع أطراف ثالثة معينة. استخدم الزر 'عرض' للاطلاع على تفاصيل هذه الموافقة أو إبطالها.",
-    "infoConsent": "لم تقم بقبول اي من طلبات الموافقة حتى الآن.",
-    "linkView": "عرض",
-    "linkCancel": "إلغاء",
-    "linkBack": "العودة",
-    "linkAccept": "قبول",
-    "noInfo": "عذرا ، لا توجد معلومات متاحة",
-    "linkBackSettings": "العودة إلى الإعدادات",
-    "titleReceived": "لقد تلقينا موافقتك على",
-    "linkGoSettings": "اذهب للاعدادات",
-    "linkRevoke": "إلغاء",
-    "revokeConsent": {
-        "yes": "نعم",
-        "no": "لا",
-        "title": "هل أنت متأكد أنك تريد إلغاء هذه الموافقة؟",
-        "desc": "بإلغاء هذه الموافقة ، قد تفقد إمكانية الوصول إلى بعض الخدمات التي تقدمها {{orgDisplayName}}.",
-        "goToSettings": "اذهب للاعدادات",
-        "revoked": "إلغاء"
+  "title": "تبادل البيانات",
+  "info": "تعرض هذه الإعدادات البيانات التي سمحت لـ {{orgDisplayName}} بمشاركتها مع أطراف ثالثة معينة. استخدم الزر 'عرض' للاطلاع على تفاصيل هذه الموافقة أو إبطالها.",
+  "infoConsent": "لم تقم بقبول اي من طلبات الموافقة حتى الآن.",
+  "linkView": "عرض",
+  "linkCancel": "إلغاء",
+  "linkBack": "العودة",
+  "linkAccept": "قبول",
+  "noInfo": "عذرا ، لا توجد معلومات متاحة",
+  "linkBackSettings": "العودة إلى الإعدادات",
+  "titleReceived": "لقد تلقينا موافقتك على",
+  "linkGoSettings": "اذهب للاعدادات",
+  "linkRevoke": "إلغاء",
+  "revokeConsent": {
+    "yes": "نعم",
+    "no": "لا",
+    "title": "هل أنت متأكد أنك تريد إلغاء هذه الموافقة؟",
+    "desc": "بإلغاء هذه الموافقة ، قد تفقد إمكانية الوصول إلى بعض الخدمات التي تقدمها {{orgDisplayName}}.",
+    "goToSettings": "اذهب للاعدادات",
+    "revoked": "إلغاء"
+  },
+  "listItem": {
+    "view": "عرض"
+  },
+  "emailSubscription": {
+    "title": "اشتراكات بريدك الالكتروني",
+    "info": "إدارة رسائل البريد الالكتروني التي تستلمها من قبلنا.",
+    "courseReminders": {
+      "title": "التحديثات الشخصية",
+      "info": "أرسل لي تذكيرات وتحديثات حول الدورات والبرامج التي انضممت إليها حاليًا."
     },
-    "listItem": {
-        "view": "عرض"
+    "campusNews": {
+      "title": "التحديثات",
+      "info": "أرسل لي معلومات حول عروض المحتوى الجديدة (مثل الدورات أو البرامج الجديدة) التي قد تكون مهمة بالنسبة لي."
     },
-    "emailSubscription": {
-        "title": "اشتراكات بريدك الالكتروني",
-        "info": "إدارة رسائل البريد الالكتروني التي تستلمها من قبلنا.",
-        "courseReminders": {
-            "title": "التحديثات الشخصية",
-            "info": "أرسل لي تذكيرات وتحديثات حول الدورات والبرامج التي انضممت إليها حاليًا."
-        },
-        "campusNews": {
-            "title": "التحديثات",
-            "info": "أرسل لي معلومات حول عروض المحتوى الجديدة (مثل الدورات أو البرامج الجديدة) التي قد تكون مهمة بالنسبة لي."
-        },
-        "externalOffers": {
-            "title": "عروض إضافية",
-            "info": "أبقني على اطلاع بالفرص المثيرة للاهتمام خارج منصة التعلم."
-        },
-        "unsubscribe": {
-            "title": "لقد تم إلغاء اشتراكك بنجاح!",
-            "descriptionHeadline": "من الآن فصاعدًا ، لن تتلقى رسائل البريد الإلكتروني التالية منا بعد الآن:",
-            "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-            "unsubscribing": "إلغاء الاشتراك ...",
-            "errorMessage": "فشل إلغاء الاشتراك: {{0}}"
-        },
-        "additionalOffers": {
-            "info": "أبقني على اطلاع بالفرص المثيرة للاهتمام خارج منصة التعلم.",
-            "title": "عروض إضافية"
-        },
-        "updates": {
-            "info": "أرسل لي معلومات حول عروض المحتوى الجديدة (مثل الدورات أو البرامج الجديدة) التي قد تكون مهمة بالنسبة لي.",
-            "title": "التحديثات"
-        },
-        "personalUpdates": {
-            "info": "أرسل لي تذكيرات وتحديثات حول الدورات والبرامج التي انضممت إليها حاليًا.",
-            "title": "التحديثات الشخصية"
-        }
+    "externalOffers": {
+      "title": "عروض إضافية",
+      "info": "أبقني على اطلاع بالفرص المثيرة للاهتمام خارج منصة التعلم."
     },
-    "manageAccount": {
-        "title": "Account",
-        "deleteAccount": {
-            "title": "Delete account",
-            "info": "If you wish to delete permanently your account please send an email to:",
-            "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
-        }
+    "unsubscribe": {
+      "title": "لقد تم إلغاء اشتراكك بنجاح!",
+      "descriptionHeadline": "من الآن فصاعدًا ، لن تتلقى رسائل البريد الإلكتروني التالية منا بعد الآن:",
+      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
+      "unsubscribing": "إلغاء الاشتراك ...",
+      "errorMessage": "فشل إلغاء الاشتراك: {{0}}"
+    },
+    "additionalOffers": {
+      "info": "أبقني على اطلاع بالفرص المثيرة للاهتمام خارج منصة التعلم.",
+      "title": "عروض إضافية"
+    },
+    "updates": {
+      "info": "أرسل لي معلومات حول عروض المحتوى الجديدة (مثل الدورات أو البرامج الجديدة) التي قد تكون مهمة بالنسبة لي.",
+      "title": "التحديثات"
+    },
+    "personalUpdates": {
+      "info": "أرسل لي تذكيرات وتحديثات حول الدورات والبرامج التي انضممت إليها حاليًا.",
+      "title": "التحديثات الشخصية"
     }
+  },
+  "manageAccount": {
+    "title": "Account",
+    "deleteAccount": {
+      "title": "Delete account",
+      "info": "If you wish to delete permanently your account please send an email to:",
+      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+    },
+    "changePassword": {
+      "title": "تغيير كلمة المرور",
+      "currentPassword": "كلمة المرور الحالية",
+      "newPassword": "كلمة المرور الجديدة",
+      "newPasswordConfirmation": "تأكيد كلمة المرور الجديدة",
+      "submitButton": "تغيير كلمة المرور"
+    }
+  }
 }

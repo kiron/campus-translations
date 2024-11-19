@@ -1,56 +1,63 @@
 {
-    "title": "Data Sharing",
-    "info": "These settings show the data you have allowed {{orgDisplayName}} to share with specific third parties. Use the `View` button to see the details of, or revoke, that consent.",
-    "infoConsent": "You have not accepted any consent requests yet.",
-    "linkView": "View",
-    "linkCancel": "Cancel",
-    "linkBack": "Go back",
-    "linkAccept": "Accept",
-    "noInfo": "Sorry, there is no information available",
-    "linkBackSettings": "Back to settings",
-    "titleReceived": "We have received your agreement for",
-    "linkGoSettings": "Go to settings",
-    "linkRevoke": "Revoke",
-    "revokeConsent": {
-        "yes": "Yes",
-        "no": "No",
-        "title": "Are you sure you want to revoke this consent?",
-        "desc": "By revoking this consent you might lose access to some of the services provided by {{orgDisplayName}}.",
-        "goToSettings": "Go to Settings",
-        "revoked": "Revoked"
+  "title": "Data Sharing",
+  "info": "These settings show the data you have allowed {{orgDisplayName}} to share with specific third parties. Use the `View` button to see the details of, or revoke, that consent.",
+  "infoConsent": "You have not accepted any consent requests yet.",
+  "linkView": "View",
+  "linkCancel": "Cancel",
+  "linkBack": "Go back",
+  "linkAccept": "Accept",
+  "noInfo": "Sorry, there is no information available",
+  "linkBackSettings": "Back to settings",
+  "titleReceived": "We have received your agreement for",
+  "linkGoSettings": "Go to settings",
+  "linkRevoke": "Revoke",
+  "revokeConsent": {
+    "yes": "Yes",
+    "no": "No",
+    "title": "Are you sure you want to revoke this consent?",
+    "desc": "By revoking this consent you might lose access to some of the services provided by {{orgDisplayName}}.",
+    "goToSettings": "Go to Settings",
+    "revoked": "Revoked"
+  },
+  "listItem": {
+    "view": "View"
+  },
+  "emailSubscription": {
+    "title": "Your Email Subscriptions",
+    "info": "Manage the emails you receive from us.",
+    "unsubscribe": {
+      "title": "You are successfully unsubscribed!",
+      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
+      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
+      "unsubscribing": "Unsubscribing...",
+      "errorMessage": "Unsubscribing failed: {{0}}"
     },
-    "listItem": {
-        "view": "View"
+    "personalUpdates": {
+      "title": "Personal Updates",
+      "info": "Send me reminders and updates about the courses and programs I am currently enrolled in."
     },
-    "emailSubscription": {
-        "title": "Your Email Subscriptions",
-        "info": "Manage the emails you receive from us.",
-        "unsubscribe": {
-            "title": "You are successfully unsubscribed!",
-            "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-            "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-            "unsubscribing": "Unsubscribing...",
-            "errorMessage": "Unsubscribing failed: {{0}}"
-        },
-        "personalUpdates": {
-            "title": "Personal Updates",
-            "info": "Send me reminders and updates about the courses and programs I am currently enrolled in."
-        },
-        "updates": {
-            "title": "Updates",
-            "info": "Send me information about new content offers (like new courses or programs) that might be interesting to me."
-        },
-        "additionalOffers": {
-            "title": "Additional Offers",
-            "info": "Keep me updated about interesting opportunities outside the learning platform."
-        }
+    "updates": {
+      "title": "Updates",
+      "info": "Send me information about new content offers (like new courses or programs) that might be interesting to me."
     },
-    "manageAccount": {
-        "title": "Account",
-        "deleteAccount": {
-            "title": "Delete account",
-            "info": "If you wish to delete permanently your account please send an email to:",
-            "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
-        }
-      }
+    "additionalOffers": {
+      "title": "Additional Offers",
+      "info": "Keep me updated about interesting opportunities outside the learning platform."
+    }
+  },
+  "manageAccount": {
+    "title": "Account",
+    "deleteAccount": {
+      "title": "Delete account",
+      "info": "If you wish to delete permanently your account please send an email to:",
+      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+    },
+    "changePassword": {
+      "title": "Change password",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "newPasswordConfirmation": "New Password Confirmation",
+      "submitButton": "Change Password"
+    }
+  }
 }
