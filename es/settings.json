@@ -67,8 +67,8 @@
     "changePassword": {
       "title": "Cambiar contraseña",
       "currentPassword": "Contraseña actual",
-      "newPassword": "Nueva contraseña",
-      "newPasswordConfirmation": "Confirmación de nueva contraseña",
+      "newPassword": "Contraseña nueva",
+      "newPasswordConfirmation": "Confirmación de contraseña nueva",
       "submitButton": "Cambiar contraseña",
       "successModal": {
         "title": "Contraseña cambiada",
