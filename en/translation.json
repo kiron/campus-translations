@@ -372,7 +372,9 @@
     "testNonRetakeable": "Unfortunately, you did not reach the required score to pass this test. You can continue learning in the unit but you won't be able to mark it completed.",
     "retakeTest": "Retake test",
     "sending": "Sending results ...",
-    "continueHint": "Please comment on “{{0}}“ in order to continue"
+    "continueHint": "Please comment on “{{0}}“ in order to continue",
+    "unansweredQuestions": "Question {{questionIDs}} has not yet been answered.",
+    "unansweredQuestions_plural": "Questions {{questionIDs}} have not yet been answered."
   },
   "attachmentItem": {
     "download": "Download",

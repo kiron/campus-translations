@@ -64,7 +64,9 @@
     "applySelection": "Aplicar selección",
     "maxTagNumber": "Número máximo de etiquetas seleccionadas",
     "filterNoResults": "No hay resultados para esta búsqueda",
-    "retry": "Por favor, inténtelo de nuevo con una combinación diferente"
+    "retry": "Por favor, inténtelo de nuevo con una combinación diferente",
+    "unansweredQuestions": "La pregunta {{questionIDs}} aún no ha sido respondida.",
+    "unansweredQuestions_plural": "Las preguntas {{questionIDs}} aún no han sido respondidas."
   },
   "success": {
     "introTitle": "¡Su historia de éxito!",

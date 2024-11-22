@@ -396,7 +396,9 @@
     "testNonRetakeable": "Leider hast du nicht die erforderliche Punktzahl für diesen Test erreicht. Du kannst gerne in dieser Einheit weiterlernen, sie allerdings nicht abschließen.",
     "retakeTest": "Test wiederholen",
     "sending": "Schicke Ergebnisse ...",
-    "continueHint": "Bitte kommentiere zu “{{0}}“ um fortzufahren"
+    "continueHint": "Bitte kommentiere zu “{{0}}“ um fortzufahren",
+    "unansweredQuestions": "Die Frage {{questionIDs}} wurden noch nicht beantwortet",
+    "unansweredQuestions_plural": "Die Fragen {{questionIDs}} wurden noch nicht beantwortet"
   },
   "attachmentItem": {
     "download": "Download",
