@@ -86,7 +86,7 @@
   },
   "cookieBanner": {
     "header": "We value your privacy",
-    "infoMessage": "We store necessary cookies to remember your cookie preferences. We also use Google Analytics cookies to collect anonymous usage statistics that help us improve our website. HTML Web Storage (Local Storage & Session Storage) is used for basic website functionality like maintaining your session and selected preferences. By clicking 'Accept All,' you agree to the use of analytics cookies in addition to the necessary cookies.",
+    "infoMessage": "We store necessary cookies to remember your cookie preferences. We also use Google Analytics cookies to collect anonymous usage statistics that help us improve our website. HTML Web Storage (Local Storage & Session Storage) is used for basic website functionality like maintaining your session and selected preferences. By clicking 'Accept All', you agree to the use of analytics cookies in addition to the necessary cookies.",
     "acceptAll": "Accept all",
     "rejectAll": "Reject all",
     "ariaLabel": "Cookie settings",
