@@ -86,7 +86,7 @@
   },
   "cookieBanner": {
     "header": "We value your privacy",
-    "infoMessage": "We store necessary cookies to remember your cookie preferences. We also use Google Analytics cookies to collect anonymous usage statistics that help us improve our website. HTML Web Storage (Local Storage & Session Storage) is used for basic website functionality like maintaining your session and selected preferences. By clicking 'Accept All', you agree to the use of analytics cookies in addition to the necessary cookies.",
+    "infoMessage": "We store necessary cookies to remember your cookie preferences. We also use Google Analytics cookies to collect anonymous usage statistics that help us improve our website. Cookies and HTML Web Storage (Local Storage & Session Storage) are used for basic website functionality like maintaining your session and selected preferences. By clicking 'Accept All', you agree to the use of analytics cookies in addition to the necessary cookies.",
     "acceptAll": "Accept all",
     "rejectAll": "Reject all",
     "ariaLabel": "Cookie settings",
@@ -101,7 +101,7 @@
     "cancel": "Cancel",
     "essentialAriaLabel": "Cookie information",
     "essentialHeader": "This website uses necessary cookies",
-    "essentialMessage": "We use necessary cookies to remember your preferences about this message (stored for {{days}} days) and HTML Web Storage (Local Storage & Session Storage) for basic website functions like maintaining your session and remembering your cookie preferences.",
+    "essentialMessage": "We use necessary cookies (stored for {{days}} days) and HTML Web Storage (Local Storage & Session Storage) for basic website functions like maintaining your session and remembering your cookie preferences.",
     "acknowledge": "Got it"
   }
 }
