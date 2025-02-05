@@ -64,5 +64,13 @@
         "closeButton": "Okay"
       }
     }
+  },
+  "privacySettings": {
+    "title": "Privacy Settings",
+    "cookies": {
+      "title": "Cookie Settings",
+      "description": "Manage your cookie preferences and analytics consent settings.",
+      "manage": "Manage cookie settings"
+    }
   }
 }
