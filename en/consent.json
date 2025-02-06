@@ -101,7 +101,7 @@
     "cancel": "Cancel",
     "essentialAriaLabel": "Cookie information",
     "essentialHeader": "This website uses necessary cookies",
-    "essentialMessage": "We use necessary cookies (stored for {{days}} days) and HTML Web Storage (Local Storage & Session Storage) for basic website functions like maintaining your session and remembering your cookie preferences.",
+    "essentialMessage": "We use necessary cookies (stored for {{days}} days) and HTML Web Storage (Local Storage & Session Storage) strictly for essential website functions, such as maintaining your session and remembering your cookie preferences. These do not store analytics, tracking, or marketing data.",
     "acknowledge": "Got it"
   }
 }
