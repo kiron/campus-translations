@@ -43,6 +43,24 @@
     "registerSuccess": "Başarıyla kaydedildi ve kapatıldı",
     "cancelRenameList": "Kapat ve liste yeniden adlandırmayı iptal et",
     "saveUpdateList": "Güncellenmiş listeyi kaydet",
-    "closeSaveList": "Liste düzenlemeyi kapat"
+    "closeSaveList": "Liste düzenlemeyi kapat",
+    "togglePasswordVisibility": "Şifreyi göster veya gizle",
+    "navigatePreviousSlide": "Önceki slayda git",
+    "navigateNextSlide": "Sonraki slayda git",
+    "languageSwitch": "Dili değiştir",
+    "close": "Kapat",
+    "copyright": "Telif hakkı",
+    "back": "Geri",
+    "copy": "Kopyala",
+    "moreOptions": "Daha fazla seçenek",
+    "delete": "Sil",
+    "info": "Bilgi",
+    "renameList": "Listeyi yeniden adlandır",
+    "clearInput": "Girdiyi temizle",
+    "more": "Daha fazla",
+    "bookmarkItem": "Bu öğeyi işaretle",
+    "shareList": "Listeyi paylaş",
+    "accountMenu": "Hesap menüsünü aç",
+    "dropdownMenu": "Açılır menüyü aç"
   }
 }

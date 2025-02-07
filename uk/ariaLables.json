@@ -43,6 +43,24 @@
     "registerSuccess": "Успішно зареєстровано та закрито",
     "cancelRenameList": "Закрити та скасувати перейменування списку",
     "saveUpdateList": "Зберегти оновлений список",
-    "closeSaveList": "Закрити редагування списку"
+    "closeSaveList": "Закрити редагування списку",
+    "togglePasswordVisibility": "Показати або приховати пароль",
+    "navigatePreviousSlide": "Перейти до попереднього слайду",
+    "navigateNextSlide": "Перейти до наступного слайду",
+    "languageSwitch": "Змінити мову",
+    "close": "Закрити",
+    "copyright": "Авторське право",
+    "back": "Назад",
+    "copy": "Копіювати",
+    "moreOptions": "Більше опцій",
+    "delete": "Видалити",
+    "info": "Інформація",
+    "renameList": "Перейменувати список",
+    "clearInput": "Очистити введення",
+    "more": "Більше",
+    "bookmarkItem": "Додати до закладок",
+    "shareList": "Поділитися списком",
+    "accountMenu": "Відкрити меню облікового запису",
+    "dropdownMenu": "Відкрити спадне меню"
   }
 }

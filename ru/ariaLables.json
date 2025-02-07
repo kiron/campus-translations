@@ -43,6 +43,24 @@
     "registerSuccess": "Успешно зарегистрировано и закрыто",
     "cancelRenameList": "Закрыть и отменить переименование списка",
     "saveUpdateList": "Сохранить обновленный список",
-    "closeSaveList": "Закрыть редактирование списка"
+    "closeSaveList": "Закрыть редактирование списка",
+    "togglePasswordVisibility": "Показать или скрыть пароль",
+    "navigatePreviousSlide": "Перейти к предыдущему слайду",
+    "navigateNextSlide": "Перейти к следующему слайду",
+    "languageSwitch": "Сменить язык",
+    "close": "Закрыть",
+    "copyright": "Авторские права",
+    "back": "Назад",
+    "copy": "Копировать",
+    "moreOptions": "Больше опций",
+    "delete": "Удалить",
+    "info": "Информация",
+    "renameList": "Переименовать список",
+    "clearInput": "Очистить ввод",
+    "more": "Больше",
+    "bookmarkItem": "Добавить в закладки",
+    "shareList": "Поделиться списком",
+    "accountMenu": "Открыть меню аккаунта",
+    "dropdownMenu": "Открыть выпадающее меню"
   }
 }

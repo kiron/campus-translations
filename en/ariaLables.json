@@ -43,6 +43,24 @@
     "registerSuccess": "Registe successfully and close",
     "cancelRenameList": "Close and cancel renaming of list",
     "saveUpdateList": "Save updated list",
-    "closeSaveList": "Close editing of list"
+    "closeSaveList": "Close editing of list",
+    "togglePasswordVisibility": "Show or hide the password",
+    "navigatePreviousSlide": "Navigate to the previous slide",
+    "navigateNextSlide": "Navigate to the next slide",
+    "languageSwitch": "Switch language",
+    "close": "Close",
+    "copyright": "Copy right",
+    "back": "Go back",
+    "copy": "Copy",
+    "moreOptions": "More options",
+    "delete": "Delete",
+    "info": "Information",
+    "renameList": "Rename list",
+    "clearInput": "Clear input",
+    "more": "More",
+    "bookmarkItem": "Bookmark this item",
+    "shareList": "Share list",
+    "accountMenu": "Open account menu",
+    "dropdownMenu": "Open dropdown menu"
   }
 }

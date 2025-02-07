@@ -43,6 +43,24 @@
     "registerSuccess": "Registrado con éxito y cerrado",
     "cancelRenameList": "Cerrar y cancelar el cambio de nombre de la lista",
     "saveUpdateList": "Guardar lista actualizada",
-    "closeSaveList": "Cerrar edición de lista"
+    "closeSaveList": "Cerrar edición de lista",
+    "togglePasswordVisibility": "Mostrar u ocultar la contraseña",
+    "navigatePreviousSlide": "Navegar a la diapositiva anterior",
+    "navigateNextSlide": "Navegar a la siguiente diapositiva",
+    "languageSwitch": "Cambiar idioma",
+    "close": "Cerrar",
+    "copyright": "Derechos de autor",
+    "back": "Atrás",
+    "copy": "Copiar",
+    "moreOptions": "Más opciones",
+    "delete": "Eliminar",
+    "info": "Información",
+    "renameList": "Renombrar lista",
+    "clearInput": "Borrar entrada",
+    "more": "Más",
+    "bookmarkItem": "Marcar este elemento",
+    "shareList": "Compartir lista",
+    "accountMenu": "Abrir menú de cuenta",
+    "dropdownMenu": "Abrir menú desplegable"
   }
 }

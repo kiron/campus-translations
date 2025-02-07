@@ -43,6 +43,24 @@
     "registerSuccess": "التسجيل بنجاح والإغلاق",
     "cancelRenameList": "إغلاق وإلغاء إعادة تسمية القائمة",
     "saveUpdateList": "حفظ القائمة المحدثة",
-    "closeSaveList": "إغلاق تحرير القائمة"
+    "closeSaveList": "إغلاق تحرير القائمة",
+    "togglePasswordVisibility": "إظهار أو إخفاء كلمة المرور",
+    "navigatePreviousSlide": "التنقل إلى الشريحة السابقة",
+    "navigateNextSlide": "التنقل إلى الشريحة التالية",
+    "languageSwitch": "تغيير اللغة",
+    "close": "إغلاق",
+    "copyright": "حقوق الطبع",
+    "back": "رجوع",
+    "copy": "نسخ",
+    "moreOptions": "المزيد من الخيارات",
+    "delete": "حذف",
+    "info": "معلومات",
+    "renameList": "إعادة تسمية القائمة",
+    "clearInput": "مسح الإدخال",
+    "more": "المزيد",
+    "bookmarkItem": "وضع إشارة مرجعية على هذا العنصر",
+    "shareList": "مشاركة القائمة",
+    "accountMenu": "فتح قائمة الحساب",
+    "dropdownMenu": "فتح قائمة منسدلة"
   }
 }

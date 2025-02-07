@@ -43,6 +43,24 @@
     "registerSuccess": "با موفقیت ثبت‌نام شد و بسته شد",
     "cancelRenameList": "بستن و لغو تغییر نام لیست",
     "saveUpdateList": "ذخیره لیست به‌روز شده",
-    "closeSaveList": "بستن ویرایش لیست"
+    "closeSaveList": "بستن ویرایش لیست",
+    "togglePasswordVisibility": "نمایش یا پنهان کردن رمز عبور",
+    "navigatePreviousSlide": "رفتن به اسلاید قبلی",
+    "navigateNextSlide": "رفتن به اسلاید بعدی",
+    "languageSwitch": "تغییر زبان",
+    "close": "بستن",
+    "copyright": "حقوق چاپ",
+    "back": "بازگشت",
+    "copy": "کپی کردن",
+    "moreOptions": "گزینه‌های بیشتر",
+    "delete": "حذف کردن",
+    "info": "اطلاعات",
+    "renameList": "تغییر نام لیست",
+    "clearInput": "پاک کردن ورودی",
+    "more": "بیشتر",
+    "bookmarkItem": "نشانه‌گذاری این مورد",
+    "shareList": "به اشتراک گذاشتن لیست",
+    "accountMenu": "باز کردن منوی حساب",
+    "dropdownMenu": "باز کردن منوی کشویی"
   }
 }
