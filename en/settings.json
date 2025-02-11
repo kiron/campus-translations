@@ -70,7 +70,7 @@
     "cookies": {
       "title": "Cookie Settings",
       "description": "Manage your cookie preferences and analytics consent settings.",
-      "manage": "Manage cookie settings"
+      "manage": "Show cookie settings"
     }
   }
 }
