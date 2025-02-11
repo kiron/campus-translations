@@ -76,5 +76,13 @@
         "closeButton": "Okay"
       }
     }
+  },
+  "privacySettings": {
+    "title": "Datenschutzeinstellungen",
+    "cookies": {
+      "title": "Cookie-Einstellungen",
+      "description": "Verwalte deine Cookie-Präferenzen und Zustimmungseinstellungen für Webtracking.",
+      "manage": "Cookie-Einstellungen anzeigen"
+    }
   }
 }

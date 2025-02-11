@@ -76,5 +76,13 @@
         "closeButton": "Tamam"
       }
     }
+  },
+  "privacySettings": {
+    "title": "Gizlilik Ayarları",
+    "cookies": {
+      "title": "Çerez Ayarları",
+      "description": "Çerez tercihlerinizi ve web izleme izin ayarlarınızı yönetin.",
+      "manage": "Çerez ayarlarını göster"
+    }
   }
 }

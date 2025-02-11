@@ -76,5 +76,13 @@
         "closeButton": "Aceptar"
       }
     }
+  },
+  "privacySettings": {
+    "title": "Configuración de Privacidad",
+    "cookies": {
+      "title": "Configuración de Cookies",
+      "description": "Gestiona tus preferencias de cookies y la configuración de consentimiento para el seguimiento web.",
+      "manage": "Mostrar configuración de cookies"
+    }
   }
 }
