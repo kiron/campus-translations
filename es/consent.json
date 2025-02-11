@@ -1,94 +1,108 @@
 {
-    "extras": {
-        "preview": "Vista previa",
-        "step": "Paso {{currentStep}}/{{totalSteps}}"
+  "extras": {
+    "preview": "Vista previa",
+    "step": "Paso {{currentStep}}/{{totalSteps}}"
+  },
+  "headers": {
+    "yourPrivacy": "Su privacidad",
+    "privacyPolicy": "Más información en nuestra <0>política de privacidad</0>.",
+    "adjustProfile": "Elegir cómo otros estudiantes ven su perfil",
+    "communityHeader": "Unirse a la Comunidad",
+    "privacyPreferences": "Preferencias de privacidad",
+    "updatedPreferences": "Hola {{studentName}}, hemos actualizado sus preferencias de privacidad"
+  },
+  "buttons": {
+    "getStarted": "Empezar",
+    "noThanks": "No, gracias",
+    "save": "Guardar",
+    "shareLocation": "Compartir ubicación",
+    "managePreferences": "Gestionar mis preferencias",
+    "cancel": "Cancelar",
+    "joinCommunity": "Unirse a la Comunidad",
+    "readMore": "Leer más",
+    "close": "Cerrar"
+  },
+  "toasters": {
+    "newSubOrgContent": "Se ha añadido nuevo contenido de {{subOrganizations}}. ¡Disfrute aprendiendo!",
+    "savedPreferences": "Sus preferencias se han guardado correctamente. Puede volver a cambiarlas en la página Preferencias de Privacidad.",
+    "partOfCommunity": "Se ha unido a la comunidad. ¡Ya puede hablar con otros estudiantes!",
+    "partOfCommunityMap": "Se ha unido al mapa de la comunidad. ¡Ya puede conocer otros estudiantes en su ubicación!"
+  },
+  "privacyPreferences": {
+    "tabs": {
+      "general": "General",
+      "profile": "Perfil",
+      "partnerOrgs": "Organizaciones asociadas",
+      "externalPlatforms": "Plataformas externas"
     },
-    "headers": {
-        "yourPrivacy": "Su privacidad",
-        "privacyPolicy": "Más información en nuestra <0>política de privacidad</0>.",
-        "adjustProfile": "Elegir cómo otros estudiantes ven su perfil",
-        "communityHeader": "Unirse a la Comunidad",
-        "privacyPreferences": "Preferencias de privacidad",
-        "updatedPreferences": "Hola {{studentName}}, hemos actualizado sus preferencias de privacidad"
+    "displayedName": {
+      "header": "Nombre",
+      "checkbox": "Mostrar su nombre en lugar del apodo.",
+      "errorInput": "El alias solo puede contener letras, números, espacios y guiones"
     },
-    "buttons": {
-        "getStarted": "Empezar",
-        "noThanks": "No, gracias",
-        "save": "Guardar",
-        "shareLocation": "Compartir ubicación",
-        "managePreferences": "Gestionar mis preferencias",
-        "cancel": "Cancelar",
-        "joinCommunity": "Unirse a la Comunidad",
-        "readMore": "Leer más",
-        "close": "Cerrar"
+    "profilePhoto": {
+      "header": "Foto de perfil",
+      "checkbox01": "Añadir foto de perfil. (.jpeg, .png, .jpg)",
+      "checkbox02": "Mostrar foto de perfil en lugar de la foto predeterminada."
     },
-    "toasters": {
-        "newSubOrgContent": "Se ha añadido nuevo contenido de {{subOrganizations}}. ¡Disfrute aprendiendo!",
-        "savedPreferences": "Sus preferencias se han guardado correctamente. Puede volver a cambiarlas en la página Preferencias de Privacidad.",
-        "partOfCommunity": "Se ha unido a la comunidad. ¡Ya puede hablar con otros estudiantes!",
-        "partOfCommunityMap": "Se ha unido al mapa de la comunidad. ¡Ya puede conocer otros estudiantes en su ubicación!"
+    "activity": {
+      "header": "Actividad",
+      "checkbox": "Mostrar mis cursos, proyectos y eventos."
     },
-    "privacyPreferences": {
-        "tabs": {
-            "general": "General",
-            "profile": "Perfil",
-            "partnerOrgs": "Organizaciones asociadas",
-            "externalPlatforms": "Plataformas externas"
-        },
-        "displayedName": {
-            "header": "Nombre",
-            "checkbox": "Mostrar su nombre en lugar del apodo.",
-            "errorInput": "El alias solo puede contener letras, números, espacios y guiones"
-        },
-        "profilePhoto": {
-            "header": "Foto de perfil",
-            "checkbox01": "Añadir foto de perfil. (.jpeg, .png, .jpg)",
-            "checkbox02": "Mostrar foto de perfil en lugar de la foto predeterminada."
-        },
-        "activity": {
-            "header": "Actividad",
-            "checkbox": "Mostrar mis cursos, proyectos y eventos."
-        },
-        "subOrg": {
-            "notificationHeader": "¡Genial! Se ha unido a {{subOrganizations}}.",
-            "notificationDescription": "Necesitamos su consentimiento para activar este contenido.",
-            "description": "Para acceder al contenido de {{subOrganizations}}, necesitamos que nos de su consentimiento para compartir sus datos personales.",
-            "checkbox": "Estoy de acuerdo en compartir mis datos personales con {{subOrganization}}",
-            "details": "Doy mi consentimiento a Kiron para compartir mi información personal (nombre y apellidos, correo electrónico, país de origen, género, fecha de nacimiento) con {{subOrganization}} para poder acceder a su contenido. Mis datos serán almacenados por {{subOrganization}} en servidores seguros y solamente un grupo de empleados de {{subOrganization}} podrán acceder a ellos, después de comprometerse por escrito a respetar las regulaciones de protección de datos. En cualquier momento puedo pedir la corrección y eliminación de mis datos personales a través del correo electrónico student-support@kiron.ngo."
-        },
-        "directMessaging": {
-            "description": "¿Sabía que puede ser contactado/a directamente a través del campus de Kiron? Necesitamos su consentimiento.",
-            "header": "Mensaje directo (opcional)",
-            "checkbox": "Estoy de acuerdo en que otros estudiantes me contacten a través de Kiron Campus.",
-            "details": "Si usted está de acuerdo con el Código de Conducta de la comunidad, podrá crear su perfil de comunidad. Puede acceder a la comunidad a través de la pestaña de Comunidad en el menú superior."
-        },
-        "communityMap": {
-            "header": "Privacidad del Mapa de Comunidad",
-            "shareLocation": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir su ubicación con otros estudiantes.",
-            "shareData": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir sus datos con otros estudiantes.",
-            "locationHeader": "Ubicación",
-            "locationCheckbox": "Estoy de acuerdo en compartir mi ubicación en el mapa de la comunidad.",
-            "inputLabel": "Por favor, comparta su ubicación (por ejemplo, la ciudad donde vive) para que sea visible en el mapa",
-            "inputPlaceholder": "Ubicación"
-        },
-        "uploadPhoto": {
-            "description": "Antes de añadir su fotografía de perfil, necesitamos que nos de su consentimiento para mostrarla a otros estudiantes del campus.",
-            "header": "Foto de Perfil",
-            "checkbox": "Estoy de acuerdo en compartir mi foto de perfil con otros estudiantes del campus.",
-            "uploadText": "Arrastrar foto aquí o buscar en la computadora",
-            "browse": "buscar en la computadora"
-        }
+    "subOrg": {
+      "notificationHeader": "¡Genial! Se ha unido a {{subOrganizations}}.",
+      "notificationDescription": "Necesitamos su consentimiento para activar este contenido.",
+      "description": "Para acceder al contenido de {{subOrganizations}}, necesitamos que nos de su consentimiento para compartir sus datos personales.",
+      "checkbox": "Estoy de acuerdo en compartir mis datos personales con {{subOrganization}}",
+      "details": "Doy mi consentimiento a Kiron para compartir mi información personal (nombre y apellidos, correo electrónico, país de origen, género, fecha de nacimiento) con {{subOrganization}} para poder acceder a su contenido. Mis datos serán almacenados por {{subOrganization}} en servidores seguros y solamente un grupo de empleados de {{subOrganization}} podrán acceder a ellos, después de comprometerse por escrito a respetar las regulaciones de protección de datos. En cualquier momento puedo pedir la corrección y eliminación de mis datos personales a través del correo electrónico student-support@kiron.ngo."
     },
-    "codeOfConduct": {
-        "header": "Código de Conducta",
-        "description": "Antes de unirse, por favor lea nuestro Código de Conducta a continuación.",
-        "checkbox": "Me comprometo a respetar el Código de Conducta.",
-        "details": "{{codeOfConduct}}"
+    "directMessaging": {
+      "description": "¿Sabía que puede ser contactado/a directamente a través del campus de Kiron? Necesitamos su consentimiento.",
+      "header": "Mensaje directo (opcional)",
+      "checkbox": "Estoy de acuerdo en que otros estudiantes me contacten a través de Kiron Campus.",
+      "details": "Si usted está de acuerdo con el Código de Conducta de la comunidad, podrá crear su perfil de comunidad. Puede acceder a la comunidad a través de la pestaña de Comunidad en el menú superior."
     },
-    "cookieBanner": {
-        "header": "Valoramos tu privacidad",
-        "infoMessage": "Utilizamos cookies para mejorar tu experiencia de navegación y analizar nuestro tráfico. Al hacer clic en “Aceptar todo” das tu consentimiento para que utilicemos cookies.",
-        "acceptAll": "Aceptar todo",
-        "rejectAll": "Rechazar todo"
-      }
+    "communityMap": {
+      "header": "Privacidad del Mapa de Comunidad",
+      "shareLocation": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir su ubicación con otros estudiantes.",
+      "shareData": "Antes de usar el mapa, necesitamos que nos de su consentimiento a compartir sus datos con otros estudiantes.",
+      "locationHeader": "Ubicación",
+      "locationCheckbox": "Estoy de acuerdo en compartir mi ubicación en el mapa de la comunidad.",
+      "inputLabel": "Por favor, comparta su ubicación (por ejemplo, la ciudad donde vive) para que sea visible en el mapa",
+      "inputPlaceholder": "Ubicación"
+    },
+    "uploadPhoto": {
+      "description": "Antes de añadir su fotografía de perfil, necesitamos que nos de su consentimiento para mostrarla a otros estudiantes del campus.",
+      "header": "Foto de Perfil",
+      "checkbox": "Estoy de acuerdo en compartir mi foto de perfil con otros estudiantes del campus.",
+      "uploadText": "Arrastrar foto aquí o buscar en la computadora",
+      "browse": "buscar en la computadora"
+    }
+  },
+  "codeOfConduct": {
+    "header": "Código de Conducta",
+    "description": "Antes de unirse, por favor lea nuestro Código de Conducta a continuación.",
+    "checkbox": "Me comprometo a respetar el Código de Conducta.",
+    "details": "{{codeOfConduct}}"
+  },
+  "cookieBanner": {
+    "header": "Valoramos tu privacidad",
+    "infoMessage": "Almacenamos cookies necesarias para recordar tus preferencias de cookies. Utilizamos cookies de Google Analytics para recopilar estadísticas de uso anónimas que nos ayudan a mejorar nuestro sitio web. Las cookies necesarias y el almacenamiento web HTML (Local Storage y Session Storage) están estrictamente limitados a la funcionalidad esencial del sitio web, como mantener tu sesión y recordar tus preferencias. No almacenan datos de análisis, seguimiento o marketing. Al hacer clic en 'Aceptar todo', aceptas el uso de cookies de análisis además de las cookies necesarias. Los datos de Google Analytics pueden procesarse en terceros países (por ejemplo, EE. UU.), donde pueden aplicarse diferentes estándares de protección de datos. Al dar tu consentimiento, aceptas posibles transferencias de datos fuera de la UE.",
+    "acceptAll": "Aceptar todo",
+    "rejectAll": "Rechazar todo",
+    "ariaLabel": "Configuración de cookies",
+    "manage": "Gestionar preferencias",
+    "preferences": "Configuración de cookies",
+    "preferencesDescription": "Elige qué cookies permitir. Las cookies necesarias y el almacenamiento web HTML están siempre habilitados ya que son necesarios para el funcionamiento del sitio web.",
+    "essential": "Cookies y almacenamiento necesarios (Requerido)",
+    "essentialDescription": "Estas cookies y el almacenamiento web HTML (Local Storage y Session Storage) son estrictamente necesarios para las funciones básicas del sitio web, como mantener tu sesión iniciada y recordar tus preferencias de cookies. No te rastrean ni almacenan datos de análisis, marketing u otros datos no esenciales. Las cookies se almacenan durante {{days}} días.",
+    "analytics": "Cookies de análisis",
+    "analyticsDescription": "Las cookies de Google Analytics recopilan datos anónimos sobre cómo los visitantes utilizan nuestro sitio web, ayudándonos a comprender los patrones de uso y mejorar nuestro servicio. Los datos de Google Analytics pueden procesarse en terceros países (por ejemplo, EE. UU.), donde las leyes de protección de datos pueden diferir. Al dar tu consentimiento, aceptas posibles transferencias de datos fuera de la UE.",
+    "save": "Guardar preferencias",
+    "cancel": "Cancelar",
+    "essentialAriaLabel": "Información de cookies",
+    "essentialHeader": "Este sitio web utiliza cookies necesarias",
+    "essentialMessage": "Utilizamos cookies necesarias (almacenadas durante {{days}} días) y almacenamiento web HTML (Local Storage y Session Storage) estrictamente para funciones esenciales del sitio web, como mantener tu sesión y recordar tus preferencias de cookies. Estos no almacenan datos de análisis, seguimiento o marketing.",
+    "acknowledge": "Entendido"
+  }
 }

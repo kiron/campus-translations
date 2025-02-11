@@ -86,8 +86,22 @@
   },
   "cookieBanner": {
     "header": "Deine Privatsphäre ist uns wichtig",
-    "infoMessage": "Für ein optimales Surferlebnis und zur Analyse unseres Datenverkehrs nutzen wir Cookies. Wenn du auf “Alle akzeptieren” klickst, stimmst du der Verarbeitung von Cookies zu.",
+    "infoMessage": "Wir speichern notwendige Cookies, um deine Cookie-Einstellungen zu speichern. Wir verwenden Google Analytics Cookies, um anonyme Nutzungsstatistiken zu sammeln, die uns helfen, unsere Website zu verbessern. Notwendige Cookies und HTML Web Storage (Local Storage & Session Storage) sind streng auf wesentliche Website-Funktionen beschränkt, wie zum Beispiel das Aufrechterhalten deiner Sitzung und das Speichern deiner Einstellungen. Sie speichern keine Analyse-, Tracking- oder Marketing-Daten. Wenn du auf 'Alle akzeptieren' klickst, stimmst du der Verwendung von Analytics-Cookies zusätzlich zu den notwendigen Cookies zu. Google Analytics-Daten können in Drittländern (z.B. USA) verarbeitet werden, wo andere Datenschutzstandards gelten können. Mit deiner Einwilligung stimmst du möglichen Datenübertragungen außerhalb der EU zu.",
     "acceptAll": "Alle akzeptieren",
-    "rejectAll": "Alle ablehnen"
+    "rejectAll": "Alle ablehnen",
+    "ariaLabel": "Cookie-Einstellungen",
+    "manage": "Einstellungen verwalten",
+    "preferences": "Cookie-Einstellungen",
+    "preferencesDescription": "Wähle aus, welche Cookies du zulassen möchtest. Notwendige Cookies und HTML Web Storage sind immer aktiviert, da sie für die Funktionalität der Website erforderlich sind.",
+    "essential": "Notwendige Cookies und Speicher (Erforderlich)",
+    "essentialDescription": "Diese Cookies und HTML Web Storage (Local Storage & Session Storage) sind für die grundlegenden Website-Funktionen unbedingt erforderlich, wie zum Beispiel, damit du eingeloggt bleibst und deine Cookie-Einstellungen gespeichert werden. Sie verfolgen dich nicht und speichern keine Analyse-, Marketing- oder andere nicht essentielle Daten. Die Cookies werden für {{days}} Tage gespeichert.",
+    "analytics": "Analytics Cookies",
+    "analyticsDescription": "Google Analytics Cookies sammeln anonyme Daten darüber, wie Besucher unsere Website nutzen. Das hilft uns, Nutzungsmuster zu verstehen und unseren Service zu verbessern. Google Analytics-Daten können in Drittländern (z.B. USA) verarbeitet werden, wo andere Datenschutzgesetze gelten können. Mit deiner Einwilligung stimmst du möglichen Datenübertragungen außerhalb der EU zu.",
+    "save": "Einstellungen speichern",
+    "cancel": "Abbrechen",
+    "essentialAriaLabel": "Cookie-Information",
+    "essentialHeader": "Diese Website verwendet notwendige Cookies",
+    "essentialMessage": "Wir verwenden notwendige Cookies (gespeichert für {{days}} Tage) und HTML Web Storage (Local Storage & Session Storage) ausschließlich für wesentliche Website-Funktionen, wie das Aufrechterhalten deiner Sitzung und das Speichern deiner Cookie-Einstellungen. Diese speichern keine Analyse-, Tracking- oder Marketing-Daten.",
+    "acknowledge": "Verstanden"
   }
 }
