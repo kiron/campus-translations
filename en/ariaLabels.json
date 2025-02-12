@@ -65,6 +65,29 @@
     "dropdownMenu": "Open dropdown menu"
   },
   "link": {
-    "logo": "Go to start page"
+    "logo": "Go to start page",
+    "goTo": "Go to",
+    "goToExample": "Go to Verification example",
+    "goToFile": "Go to uploaded file",
+    "goToExternal": "Go to external website",
+    "goToDocumentUploadHelp": "Learn more about document admission",
+    "goToDocumentTypeHelp": "Learn more about the valid document types",
+    "readPrivacyPolicy": "Read our Privacy policy",
+    "deleteAttachment": "Delete file",
+    "downloadAttachment": "Download file",
+    "goBack": "Go to previous page",
+    "goToCategory": "Go to category page",
+    "visitContentProvider": "Learn more about:",
+    "loadLearners": "Load more learners",
+    "readNotification": "Read notification about:",
+    "readOurCoC": "Read our code of conduct",
+    "goToCourse": "Go to course page: ",
+    "visitAlgolia": "Visit Algolia website",
+    "contactSupport": "Contact support via email",
+    "startLesson": "Start lesson:",
+    "certificateHelp": "Learn more about certificates",
+    "allAppointments": "See all appointments",
+    "manageSubscription": "Manage your email subscriptions",
+    "readAccesibility": "Read more about our accesibility"
   }
 }
