@@ -21,5 +21,6 @@
     "logout": "Logout",
     "joinForFree": "Join for free",
     "subOrgConsent": "Because this data sharing is a core part of the campus experience you may not proceed without it.",
-    "mentoring": "Mentoring Programs"
+    "mentoring": "Mentoring Programs",
+    "restrictedContent": "Restricted Access"
 }

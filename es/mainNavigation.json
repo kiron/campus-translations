@@ -20,5 +20,6 @@
     "logout": "Desconectar",
     "joinForFree": "Join for free",
     "subOrgConsent": "Para poder utilizar el campus, es importante que compartas estos datos.",
-    "mentoring": "Programa de Mentoría"
+    "mentoring": "Programa de Mentoría",
+    "restrictedContent": "Acceso Restringido"
 }
