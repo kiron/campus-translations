@@ -89,7 +89,7 @@
     "header": "Valoramos tu privacidad",
     "infoMessage": "Almacenamos cookies necesarias para recordar tus preferencias de cookies. Utilizamos cookies de Google Analytics para recopilar estadísticas de uso anónimas que nos ayudan a mejorar nuestro sitio web. Las cookies necesarias y el almacenamiento web HTML (Local Storage y Session Storage) están estrictamente limitados a la funcionalidad esencial del sitio web, como mantener tu sesión y recordar tus preferencias. No almacenan datos de análisis, seguimiento o marketing. Al hacer clic en 'Aceptar todo', aceptas el uso de cookies de análisis además de las cookies necesarias. Los datos de Google Analytics pueden procesarse en terceros países (por ejemplo, EE. UU.), donde pueden aplicarse diferentes estándares de protección de datos. Al dar tu consentimiento, aceptas posibles transferencias de datos fuera de la UE.",
     "acceptAll": "Aceptar todo",
-    "rejectAll": "Rechazar todo",
+    "rejectAll": "Solo cookies necesarias",
     "ariaLabel": "Configuración de cookies",
     "manage": "Gestionar preferencias",
     "preferences": "Configuración de cookies",

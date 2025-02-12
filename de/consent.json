@@ -88,7 +88,7 @@
     "header": "Deine Privatsphäre ist uns wichtig",
     "infoMessage": "Wir speichern notwendige Cookies, um deine Cookie-Einstellungen zu speichern. Wir verwenden Google Analytics Cookies, um anonyme Nutzungsstatistiken zu sammeln, die uns helfen, unsere Website zu verbessern. Notwendige Cookies und HTML Web Storage (Local Storage & Session Storage) sind streng auf wesentliche Website-Funktionen beschränkt, wie zum Beispiel das Aufrechterhalten deiner Sitzung und das Speichern deiner Einstellungen. Sie speichern keine Analyse-, Tracking- oder Marketing-Daten. Wenn du auf 'Alle akzeptieren' klickst, stimmst du der Verwendung von Analytics-Cookies zusätzlich zu den notwendigen Cookies zu. Google Analytics-Daten können in Drittländern (z.B. USA) verarbeitet werden, wo andere Datenschutzstandards gelten können. Mit deiner Einwilligung stimmst du möglichen Datenübertragungen außerhalb der EU zu.",
     "acceptAll": "Alle akzeptieren",
-    "rejectAll": "Alle ablehnen",
+    "rejectAll": "Nur notwendige Cookies",
     "ariaLabel": "Cookie-Einstellungen",
     "manage": "Einstellungen verwalten",
     "preferences": "Cookie-Einstellungen",

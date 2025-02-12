@@ -88,7 +88,7 @@
     "header": "We value your privacy",
     "infoMessage": "We store necessary cookies to remember your cookie preferences. We use Google Analytics cookies to collect anonymous usage statistics that help us improve our website. Necessary cookies and HTML Web Storage (Local Storage & Session Storage) are strictly limited to essential website functionality, such as maintaining your session and remembering your preferences. They do not store analytics, tracking, or marketing data. By clicking 'Accept All', you agree to the use of analytics cookies in addition to the necessary cookies. Google Analytics data may be processed in third countries (e.g., the USA), where different data protection standards may apply. By consenting, you agree to potential data transfers outside the EU.",
     "acceptAll": "Accept all",
-    "rejectAll": "Reject all",
+    "rejectAll": "Necessary cookies only",
     "ariaLabel": "Cookie settings",
     "manage": "Manage preferences",
     "preferences": "Cookie Settings",

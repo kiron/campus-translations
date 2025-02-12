@@ -88,7 +88,7 @@
     "header": "Gizliliğine değer veriyoruz",
     "infoMessage": "Çerez tercihlerini hatırlamak için gerekli çerezleri saklıyoruz. Web sitemizi geliştirmemize yardımcı olan anonim kullanım istatistiklerini toplamak için Google Analytics çerezlerini kullanıyoruz. Gerekli çerezler ve HTML Web Depolama (Yerel Depolama ve Oturum Depolama), oturumunu sürdürmek ve tercihlerini hatırlamak gibi temel web sitesi işlevleriyle sınırlıdır. Analiz, izleme veya pazarlama verilerini depolamazlar. 'Tümünü Kabul Et'e tıklayarak, gerekli çerezlere ek olarak analiz çerezlerinin kullanımını kabul edersin. Google Analytics verileri, farklı veri koruma standartlarının geçerli olabileceği üçüncü ülkelerde (örneğin ABD) işlenebilir. Onay vererek, AB dışına olası veri transferlerini kabul edersin.",
     "acceptAll": "Tümünü kabul et",
-    "rejectAll": "Tümünü reddet",
+    "rejectAll": "Sadece gerekli çerezler",
     "ariaLabel": "Çerez ayarları",
     "manage": "Tercihleri yönet",
     "preferences": "Çerez Ayarları",
