@@ -63,5 +63,8 @@
     "shareList": "Share list",
     "accountMenu": "Open account menu",
     "dropdownMenu": "Open dropdown menu"
+  },
+  "link": {
+    "logo": "Go to start page"
   }
 }
