@@ -72,5 +72,8 @@
       "description": "Manage your cookie preferences and analytics consent settings.",
       "manage": "Show cookie settings"
     }
-  }
+  },
+  "pageTitle": "Your Preferences",
+  "preferencesSaved": "Preferences updated successfully",
+  "preferencesError": "Failed to save preferences"
 }

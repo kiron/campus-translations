@@ -640,7 +640,8 @@
     "btnOthers": "Others",
     "btnShowLess": "Show less",
     "preHeadingComingSoon": "Coming soon...",
-    "headingContentNotFound": "Sorry, no content was found"
+    "headingContentNotFound": "Sorry, no content was found",
+    "headingContent": "Content"
   },
   "sessions": {
     "joinMeeting": "Join Meeting",

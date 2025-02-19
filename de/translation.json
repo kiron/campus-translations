@@ -665,7 +665,8 @@
     "btnOthers": "Andere",
     "btnShowLess": "Weniger anzeigen",
     "preHeadingComingSoon": "Coming soon...",
-    "headingContentNotFound": "Noch sind keine Inhalte vorhanden"
+    "headingContentNotFound": "Noch sind keine Inhalte vorhanden",
+    "headingContent": "Inhalte"
   },
   "sessions": {
     "joinMeeting": "Zur Videokonferenz",

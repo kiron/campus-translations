@@ -84,5 +84,8 @@
       "description": "Verwalte deine Cookie-Präferenzen und Zustimmungseinstellungen für Webtracking.",
       "manage": "Cookie-Einstellungen anzeigen"
     }
-  }
+  },
+  "pageTitle": "Deine Einstellungen",
+  "preferencesSaved": "Einstellungen erfolgreich aktualisiert",
+  "preferencesError": "Einstellungen konnten nicht gespeichert werden"
 }

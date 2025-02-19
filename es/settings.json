@@ -84,5 +84,8 @@
       "description": "Gestiona tus preferencias de cookies y la configuración de consentimiento para el seguimiento web.",
       "manage": "Mostrar configuración de cookies"
     }
-  }
+  },
+  "pageTitle": "Tus preferencias",
+  "preferencesSaved": "Preferencias actualizadas con éxito",
+  "preferencesError": "No se pudieron guardar las preferencias"
 }

@@ -84,5 +84,8 @@
       "description": "Çerez tercihlerinizi ve web izleme izin ayarlarınızı yönetin.",
       "manage": "Çerez ayarlarını göster"
     }
-  }
+  },
+  "pageTitle": "Tercihlerin",
+  "preferencesSaved": "Tercihler başarıyla güncellendi",
+  "preferencesError": "Tercihler kaydedilemedi"
 }
