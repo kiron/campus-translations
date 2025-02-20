@@ -35,7 +35,8 @@
       "emailSentDescription01": "Epostanı Adresini Kontrol Et.",
       "emailSentDescription02": "Sana hesabını etkinleştirmen için bir bağlantı gönderdik.",
       "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
-      "termsLink": "Veri politikası"
+      "termsLink": "Veri politikası",
+      "errorCreateFail": "Hesap oluşturulamadı"
     },
     "registerConfirmed": {
       "title": "Neredeyse Bitti!",

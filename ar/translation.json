@@ -508,7 +508,8 @@
       "alreadyUserTitle": "هل انت مسجّّل؟",
       "buttonRegister": "سجّّل",
       "labelPassword": "كلمة المرور",
-      "labelEmail": "ايميل"
+      "labelEmail": "ايميل",
+      "errorCreateFail": "فشل إنشاء الحساب"
     },
     "initial": {
       "or": "أو",

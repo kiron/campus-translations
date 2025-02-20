@@ -35,7 +35,8 @@
       "emailSentDescription01": "Überprüfe deine E-Mail",
       "emailSentDescription02": "Wir haben dir einen Link geschickt, um dein Konto zu aktivieren.",
       "termsText": "Indem du fortfährst, erklärst du dich einverstanden mit unserer",
-      "termsLink": "Datenschutzrichtlinie"
+      "termsLink": "Datenschutzrichtlinie",
+      "errorCreateFail": "Kontoerstellung fehlgeschlagen"
     },
     "registerConfirmed": {
       "title": "Fast fertig!",

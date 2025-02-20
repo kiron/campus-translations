@@ -35,7 +35,8 @@
       "emailSentDescription01": "خپل بریښنالیک چیک کړئ.",
       "emailSentDescription02": "موږ تاسو ته ستاسو د حساب فعالولو لپاره لینک لیږلی.",
       "termsText": "په دوام سره ، تاسو زموږ سره موافق یاست",
-      "termsLink": "د محرمیت پالیسي/د خدمت شرایط"
+      "termsLink": "د محرمیت پالیسي/د خدمت شرایط",
+      "errorCreateFail": "د حساب جوړولو ناکامي"
     },
     "registerConfirmed": {
       "title": "تقریبا سرته رسیدلی!",
