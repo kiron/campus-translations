@@ -20,6 +20,7 @@
       "errorKironEmail": "Por favor utilice 'Continuar con Google' para entrar",
       "errorEmailTaken": "Esta dirección de email ya está en uso",
       "errorShortPassword": "Su contraseña debe tener al menos 8 caracteres",
+      "errorLongPassword": "La dirección de correo electrónico es demasiado larga. Por favor, introduce una más corta",
       "errorLowercase": "La contraseña debe contener como mínimo una letra minúscula",
       "errorUppercase": "La contraseña debe contener como mínimo una letra mayúscula",
       "errorNumber": "La contraseña debe contener como mínimo un número",

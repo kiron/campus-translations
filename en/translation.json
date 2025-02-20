@@ -20,6 +20,7 @@
       "errorKironEmail": "Please use 'Continue with Google' to login",
       "errorEmailTaken": "This email is already taken",
       "errorShortPassword": "Your password should have at least 8 characters",
+      "errorLongPassword": "Email address is too long. Please enter a shorter one",
       "errorLowercase": "Your password should contain at least one lowercase character",
       "errorUppercase": "Your password should contain at least one uppercase character",
       "errorNumber": "Your password should contain at least one number",
