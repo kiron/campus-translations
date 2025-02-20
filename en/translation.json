@@ -29,6 +29,7 @@
       "errorCommonPassword": "Your password is too common",
       "errorPasswordSameAsOld": "New password cannot be the same as the old password",
       "errorPasswordSameAsEmail": "Your password cannot be the same as your email address",
+      "errorNotAccessible": "This account is not accessible",
       "emailSentTitle": "Almost done!",
       "emailSentDescription01": "Check your email.",
       "emailSentDescription02": "We sent you a link to activate your account.",

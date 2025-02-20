@@ -29,6 +29,7 @@
       "errorCommonPassword": "رمز عبور شما خیلی رایج است",
       "errorPasswordSameAsOld": "رمز عبور جدید نمی‌تواند همان رمز عبور قدیمی باشد",
       "errorPasswordSameAsEmail": "رمز عبور شما نباید با آدرس ایمیل شما یکسان باشد",
+      "errorNotAccessible": "این حساب قابل دسترسی نیست",
       "emailSentTitle": "تقریبا تمام شد!",
       "emailSentDescription01": "ایمیلتان را چک کنید.",
       "emailSentDescription02": "ما پیوندی را برای فعال سازی حساب شما برای شما ارسال کردیم.",

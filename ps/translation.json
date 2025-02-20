@@ -29,6 +29,7 @@
       "errorCommonPassword": "ستاسو پاسورډ خورا عام دی",
       "errorPasswordSameAsOld": "نوی پاسورډ نشي کولی د زاړه پاسورډ سره ورته وي",
       "errorPasswordSameAsEmail": "ستاسو پټ نوم باید د ستاسو د بریښنالیک پته سره یو شان نه وي",
+      "errorNotAccessible": "دا حساب نه دی لاسرسی",
       "emailSentTitle": "تقریبا سرته رسیدلی!",
       "emailSentDescription01": "خپل بریښنالیک چیک کړئ.",
       "emailSentDescription02": "موږ تاسو ته ستاسو د حساب فعالولو لپاره لینک لیږلی.",

@@ -29,6 +29,7 @@
       "errorCommonPassword": "Tu contraseña es demasiado fácil",
       "errorPasswordSameAsOld": "La nueva contraseña no puede ser la misma que la anterior",
       "errorPasswordSameAsEmail": "Tu contraseña no puede ser la misma que tu dirección de correo electrónico",
+      "errorNotAccessible": "Esta cuenta no es accesible",
       "emailSentTitle": "¡Casi ha terminado!",
       "emailSentDescription01": "Mire su email.",
       "emailSentDescription02": "Le hemos enviado un email para activar su cuenta.",

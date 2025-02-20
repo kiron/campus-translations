@@ -29,6 +29,7 @@
       "errorCommonPassword": "Ваш пароль занадто поширений",
       "errorPasswordSameAsOld": "Новий пароль не може бути таким же, як старий",
       "errorPasswordSameAsEmail": "Ваш пароль не може бути таким самим, як ваша електронна адреса",
+      "errorNotAccessible": "Цей акаунт недоступний",
       "emailSentTitle": "Майже зроблено!",
       "emailSentDescription01": "Перевірити свою електронну пошту.",
       "emailSentDescription02": "Ми надіслали вам посилання для активації облікового запису.",
