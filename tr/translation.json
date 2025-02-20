@@ -28,6 +28,7 @@
       "errorOldPasswordIncorrect": "Eski şifre yanlış",
       "errorCommonPassword": "Şifreniz çok yaygın",
       "errorPasswordSameAsOld": "Yeni şifre eski şifre ile aynı olamaz",
+      "errorPasswordSameAsEmail": "Şifreniz e-posta adresinizle aynı olamaz",
       "emailSentTitle": "Neredeyse Bitti!",
       "emailSentDescription01": "Epostanı Adresini Kontrol Et.",
       "emailSentDescription02": "Sana hesabını etkinleştirmen için bir bağlantı gönderdik.",

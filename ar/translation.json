@@ -501,6 +501,7 @@
       "errorOldPasswordIncorrect": "كلمة المرور القديمة غير صحيحة",
       "errorCommonPassword": "كلمة المرور الخاصة بك شائعة جدًا",
       "errorPasswordSameAsOld": "لا يمكن أن تكون كلمة المرور الجديدة هي نفسها كلمة المرور القديمة",
+      "errorPasswordSameAsEmail": "لا يمكن أن يكون كلمة المرور هي نفسها عنوان البريد الإلكتروني",
       "alreadyUserLink": "تسجيل دخول",
       "alreadyUserTitle": "هل انت مسجّّل؟",
       "buttonRegister": "سجّّل",

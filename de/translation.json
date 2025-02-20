@@ -28,6 +28,7 @@
       "errorOldPasswordIncorrect": "Dein aktuelles Passwort ist falsch",
       "errorCommonPassword": "Dein Password wird zu häufig genutzt. Bitte wähle ein anderes.",
       "errorPasswordSameAsOld": "Dein neues Passwort darf nicht dasselbe wie das alte Passwort sein",
+      "errorPasswordSameAsEmail": "Dein Passwort darf nicht mit deiner E-Mail-Adresse übereinstimmen",
       "emailSentTitle": "Fast fertig!",
       "emailSentDescription01": "Überprüfe deine E-Mail",
       "emailSentDescription02": "Wir haben dir einen Link geschickt, um dein Konto zu aktivieren.",

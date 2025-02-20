@@ -28,6 +28,7 @@
       "errorOldPasswordIncorrect": "Старый пароль неверен",
       "errorCommonPassword": "Ваш пароль слишком распространен",
       "errorPasswordSameAsOld": "Новый пароль не может быть таким же, как старый",
+      "errorPasswordSameAsEmail": "Ваш пароль не должен совпадать с вашим адресом электронной почты",
       "emailSentTitle": "Почти готово!",
       "emailSentDescription01": "Проверь свою электронную почту.",
       "emailSentDescription02": "Мы отправили тебе ссылку для активации твоего аккаунта.",
