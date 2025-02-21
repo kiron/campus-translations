@@ -137,7 +137,8 @@
     "addAnotherFile": "Añadir otro archivo",
     "orDropFiles": "o arrastra los archivos aquí.",
     "orDropSingleFile": "o arrastra tu archivo aquí",
-    "replaceFile": "Reemplazar"
+    "replaceFile": "Reemplazar",
+    "errorClosedRegistration": "Todos los lugares están actualmente llenos. Por favor, intente nuevamente cuando el proceso se abra la próxima vez."
   },
   "moduleStatus": {
     "hour": "hora",

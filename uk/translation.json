@@ -128,7 +128,8 @@
     "removeFile": "Видалити",
     "maxFilesLimitReached": "Неможливо завантажити більше одночасно",
     "cancelUpload": "Cancel",
-    "cancelUploadConfirmation": "Ви впевнені, що хочете скасувати це завантаження?"
+    "cancelUploadConfirmation": "Ви впевнені, що хочете скасувати це завантаження?",
+    "errorClosedRegistration": "Усі місця наразі заповнені. Будь ласка, спробуйте знову, коли процес відкриється наступного разу."
   },
   "moduleStatus": {
     "hour": "годину",

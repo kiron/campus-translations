@@ -128,7 +128,8 @@
     "removeFile": "Удалить",
     "maxFilesLimitReached": "Невозможно загрузить больше одновременно",
     "cancelUpload": "Отменить",
-    "cancelUploadConfirmation": "Ты уверен, что хочешь отменить эту загрузку?"
+    "cancelUploadConfirmation": "Ты уверен, что хочешь отменить эту загрузку?",
+    "errorClosedRegistration": "Все места сейчас заняты. Пожалуйста, попробуйте снова, когда процесс откроется в следующий раз."
   },
   "moduleStatus": {
     "hour": "час",

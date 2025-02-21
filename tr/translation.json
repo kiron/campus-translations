@@ -129,7 +129,8 @@
     "addAnotherFile": "Başka bir dosya ekle",
     "orDropFiles": "ya da dosyalarınızı buraya bırakın",
     "orDropSingleFile": "ya da dosyanızı buraya bırakın",
-    "replaceFile": "Değiştir"
+    "replaceFile": "Değiştir",
+    "errorClosedRegistration": "Şu anda tüm kontenjanlar dolu. Lütfen süreç bir dahaki açıldığında tekrar deneyin."
   },
   "moduleStatus": {
     "hour": "saat",

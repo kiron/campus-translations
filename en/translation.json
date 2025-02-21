@@ -136,7 +136,8 @@
     "addAnotherFile": "Add another file",
     "orDropFiles": "or drop your files here",
     "orDropSingleFile": "or drop your file here",
-    "replaceFile": "Replace"
+    "replaceFile": "Replace",
+    "errorClosedRegistration": "All spots are currently full. Please try again when the process opens next time."
   },
   "moduleStatus": {
     "hour": "hour",

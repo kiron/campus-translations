@@ -90,7 +90,8 @@
     "addAnotherFile": "أضف ملفًا آخر",
     "orDropFiles": "أو قم بإسقاط الملفات هنا",
     "orDropSingleFile": "أو قم بإسقاط الملف هنا",
-    "replaceFile": "استبدل"
+    "replaceFile": "استبدل",
+    "errorClosedRegistration": "جميع الأماكن ممتلئة حالياً. يرجى المحاولة مرة أخرى عندما يُفتح التسجيل في المرة القادمة."
   },
   "moduleStatus": {
     "hour": "ساعة",
