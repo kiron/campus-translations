@@ -4,7 +4,7 @@
   "uploadDocumentBtn": "Belge yükle",
   "inReviewHeader": "İnceleme devam ediyor",
   "inReviewDescription": "Belgenizi yüklediğiniz için teşekkür ederiz. Önümüzdeki birkaç hafta içinde bizden bir e-posta alacaksın.",
-  "inReviewDescriptionComment":"Kiron'da küçük bir ekibiz, bu nedenle belgelerinin incelenmesi biraz zaman alabilir. Lütfen ne zaman onaylanacağınız konusunda bize mesaj göndermekten kaçının - sana geri döneceğiz!",
+  "inReviewDescriptionComment": "Kiron'da küçük bir ekibiz, bu nedenle belgelerinin incelenmesi biraz zaman alabilir. Lütfen ne zaman onaylanacağınız konusunda bize mesaj göndermekten kaçının - sana geri döneceğiz!",
   "reuploadDocumentBtn": "Belgeyi yeniden yükle",
   "invalidUploadHeader": "Hmm, görünüşe göre doğru belge değil bu",
   "invalidUploadDescription": "Lütfen belge kılavuzuna bakın ve tekrar deneyin.",
@@ -14,9 +14,10 @@
   "acceptedHeader": "Belgeniz geçerli",
   "acceptedDescription": "Keşfet sayfasındaki öğrenme programlarımızın keyfini çıkarın veya Topluluk sayfasında bölgenizdeki diğer öğrencilerle tanışın.",
   "whyVerify": "Neden doğrulamalıyız?",
-  "moreInfo": "Daha fazla bilgi",
   "eligibleBtn": "Uygun muyum?",
   "ineligibleBtn": "Neden uygun değilim?",
   "ineligibleUploadHeader": "Belgelerinizi gönderdiğiniz için teşekkürler!",
-  "ineligibleUploadDescription": "Ekibimiz belgelerinizi inceledi ve maalesef, Kiron'un kataloğuna tam erişim için uygun değilsiniz. Yine de temel kurslarımıza ve kaynaklarımıza erişebilir ve bizden ilgili iletişimleri almaya devam edebilirsiniz. Şu anda yeniden başvuru yapmak mümkün değildir."
+  "ineligibleUploadDescription": "Ekibimiz belgelerinizi inceledi ve maalesef, Kiron'un kataloğuna tam erişim için uygun değilsiniz. Yine de temel kurslarımıza ve kaynaklarımıza erişebilir ve bizden ilgili iletişimleri almaya devam edebilirsiniz. Şu anda yeniden başvuru yapmak mümkün değildir.",
+  "documentCheckClosed": "Kiron, periyodik belge doğrulaması için yeni bir sistem uygulamaya koydu, bu da Kampüs'ün yıl içinde belirli zamanlarda doğrulama için açılacağı anlamına geliyor. Şu anda, yeni öğreniciler için belge doğrulaması kapalıdır. Ancak, temel kurslarımıza ve kaynaklarımıza erişmeye devam edebilir ve bir sonraki doğrulama dönemi açıldığında bilgilendirme dahil güncellemeleri bizden alabilirsiniz.",
+  "moreInfo": "Daha fazla bilgi"
 }

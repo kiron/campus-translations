@@ -14,9 +14,10 @@
   "acceptedHeader": "Your document is valid",
   "acceptedDescription": "Enjoy our learning programs on the Explore page or meet other learners in your area on the Community page.",
   "whyVerify": "Why verify?",
-  "moreInfo": "More info",
   "eligibleBtn": "Am I eligible?",
   "ineligibleBtn": "Why am I not eligible?",
   "ineligibleUploadHeader": "Thank you for submitting your documents!",
-  "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment."
+  "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment.",
+  "documentCheckClosed": "Kiron has introduced a new system for periodic document verification, which means the Campus opens for verification at specific times during the year. Currently, document verification is closed for new learners. However, you can still access our basic courses and resources and will receive updates from us, including notifications when the next verification period opens.",
+  "moreInfo": "More information"
 }
