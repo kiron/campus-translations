@@ -7,7 +7,7 @@
   "inReviewDescriptionComment": "Somos un equipo pequeño, así que revisar tus documentos puede tomarnos un tiempo. Por favor, evita escribirnos mensajes sobre cuándo será tu documentación verificada - nos pondremos en contacto contigo!",
   "reuploadDocumentBtn": "Volver a subir documento",
   "invalidUploadHeader": "Vaya, parece que ese no era el documento correcto.",
-  "invalidUploadDescription": "Por favor, consulta la guía del documento e inténtalo de nuevo.",
+  "invalidUploadDescription": "Asegúrese de que comprende los criterios de elegibilidad de Kiron y haga clic en "volver a cargar el documento" a continuación para enviar su nuevo documento. En la siguiente página, verá ejemplos de documentos aceptados.",
   "rejectedHeader": "No hemos podido verificarte con el documento subido.",
   "rejectedDescription": "Lo sentimos, no podemos verificar el documento subido. Aún puedes acceder a los programas gratuitos de Kiron. Para consultas, contacta student-support@kiron.ngo",
   "rejectedBtn": "Contáctanos",
@@ -18,6 +18,7 @@
   "ineligibleBtn": "¿Por qué no soy elegible?",
   "ineligibleUploadHeader": "¡Gracias por enviar tus documentos!",
   "ineligibleUploadDescription": "Nuestro equipo los ha revisado y, lamentablemente, no eres elegible para acceder al catálogo completo de Kiron. Sin embargo, aún puedes acceder a nuestros cursos y recursos básicos y seguirás recibiendo comunicaciones relevantes de nosotros. Ten en cuenta que en este momento no es posible volver a aplicar.",
-  "documentCheckClosed": "Kiron ha introducido un nuevo sistema para la verificación periódica de documentos, lo que significa que el Campus se abre para verificación en momentos específicos del año. Actualmente, la verificación de documentos está cerrada para los nuevos estudiantes. Sin embargo, aún puedes acceder a nuestros cursos y recursos básicos y recibirás actualizaciones de nuestra parte, incluyendo notificaciones cuando se abra el próximo período de verificación.",
-  "moreInfo": "Más información"
+  "documentCheckClosed": "Kiron ha introducido un nuevo sistema para la verificación periódica de documentos y los criterios de elegibilidad. Aún tiene acceso al Campus de Kiron y seguirá recibiendo mensajes nuestros, a menos que se dé de baja. Las ofertas para ciertos cursos y programas están disponibles solo para los estudiantes verificados. Lea más sobre el nuevo proceso en",
+  "moreInfo": "Más información",
+  "thisPage": "esta página."
 }

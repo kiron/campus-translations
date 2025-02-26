@@ -7,7 +7,7 @@
   "inReviewDescriptionComment": "We are a small team, so reviewing your documents might take some time. Please refrain from messaging us about when you will get verified - we will get back to you!",
   "reuploadDocumentBtn": "Re-upload document",
   "invalidUploadHeader": "Oops, it looks like that wasn't the right document",
-  "invalidUploadDescription": "Please refer to the document guide and try again.",
+  "invalidUploadDescription": "Make sure you understand Kiron’s eligibility criteria and click on re-upload document below to submit your new document. On the next page, you will see examples of accepted documents.",
   "rejectedHeader": "Your document could not be verified",
   "rejectedDescription": "Apologies, we can't verify the uploaded document. You can still access Kiron's free programs. For questions, contact student-support@kiron.ngo",
   "rejectedBtn": "Contact us",
@@ -18,6 +18,7 @@
   "ineligibleBtn": "Why am I not eligible?",
   "ineligibleUploadHeader": "Thank you for submitting your documents!",
   "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment.",
-  "documentCheckClosed": "Kiron has introduced a new system for periodic document verification, which means the Campus opens for verification at specific times during the year. Currently, document verification is closed for new learners. However, you can still access our basic courses and resources and will receive updates from us, including notifications when the next verification period opens.",
-  "moreInfo": "More information"
+  "documentCheckClosed": "Kiron has introduced a new system for periodic documentation verification and eligibility criteria. You still have access to the Kiron Campus and will continue to receive messages from us, unless you unsubscribe. Offers to certain courses and programs are available only to verified learners. Read more about the new process on",
+  "moreInfo": "More information",
+  "thisPage": "this page."
 }

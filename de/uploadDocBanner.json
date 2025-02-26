@@ -7,7 +7,7 @@
   "inReviewDescriptionComment": "Wir sind ein kleines Team und prüfen jedes Dokument einzeln, es kann daher einige Zeit in Anspruch nehmen. Bitte siehe davon ab, Nachfragen zum Status deiner Dokumentenprüfung zu schicken - wir melden uns bald bei dir!",
   "reuploadDocumentBtn": "Dokument erneut hochladen",
   "invalidUploadHeader": "Hoppla, anscheinend war das nicht das richtige Dokument",
-  "invalidUploadDescription": "Bitte schau dir den Dokumentenleitfaden an und versuche es erneut.",
+  "invalidUploadDescription": "Stellen Sie sicher, dass Sie die Zulassungskriterien von Kiron verstehen und klicken Sie unten auf „Dokument erneut hochladen“, um Ihr neues Dokument einzureichen. Auf der nächsten Seite sehen Sie Beispiele für akzeptierte Dokumente.",
   "rejectedHeader": "Dein Dokument konnte nicht verifiziert werden",
   "rejectedDescription": "Es tut uns leid, wir können das hochgeladene Dokument nicht verifizieren. Du hast jedoch weiterhin Zugang zu unseren kostenlosen Inhalten. Bei Fragen wende dich an student-support@kiron.ngo",
   "rejectedBtn": "Kontaktiere uns",
@@ -18,6 +18,7 @@
   "ineligibleBtn": "Warum bin ich nicht berechtigt?",
   "ineligibleUploadHeader": "Vielen Dank für das Einreichen Ihrer Dokumente!",
   "ineligibleUploadDescription": "Unser Team hat Ihre Dokumente geprüft und leider sind Sie nicht berechtigt, vollen Zugang zum Kiron-Katalog zu erhalten. Sie können jedoch weiterhin auf unsere grundlegenden Kurse und Ressourcen zugreifen und werden weiterhin relevante Mitteilungen von uns erhalten. Bitte beachten Sie, dass eine erneute Bewerbung momentan nicht möglich ist.",
-  "documentCheckClosed": "Kiron hat ein neues System zur regelmäßigen Dokumentenüberprüfung eingeführt, was bedeutet, dass der Campus zu bestimmten Zeiten im Jahr für Überprüfungen geöffnet wird. Derzeit ist die Dokumentenüberprüfung für neue Lernende geschlossen. Sie können jedoch weiterhin auf unsere Grundkurse und Ressourcen zugreifen und erhalten von uns Updates, einschließlich Benachrichtigungen, wenn die nächste Überprüfungsperiode beginnt.",
-  "moreInfo": "Mehr Informationen"
+  "documentCheckClosed": "Kiron hat ein neues System zur regelmäßigen Dokumentenprüfung und für Zulassungskriterien eingeführt. Sie haben weiterhin Zugriff auf den Kiron Campus und erhalten weiterhin Nachrichten von uns, sofern Sie sich nicht abmelden. Angebote für bestimmte Kurse und Programme stehen nur verifizierten Lernenden zur Verfügung. Lesen Sie mehr über den neuen Prozess auf",
+  "moreInfo": "Mehr Informationen",
+  "thisPage": "dieser Seite."
 }
