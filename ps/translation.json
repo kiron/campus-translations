@@ -24,7 +24,7 @@
       "errorUppercase": "ستاسو رمز باید لږترلږه یو لوی حرف ولري",
       "errorNumber": "ستاسو پاسورډ باید لږترلږه یوه شمیره ولري",
       "errorSpecialCharacter": "ستاسو رمز باید لږترلږه یو ځانګړی کرکټر ولري ، پشمول د <، یا>",
-      "errorLongPassword": "د بریښنالیک آدرس ډېر اوږد دی. مهرباني وکړئ یو لنډ آدرس دننه کړئ",
+      "errorLongEmail": "د بریښنالیک آدرس ډېر اوږد دی. مهرباني وکړئ یو لنډ آدرس دننه کړئ",
       "errorPasswordsDoNotMatch": "پاسورډونه سمون نه خوري",
       "errorOldPasswordIncorrect": "زوړ پاسورډ غلط دی",
       "errorCommonPassword": "ستاسو پاسورډ خورا عام دی",

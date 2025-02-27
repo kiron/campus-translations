@@ -20,7 +20,7 @@
       "errorKironEmail": "Bitte nutze 'Weiter mit Google' zum Einloggen",
       "errorEmailTaken": "Diese E-Mail ist bereits vergeben",
       "errorShortPassword": "Dein Passwort sollte mindestens 8 Zeichen lang sein",
-      "errorLongPassword": "Die E-Mail-Adresse ist zu lang. Bitte geben Sie eine kürzere ein",
+      "errorLongEmail": "Die E-Mail-Adresse ist zu lang. Bitte geben Sie eine kürzere ein",
       "errorLowercase": "Dein Passwort sollte mindestens einen Kleinbuchstaben enthalten",
       "errorUppercase": "Dein Passwort sollte mindestens einen Großbuchstaben enthalten",
       "errorNumber": "Dein Passwort sollte mindestens eine Zahl enthalten",

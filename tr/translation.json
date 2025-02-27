@@ -20,7 +20,7 @@
       "errorKironEmail": "Lütfen giriş yapmak için 'Google ile devam edin' seçeneğini kullan",
       "errorEmailTaken": "Bu eposta adresi daha önce alındı",
       "errorShortPassword": "Parolan en az 8 karakter içermeli",
-      "errorLongPassword": "E-posta adresi çok uzun. Lütfen daha kısa bir adres girin",
+      "errorLongEmail": "E-posta adresi çok uzun. Lütfen daha kısa bir adres girin",
       "errorLowercase": "Şifre en az bir küçük harf içermelidir ",
       "errorUppercase": "Şifre en az bir büyük harf içermelidir ",
       "errorNumber": "Şifre en az bir sayı içermelidir ",
