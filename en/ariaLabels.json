@@ -48,7 +48,7 @@
     "togglePasswordVisibility": "Show or hide the password",
     "navigatePreviousSlide": "Navigate to the previous slide",
     "navigateNextSlide": "Navigate to the next slide",
-    "languageSwitch": "Switch language",
+    "languageSwitch": "Switch language. Current version: {{language}}",
     "close": "Close",
     "copyright": "Copy right",
     "back": "Go back",
@@ -73,6 +73,7 @@
     "goToDocumentUploadHelp": "Learn more about document admission",
     "goToDocumentTypeHelp": "Learn more about the valid document types",
     "readPrivacyPolicy": "Read our Privacy policy",
+    "readDataPolicy": "Read our Data policy",
     "deleteAttachment": "Delete file",
     "downloadAttachment": "Download file",
     "goBack": "Go to previous page",
@@ -88,6 +89,7 @@
     "certificateHelp": "Learn more about certificates",
     "allAppointments": "See all appointments",
     "manageSubscription": "Manage your email subscriptions",
-    "readAccesibility": "Read more about our accesibility"
+    "readAccesibility": "Read more about our accessibility",
+    "readImprint": "Read our Imprint"
   }
 }
