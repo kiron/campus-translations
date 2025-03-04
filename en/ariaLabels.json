@@ -62,8 +62,7 @@
     "bookmarkItem": "Bookmark this item",
     "shareList": "Share list",
     "accountMenu": "Open account menu",
-    "dropdownMenu": "Open dropdown menu",
-    "carouselDotButton": "Go to slide"
+    "dropdownMenu": "Open dropdown menu"
   },
   "link": {
     "logo": "Go to start page",
@@ -92,5 +91,13 @@
     "manageSubscription": "Manage your email subscriptions",
     "readAccesibility": "Read more about our accessibility",
     "readImprint": "Read our Imprint"
+  },
+  "landingPage": {
+    "carouselDotButton": "Go to slide",
+    "modulesRegion": "Recommened courses",
+    "footerRegion": "Join us",
+    "howToRegion": "How does it work?", 
+    "whyJoinRegion": "Why join us?",
+    "introRegion": "Campus Introduction",
   }
 }
