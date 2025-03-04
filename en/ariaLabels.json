@@ -62,7 +62,8 @@
     "bookmarkItem": "Bookmark this item",
     "shareList": "Share list",
     "accountMenu": "Open account menu",
-    "dropdownMenu": "Open dropdown menu"
+    "dropdownMenu": "Open dropdown menu",
+    "carouselDotButton": "Go to slide"
   },
   "link": {
     "logo": "Go to start page",
