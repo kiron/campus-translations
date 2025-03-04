@@ -15,7 +15,7 @@
   "participantsTitle": "Participants",
   "studentCount": "{{0}} participant",
   "studentCount_plural": "{{0}} participants",
-  "seeAllBtn": "See all",
+  "showAllBtn": "Show all",
   "closeBtn": "Close",
   "optOutModal": "Are you sure you want to leave?",
   "modalAccept": "Yes, leave project",

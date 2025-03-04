@@ -15,7 +15,7 @@
   "participantsTitle": "شركت كنندگان",
   "studentCount": "{{0}} دانش آموز",
   "studentCount_plural": "{{0}} دانش آموز",
-  "seeAllBtn": "همه را ببین",
+  "showAllBtn": "نمایش همه",
   "closeBtn": "نزدیک",
   "optOutModal": "آیا مطمئن هستی که می خواهی ترک کنی؟",
   "modalAccept": "بله ، پروژه را ترک کنید",

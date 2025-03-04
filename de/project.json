@@ -15,7 +15,7 @@
   "participantsTitle": "Teilnehmende",
   "studentCount": "{{0}} Lernende(r)",
   "studentCount_plural": "{{0}} Lernende",
-  "seeAllBtn": "Alle ansehen",
+  "showAllBtn": "Alle anzeigen",
   "closeBtn": "Schließen",
   "optOutModal": "Bist du sicher?",
   "modalAccept": "Ja, Projekt verlassen",

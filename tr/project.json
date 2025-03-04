@@ -15,7 +15,7 @@
   "participantsTitle": "Katılımcılar",
   "studentCount": "{{0}} katılımcı",
   "studentCount_plural": "{{0}} katılımcılar",
-  "seeAllBtn": "Hepsini gör",
+  "showAllBtn": "Tümünü göster",
   "closeBtn": "Kapat",
   "optOutModal": "Projeden ayrılmak istediğinizden emin misiniz?",
   "modalAccept": "Evet, projeden ayrıl",

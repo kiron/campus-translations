@@ -23,7 +23,7 @@
   "studentCount_3": "{{0}} مشاركين",
   "studentCount_4": "{{0}} مشاركين",
   "studentCount_5": "{{0}} مشاركين",
-  "seeAllBtn": "عرض الكل",
+  "showAllBtn": "إظهار الكل",
   "closeBtn": "إغلاق",
   "optOutModal": "هل أنت متأكد أنك تريد الخروج؟",
   "modalAccept": "نعم، اترك المشروع",

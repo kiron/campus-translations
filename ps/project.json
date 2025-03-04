@@ -15,7 +15,7 @@
   "participantsTitle": "برخه اخیستونکي",
   "studentCount": "{{0}} زده کونکی",
   "studentCount_plural": "{{0}} زده کونکي",
-  "seeAllBtn": "ټول وګوره",
+  "showAllBtn": "ټول ښودل" ,
   "closeBtn": "تړل",
   "optOutModal": "ایا تاسو ډاډه یاست چې پریښودل غواړئ؟",
   "modalAccept": "هو ، پروژه پریږدئ",

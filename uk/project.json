@@ -17,7 +17,7 @@
   "studentCount_0": "{{0}} учасник",
   "studentCount_1": "{{0}} учасники",
   "studentCount_2": "{{0}} учасників",
-  "seeAllBtn": "Бачити все",
+  "showAllBtn": "Показати все",
   "closeBtn": "Закрити",
   "optOutModal": "Ви впевнені, що хочете піти?",
   "modalAccept": "Так, залишити проект",
