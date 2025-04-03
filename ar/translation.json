@@ -481,7 +481,7 @@
   },
   "register": {
     "registerConfirmed": {
-      "acceptTerms": "اقبل شروط الخدمة",
+      "acceptTerms": "استمر",
       "description": "نحن نجهز حسابك ...",
       "title": "يكاد ينتهي!"
     },

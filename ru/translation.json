@@ -41,7 +41,7 @@
     "registerConfirmed": {
       "title": "Почти готово!",
       "description": "Мы подготавливаем твой аккаунт...",
-      "acceptTerms": "Прими условия предоставления услуг"
+      "acceptTerms": "Продолжить"
     }
   },
   "explore": {

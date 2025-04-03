@@ -41,7 +41,7 @@
     "registerConfirmed": {
       "title": "¡Casi ha terminado!",
       "description": "Estamos preparando su cuenta...",
-      "acceptTerms": "Aceptar términos y condiciones de uso"
+      "acceptTerms": "Continue"
     }
   },
   "explore": {

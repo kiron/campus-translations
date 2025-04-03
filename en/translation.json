@@ -41,7 +41,7 @@
     "registerConfirmed": {
       "title": "Almost done!",
       "description": "We are preparing your account...",
-      "acceptTerms": "Accept terms of service"
+      "acceptTerms": "Continue"
     }
   },
   "explore": {
