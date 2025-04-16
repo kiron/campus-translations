@@ -99,5 +99,12 @@
     "howToRegion": "Wie funktioniert es?", 
     "whyJoinRegion": "Warum mitmachen?",
     "introRegion": "Campus-Einführung"
+  },
+  "dragAndDrop": {
+    "dragHandle": "Ziehgriff. Drücke Command + D, um das Element zu ziehen.",
+    "pickedUp": "{{label}} aufgenommen",
+    "dropped": "{{label}} abgelegt",
+    "hoveredOver": "{{label}} anvisiert",
+    "cancelled": "Abgebrochen"
   }
 }

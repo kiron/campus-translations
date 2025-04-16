@@ -99,5 +99,12 @@
     "howToRegion": "¿Cómo funciona?", 
     "whyJoinRegion": "¿Por qué unirse a nosotros?",
     "introRegion": "Introducción al campus"
+  },
+  "dragAndDrop": {
+    "dragHandle": "Asa de arrastre. Pulsa Command + D para arrastrar el elemento.",
+    "pickedUp": "Has recogido {{label}}",
+    "dropped": "Has soltado {{label}}",
+    "hoveredOver": "Pasaste por encima de {{label}}",
+    "cancelled": "Arrastre cancelado"
   }
 }
