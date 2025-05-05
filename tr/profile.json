@@ -70,5 +70,17 @@
     },
     "dataWallet": {
         "accountConnected": "Data wallet hesabınız bağlandı."
+    },
+    "deletion": {
+        "title": "Hesabımı Sil",
+        "desc": "Hesabımı platformdan kalıcı olarak kaldır.",
+        "warning": "Bu işlem geri alınamaz, bu yüzden lütfen devam etmeden önce emin olun!",
+        "hint": "Kısa bir hatırlatma: Hesabınızı kapatmanız, aldığınız sertifikalar dahil tüm ilerlemenizin ve verilerinizin kalıcı olarak silineceği anlamına gelir.",
+        "cta": "Hesabımı Sil",
+        "delete": "Sil",
+        "explainText": "Lütfen unutmayın, bu işlem kalıcıdır ve geri alınamaz. Devam etmeden önce emin olduğunuzdan emin olun.",
+        "success": "Hesabınız 14 gün içinde silinecek.",
+        "alreadyExists": "Zaten bir silme talebi yapılmış.",
+        "error": "Hay aksi! Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin."
     }
 }

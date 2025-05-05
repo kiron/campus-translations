@@ -78,5 +78,17 @@
         "accountConnected": "Tu cartera de datos está conectada.",
         "cta": "Continuar",
         "load": "Cargando"
+    },
+    "deletion": {
+        "title": "Eliminar mi cuenta",
+        "desc": "Eliminar permanentemente mi cuenta de la plataforma.",
+        "warning": "Esta acción no se puede deshacer, ¡así que asegúrate antes de continuar!",
+        "hint": "Sólo un recordatorio rápido, al cerrar tu cuenta todos tus progresos y datos se eliminarán permanentemente, incluyendo las certificaciones que hayas recibido.",
+        "cta": "Eliminar mi cuenta",
+        "delete": "Eliminar",
+        "explainText": "Por favor, recuerda que esta acción es permanente y no se puede deshacer. Asegúrate de estar seguro antes de continuar.",
+        "success": "Tu cuenta será eliminada en 14 días.",
+        "alreadyExists": "Ya se ha realizado una solicitud de eliminación.",
+        "error": "¡Ups! Algo salió mal. Por favor, inténtalo más tarde."
     }
 }

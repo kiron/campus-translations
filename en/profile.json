@@ -84,5 +84,17 @@
         "load": "Loading",
         "cta": "Continue",
         "accountConnected": "Your data wallet account is connected."
+    },
+    "deletion": {
+        "title": "Delete My Account",
+        "desc": "Permanently remove my account from the platform.",
+        "warning": "This action can't be undone, so please be sure before proceeding!",
+        "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received.",
+        "cta": "Delete My Account",
+        "delete": "Delete",
+        "explainText": "Please remember, this action is permanent and cannot be undone. Make sure you're certain before continuing.",
+        "success": "Your account will be deleted in 14 days.",
+        "alreadyExists": "A deletion request has already been made.",
+        "error": "Oops! Something went wrong. Please try again later."
     }
 }

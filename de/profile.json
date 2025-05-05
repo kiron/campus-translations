@@ -78,5 +78,17 @@
         "load": "Lädt",
         "cta": "Weiter",
         "accountConnected": "Deine Data Wallet ist verknüpft."
+    },
+    "deletion": {
+        "title": "Mein Konto löschen",
+        "desc": "Dein Konto wird dauerhaft von der Plattform entfernt.",
+        "warning": "Diese Aktion kann nicht rückgängig gemacht werden, also stelle sicher, dass du das wirklich willst!",
+        "hint": "Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht.",
+        "cta": "Mein Konto löschen",
+        "delete": "Löschen",
+        "explainText": "Bitte denk daran: Diese Aktion ist endgültig und kann nicht rückgängig gemacht werden. Sei dir sicher, bevor du fortfährst.",
+        "success": "Dein Konto wird in 14 Tagen gelöscht.",
+        "alreadyExists": "Es wurde bereits eine Löschanfrage gestellt.",
+        "error": "Ups! Etwas ist schiefgelaufen. Bitte versuch es später nochmal."
     }
 }
