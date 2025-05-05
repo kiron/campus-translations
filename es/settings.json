@@ -59,11 +59,6 @@
   },
   "manageAccount": {
     "title": "Cuenta",
-    "deleteAccount": {
-      "title": "Eliminar cuenta",
-      "info": "Si deseas eliminar permanentemente tu cuenta, por favor envía un correo electrónico a:",
-      "hint": "Sólo un recordatorio rápido, al cerrar tu cuenta todos tus progresos y datos se eliminarán permanentemente, incluyendo las certificaciones que hayas recibido."
-    },
     "changePassword": {
       "title": "Cambiar contraseña",
       "currentPassword": "Contraseña actual",
