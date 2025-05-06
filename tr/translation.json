@@ -556,5 +556,14 @@
     "text": "Konularımızı ve nasıl bağlantılı olduklarını keşfedin. İlgi alanlarınızı seçin ve içerik önerilerinizi kişiselleştirin.",
     "successMessage": "Değerlendirme başarıyla güncellendi",
     "errorMessage": "Değerlendirme güncellenemedi"
+  },
+  "gdpr_overlay": {
+    "heading": "Bu video YouTube tarafından barındırılıyor.",
+    "content": "Bu videoyu oynatmak, YouTube'un çerezleri kullanmasına ve konumunuz ve IP adresiniz gibi izleme aktiviteniz hakkında bilgi edinmesine izin verecektir. Verileriniz, kişisel verilerin işlenmesi için farklı kuralların uygulandığı üçüncü ülkelerde (örneğin, ABD) işlenebilir.",
+    "link": "Gizlilik hakkında daha fazla bilgi edinin",
+    "btn": {
+      "playOnce": "Bir kez oynat",
+      "alwaysPlay": "Her zaman oynat"
+    }
   }
 }

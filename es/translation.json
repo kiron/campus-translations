@@ -692,5 +692,14 @@
     "text": "Explore nuestros temas y cómo están conectados. Elija sus áreas de interés y personalice sus recomendaciones de contenido.",
     "successMessage": "Calificación actualizada correctamente",
     "errorMessage": "Error al actualizar la calificación"
+  },
+  "gdpr_overlay": {
+    "heading": "Este video está alojado en YouTube.",
+    "content": "Al reproducir este video, YouTube podrá usar cookies y obtener información sobre tu actividad de visualización, como tu ubicación y dirección IP. Tus datos pueden procesarse en terceros países (por ejemplo, EE. UU.), donde se aplican diferentes normas para el manejo de datos personales.",
+    "link": "Más información sobre privacidad",
+    "btn": {
+      "playOnce": "Reproducir una vez",
+      "alwaysPlay": "Reproducir siempre"
+    }
   }
 }

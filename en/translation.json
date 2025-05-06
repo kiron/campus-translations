@@ -679,5 +679,14 @@
     "text": "Explore our topics and how they are connected. Choose your areas of interest and personalize your content recommendations.",
     "successMessage": "rating updated successfully",
     "errorMessage": "failed to update rating"
+  },
+  "gdpr_overlay": {
+    "heading": "This video is hosted by YouTube.",
+    "content": "Playing this video will allow YouTube to use cookies and learn about your viewing activity, like your location and IP address. Your data may be processed in third countries (e.g., the USA), where different rules for handling personal data apply.",
+    "link": "Learn more about privacy",
+    "btn": {
+      "playOnce": "Play once",
+      "alwaysPlay": "Always play"
+    }
   }
 }

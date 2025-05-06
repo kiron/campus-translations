@@ -704,5 +704,14 @@
     "text": "Erkunde unsere Themen und wie sie zusammenhängen. Wähle deine Interessenschwerpunkte und personalisiere deine Inhalte-Empfehlungen.",
     "successMessage": "Bewertung erfolgreich aktualisiert",
     "errorMessage": "Bewertung konnte nicht aktualisiert werden"
+  },
+  "gdpr_overlay": {
+    "heading": "Dieses Video wird von YouTube bereitgestellt.",
+    "content": "Beim Abspielen kann YouTube Cookies nutzen und deine Aktivitäten nachverfolgen, wie zum Beispiel deinen Standort und deine IP-Adresse. Deine Daten können in anderen Ländern (wie den USA) verarbeitet werden, die andere Datenschutzregeln haben.",
+    "link": "Mehr zum Datenschutz erfahren",
+    "btn": {
+      "playOnce": "Einmal abspielen",
+      "alwaysPlay": "Immer abspielen"
+    }
   }
 }
