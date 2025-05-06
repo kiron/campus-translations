@@ -102,6 +102,8 @@
     "essentialAriaLabel": "Çerez bilgisi",
     "essentialHeader": "Bu web sitesi gerekli çerezleri kullanır",
     "essentialMessage": "Oturumunu sürdürmek ve çerez tercihlerini hatırlamak gibi temel web sitesi işlevleri için kesinlikle gerekli çerezleri ({{days}} gün saklanır) ve HTML Web Depolama (Yerel Depolama ve Oturum Depolama) kullanıyoruz. Bunlar analiz, izleme veya pazarlama verilerini depolamaz.",
-    "acknowledge": "Anladım"
+    "acknowledge": "Anladım",
+    "youtube": "YouTube",
+    "youtubeDesc": "Etkinleştirildiğinde, YouTube videoları sitemizde yüklenecektir. Bu, IP adresinizi ve tarayıcı verilerinizi YouTube (Google LLC, ABD) ile paylaşabilir. YouTube, analiz ve kişiselleştirilmiş içerik için çerezler kullanabilir. Veriler AB dışına aktarılabilir. Onay vererek, YouTube içeriğinin yüklenmesine izin vermiş ve gizlilik şartlarını kabul etmiş olursunuz. Not: Onay vermeden YouTube videoları yüklenmeyecektir."
   }
 }

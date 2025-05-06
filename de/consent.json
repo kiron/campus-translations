@@ -102,6 +102,8 @@
     "essentialAriaLabel": "Cookie-Information",
     "essentialHeader": "Diese Website verwendet notwendige Cookies",
     "essentialMessage": "Wir verwenden notwendige Cookies (gespeichert für {{days}} Tage) und HTML Web Storage (Local Storage & Session Storage) ausschließlich für wesentliche Website-Funktionen, wie das Aufrechterhalten deiner Sitzung und das Speichern deiner Cookie-Einstellungen. Diese speichern keine Analyse-, Tracking- oder Marketing-Daten.",
-    "acknowledge": "Verstanden"
+    "acknowledge": "Verstanden",
+    "youtube": "YouTube",
+    "youtubeDesc": "Wenn aktiviert, werden YouTube-Videos auf unserer Seite geladen. Dabei können Deine IP-Adresse und Browser-Daten mit YouTube (Google LLC, USA) geteilt werden. YouTube kann Cookies für Analysen und personalisierte Inhalte verwenden. Daten können außerhalb der EU übertragen werden. Mit deiner Einwilligung erlaubst du, dass YouTube-Inhalte geladen werden und akzeptierst deren Datenschutzbestimmungen. Hinweis: Ohne Einwilligung werden YouTube-Videos nicht geladen."
   }
 }
