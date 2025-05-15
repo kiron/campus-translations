@@ -87,7 +87,7 @@
         "cta": "Eliminar mi cuenta",
         "delete": "Eliminar",
         "explainText": "Por favor, recuerda que esta acción es permanente y no se puede deshacer. Asegúrate de estar seguro antes de continuar.",
-        "success": "Tu cuenta será eliminada en 14 días.",
+        "success": "Tu cuenta está ahora programada para su eliminación. Si cambias de opinión, puedes cancelar la solicitud dentro de los próximos 14 días.",
         "alreadyExists": "Ya se ha realizado una solicitud de eliminación.",
         "error": "¡Ups! Algo salió mal. Por favor, inténtalo más tarde."
     }

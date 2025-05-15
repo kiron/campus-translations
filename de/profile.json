@@ -87,8 +87,7 @@
         "cta": "Mein Konto löschen",
         "delete": "Löschen",
         "explainText": "Bitte denk daran: Diese Aktion ist endgültig und kann nicht rückgängig gemacht werden. Sei dir sicher, bevor du fortfährst.",
-        "success": "Dein Konto wird in 14 Tagen gelöscht.",
-        "alreadyExists": "Es wurde bereits eine Löschanfrage gestellt.",
+        "success": "Dein Konto ist nun zur Löschung vorgesehen. Wenn du es dir anders überlegst, kannst du die Anfrage innerhalb von 14 Tagen stornieren."        "alreadyExists": "Es wurde bereits eine Löschanfrage gestellt.",
         "error": "Ups! Etwas ist schiefgelaufen. Bitte versuch es später nochmal."
     }
 }

@@ -79,7 +79,7 @@
         "cta": "Hesabımı Sil",
         "delete": "Sil",
         "explainText": "Lütfen unutmayın, bu işlem kalıcıdır ve geri alınamaz. Devam etmeden önce emin olduğunuzdan emin olun.",
-        "success": "Hesabınız 14 gün içinde silinecek.",
+        "success": "Hesabınız silinmek üzere planlandı. Fikriniz değişirse, bu isteği 14 gün içinde iptal edebilirsiniz.",
         "alreadyExists": "Zaten bir silme talebi yapılmış.",
         "error": "Hay aksi! Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin."
     }

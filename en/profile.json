@@ -93,7 +93,7 @@
         "cta": "Delete My Account",
         "delete": "Delete",
         "explainText": "Please remember, this action is permanent and cannot be undone. Make sure you're certain before continuing.",
-        "success": "Your account will be deleted in 14 days.",
+        "success": "Your account is now scheduled for deletion. If you change your mind, you can cancel the request within the next 14 days.",
         "alreadyExists": "A deletion request has already been made.",
         "error": "Oops! Something went wrong. Please try again later."
     }
