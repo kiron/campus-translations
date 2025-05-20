@@ -59,6 +59,11 @@
   },
   "manageAccount": {
     "title": "Benutzerkonto",
+    "deleteAccount": {
+      "title": "Benutzerkonto löschen",
+      "info": "Du möchtest Dein Benutzerkonto löschen? Schicke bitte eine E-Mail an:",
+      "hint": "Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht. "
+    },
     "changePassword": {
       "title": "Passwort ändern",
       "currentPassword": "Aktuelles Passwort",

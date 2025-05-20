@@ -47,6 +47,11 @@
   },
   "manageAccount": {
     "title": "Account",
+    "deleteAccount": {
+      "title": "Delete account",
+      "info": "If you wish to delete permanently your account please send an email to:",
+      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+    },
     "changePassword": {
       "title": "Змінити пароль",
       "currentPassword": "Поточний пароль",
