@@ -36,5 +36,6 @@
   "success": "هورا!",
   "registerToAllButton": "ثبت‌نام در همه",
   "unregisterFromAllButton": "لغو ثبت‌نام از همه",
-  "newAppointmentWarning": "قرارهای ملاقات جدیدی موجود است. برای ثبت نام در تمام قرارهای ملاقات موجود، بر روی '{{btnLabel}}' کلیک کنید."
+  "newAppointmentWarning": "قرارهای ملاقات جدیدی موجود است. برای ثبت نام در تمام قرارهای ملاقات موجود، بر روی '{{btnLabel}}' کلیک کنید.",
+  "certificateBtn": "دانلود تأیید حضور"
 }

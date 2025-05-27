@@ -40,5 +40,6 @@
   "OK": "OK",
   "registerToAllButton": "Alle anmelden",
   "unregisterFromAllButton": "Alle abmelden",
-  "newAppointmentWarning": "Klicke auf '{{btnLabel}}', um dich für alle verfügbaren Terminen anzumelden."
+  "newAppointmentWarning": "Klicke auf '{{btnLabel}}', um dich für alle verfügbaren Terminen anzumelden.",
+  "certificateBtn": "Teilnahmebestätigung herunterladen"
 }

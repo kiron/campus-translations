@@ -40,5 +40,6 @@
   "successfullyRegistered": "You have successfully registered.",
   "successfullyUnregistered": "You have successfully unenrolled.",
   "youAreRegistered": "Registered",
-  "OK": "OK"
+  "OK": "OK",
+  "certificateBtn": "Download attendance confirmation"
 }

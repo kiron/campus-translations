@@ -41,5 +41,6 @@
   "OK": "OK",
   "registerToAllButton": "Registrarse en todos",
   "unregisterFromAllButton": "Darse de baja de todos",
-  "newAppointmentWarning": "Haz clic en '{{btnLabel}}' para inscribirte en todas las citas disponibles."
+  "newAppointmentWarning": "Haz clic en '{{btnLabel}}' para inscribirte en todas las citas disponibles.",
+  "certificateBtn": "Descargar confirmación de asistencia"
 }
