@@ -95,6 +95,7 @@
         "explainText": "Please remember, this action is permanent and cannot be undone. Make sure you're certain before continuing.",
         "success": "Your account is now scheduled for deletion. If you change your mind, you can cancel the request within the next 14 days.",
         "alreadyExists": "A deletion request has already been made.",
-        "error": "Oops! Something went wrong. Please try again later."
+        "error": "Oops! Something went wrong. Please try again later.",
+        "kironHint": "If you have any questions about your data or took part in a blended learning or mentoring program and want your data deleted, please contact us at:"
     }
 }

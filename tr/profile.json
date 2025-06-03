@@ -81,6 +81,7 @@
         "explainText": "Lütfen unutmayın, bu işlem kalıcıdır ve geri alınamaz. Devam etmeden önce emin olduğunuzdan emin olun.",
         "success": "Hesabınız silinmek üzere planlandı. Fikriniz değişirse, bu isteği 14 gün içinde iptal edebilirsiniz.",
         "alreadyExists": "Zaten bir silme talebi yapılmış.",
-        "error": "Hay aksi! Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin."
+        "error": "Hay aksi! Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin.",
+        "kironHint": "Verilerinle ilgili herhangi bir sorunun varsa veya karma öğrenme ya da mentorluk programına katıldıysan ve verilerinin silinmesini istiyorsan, lütfen bizimle iletişime geç:"
     }
 }

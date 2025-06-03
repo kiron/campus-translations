@@ -89,6 +89,7 @@
         "explainText": "Por favor, recuerda que esta acción es permanente y no se puede deshacer. Asegúrate de estar seguro antes de continuar.",
         "success": "Tu cuenta está ahora programada para su eliminación. Si cambias de opinión, puedes cancelar la solicitud dentro de los próximos 14 días.",
         "alreadyExists": "Ya se ha realizado una solicitud de eliminación.",
-        "error": "¡Ups! Algo salió mal. Por favor, inténtalo más tarde."
+        "error": "¡Ups! Algo salió mal. Por favor, inténtalo más tarde.",
+        "kironHint": "Si tienes alguna pregunta sobre tus datos o participaste en un programa de aprendizaje combinado o mentoría y quieres que se eliminen tus datos, por favor contáctanos en:"
     }
 }

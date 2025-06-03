@@ -89,6 +89,7 @@
         "explainText": "Bitte denk daran: Diese Aktion ist endgültig und kann nicht rückgängig gemacht werden. Sei dir sicher, bevor du fortfährst.",
         "success": "Dein Konto ist nun zur Löschung vorgesehen. Wenn du es dir anders überlegst, kannst du die Anfrage innerhalb von 14 Tagen stornieren.",
         "alreadyExists": "Es wurde bereits eine Löschanfrage gestellt.",
-        "error": "Ups! Etwas ist schiefgelaufen. Bitte versuch es später nochmal."
+        "error": "Ups! Etwas ist schiefgelaufen. Bitte versuch es später nochmal.",
+        "kironHint": "Wenn du Fragen zu deinen Daten hast oder an einem Blended-Learning- oder Mentoring-Programm teilgenommen hast und möchtest, dass deine Daten gelöscht werden, dann schreib uns gerne an:"
     }
 }
