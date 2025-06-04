@@ -313,7 +313,9 @@
       "delete": "Delete",
       "cancel": "Cancel",
       "confirmDeleteMessage": "Are you sure you want to delete your message? Please note all replies will be deleted as well.",
-      "confirmDeleteReply": "Are you sure you want to delete your reply?"
+      "confirmDeleteReply": "Are you sure you want to delete your reply?",
+      "replyPlaceholder": "Reply in the thread...",
+      "newMessagePlaceholder": "Send a new message..."
     },
     "verification": {
       "failed": "Verification failed - Try again",
