@@ -338,7 +338,9 @@
       "confirmDeleteMessage": "Bist du dir sicher, dass du diese Nachricht löschen willst? Achtung, alle Antworten zu dieser Nachricht werden auch gelöscht.",
       "chatHeading": "Chat",
       "loading": "Absenden",
-      "inputFieldPlaceholder": "Nachricht"
+      "inputFieldPlaceholder": "Nachricht",
+      "replyPlaceholder": "Im Thread antworten...",
+      "newMessagePlaceholder": "Neue Nachricht senden..."
     },
     "verification": {
       "failed": "Verifizierung fehlgeschlagen - Versuche es noch einmal",
