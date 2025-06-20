@@ -36,7 +36,8 @@
       "emailSentDescription02": "Sana hesabını etkinleştirmen için bir bağlantı gönderdik.",
       "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
       "termsLink": "Veri politikası",
-      "errorCreateFail": "Hesap oluşturulamadı"
+      "errorCreateFail": "Hesap oluşturulamadı",
+      "errorWrongUrl": "Yanlış URL"
     },
     "registerConfirmed": {
       "title": "Neredeyse Bitti!",

@@ -36,7 +36,8 @@
       "emailSentDescription02": "موږ تاسو ته ستاسو د حساب فعالولو لپاره لینک لیږلی.",
       "termsText": "په دوام سره ، تاسو زموږ سره موافق یاست",
       "termsLink": "د محرمیت پالیسي/د خدمت شرایط",
-      "errorCreateFail": "د حساب جوړولو ناکامي"
+      "errorCreateFail": "د حساب جوړولو ناکامي",
+      "errorWrongUrl": "ناسم URL"
     },
     "registerConfirmed": {
       "title": "تقریبا سرته رسیدلی!",

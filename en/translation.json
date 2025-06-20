@@ -37,7 +37,8 @@
       "emailSentDescription02": "We sent you a link to activate your account.",
       "termsText": "By continuing, you agree to our",
       "termsLink": "Data Policy",
-      "errorCreateFail": "Account creation failed"
+      "errorCreateFail": "Account creation failed",
+      "errorWrongUrl": "Wrong URL"
     },
     "registerConfirmed": {
       "title": "Almost done!",

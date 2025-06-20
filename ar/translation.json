@@ -512,7 +512,8 @@
       "buttonRegister": "سجّّل",
       "labelPassword": "كلمة المرور",
       "labelEmail": "ايميل",
-      "errorCreateFail": "فشل إنشاء الحساب"
+      "errorCreateFail": "فشل إنشاء الحساب",
+      "errorWrongUrl": "رابط غير صحيح"
     },
     "initial": {
       "or": "أو",

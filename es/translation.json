@@ -36,7 +36,8 @@
       "emailSentDescription02": "Le hemos enviado un email para activar su cuenta.",
       "termsText": "Al continuar acepta nuestros",
       "termsLink": "Política de datos",
-      "errorCreateFail": "Error al crear la cuenta"
+      "errorCreateFail": "Error al crear la cuenta",
+      "errorWrongUrl": "URL incorrecta"
     },
     "registerConfirmed": {
       "title": "¡Casi ha terminado!",
