@@ -82,7 +82,9 @@
     "cookies": {
       "title": "Configuración de Cookies",
       "description": "Gestiona tus preferencias de cookies y la configuración de consentimiento para el seguimiento web.",
-      "manage": "Mostrar configuración de cookies"
+      "manage": "Mostrar configuración de cookies",
+      "video": "Si tu video no se carga, por favor revisa la configuración de cookies.",
+      "openSettings": "Abrir configuración de cookies"
     }
   },
   "pageTitle": "Tus preferencias",

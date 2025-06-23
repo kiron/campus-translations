@@ -82,7 +82,9 @@
     "cookies": {
       "title": "Çerez Ayarları",
       "description": "Çerez tercihlerinizi ve web izleme izin ayarlarınızı yönetin.",
-      "manage": "Çerez ayarlarını göster"
+      "manage": "Çerez ayarlarını göster",
+      "video": "Videonuz yüklenmiyorsa, lütfen çerez ayarlarınızı kontrol edin.",
+      "openSettings": "Çerez Ayarlarını Aç"
     }
   },
   "pageTitle": "Tercihlerin",

@@ -70,7 +70,9 @@
     "cookies": {
       "title": "Cookie Settings",
       "description": "Manage your cookie preferences and analytics consent settings.",
-      "manage": "Show cookie settings"
+      "manage": "Show cookie settings",
+      "video": "If your video is not loading, please check your cookie settings.",
+      "openSettings": "Open Cookie Settings"
     }
   },
   "pageTitle": "Your Preferences",
