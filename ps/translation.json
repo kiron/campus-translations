@@ -359,6 +359,9 @@
     "week": "اونۍ",
     "weeks": "اونۍ"
   },
+  "course": {
+    "backAndSave": "شاته او پرمختګ خوندي کړئ"
+  },
   "moreBtn": "نور وګوره",
   "seeLessBtn": "لږ وګورئ",
   "lessBtn": "سقوط",

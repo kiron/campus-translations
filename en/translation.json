@@ -487,7 +487,8 @@
     "badges": "Badges",
     "platform": "Platform",
     "participantsTitle": "Participants",
-    "relatedTopics": "Related topics"
+    "relatedTopics": "Related topics",
+    "backAndSave": "Back & Save progress"
   },
   "errors": {
     "lostCourse": "This course is lost",

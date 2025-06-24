@@ -478,7 +478,8 @@
     "contains": "يحتوي",
     "isLocked": "هذه الدورة مقفلة",
     "lockedMessage": "عليك إكمال <1>الوحدة:{{}}<1> لفتح هذه الدورة",
-    "badges": "الشارات"
+    "badges": "الشارات",
+    "backAndSave": "العودة وحفظ التقدم"
   },
   "register": {
     "registerConfirmed": {

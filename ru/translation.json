@@ -466,7 +466,8 @@
     "lessonCount_1": "урокa",
     "lessonCount_2": "уроков",
     "isLocked": "This course is locked",
-    "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course"
+    "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course",
+    "backAndSave": "Назад и сохранить прогресс"
   },
   "category": "Категория",
   "moreBtn": "Смотреть подробнее",

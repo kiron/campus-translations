@@ -513,7 +513,8 @@
     "badges": "Badge",
     "platform": "Plattform",
     "participantsTitle": "Teilnehmende",
-    "relatedTopics": "Verwandte Themen"
+    "relatedTopics": "Verwandte Themen",
+    "backAndSave": "Zurück & Fortschritt speichern"
   },
   "errors": {
     "lostCourse": "Dieser Kurs ist verschwunden",

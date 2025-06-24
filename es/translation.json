@@ -507,7 +507,8 @@
     "lockedMessage": "Tienes que completar  <1>Unit: {{0}}</1>  para desboquear este curso",
     "badges": "Insignias",
     "platform": "Portal web",
-    "participantsTitle": "Participantes"
+    "participantsTitle": "Participantes",
+    "backAndSave": "Volver y guardar progreso"
   },
   "errors": {
     "lostPageDesc": "No podemos encontrar lo que buscas.",

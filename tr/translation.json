@@ -379,7 +379,9 @@
   },
   "course": {
     "documentsIneligible": "Bu kurs/program yalnızca doğrulanmış öğrenicilere açıktır.",
-    "moreInfo": "Daha fazla bilgi"
+    "moreInfo": "Daha fazla bilgi",
+    "badges": "Rozetler",
+    "backAndSave": "Geri Dön & İlerlemeyi Kaydet"
   },
   "errors": {
     "lostCourse": "Bu kurs kayıp",
@@ -476,9 +478,6 @@
     "addCert": "Bir sertifika ekle",
     "completedPrograms": "Tamamladığınız programlar",
     "completedCourses": "Tamamladığınız kurslar"
-  },
-  "course": {
-    "badges": "Rozetler"
   },
   "accessibility": {
     "comingSoonSubHeader": "Bu sayfa üzerinde çalışmaya devam ediyoruz. Sabrınız için teşekkür ederiz!",
