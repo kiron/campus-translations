@@ -73,7 +73,7 @@
     "goToDocumentUploadHelp": "Learn more about document admission",
     "goToDocumentTypeHelp": "Learn more about the valid document types",
     "readPrivacyPolicy": "Read our Privacy policy",
-    "readDataPolicy": "Read our Data policy",
+    "readDataPolicy": "Read our Privacy policy",
     "deleteAttachment": "Delete file",
     "downloadAttachment": "Download file",
     "goBack": "Go to previous page",
@@ -96,7 +96,7 @@
     "carouselDotButton": "Go to slide",
     "modulesRegion": "Recommened courses",
     "footerRegion": "Join us",
-    "howToRegion": "How does it work?", 
+    "howToRegion": "How does it work?",
     "whyJoinRegion": "Why join us?",
     "introRegion": "Campus Introduction"
   },
