@@ -9,7 +9,7 @@
       "alreadyUserTitle": "Already a user?",
       "alreadyUserLink": "Login",
       "or": "or",
-      "termsTextKdls": "Our <0>Terms and Conditions</0> and <1>Terms of Use</1> apply."
+      "termsTextKdls": "Our <1>Terms of Use</1> apply."
     },
     "registerWithEmail": {
       "labelEmail": "Email",
