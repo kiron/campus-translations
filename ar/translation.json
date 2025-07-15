@@ -488,8 +488,8 @@
       "title": "يكاد ينتهي!"
     },
     "registerWithEmail": {
-      "termsLink": "سياسة حماية البيانات",
-      "termsText": "بالمتابعة، فإنك توافق على",
+      "termsLink": "سياسة الخصوصية الخاصة بنا",
+      "termsText": "تتم معالجة البيانات وفقاً لـ",
       "emailSentDescription02": "لقد أرسلنا لك رابطًا لتفعيل حسابك.",
       "emailSentDescription01": "تحقق من بريدك الالكتروني.",
       "emailSentTitle": "يكاد ينتهي!",
@@ -520,8 +520,8 @@
       "or": "أو",
       "alreadyUserLink": "تسجيل دخول",
       "alreadyUserTitle": "هل انت مسجّّل؟",
-      "termsLink": "سياسة حماية البيانات",
-      "termsText": "بمتابعتك, انت توافق على",
+      "termsLink": "سياسة الخصوصية الخاصة بنا",
+      "termsText": "تتم معالجة البيانات وفقاً لـ",
       "emailButton": "سجّّل بالايميل"
     },
     "registerHeadline": "سجّّل",

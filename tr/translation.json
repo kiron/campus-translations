@@ -4,8 +4,8 @@
     "registerHeadline": "Kayıt ol",
     "initial": {
       "emailButton": "Eposta ile kayıt ol",
-      "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
-      "termsLink": "Veri politikası",
+      "termsText": "Veriler bizim",
+      "termsLink": "Gizlilik Politikamız uyarınca işlenir.",
       "alreadyUserTitle": "Zaten Kullanıcı mısın?",
       "alreadyUserLink": "Oturum aç",
       "or": "or"
@@ -34,8 +34,8 @@
       "emailSentTitle": "Neredeyse Bitti!",
       "emailSentDescription01": "Epostanı Adresini Kontrol Et.",
       "emailSentDescription02": "Sana hesabını etkinleştirmen için bir bağlantı gönderdik.",
-      "termsText": "Devam ederek Gizlilik Politikamızı/Hizmet Kullanım Şartlarımıyı kabul ediyorsun",
-      "termsLink": "Veri politikası",
+      "termsText": "Veriler bizim",
+      "termsLink": "Gizlilik Politikamız uyarınca işlenir.",
       "errorCreateFail": "Hesap oluşturulamadı",
       "errorWrongUrl": "Yanlış URL"
     },

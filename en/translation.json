@@ -4,8 +4,8 @@
     "registerHeadline": "Register",
     "initial": {
       "emailButton": "Register with email",
-      "termsText": "By continuing, you agree to our",
-      "termsLink": "Data Policy",
+      "termsText": "Data is processed in accordance with our",
+      "termsLink": "Privacy Policy.",
       "alreadyUserTitle": "Already a user?",
       "alreadyUserLink": "Login",
       "or": "or",
@@ -35,8 +35,8 @@
       "emailSentTitle": "Almost done!",
       "emailSentDescription01": "Check your email.",
       "emailSentDescription02": "We sent you a link to activate your account.",
-      "termsText": "By continuing, you agree to our",
-      "termsLink": "Data Policy",
+      "termsText": "Data is processed in accordance with our",
+      "termsLink": "Privacy Policy.",
       "errorCreateFail": "Account creation failed",
       "errorWrongUrl": "Wrong URL"
     },

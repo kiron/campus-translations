@@ -4,8 +4,8 @@
     "registerHeadline": "Registro",
     "initial": {
       "emailButton": "Registrarse con email",
-      "termsText": "Al continuar acepta nuestros",
-      "termsLink": "Política de Privacidad/Términos de utilización",
+      "termsText": "Los datos se procesan de acuerdo con nuestra",
+      "termsLink": "Política de Privacidad.",
       "alreadyUserTitle": "¿Ya es usuario?",
       "alreadyUserLink": "Entrar",
       "or": "o"
@@ -34,8 +34,8 @@
       "emailSentTitle": "¡Casi ha terminado!",
       "emailSentDescription01": "Mire su email.",
       "emailSentDescription02": "Le hemos enviado un email para activar su cuenta.",
-      "termsText": "Al continuar acepta nuestros",
-      "termsLink": "Política de datos",
+      "termsText": "Los datos se procesan de acuerdo con nuestra",
+      "termsLink": "Política de Privacidad.",
       "errorCreateFail": "Error al crear la cuenta",
       "errorWrongUrl": "URL incorrecta"
     },

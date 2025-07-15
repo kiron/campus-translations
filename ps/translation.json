@@ -4,8 +4,8 @@
     "registerHeadline": "نوم لیکنه",
     "initial": {
       "emailButton": "د بریښنالیک سره راجستر کړئ",
-      "termsText": "په دوام سره ، تاسو زموږ سره موافق یاست",
-      "termsLink": "د محرمیت پالیسي/د خدمت شرایط",
+      "termsText": "ډیټا د موږ د",
+      "termsLink": "د محرمیت پالیسۍ سره سم پروسس کیږي",
       "alreadyUserTitle": "دمخه یو کارونکی؟",
       "alreadyUserLink": "د ننه کیدل",
       "or": "یا"
@@ -34,8 +34,8 @@
       "emailSentTitle": "تقریبا سرته رسیدلی!",
       "emailSentDescription01": "خپل بریښنالیک چیک کړئ.",
       "emailSentDescription02": "موږ تاسو ته ستاسو د حساب فعالولو لپاره لینک لیږلی.",
-      "termsText": "په دوام سره ، تاسو زموږ سره موافق یاست",
-      "termsLink": "د محرمیت پالیسي/د خدمت شرایط",
+      "termsText": "ډیټا د موږ د",
+      "termsLink": "د محرمیت پالیسۍ سره سم پروسس کیږي",
       "errorCreateFail": "د حساب جوړولو ناکامي",
       "errorWrongUrl": "ناسم URL"
     },
