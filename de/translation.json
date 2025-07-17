@@ -618,7 +618,8 @@
   "successPage": {
     "completedPrograms": "Deine abgeschlossenen Programme",
     "addCert": "Zertifikat hinzufügen",
-    "completedCourses": "Deine abgeschlossenen Kurse"
+    "completedCourses": "Deine abgeschlossenen Kurse",
+    "learningMilestones": "Auszeichnungen"
   },
   "accessibility": {
     "comingSoonSubHeader": "Wir arbeiten zur Zeit noch an dieser Seite. Vielen Dank für Deine Geduld!",

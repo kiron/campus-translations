@@ -593,7 +593,8 @@
   "successPage": {
     "addCert": "Add certificate",
     "completedPrograms": "Your completed programs",
-    "completedCourses": "Your completed courses"
+    "completedCourses": "Your completed courses",
+    "learningMilestones": "Learning Milestones"
   },
   "accessibility": {
     "comingSoonHeader": "Coming soon!",
