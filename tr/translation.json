@@ -381,7 +381,8 @@
     "documentsIneligible": "Bu kurs/program yalnızca doğrulanmış öğrenicilere açıktır.",
     "moreInfo": "Daha fazla bilgi",
     "badges": "Rozetler",
-    "backAndSave": "Geri Dön & İlerlemeyi Kaydet"
+    "backAndSave": "Geri Dön & İlerlemeyi Kaydet",
+    "infoRating": "Lütfen kursu bitirdikten sonra puanlayın — puanınızı daha sonra her zaman düzenleyebilirsiniz."
   },
   "errors": {
     "lostCourse": "Bu kurs kayıp",
