@@ -475,7 +475,7 @@
     "lessonCount_plural": "lecciones",
     "averageRating": "Valoración media de otros estudiantes:",
     "editRating": "Edita tu valoración",
-    "infoRating": "Por favor, califica el curso después de terminarlo. Puedes editar tu calificación en cualquier momento.",
+    "infoRating": "Por favor, califica después de terminar — puedes editar tu calificación en cualquier momento.",
     "rating": "{{0}} valoración",
     "rating_plural": "{{0}} valoraciones",
     "hour": "{{0}} hora",
