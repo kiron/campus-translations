@@ -37,5 +37,6 @@
   "registerToAllButton": "التسجيل في الكل",
   "unregisterFromAllButton": "إلغاء التسجيل من الكل",
   "newAppointmentWarning": "اضغط على '{{btnLabel}}' للتسجيل في جميع المواعيد المتاحة.",
-  "certificateBtn": "تحميل تأكيد الحضور"
+  "certificateBtn": "تحميل تأكيد الحضور",
+  "joinInfoCTA": "يتم فتح الوصول إلى الاجتماع قبل 15 دقيقة ويُغلق بعد 10 دقائق من وقت البدء."
 }

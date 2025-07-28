@@ -66,6 +66,7 @@
                 "absent": "Mark all as Absent"
             }
         },
-        "noParticipants": "No participants yet in this appointment."
+        "noParticipants": "No participants yet in this appointment.",
+        "manageParticipations": "Manage participations"
     }
 }

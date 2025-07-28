@@ -37,5 +37,6 @@
   "registerToAllButton": "Tümüne kaydol",
   "unregisterFromAllButton": "Tümünden çıkış yap",
   "newAppointmentWarning": "Tüm müsait randevulara katılmak için '{{btnLabel}}' üzerine tıklayın.",
-  "certificateBtn": "Katılım onayını indir"
+  "certificateBtn": "Katılım onayını indir",
+  "joinInfoCTA": "Toplantı erişimi 15 dakika önce açılır ve başlangıç saatinden 10 dakika sonra kapanır."
 }

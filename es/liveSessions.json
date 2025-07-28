@@ -66,6 +66,7 @@
             "absent": "Marcar todos como ausentes"
             }
         },
-        "noParticipants": "Aún no hay participantes en esta cita."
+        "noParticipants": "Aún no hay participantes en esta cita.",
+        "manageParticipations": "Gestionar participaciones"
     }
 }

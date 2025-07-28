@@ -66,6 +66,7 @@
                 "absent": "Alle als abwesend markieren"
             }
         },
-        "noParticipants": "Noch keine Teilnehmer in diesem Termin."
+        "noParticipants": "Noch keine Teilnehmer in diesem Termin.",
+        "manageParticipations": "Teilnahmen verwalten"
     }
 }

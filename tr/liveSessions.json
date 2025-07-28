@@ -65,6 +65,7 @@
         "absent": "Tümünü 'Yok' olarak işaretle"
       }
     },
-    "noParticipants": "Bu randevuda henüz katılımcı yok."
+    "noParticipants": "Bu randevuda henüz katılımcı yok.",
+    "manageParticipations": "Katılımları yönet"
   }
 }

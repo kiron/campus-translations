@@ -41,5 +41,6 @@
   "successfullyUnregistered": "You have successfully unenrolled.",
   "youAreRegistered": "Registered",
   "OK": "OK",
-  "certificateBtn": "Download attendance confirmation"
+  "certificateBtn": "Download attendance confirmation",
+  "joinInfoCTA": "Meeting access opens 15 minutes early and closes 10 minutes after start time."
 }
