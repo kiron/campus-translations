@@ -64,8 +64,8 @@
             "all": {
             "present": "Marcar todos como presentes",
             "absent": "Marcar todos como ausentes"
-            },
-            "noParticipants": "Aún no hay participantes en esta cita."
-        }
+            }
+        },
+        "noParticipants": "Aún no hay participantes en esta cita."
     }
 }

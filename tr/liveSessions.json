@@ -63,8 +63,8 @@
       "all": {
         "present": "Tümünü 'Var' olarak işaretle",
         "absent": "Tümünü 'Yok' olarak işaretle"
-      },
-      "noParticipants": "Bu randevuda henüz katılımcı yok."
-    }
+      }
+    },
+    "noParticipants": "Bu randevuda henüz katılımcı yok."
   }
 }
