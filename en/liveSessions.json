@@ -55,6 +55,7 @@
         "presentBtn": "Present",
         "absentBtn": "Absent",
         "back": "Back to all appointments",
+        "backBtn": "Go Back",
         "bulkMark": {
             "selected": {
                 "present": "Mark selected as Present",
@@ -63,7 +64,8 @@
             "all": {
                 "present": "Mark all as Present",
                 "absent": "Mark all as Absent"
-            }
+            },
+            "noParticipants": "No participants yet in this appointment."
         }
     }
 }

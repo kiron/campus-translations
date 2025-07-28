@@ -55,6 +55,7 @@
         "presentBtn": "Anwesend",
         "absentBtn": "Abwesend",
         "back": "Zurück zu allen Terminen",
+        "backBtn": "Zurückgehen",
         "bulkMark": {
             "selected": {
                 "present": "Ausgewählte als anwesend markieren",
@@ -63,7 +64,8 @@
             "all": {
                 "present": "Alle als anwesend markieren",
                 "absent": "Alle als abwesend markieren"
-            }
+            },
+            "noParticipants": "Noch keine Teilnehmer in diesem Termin."
         }
     }
 }

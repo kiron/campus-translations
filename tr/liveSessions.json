@@ -54,6 +54,7 @@
     "presentBtn": "Var",
     "absentBtn": "Yok",
     "back": "Tüm randevulara geri dön",
+    "backBtn": "Geri Dön",
     "bulkMark": {
       "selected": {
         "present": "Seçilenleri 'Var' olarak işaretle",
@@ -62,7 +63,8 @@
       "all": {
         "present": "Tümünü 'Var' olarak işaretle",
         "absent": "Tümünü 'Yok' olarak işaretle"
-      }
+      },
+      "noParticipants": "Bu randevuda henüz katılımcı yok."
     }
   }
 }

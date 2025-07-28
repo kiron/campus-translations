@@ -55,6 +55,7 @@
         "presentBtn": "Presente",
         "absentBtn": "Ausente",
         "back": "Volver a todas las citas",
+        "backBtn": "Regresar",
         "bulkMark": {
             "selected": {
             "present": "Marcar seleccionados como presentes",
@@ -63,7 +64,8 @@
             "all": {
             "present": "Marcar todos como presentes",
             "absent": "Marcar todos como ausentes"
-            }
+            },
+            "noParticipants": "Aún no hay participantes en esta cita."
         }
     }
 }
