@@ -34,5 +34,36 @@
         "type": "Veranstaltung",
         "endsAt": "Endet um",
         "eventOver": "Die Veranstaltung ist vorbei"
+    },
+    "manageTable": {
+        "name": "Name",
+        "start": "Start",
+        "end": "Ende",
+        "status": "Status",
+        "attendance": "Anwesenheit",
+        "labels": "Labels"
+      },
+    "manageEvent": {
+        "preheading": "Veranstaltung verwalten",
+        "past": "Vergangenheit",
+        "future": "Zukunft",
+        "present": "Heute",
+        "back": "Zurück zur Veranstaltung"
+    },
+    "manageAttendance": {
+        "preheading": "Teilnahme an Terminen verwalten",
+        "presentBtn": "Anwesend",
+        "absentBtn": "Abwesend",
+        "back": "Zurück zu allen Terminen",
+        "bulkMark": {
+            "selected": {
+                "present": "Ausgewählte als anwesend markieren",
+                "absent": "Ausgewählte als abwesend markieren"
+            },
+            "all": {
+                "present": "Alle als anwesend markieren",
+                "absent": "Alle als abwesend markieren"
+            }
+        }
     }
 }

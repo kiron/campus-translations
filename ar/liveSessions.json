@@ -33,5 +33,36 @@
         "type": "فعالية",
         "endsAt": "ينتهي في الساعة",
         "eventOver": "انتهت الفعالية"
+    },
+    "manageTable": {
+      "name": "الاسم",
+      "start": "البدء",
+      "end": "النهاية",
+      "status": "الحالة",
+      "attendance": "الحضور",
+      "labels": "العلامات"
+  },
+  "manageEvent": {
+    "preheading": "إدارة الحدث",
+    "past": "الماضي",
+    "future": "المستقبل",
+    "present": "يحدث اليوم",
+    "back": "العودة إلى الحدث"
+  },
+  "manageAttendance": {
+    "preheading": "إدارة حضور الموعد",
+    "presentBtn": "حاضر",
+    "absentBtn": "غائب",
+    "back": "العودة إلى جميع المواعيد",
+    "bulkMark": {
+      "selected": {
+        "present": "تحديد المحددين كحاضرين",
+        "absent": "تحديد المحددين كغائبين"
+      },
+      "all": {
+        "present": "تحديد الجميع كحاضرين",
+        "absent": "تحديد الجميع كغائبين"
+      }
     }
+  }
 }

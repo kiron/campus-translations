@@ -33,5 +33,36 @@
     "online": "Online",
     "type": "Event",
     "endsAt": "Ends at"
+  },
+  "manageTable": {
+    "name": "نام",
+    "start": "شروع",
+    "end": "پایان",
+    "status": "وضعیت",
+    "attendance": "حضور",
+    "labels": "برچسب‌ها"
+  },
+  "manageEvent": {
+    "preheading": "مدیریت رویداد",
+    "past": "گذشته",
+    "future": "آینده",
+    "present": "امروز در حال انجام",
+    "back": "بازگشت به رویداد"
+  },
+  "manageAttendance": {
+    "preheading": "مدیریت حضور در قرار",
+    "presentBtn": "حاضر",
+    "absentBtn": "غایب",
+    "back": "بازگشت به همه قرارها",
+    "bulkMark": {
+      "selected": {
+        "present": "علامت‌گذاری انتخاب‌شده‌ها به عنوان حاضر",
+        "absent": "علامت‌گذاری انتخاب‌شده‌ها به عنوان غایب"
+      },
+      "all": {
+        "present": "علامت‌گذاری همه به عنوان حاضر",
+        "absent": "علامت‌گذاری همه به عنوان غایب"
+      }
+    }
   }
 }

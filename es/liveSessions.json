@@ -34,5 +34,36 @@
         "type": "Evento",
         "endsAt": "Termina a las",
         "eventOver": "El evento ha terminado"
+    },
+    "manageTable": {
+        "name": "Nombre",
+        "start": "Inicio",
+        "end": "Fin",
+        "status": "Estado",
+        "attendance": "Asistencia",
+        "labels": "Etiquetas"
+      },
+    "manageEvent": {
+        "preheading": "Gestionar evento",
+        "past": "Pasado",
+        "future": "Futuro",
+        "present": "Hoy",
+        "back": "Volver al evento"
+    },
+    "manageAttendance": {
+        "preheading": "Gestionar asistencia a la cita",
+        "presentBtn": "Presente",
+        "absentBtn": "Ausente",
+        "back": "Volver a todas las citas",
+        "bulkMark": {
+            "selected": {
+            "present": "Marcar seleccionados como presentes",
+            "absent": "Marcar seleccionados como ausentes"
+            },
+            "all": {
+            "present": "Marcar todos como presentes",
+            "absent": "Marcar todos como ausentes"
+            }
+        }
     }
 }

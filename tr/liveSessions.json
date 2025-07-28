@@ -33,5 +33,36 @@
     "online": "Çevrimiçi",
     "type": "Etkinlik",
     "endsAt": "Endet um"
+  },
+  "manageTable": {
+    "name": "İsim",
+    "start": "Başlangıç",
+    "end": "Bitiş",
+    "status": "Durum",
+    "attendance": "Katılım",
+    "labels": "Etiketler"
+  },
+  "manageEvent": {
+    "preheading": "Etkinliği Yönet",
+    "past": "Geçmiş",
+    "future": "Gelecek",
+    "present": "Bugün gerçekleşiyor",
+    "back": "Etkinliğe geri dön"
+  },
+  "manageAttendance": {
+    "preheading": "Randevu katılımını yönet",
+    "presentBtn": "Var",
+    "absentBtn": "Yok",
+    "back": "Tüm randevulara geri dön",
+    "bulkMark": {
+      "selected": {
+        "present": "Seçilenleri 'Var' olarak işaretle",
+        "absent": "Seçilenleri 'Yok' olarak işaretle"
+      },
+      "all": {
+        "present": "Tümünü 'Var' olarak işaretle",
+        "absent": "Tümünü 'Yok' olarak işaretle"
+      }
+    }
   }
 }

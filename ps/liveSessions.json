@@ -33,5 +33,36 @@
     "online": "Online",
     "type": "Event",
     "endsAt": "Ends at"
+  },
+  "manageTable": {
+    "name": "نوم",
+    "start": "پیل",
+    "end": "پای",
+    "status": "وضعیت",
+    "attendance": "حاضري",
+    "labels": "لیبلونه"
+  },
+  "manageEvent": {
+    "preheading": "پیښه مدیریت کړئ",
+    "past": "تېر",
+    "future": "راتلونکی",
+    "present": "نن ورځ روانه ده",
+    "back": "بیرته پیښې ته"
+  },
+  "manageAttendance": {
+    "preheading": "د حاضرۍ مدیریت",
+    "presentBtn": "حاضر",
+    "absentBtn": "ناحاضر",
+    "back": "بیرته ټولو ملاقاتونو ته",
+    "bulkMark": {
+      "selected": {
+        "present": "ټاکل شوي حاضر وټاکئ",
+        "absent": "ټاکل شوي ناحاضر وټاکئ"
+      },
+      "all": {
+        "present": "ټول حاضر وټاکئ",
+        "absent": "ټول ناحاضر وټاکئ"
+      }
+    }
   }
 }

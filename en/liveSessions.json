@@ -34,5 +34,36 @@
         "type": "Event",
         "endsAt": "Ends at",
         "eventOver": "Event is over"
+    },
+    "manageTable": {
+        "name": "Name",
+        "start": "Start",
+        "end": "End",
+        "status": "Status",
+        "attendance": "Attendance",
+        "labels": "Labels"
+    },
+    "manageEvent": {
+        "preheading": "Manage Event",
+        "past": "Past",
+        "future": "Future",
+        "present": "Happening today",
+        "back": "Back to event"
+    },
+    "manageAttendance": {
+        "preheading": "Manage appointment attendance",
+        "presentBtn": "Present",
+        "absentBtn": "Absent",
+        "back": "Back to all appointments",
+        "bulkMark": {
+            "selected": {
+                "present": "Mark selected as Present",
+                "absent": "Mark selected as Absent"
+            },
+            "all": {
+                "present": "Mark all as Present",
+                "absent": "Mark all as Absent"
+            }
+        }
     }
 }
