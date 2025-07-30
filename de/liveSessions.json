@@ -45,8 +45,8 @@
       },
     "manageEvent": {
         "preheading": "Veranstaltung verwalten",
-        "past": "Vergangenheit",
-        "future": "Zukunft",
+        "past": "Vergangen",
+        "future": "Anstehend",
         "present": "Heute",
         "back": "Zurück zur Veranstaltung",
         "description1": "Sieh dir unten alle Termine an.",
