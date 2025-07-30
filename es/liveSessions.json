@@ -48,7 +48,10 @@
         "past": "Pasado",
         "future": "Futuro",
         "present": "Hoy",
-        "back": "Volver al evento"
+        "back": "Volver al evento",
+        "description1": "Explora todas las citas a continuación.",
+        "description2": "Haz clic en cualquier fila para ver la lista completa de participantes.",
+        "description3": "Puedes marcar a los asistentes como Presentes o Ausentes individualmente, o marcar rápidamente a todos como Presentes."
     },
     "manageAttendance": {
         "preheading": "Gestionar asistencia a la cita",

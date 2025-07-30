@@ -48,7 +48,10 @@
         "past": "Vergangenheit",
         "future": "Zukunft",
         "present": "Heute",
-        "back": "Zurück zur Veranstaltung"
+        "back": "Zurück zur Veranstaltung",
+        "description1": "Sieh dir unten alle Termine an.",
+        "description2": "Klicke auf eine beliebige Zeile, um die vollständige Teilnehmerliste anzuzeigen.",
+        "description3": "Du kannst Teilnehmer einzeln als Anwesend oder Abwesend markieren oder alle schnell als Anwesend markieren."
     },
     "manageAttendance": {
         "preheading": "Teilnahme an Terminen verwalten",

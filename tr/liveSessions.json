@@ -47,7 +47,10 @@
     "past": "Geçmiş",
     "future": "Gelecek",
     "present": "Bugün gerçekleşiyor",
-    "back": "Etkinliğe geri dön"
+    "back": "Etkinliğe geri dön",
+    "description1": "Aşağıdaki tüm randevuları inceleyin.",
+    "description2": "Katılımcıların tam listesini görüntülemek için herhangi bir satıra tıklayın.",
+    "description3": "Katılımcıları tek tek Hazır veya Yok olarak işaretleyebilir veya hepsini hızlıca Hazır olarak işaretleyebilirsiniz."
   },
   "manageAttendance": {
     "preheading": "Randevu katılımını yönet",

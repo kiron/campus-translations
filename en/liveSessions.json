@@ -67,6 +67,9 @@
             }
         },
         "noParticipants": "No participants yet in this appointment.",
-        "manageParticipations": "Manage participations"
+        "manageParticipations": "Manage participations",
+        "description1": "Browse all the appointments below.",
+        "description2": "Click on any row to view the full list of participants.",
+        "description3": "You can mark attendees as Present or Absent individually, or quickly mark all as Present."
     }
 }
