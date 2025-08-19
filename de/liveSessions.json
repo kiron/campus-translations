@@ -71,5 +71,9 @@
         },
         "noParticipants": "Noch keine Teilnehmer in diesem Termin.",
         "manageParticipations": "Teilnahmen verwalten"
+    },
+    "tutorEvents": {
+        "title": "Verwalte Deine Veranstaltungen",
+        "subtitle": "Behalte den Überblick über deine Termine und erfasse die Anwesenheit der Teilnehmenden"
     }
 }

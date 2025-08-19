@@ -71,5 +71,9 @@
         },
         "noParticipants": "Aún no hay participantes en esta cita.",
         "manageParticipations": "Gestionar participaciones"
+    },
+    "tutorEvents": {
+        "title": "Gestiona tus eventos",
+        "subtitle": "Revisa tus citas y haz un seguimiento de la asistencia como facilitador de aprendizaje"
     }
 }

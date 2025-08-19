@@ -71,5 +71,9 @@
         },
         "noParticipants": "No participants yet in this appointment.",
         "manageParticipations": "Manage participations"
+    },
+    "tutorEvents": {
+        "title": "Manage your events",
+        "subtitle": "View your appointments and track attendance as a learning facilitator"
     }
 }
