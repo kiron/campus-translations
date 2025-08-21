@@ -32,7 +32,8 @@
   "card": {
     "online": "Çevrimiçi",
     "type": "Etkinlik",
-    "endsAt": "Endet um"
+    "endsAt": "Endet um",
+    "certAvailable": "Katılım onayı mevcut"
   },
   "manageTable": {
     "name": "İsim",

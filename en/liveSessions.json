@@ -33,7 +33,8 @@
         "online": "Online",
         "type": "Event",
         "endsAt": "Ends at",
-        "eventOver": "Event is over"
+        "eventOver": "Event is over",
+        "certAvailable": "Attendance confirmation available"
     },
     "manageTable": {
         "name": "Name",

@@ -33,7 +33,8 @@
         "online": "En línea",
         "type": "Evento",
         "endsAt": "Termina a las",
-        "eventOver": "El evento ha terminado"
+        "eventOver": "El evento ha terminado",
+        "certAvailable": "Confirmación de asistencia disponible"
     },
     "manageTable": {
         "name": "Nombre",

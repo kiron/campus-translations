@@ -32,7 +32,8 @@
   "card": {
     "online": "Online",
     "type": "Event",
-    "endsAt": "Ends at"
+    "endsAt": "Ends at",
+    "certAvailable": "تأیید حضور در دسترس است"
   },
   "manageTable": {
     "name": "نام",

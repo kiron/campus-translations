@@ -32,7 +32,8 @@
         "online": "اونلاين",
         "type": "فعالية",
         "endsAt": "ينتهي في الساعة",
-        "eventOver": "انتهت الفعالية"
+        "eventOver": "انتهت الفعالية",
+        "certAvailable": "تأكيد الحضور متاح"
     },
     "manageTable": {
       "name": "الاسم",

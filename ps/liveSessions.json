@@ -32,7 +32,8 @@
   "card": {
     "online": "Online",
     "type": "Event",
-    "endsAt": "Ends at"
+    "endsAt": "Ends at",
+    "certAvailable": "د ګډون تایید شتون لري"
   },
   "manageTable": {
     "name": "نوم",

@@ -33,7 +33,8 @@
         "online": "Online",
         "type": "Veranstaltung",
         "endsAt": "Endet um",
-        "eventOver": "Die Veranstaltung ist vorbei"
+        "eventOver": "Die Veranstaltung ist vorbei",
+        "certAvailable": "Teilnahmebestätigung verfügbar"
     },
     "manageTable": {
         "name": "Name",
