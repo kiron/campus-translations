@@ -181,7 +181,7 @@
     "certificateFinishText": "Du bist auf dem richtigen Weg! <1/>Schließe alle Lerninhalte ab, um ein Zertifikat zu erhalten.",
     "noCertificateFinishText": "Du bist auf dem Weg! <1/>Mach weiter so!",
     "certificateProgress": "Fortschritt:",
-    "certificateCounter": "Du hast {{0}} von {{1}} Kursen beendet",
+    "certificateCounter": "Du hast {{0}} von {{1}} Einheiten beendet",
     "removeYes": "Ja",
     "removeNo": "Nein",
     "removeTitle": "Vom Programm abmelden",
