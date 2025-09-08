@@ -213,7 +213,12 @@
     "helpReviewCourse": "Помогите другим учащимся, написав отзыв об этом курсе.",
     "btnShareReview": "Поделитесь своим отзывом",
     "evaluateHelp": "Помогите нам улучшить ваш опыт обучения, ответив на несколько вопросов об этом курсе.",
-    "evaluate": "Оценить курс"
+    "evaluate": "Оценить курс",
+    "joinWaitlist": "Встать в лист ожидания",
+    "programClosed": "Эта программа закрыта",
+    "programStartsOn": "Программа начнется: {{startTime}}",
+    "joinRequestSent": "Ваш запрос на присоединение отправлен инструктору программы",
+    "joinRequestRejected": "Ваш запрос на присоединение отклонен"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Следующий"

@@ -210,7 +210,12 @@
     "feedbackLoading": "لوست لوستل",
     "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses",
     "type": "Program",
-    "selfPaced": "Self-paced"
+    "selfPaced": "Self-paced",
+    "joinWaitlist": "د انتظار لیست سره یوځای شه",
+    "programClosed": "دا برنامه بنده ده",
+    "programStartsOn": "به برنامه به دې نیټه پیل کیږي: {{startTime}}",
+    "joinRequestSent": "ستاسو د غړیتوب غوښتنه د برنامه ښوونکي ته لیږل شوې ده",
+    "joinRequestRejected": "ستاسو د غړیتوب غوښتنه رد شوې ده"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

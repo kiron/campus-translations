@@ -198,7 +198,12 @@
     "downloadCertificateBtn": "تحميل الشهادة",
     "sentCertificateDatawalletBtn": "أرسل الشهادة إلى Datawallet الخاصة بك",
     "exploreMoreProgramsBtn": "اكتشف المزيد من البرامج",
-    "completedACourseHeader": "مرحى! لقد أكملت هذا الدورة."
+    "completedACourseHeader": "مرحى! لقد أكملت هذا الدورة.",
+    "joinWaitlist": "انضم إلى قائمة الانتظار",
+    "programClosed": "هذا البرنامج مغلق",
+    "programStartsOn": "سيبدأ البرنامج في: {{startTime}}",
+    "joinRequestSent": "تم إرسال طلب الانضمام الخاص بك إلى مدرب البرنامج",
+    "joinRequestRejected": "تم رفض طلب الانضمام الخاص بك"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "التالي"

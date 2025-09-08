@@ -237,7 +237,12 @@
     "completedAProgramHeader": "Hooray! You have completed this program.",
     "socialShareTextBtn": "I finished {{courseDenomination}}",
     "exploreMoreProgramsBtn": "Explore more learning offers",
-    "completedACourseHeader": "Hooray! You have completed this course."
+    "completedACourseHeader": "Hooray! You have completed this course.",
+    "joinWaitlist": "Join waitlist",
+    "programClosed": "This program is closed",
+    "programStartsOn": "The program will start on: {{startTime}}",
+    "joinRequestSent": "Your join request has been sent to the program instructor",
+    "joinRequestRejected": "Your join request has been rejected"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

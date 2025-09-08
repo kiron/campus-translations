@@ -227,7 +227,12 @@
     "socialShareTextBtn": "{{courseDenomination}} bitirdim",
     "exploreMoreProgramsBtn": "Diğer programlar keşfedin",
     "completedACourseHeader": "Yupi! Bu kursu tamamladınız.",
-    "stayInOldProgram": "Eski programda kal"
+    "stayInOldProgram": "Eski programda kal",
+    "joinWaitlist": "Bekleme listesine katıl",
+    "programClosed": "Bu program kapalı",
+    "programStartsOn": "Program şu tarihte başlayacak: {{startTime}}",
+    "joinRequestSent": "Katılma isteğiniz program eğitmenine gönderildi",
+    "joinRequestRejected": "Katılma isteğiniz reddedildi"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Sonraki"

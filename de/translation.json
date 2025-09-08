@@ -247,7 +247,12 @@
     "syncCourseCompletionDatawalletBtn": "Abgeschlossenen Kurs mit der Ablage (Data Wallet) synchronisieren",
     "socialShareTextBtn": "Ich habe {{courseDenomination}} abgeschlossen",
     "exploreMoreProgramsBtn": "Entdecke weitere Lernangebote",
-    "completedACourseHeader": "Hurra! Du hast diesen Kurs abgeschlossen."
+    "completedACourseHeader": "Hurra! Du hast diesen Kurs abgeschlossen.",
+    "joinWaitlist": "Warteliste beitreten",
+    "programClosed": "Dieses Programm ist geschlossen",
+    "programStartsOn": "Das Programm beginnt am: {{startTime}}",
+    "joinRequestSent": "Ihr Beitrittsantrag wurde an den Programminstructor gesendet",
+    "joinRequestRejected": "Ihr Beitrittsantrag wurde abgelehnt"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Weiter"

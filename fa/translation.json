@@ -210,7 +210,12 @@
     "feedbackLoading": "در حال بارگیری درس",
     "enrollCourseLimitText": "Sorry, you can enroll in up to {{0}} courses",
     "type": "Program",
-    "selfPaced": "Self-paced"
+    "selfPaced": "Self-paced",
+    "joinWaitlist": "به لیست انتظار بپیوندید",
+    "programClosed": "این برنامه بسته است",
+    "programStartsOn": "برنامه در تاریخ شروع می شود: {{startTime}}",
+    "joinRequestSent": "درخواست پیوستن شما برای مربی برنامه ارسال شده است",
+    "joinRequestRejected": "درخواست پیوستن شما رد شده است"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"
