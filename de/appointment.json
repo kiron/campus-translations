@@ -42,5 +42,5 @@
   "unregisterFromAllButton": "Alle abmelden",
   "newAppointmentWarning": "Klicke auf '{{btnLabel}}', um dich für alle verfügbaren Terminen anzumelden.",
   "certificateBtn": "Teilnahmebestätigung herunterladen",
-  "joinInfoCTA": "Der Zugang zum Meeting öffnet 15 Minuten vorher und schließt 10 Minuten nach Beginn."
+  "joinInfoCTA": "Der Zugang zum Meeting öffnet 15 Minuten vorher und schließt 90 Minuten nach Beginn."
 }

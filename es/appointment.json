@@ -43,5 +43,5 @@
   "unregisterFromAllButton": "Darse de baja de todos",
   "newAppointmentWarning": "Haz clic en '{{btnLabel}}' para inscribirte en todas las citas disponibles.",
   "certificateBtn": "Descargar confirmación de asistencia",
-  "joinInfoCTA": "El acceso a la reunión se abre 15 minutos antes y se cierra 10 minutos después de la hora de inicio."
+  "joinInfoCTA": "El acceso a la reunión se abre 15 minutos antes y se cierra 90 minutos después de la hora de inicio."
 }
