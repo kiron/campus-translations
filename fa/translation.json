@@ -215,7 +215,10 @@
     "programClosed": "این برنامه بسته است",
     "programStartsOn": "برنامه در تاریخ شروع می شود: {{startTime}}",
     "joinRequestSent": "درخواست پیوستن شما برای مربی برنامه ارسال شده است",
-    "joinRequestRejected": "درخواست پیوستن شما رد شده است"
+    "joinRequestRejected": "درخواست پیوستن شما رد شده است",
+    "participantsCount": "{{count}} شرکت کننده",
+    "slotsLeft": "{{count}} جای باقی مانده",
+    "slotsLeft_zero": "هیچ جایی باقی نمانده"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

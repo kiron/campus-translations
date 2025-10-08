@@ -203,7 +203,12 @@
     "programClosed": "هذا البرنامج مغلق",
     "programStartsOn": "سيبدأ البرنامج في: {{startTime}}",
     "joinRequestSent": "تم إرسال طلب الانضمام الخاص بك إلى مدرب البرنامج",
-    "joinRequestRejected": "تم رفض طلب الانضمام الخاص بك"
+    "joinRequestRejected": "تم رفض طلب الانضمام الخاص بك",
+    "participantsCount": "{{count}} مشارك",
+    "participantsCount_plural": "{{count}} مشاركين",
+    "slotsLeft": "بقية {{count}} مكان",
+    "slotsLeft_plural": "بقية {{count}} أماكن",
+    "slotsLeft_zero": "لا توجد أماكن متبقية"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "التالي"

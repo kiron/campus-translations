@@ -218,7 +218,12 @@
     "programClosed": "Эта программа закрыта",
     "programStartsOn": "Программа начнется: {{startTime}}",
     "joinRequestSent": "Ваш запрос на присоединение отправлен инструктору программы",
-    "joinRequestRejected": "Ваш запрос на присоединение отклонен"
+    "joinRequestRejected": "Ваш запрос на присоединение отклонен",
+    "participantsCount": "{{count}} участник",
+    "participantsCount_plural": "{{count}} участников",
+    "slotsLeft": "Осталось {{count}} место",
+    "slotsLeft_plural": "Осталось {{count}} мест",
+    "slotsLeft_zero": "Мест не осталось"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Следующий"

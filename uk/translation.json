@@ -219,7 +219,12 @@
     "programClosed": "Ця програма закрита",
     "programStartsOn": "Програма розпочнеться: {{startTime}}",
     "joinRequestSent": "Ваш запит на приєднання надіслано інструктору програми",
-    "joinRequestRejected": "Ваш запит на приєднання відхилено"
+    "joinRequestRejected": "Ваш запит на приєднання відхилено",
+    "participantsCount": "{{count}} учасник",
+    "participantsCount_plural": "{{count}} учасників",
+    "slotsLeft": "Залишилось {{count}} місце",
+    "slotsLeft_plural": "Залишилось {{count}} місць",
+    "slotsLeft_zero": "Місць не залишилось"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Далі "

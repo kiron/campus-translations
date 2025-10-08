@@ -242,7 +242,12 @@
     "programClosed": "This program is closed",
     "programStartsOn": "The program will start on: {{startTime}}",
     "joinRequestSent": "Your join request has been sent to the program instructor",
-    "joinRequestRejected": "Your join request has been rejected"
+    "joinRequestRejected": "Your join request has been rejected",
+    "participantsCount": "{{count}} participant",
+    "participantsCount_plural": "{{count}} participants",
+    "slotsLeft": "{{count}} spot left",
+    "slotsLeft_plural": "{{count}} spots left",
+    "slotsLeft_zero": "No spots left"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

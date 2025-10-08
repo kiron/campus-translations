@@ -251,7 +251,12 @@
     "programClosed": "Este programa está cerrado",
     "programStartsOn": "El programa comenzará el: {{startTime}}",
     "joinRequestSent": "Su solicitud de unión ha sido enviada al instructor del programa",
-    "joinRequestRejected": "Su solicitud de unión ha sido rechazada"
+    "joinRequestRejected": "Su solicitud de unión ha sido rechazada",
+    "participantsCount": "{{count}} participante",
+    "participantsCount_plural": "{{count}} participantes",
+    "slotsLeft": "Queda {{count}} plaza",
+    "slotsLeft_plural": "Quedan {{count}} plazas",
+    "slotsLeft_zero": "No quedan plazas"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Siguiente"
