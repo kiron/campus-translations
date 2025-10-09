@@ -232,7 +232,9 @@
     "programClosed": "Bu program kapalı",
     "programStartsOn": "Program şu tarihte başlayacak: {{startTime}}",
     "joinRequestSent": "Katılma isteğiniz program eğitmenine gönderildi",
-    "joinRequestRejected": "Katılma isteğiniz reddedildi",
+    "joinRequestRejected": "Başvuru kabul edilmedi. Maalesef şu anda yeni katılımcıları kabul edemiyoruz",
+    "enrollmentInfo": "Kaydolun ve tam içeriği görmek için lütfen programın başlamasını bekleyin",
+    "enrollmentClosed": "Kayıt kapalı. Bekleme listesine kaydolun",
     "participantsCount": "{{count}} katılımcı",
     "slotsLeft": "{{count}} yer kaldı",
     "slotsLeft_zero": "Yer kalmadı"
