@@ -501,7 +501,8 @@
     "platform": "Platform",
     "participantsTitle": "Participants",
     "relatedTopics": "Related topics",
-    "backAndSave": "Back & Save progress"
+    "backAndSave": "Back & Save progress",
+    "notes": "Notes"
   },
   "errors": {
     "lostCourse": "This course is lost",

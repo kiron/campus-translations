@@ -521,7 +521,8 @@
     "badges": "Insignias",
     "platform": "Portal web",
     "participantsTitle": "Participantes",
-    "backAndSave": "Volver y guardar progreso"
+    "backAndSave": "Volver y guardar progreso",
+    "notes": "Notas"
   },
   "errors": {
     "lostPageDesc": "No podemos encontrar lo que buscas.",

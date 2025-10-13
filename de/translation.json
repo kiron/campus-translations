@@ -526,7 +526,8 @@
     "platform": "Plattform",
     "participantsTitle": "Teilnehmende",
     "relatedTopics": "Verwandte Themen",
-    "backAndSave": "Zurück & Fortschritt speichern"
+    "backAndSave": "Zurück & Fortschritt speichern",
+    "notes": "Notizen"
   },
   "errors": {
     "lostCourse": "Dieser Kurs ist verschwunden",

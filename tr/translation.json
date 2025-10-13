@@ -392,7 +392,8 @@
     "moreInfo": "Daha fazla bilgi",
     "badges": "Rozetler",
     "backAndSave": "Geri Dön & İlerlemeyi Kaydet",
-    "infoRating": "Lütfen tamamladıktan sonra puan verin — puanınızı daha sonra her zaman düzenleyebilirsiniz."
+    "infoRating": "Lütfen tamamladıktan sonra puan verin — puanınızı daha sonra her zaman düzenleyebilirsiniz.",
+    "notes": "Notlar"
   },
   "errors": {
     "lostCourse": "Bu kurs kayıp",
