@@ -393,7 +393,8 @@
     "badges": "Rozetler",
     "backAndSave": "Geri Dön & İlerlemeyi Kaydet",
     "infoRating": "Lütfen tamamladıktan sonra puan verin — puanınızı daha sonra her zaman düzenleyebilirsiniz.",
-    "notes": "Notlar"
+    "notes": "Notlar",
+    "previewDesc": "Bu kurs bir programın parçasıdır. Bu kursa erişmek için programa kayıt olmanız gerekir"
   },
   "errors": {
     "lostCourse": "Bu kurs kayıp",

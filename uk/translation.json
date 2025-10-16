@@ -483,7 +483,8 @@
     "isLocked": "This course is locked",
     "lockedMessage": "You are required to complete <1>Unit: {{0}}</1> to unlock this course",
     "backAndSave": "Назад і зберегти прогрес",
-    "notes": "Нотатки"
+    "notes": "Нотатки",
+    "previewDesc": "Цей курс є частиною програми. Вам потрібно записатися на програму, щоб отримати доступ до цього курсу"
   },
   "category": "Категорія",
   "moreBtn": "Побачити більше",

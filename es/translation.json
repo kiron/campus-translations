@@ -522,7 +522,8 @@
     "platform": "Portal web",
     "participantsTitle": "Participantes",
     "backAndSave": "Volver y guardar progreso",
-    "notes": "Notas"
+    "notes": "Notas",
+    "previewDesc": "Este curso forma parte de un programa. Necesitas inscribirte en el programa para acceder a este curso"
   },
   "errors": {
     "lostPageDesc": "No podemos encontrar lo que buscas.",

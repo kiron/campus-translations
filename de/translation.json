@@ -527,7 +527,8 @@
     "participantsTitle": "Teilnehmende",
     "relatedTopics": "Verwandte Themen",
     "backAndSave": "Zurück & Fortschritt speichern",
-    "notes": "Notizen"
+    "notes": "Notizen",
+    "previewDesc": "Der Kurs gehört zu einem Programm. Melde dich dafür an, um loszulegen."
   },
   "errors": {
     "lostCourse": "Dieser Kurs ist verschwunden",

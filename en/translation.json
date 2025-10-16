@@ -502,7 +502,8 @@
     "participantsTitle": "Participants",
     "relatedTopics": "Related topics",
     "backAndSave": "Back & Save progress",
-    "notes": "Notes"
+    "notes": "Notes",
+    "previewDesc": "This course is part of a program. You need to enroll in the program to access this course"
   },
   "errors": {
     "lostCourse": "This course is lost",
