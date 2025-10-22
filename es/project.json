@@ -40,7 +40,7 @@
   "chatText": "Podrá hablar con otros participantes cuando se haya unido al proyecto.",
   "attachmentsText": "Podrá añadir archivos aquí cuando se una al proyecto.",
   "instructionsText": "Únete al proyecto para saber más.",
-  "toolsText": "{{0}} Las herramientas estarán disponibles cuando se haya unido al proyecto.",
+  "toolsText": "{{count}} Las herramientas estarán disponibles cuando se haya unido al proyecto.",
   "toolsTitle": "Herramientas",
   "leaveOpenProjectInfo": "Puede volver a unirse al proyecto hasta el {{registrationDeadline}}",
   "leaveClosedProjectInfo": "Atención, esta acción no puede modificarse. Usted no podrá asistir al proyecto.",

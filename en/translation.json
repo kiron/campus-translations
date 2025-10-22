@@ -239,17 +239,18 @@
     "exploreMoreProgramsBtn": "Explore more learning offers",
     "completedACourseHeader": "Hooray! You have completed this course.",
     "joinWaitlist": "Join waitlist",
-    "programClosed": "This program is closed",
+    "programClosed": "Enrollment not possible",
     "programStartsOn": "The program will start on: {{startTime}}",
     "joinRequestSent": "Your join request has been sent to the program instructor",
     "joinRequestRejected": "Application not accepted. Unfortunately, we cannot accept new participants right now",
-    "enrollmentInfo": "Enroll and please wait for the program to start to see the full content",
-    "enrollmentClosed": "Enrollment closed. Register for the waitlist",
+    "enrollmentInfo": "You'll be able to start learning once the program begins.",
+    "enrollmentClosed": "Enrollment not possible. Please join our waitlist",
     "participantsCount": "{{count}} participant",
     "participantsCount_plural": "{{count}} participants",
     "slotsLeft": "{{count}} spot left",
     "slotsLeft_plural": "{{count}} spots left",
-    "slotsLeft_zero": "No spots left"
+    "slotsLeft_zero": "No spots left",
+    "enroll": "Enroll"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

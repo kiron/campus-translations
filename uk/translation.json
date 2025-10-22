@@ -216,17 +216,18 @@
     "evaluateHelp": "Допоможіть нам покращити ваш навчальний досвід, відповівши на кілька запитань про цей курс.",
     "evaluate": "Оцініть курс",
     "joinWaitlist": "Приєднатися до списку очікування",
-    "programClosed": "Ця програма закрита",
+    "programClosed": "Запис неможливий",
     "programStartsOn": "Програма розпочнеться: {{startTime}}",
     "joinRequestSent": "Ваш запит на приєднання надіслано інструктору програми",
     "joinRequestRejected": "Заявку не прийнято. На жаль, зараз ми не можемо приймати нових учасників",
-    "enrollmentInfo": "Запишіться і зачекайте початку програми, щоб побачити повний контент",
-    "enrollmentClosed": "Запис закрито. Зареєструйтесь у список очікування",
+    "enrollmentInfo": "Ви зможете почати навчання, як тільки програма розпочнеться.",
+    "enrollmentClosed": "Запис неможливий. Будь ласка, приєднайтеся до нашого списку очікування",
     "participantsCount": "{{count}} учасник",
     "participantsCount_plural": "{{count}} учасників",
     "slotsLeft": "Залишилось {{count}} місце",
     "slotsLeft_plural": "Залишилось {{count}} місць",
-    "slotsLeft_zero": "Місць не залишилось"
+    "slotsLeft_zero": "Місць не залишилось",
+    "enroll": "Записаться"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Далі "

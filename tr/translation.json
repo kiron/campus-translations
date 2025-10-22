@@ -229,15 +229,16 @@
     "completedACourseHeader": "Yupi! Bu kursu tamamladınız.",
     "stayInOldProgram": "Eski programda kal",
     "joinWaitlist": "Bekleme listesine katıl",
-    "programClosed": "Bu program kapalı",
+    "programClosed": "Kayıt mümkün değil",
     "programStartsOn": "Program şu tarihte başlayacak: {{startTime}}",
     "joinRequestSent": "Katılma isteğiniz program eğitmenine gönderildi",
     "joinRequestRejected": "Başvuru kabul edilmedi. Maalesef şu anda yeni katılımcıları kabul edemiyoruz",
-    "enrollmentInfo": "Kaydolun ve tam içeriği görmek için lütfen programın başlamasını bekleyin",
-    "enrollmentClosed": "Kayıt kapalı. Bekleme listesine kaydolun",
+    "enrollmentInfo": "Program başladığında öğrenmeye başlayabileceksiniz.",
+    "enrollmentClosed": "Kayıt mümkün değil. Lütfen bekleme listemize katılın",
     "participantsCount": "{{count}} katılımcı",
     "slotsLeft": "{{count}} yer kaldı",
-    "slotsLeft_zero": "Yer kalmadı"
+    "slotsLeft_zero": "Yer kalmadı",
+    "enroll": "Kaydol"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Sonraki"

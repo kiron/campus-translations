@@ -248,17 +248,18 @@
     "exploreMoreProgramsBtn": "Descubre más programas",
     "completedACourseHeader": "¡Hurra! Has completado este curso.",
     "joinWaitlist": "Unirse a la lista de espera",
-    "programClosed": "Este programa está cerrado",
+    "programClosed": "Inscripción no posible",
     "programStartsOn": "El programa comenzará el: {{startTime}}",
     "joinRequestSent": "Su solicitud de unión ha sido enviada al instructor del programa",
     "joinRequestRejected": "Solicitud no aceptada. Lamentablemente, no podemos aceptar nuevos participantes en este momento",
-    "enrollmentInfo": "Inscríbete y espera a que comience el programa para ver el contenido completo",
-    "enrollmentClosed": "Inscripción cerrada. Regístrate en la lista de espera",
+    "enrollmentInfo": "Podrás comenzar a aprender una vez que el programa comience.",
+    "enrollmentClosed": "Inscripción no posible. Únase a nuestra lista de espera",
     "participantsCount": "{{count}} participante",
     "participantsCount_plural": "{{count}} participantes",
     "slotsLeft": "Queda {{count}} plaza",
     "slotsLeft_plural": "Quedan {{count}} plazas",
-    "slotsLeft_zero": "No quedan plazas"
+    "slotsLeft_zero": "No quedan plazas",
+    "enroll": "Inscribirse"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Siguiente"

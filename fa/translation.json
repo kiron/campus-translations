@@ -212,15 +212,16 @@
     "type": "Program",
     "selfPaced": "Self-paced",
     "joinWaitlist": "به لیست انتظار بپیوندید",
-    "programClosed": "این برنامه بسته است",
+    "programClosed": "ثبت‌نام امکان‌پذیر نیست",
     "programStartsOn": "برنامه در تاریخ شروع می شود: {{startTime}}",
     "joinRequestSent": "درخواست پیوستن شما برای مربی برنامه ارسال شده است",
     "joinRequestRejected": "درخواست پذیرفته نشد. متأسفانه در حال حاضر نمی‌توانیم شرکت‌کننده جدید بپذیریم",
-    "enrollmentInfo": "ثبت‌نام کنید و لطفاً منتظر شروع برنامه بمانید تا محتوای کامل را ببینید",
-    "enrollmentClosed": "ثبت‌نام بسته شد. در لیست انتظار ثبت‌نام کنید",
+    "enrollmentInfo": "شما می‌توانید به محض شروع برنامه، یادگیری را آغاز کنید.",
+    "enrollmentClosed": "ثبت‌نام امکان‌پذیر نیست. لطفاً به لیست انتظار ما بپیوندید",
     "participantsCount": "{{count}} شرکت کننده",
     "slotsLeft": "{{count}} جای باقی مانده",
-    "slotsLeft_zero": "هیچ جایی باقی نمانده"
+    "slotsLeft_zero": "هیچ جایی باقی نمانده",
+    "enroll": "ثبت‌نام"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

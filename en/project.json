@@ -32,7 +32,8 @@
     "type": "Project"
   },
   "toolsTitle": "Tools",
-  "toolsText": "{{0}} Tools will be available to you once you join this project.",
+  "toolsText": "One Tool will be available to you once you join this project.",
+  "toolsText_plural": "{{count}} Tools will be available to you once you join this project.",
   "instructionsText": "Join the project to learn more about it.",
   "attachmentsText": "You can upload your work here once you join the project.",
   "chatText": "You will be able to chat with other project participants once you join the project.",

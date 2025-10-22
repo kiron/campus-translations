@@ -215,17 +215,18 @@
     "evaluateHelp": "Помогите нам улучшить ваш опыт обучения, ответив на несколько вопросов об этом курсе.",
     "evaluate": "Оценить курс",
     "joinWaitlist": "Встать в лист ожидания",
-    "programClosed": "Эта программа закрыта",
+    "programClosed": "Запись невозможна",
     "programStartsOn": "Программа начнется: {{startTime}}",
     "joinRequestSent": "Ваш запрос на присоединение отправлен инструктору программы",
     "joinRequestRejected": "Заявка не принята. К сожалению, мы не можем принять новых участников прямо сейчас",
-    "enrollmentInfo": "Запишитесь и подождите начала программы, чтобы увидеть полный контент",
-    "enrollmentClosed": "Запись закрыта. Зарегистрируйтесь в лист ожидания",
+    "enrollmentInfo": "Вы сможете начать обучение, как только программа начнется.",
+    "enrollmentClosed": "Запись невозможна. Пожалуйста, присоединитесь к нашему листу ожидания",
     "participantsCount": "{{count}} участник",
     "participantsCount_plural": "{{count}} участников",
     "slotsLeft": "Осталось {{count}} место",
     "slotsLeft_plural": "Осталось {{count}} мест",
-    "slotsLeft_zero": "Мест не осталось"
+    "slotsLeft_zero": "Мест не осталось",
+    "enroll": "Записаться"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Следующий"

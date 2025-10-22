@@ -32,7 +32,7 @@
     "type": "Proje"
   },
   "toolsTitle": "Araçlar",
-  "toolsText": "{{0}} araç, bu projeye katıldıktan sonra sizin için kullanılabilir olacak.",
+  "toolsText": "{{count}} araç, bu projeye katıldıktan sonra sizin için kullanılabilir olacak.",
   "instructionsText": "Bu projeye katılarak daha fazla bilgi edinin.",
   "attachmentsText": "Projeye katıldıktan sonra işinizi buraya yükleyebilirsiniz.",
   "chatText": "Projeye katıldıktan sonra diğer proje katılımcılarıyla sohbet edebileceksiniz.",
