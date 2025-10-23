@@ -200,18 +200,18 @@
     "exploreMoreProgramsBtn": "اكتشف المزيد من البرامج",
     "completedACourseHeader": "مرحى! لقد أكملت هذا الدورة.",
     "joinWaitlist": "انضم إلى قائمة الانتظار",
-    "programClosed": "التسجيل غير ممكن",
-    "programStartsOn": "سيبدأ البرنامج في: {{startTime}}",
-    "joinRequestSent": "تم إرسال طلب الانضمام الخاص بك إلى مدرب البرنامج",
-    "joinRequestRejected": "لم يتم قبول الطلب. للأسف، لا يمكننا قبول مشاركين جدد في الوقت الحالي",
-    "enrollmentInfo": "ستتمكن من البدء في التعلم بمجرد بدء البرنامج.",
-    "enrollmentClosed": "التسجيل غير ممكن. يرجى الانضمام إلى قائمة الانتظار لدينا",
+    "programClosed": "التسجيل مغلق حاليًا",
+    "programStartsOn": "يبدأ: {{startTime}}",
+    "joinRequestSent": "تم إرسال طلبك",
+    "joinRequestRejected": "لم يتم قبول طلبك. لا يمكننا قبول مشاركين جدد في الوقت الحالي",
+    "enrollmentInfo": "يمكنك البدء في التعلم عند وصول تاريخ البدء.",
+    "enrollmentClosed": "التسجيل مغلق حاليًا. يرجى الانضمام إلى قائمة الانتظار",
     "participantsCount": "{{count}} مشارك",
     "participantsCount_plural": "{{count}} مشاركين",
-    "slotsLeft": "بقية {{count}} مكان",
-    "slotsLeft_plural": "بقية {{count}} أماكن",
-    "slotsLeft_zero": "لا توجد أماكن متبقية",
-    "enroll": "تسجيل"
+    "slotsLeft": "{{count}} مقعد متبقي",
+    "slotsLeft_plural": "{{count}} مقاعد متبقية",
+    "slotsLeft_zero": "محجوز بالكامل",
+    "enroll": "سجّل"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "التالي"

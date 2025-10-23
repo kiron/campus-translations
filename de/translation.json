@@ -249,17 +249,18 @@
     "exploreMoreProgramsBtn": "Entdecke weitere Lernangebote",
     "completedACourseHeader": "Hurra! Du hast diesen Kurs abgeschlossen.",
     "joinWaitlist": "Warteliste beitreten",
-    "programClosed": "Anmeldung nicht möglich",
-    "programStartsOn": "Das Programm beginnt am: {{startTime}}",
-    "joinRequestSent": "Ihr Beitrittsantrag wurde an den Programminstructor gesendet",
-    "joinRequestRejected": "Bewerbung nicht angenommen. Leider können wir derzeit keine neuen Teilnehmer aufnehmen",
-    "enrollmentInfo": "Sie können mit dem Lernen beginnen, sobald das Programm startet.",
-    "enrollmentClosed": "Anmeldung nicht möglich. Bitte tragen Sie sich in unsere Warteliste ein",
-    "participantsCount": "{{count}} Teilnehmer",
+    "programClosed": "Anmeldung derzeit geschlossen",
+    "programStartsOn": "Start: {{startTime}}",
+    "joinRequestSent": "Deine Anfrage wurde gesendet",
+    "joinRequestRejected": "Deine Anfrage wurde nicht angenommen. Leider können wir derzeit keine neuen Teilnehmenden aufnehmen",
+    "enrollmentInfo": "Du kannst mit dem Lernen beginnen, sobald das Startdatum erreicht ist.",
+    "enrollmentClosed": "Anmeldung derzeit geschlossen. Bitte trage dich in unsere Warteliste ein",
+    "participantsCount": "{{count}} Teilnehmende",
+    "participantsCount_plural": "{{count}} Teilnehmende",
     "slotsLeft": "Noch {{count}} Platz",
     "slotsLeft_plural": "Noch {{count}} Plätze",
-    "slotsLeft_zero": "Keine Plätze mehr",
-    "enroll": "Einschreiben"
+    "slotsLeft_zero": "Ausgebucht",
+    "enroll": "Anmelden"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Weiter"
