@@ -173,7 +173,7 @@
     "removeYes": "آره",
     "removeNo": "خیر",
     "removeTitle": "له کورس څخه نوم لیکنه",
-    "removeQuestion": "ایا تاسو واقعیا غواړئ له دې کورس څخه نوم لیکنه وکړئ؟",
+    "removeQuestion": "آیا تاسې ډاډه یاست چې نوم لرې کول غواړئ؟",
     "addModuleSuccess": "بریالیتوب",
     "addModuleBtnContinue": "لټون ته دوام ورکړئ",
     "addModuleBtnStart": "همدا اوس لومړی واحد پیل کړئ",
@@ -223,7 +223,8 @@
     "slotsLeft": "{{count}} ځای پاتې دی",
     "slotsLeft_plural": "{{count}} ځایونه پاتې دي",
     "slotsLeft_zero": "بشپړ ډک شوی",
-    "enroll": "نوم لیکنه"
+    "enroll": "نوم لیکنه",
+    "cohortUnenrollDesc": "آیا تاسې ډاډه یاست چې نوم لرې کول غواړئ؟ بیا نوم ثبتول ممکن ممکن نه وي."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

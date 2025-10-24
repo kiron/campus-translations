@@ -184,7 +184,7 @@
     "removeYes": "Sí",
     "removeNo": "No",
     "removeTitle": "Desinscribirse de baja",
-    "removeQuestion": "¿Está seguro de que desea desinscribirse de este curso?",
+    "removeQuestion": "¿Estás seguro de que quieres anular la inscripción?",
     "addModuleSuccess": "Éxito",
     "addModuleBtnContinue": "Continuar mirando",
     "addModuleBtnStart": "Comenzar ahora la primera unidad",
@@ -259,7 +259,8 @@
     "slotsLeft": "{{count}} lugar disponible",
     "slotsLeft_plural": "{{count}} lugares disponibles",
     "slotsLeft_zero": "Totalmente reservado",
-    "enroll": "Inscribirse"
+    "enroll": "Inscribirse",
+    "cohortUnenrollDesc": "¿Estás seguro de que quieres anular la inscripción? Es posible que no puedas inscribirte nuevamente."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Siguiente"

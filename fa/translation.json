@@ -173,7 +173,7 @@
     "removeYes": "آره",
     "removeNo": "خیر",
     "removeTitle": "لغو ثبت نام از دوره",
-    "removeQuestion": "آیا مطمئن هستید که می خواهید از این دوره لغو ثبت نام کنید؟",
+    "removeQuestion": "آیا مطمئن هستید که می‌خواهید ثبت‌نام را لغو کنید؟",
     "addModuleSuccess": "موفقیت",
     "addModuleBtnContinue": "مرور را ادامه دهید",
     "addModuleBtnStart": "واحد اول را همین حالا شروع کنید",
@@ -223,7 +223,8 @@
     "slotsLeft": "{{count}} جای خالی باقی‌مانده",
     "slotsLeft_plural": "{{count}} جای خالی باقی‌مانده",
     "slotsLeft_zero": "کاملاً تکمیل شده",
-    "enroll": "ثبت‌نام"
+    "enroll": "ثبت‌نام",
+    "cohortUnenrollDesc": "آیا مطمئن هستید که می‌خواهید ثبت‌نام را لغو کنید؟ ممکن است ثبت‌نام مجدد امکان‌پذیر نباشد."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

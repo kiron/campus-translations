@@ -173,7 +173,7 @@
     "removeYes": "Yes",
     "removeNo": "Hayır",
     "removeTitle": "program kaydını sil",
-    "removeQuestion": "Bu kurstan ayrılmak istediğinize emin misiniz?",
+    "removeQuestion": "Kaydınızı silmek istediğinizden emin misiniz?",
     "addModuleSuccess": "Başarılı",
     "addModuleBtnContinue": "Göz atmaya devam et",
     "addModuleBtnStart": "İlk üniteye şimdi başla",
@@ -240,7 +240,8 @@
     "slotsLeft": "{{count}} yer kaldı",
     "slotsLeft_plural": "{{count}} yer kaldı",
     "slotsLeft_zero": "Tamamen dolu",
-    "enroll": "Kaydol"
+    "enroll": "Kaydol",
+    "cohortUnenrollDesc": "Kaydınızı silmek istediğinizden emin misiniz? Tekrar kaydolmak mümkün olmayabilir."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Sonraki"

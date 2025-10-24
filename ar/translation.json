@@ -136,7 +136,7 @@
     "removeYes": "نعم",
     "removeNo": "لا",
     "removeTitle": "إلغاء التسجيل من البرنامج",
-    "removeQuestion": "هل أنت متأكد أنك تريد إلغاء التسجيل في هذه الدورة؟",
+    "removeQuestion": "هل أنت متأكد أنك تريد إلغاء التسجيل؟",
     "addModuleSuccess": "نجاح",
     "addModuleBtnContinue": "تابع التصفح",
     "addModuleBtnStart": "ابدأ الوحدة الأولى الآن",
@@ -211,7 +211,8 @@
     "slotsLeft": "{{count}} مقعد متبقي",
     "slotsLeft_plural": "{{count}} مقاعد متبقية",
     "slotsLeft_zero": "محجوز بالكامل",
-    "enroll": "سجّل"
+    "enroll": "سجّل",
+    "cohortUnenrollDesc": "هل أنت متأكد أنك تريد إلغاء التسجيل؟ قد لا يكون التسجيل مرة أخرى ممكنًا."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "التالي"

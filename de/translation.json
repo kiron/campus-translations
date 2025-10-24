@@ -185,7 +185,7 @@
     "removeYes": "Ja",
     "removeNo": "Nein",
     "removeTitle": "Vom Programm abmelden",
-    "removeQuestion": "Bist du dir sicher, dass du dich von diesem Kurs abmelden möchtest?",
+    "removeQuestion": "Bist du sicher, dass du dich abmelden möchtest?",
     "addModuleSuccess": "Erfolgreich angemeldet",
     "addModuleBtnContinue": "Weiter browsen",
     "addModuleBtnStart": "Starte ersten Kurs",
@@ -260,7 +260,8 @@
     "slotsLeft": "Noch {{count}} Platz",
     "slotsLeft_plural": "Noch {{count}} Plätze",
     "slotsLeft_zero": "Ausgebucht",
-    "enroll": "Anmelden"
+    "enroll": "Anmelden",
+    "cohortUnenrollDesc": "Bist du sicher, dass du dich abmelden möchtest? Eine erneute Anmeldung ist möglicherweise nicht möglich."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Weiter"

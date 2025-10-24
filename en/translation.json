@@ -178,7 +178,7 @@
     "removeYes": "Yes",
     "removeNo": "No",
     "removeTitle": "Unenroll from program",
-    "removeQuestion": "Are you sure you want to unenroll from this course?",
+    "removeQuestion": "Are you sure you want to unenroll?",
     "addModuleSuccess": "Success",
     "addModuleBtnContinue": "Continue browsing",
     "addModuleBtnStart": "Start first unit now",
@@ -250,7 +250,8 @@
     "slotsLeft": "{{count}} spot left",
     "slotsLeft_plural": "{{count}} spots left",
     "slotsLeft_zero": "Fully booked",
-    "enroll": "Enroll"
+    "enroll": "Enroll",
+    "cohortUnenrollDesc": "Are you sure you want to unenroll? Enrolling again may not be possible."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

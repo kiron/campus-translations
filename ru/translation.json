@@ -168,7 +168,7 @@
     "removeYes": "Да",
     "removeNo": "Нет",
     "removeTitle": "Отказаться от курса",
-    "removeQuestion": "Ты уверен/a, что хочешь отказаться от участия в этом курсе?",
+    "removeQuestion": "Вы уверены, что хотите отменить запись?",
     "addModuleSuccess": "Успех",
     "addModuleBtnContinue": "Продолжить просмотр",
     "addModuleBtnStart": "Начать первый блок прямо сейчас",
@@ -226,7 +226,8 @@
     "slotsLeft": "Осталось {{count}} место",
     "slotsLeft_plural": "Осталось {{count}} мест",
     "slotsLeft_zero": "Все места заняты",
-    "enroll": "Записаться"
+    "enroll": "Записаться",
+    "cohortUnenrollDesc": "Вы уверены, что хотите отменить запись? Повторная запись может быть невозможна."
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Следующий"
