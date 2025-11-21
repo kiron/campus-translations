@@ -505,7 +505,7 @@
     "relatedTopics": "Related topics",
     "backAndSave": "Back & Save progress",
     "notes": "Notes",
-    "previewDesc": "You're previewing this content. Enroll from the overview page to start learning."
+    "previewDesc": "You're previewing this content. Enroll from the <1>overview page</1> to start learning."
   },
   "errors": {
     "lostCourse": "This course is lost",

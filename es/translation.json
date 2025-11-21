@@ -525,7 +525,7 @@
     "participantsTitle": "Participantes",
     "backAndSave": "Volver y guardar progreso",
     "notes": "Notas",
-    "previewDesc": "Estás viendo una vista previa de este contenido. Inscríbete desde la página de resumen para comenzar a aprender."
+    "previewDesc": "Estás viendo una vista previa de este contenido. Inscríbete desde la <1>página de resumen</1> para comenzar a aprender."
   },
   "errors": {
     "lostPageDesc": "No podemos encontrar lo que buscas.",
