@@ -260,7 +260,8 @@
     "slotsLeft_plural": "{{count}} lugares disponibles",
     "slotsLeft_zero": "Totalmente reservado",
     "enroll": "Inscribirse",
-    "cohortUnenrollDesc": "¿Estás seguro de que quieres anular la inscripción? Es posible que no puedas inscribirte nuevamente."
+    "cohortUnenrollDesc": "¿Estás seguro de que quieres anular la inscripción? Es posible que no puedas inscribirte nuevamente.",
+    "relatedModulesTitle": "Este curso pertenece a múltiples páginas de resumen"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Siguiente"

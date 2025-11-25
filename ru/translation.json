@@ -227,7 +227,8 @@
     "slotsLeft_plural": "Осталось {{count}} мест",
     "slotsLeft_zero": "Все места заняты",
     "enroll": "Записаться",
-    "cohortUnenrollDesc": "Вы уверены, что хотите отменить запись? Повторная запись может быть невозможна."
+    "cohortUnenrollDesc": "Вы уверены, что хотите отменить запись? Повторная запись может быть невозможна.",
+    "relatedModulesTitle": "Этот курс принадлежит нескольким страницам обзора"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Следующий"

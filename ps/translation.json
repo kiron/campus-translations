@@ -224,7 +224,8 @@
     "slotsLeft_plural": "{{count}} ځایونه پاتې دي",
     "slotsLeft_zero": "بشپړ ډک شوی",
     "enroll": "نوم لیکنه",
-    "cohortUnenrollDesc": "آیا تاسې ډاډه یاست چې نوم لرې کول غواړئ؟ بیا نوم ثبتول ممکن ممکن نه وي."
+    "cohortUnenrollDesc": "آیا تاسې ډاډه یاست چې نوم لرې کول غواړئ؟ بیا نوم ثبتول ممکن ممکن نه وي.",
+    "relatedModulesTitle": "دا کورس د څو عمومي کتنه پاڼو پورې اړه لري"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

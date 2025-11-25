@@ -241,7 +241,8 @@
     "slotsLeft_plural": "{{count}} yer kaldı",
     "slotsLeft_zero": "Tamamen dolu",
     "enroll": "Kaydol",
-    "cohortUnenrollDesc": "Kaydınızı silmek istediğinizden emin misiniz? Tekrar kaydolmak mümkün olmayabilir."
+    "cohortUnenrollDesc": "Kaydınızı silmek istediğinizden emin misiniz? Tekrar kaydolmak mümkün olmayabilir.",
+    "relatedModulesTitle": "Bu kurs birden fazla genel bakış sayfasına aittir"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Sonraki"

@@ -261,7 +261,8 @@
     "slotsLeft_plural": "Noch {{count}} Plätze",
     "slotsLeft_zero": "Ausgebucht",
     "enroll": "Anmelden",
-    "cohortUnenrollDesc": "Bist du sicher, dass du dich abmelden möchtest? Eine erneute Anmeldung ist möglicherweise nicht möglich."
+    "cohortUnenrollDesc": "Bist du sicher, dass du dich abmelden möchtest? Eine erneute Anmeldung ist möglicherweise nicht möglich.",
+    "relatedModulesTitle": "Dieser Kurs gehört zu mehreren Übersichtsseiten"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Weiter"

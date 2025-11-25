@@ -251,7 +251,8 @@
     "slotsLeft_plural": "{{count}} spots left",
     "slotsLeft_zero": "Fully booked",
     "enroll": "Enroll",
-    "cohortUnenrollDesc": "Are you sure you want to unenroll? Enrolling again may not be possible."
+    "cohortUnenrollDesc": "Are you sure you want to unenroll? Enrolling again may not be possible.",
+    "relatedModulesTitle": "This course belongs to multiple overview pages"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Next"

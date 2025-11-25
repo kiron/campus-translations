@@ -228,7 +228,8 @@
     "slotsLeft_plural": "Залишилося {{count}} місць",
     "slotsLeft_zero": "Всі місця зайняті",
     "enroll": "Записатися",
-    "cohortUnenrollDesc": "Ви впевнені, що хочете скасувати запис? Можливо, повторний запис буде неможливим."
+    "cohortUnenrollDesc": "Ви впевнені, що хочете скасувати запис? Можливо, повторний запис буде неможливим.",
+    "relatedModulesTitle": "Цей курс належить до кількох сторінок огляду"
   },
   "shortProgramUnitLesson": {
     "lessonNavigatorCtaNext": "Далі "
