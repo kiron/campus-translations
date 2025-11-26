@@ -1,0 +1,17 @@
+{
+    "contactUs": "How can wes support you today?",
+    "contactButtonHeadline": "Need support? You are not alone.",
+    "contactButton": "Contact us",
+    "contactReasonSelectionText": "Thanks for checking in. Choose what you need today:",
+    "contactReasonDescription": "Tell us more...",
+    "contactOption": {
+      "0": "I’m falling behind",
+      "1": "I’m overwhelmed",
+      "2": "I’m dealing with something personal",
+      "3": "My motivation is low",
+      "4": "Other"
+    },
+    "requestSent": "Support request sent.",
+    "requestSentDescription": "Thanks for letting us know, someone will reach out to you soon."
+  }
+  

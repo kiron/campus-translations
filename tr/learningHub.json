@@ -1,0 +1,17 @@
+{
+    "contactUs": "Bugün size nasıl destek olabiliriz?",
+    "contactButtonHeadline": "Desteğe mi ihtiyacınız var? Yalnız değilsiniz.",
+    "contactButton": "Bizimle iletişime geçin",
+    "contactReasonSelectionText": "Bizimle iletişime geçtiğiniz için teşekkürler. Bugün neye ihtiyacınız var?",
+    "contactReasonDescription": "Bize daha fazla bilgi verin...",
+    "contactOption": {
+      "0": "Geride kalıyorum",
+      "1": "Bunalmış hissediyorum",
+      "2": "Kişisel bir durumla ilgileniyorum",
+      "3": "Motivasyonum düşük",
+      "4": "Diğer"
+    },
+    "requestSent": "Destek talebi gönderildi.",
+    "requestSentDescription": "Bize bildirdiğiniz için teşekkürler. Yakında biri sizinle iletişime geçecek."
+  }
+  

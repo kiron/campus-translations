@@ -1,0 +1,17 @@
+{
+    "contactUs": "¿Cómo podemos apoyarte hoy?",
+    "contactButtonHeadline": "¿Necesitas apoyo? No estás solo.",
+    "contactButton": "Contáctanos",
+    "contactReasonSelectionText": "Gracias por comunicarte. Elige lo que necesitas hoy:",
+    "contactReasonDescription": "Cuéntanos más...",
+    "contactOption": {
+      "0": "Me estoy quedando atrás",
+      "1": "Estoy abrumado",
+      "2": "Estoy lidiando con algo personal",
+      "3": "Mi motivación es baja",
+      "4": "Otro"
+    },
+    "requestSent": "Solicitud de apoyo enviada.",
+    "requestSentDescription": "Gracias por avisarnos, alguien se pondrá en contacto contigo pronto."
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "contactUs": "Wie können wir dich heute unterstützen?",
+    "contactButtonHeadline": "Brauchst du Unterstützung? Du bist nicht allein.",
+    "contactButton": "Kontaktiere uns",
+    "contactReasonSelectionText": "Danke, dass du dich meldest. Wähle, was du heute brauchst:",
+    "contactReasonDescription": "Erzähl uns mehr...",
+    "contactOption": {
+      "0": "Ich komme nicht hinterher",
+      "1": "Ich bin überfordert",
+      "2": "Ich habe mit etwas Persönlichem zu tun",
+      "3": "Meine Motivation ist gering",
+      "4": "Anderes"
+    },
+    "requestSent": "Supportanfrage gesendet.",
+    "requestSentDescription": "Danke, dass du uns informiert hast. Jemand wird sich bald bei dir melden."
+  }
+  
