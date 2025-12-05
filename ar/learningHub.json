@@ -18,7 +18,7 @@
     "analyticsLearnersCount": "المتعلمون في هذا البرنامج",
     "progressHeadline": "حدّث تقدّمك لـ:",
     "progressSubtitle": "تقدّمك مهم! شارك جهدك الأسبوعي لتتبع نموك",
-    "progressMinutes": "كم دقيقة قضيتها هذا الأسبوع؟",
+    "progressMinutes": "كم دقيقة استثمرتها في تعلم <1>{{courseName}}</1> منذ آخر تقرير؟",
     "progressPlaceholder": "أضف عدد الدقائق",
     "progressCheckBox": "هل أنهيت الدورة؟",
     "progressButton": "إرسال التقرير"

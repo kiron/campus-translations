@@ -18,7 +18,7 @@
     "analyticsLearnersCount": "Learners in this program",
     "progressHeadline": "Update your progress for:",
     "progressSubtitle": "Your progress matters! Share your weekly effort to track your growth",
-    "progressMinutes": "How many minutes did you spend this week?",
+    "progressMinutes": "How many minutes did you invested learning in <1>{{courseName}}</1> since last reported?",
     "progressPlaceholder": "Add number of minutes",
     "progressCheckBox": "Have you finished the course?",
     "progressButton": "Submit Report"

@@ -18,7 +18,7 @@
     "analyticsLearnersCount": "Bu programdaki öğrenciler",
     "progressHeadline": "İlerlemeni güncelle:",
     "progressSubtitle": "İlerlemen önemli! Haftalık çabanı paylaşarak gelişimini takip et",
-    "progressMinutes": "Bu hafta kaç dakika harcadın?",
+    "progressMinutes": "Son bildirimden bu yana <1>{{courseName}}</1> öğrenmeye kaç dakika ayırdınız?",
     "progressPlaceholder": "Dakika sayısını ekle",
     "progressCheckBox": "Dersi bitirdin mi?",
     "progressButton": "Raporu gönder"

@@ -18,7 +18,7 @@
     "analyticsLearnersCount": "Estudiantes en este programa",
     "progressHeadline": "Actualiza tu progreso para:",
     "progressSubtitle": "¡Tu progreso importa! Comparte tu esfuerzo semanal para seguir tu crecimiento",
-    "progressMinutes": "¿Cuántos minutos pasaste esta semana?",
+    "progressMinutes": "¿Cuántos minutos invertiste aprendiendo en <1>{{courseName}}</1> desde el último informe?",
     "progressPlaceholder": "Agregar número de minutos",
     "progressCheckBox": "¿Has terminado el curso?",
     "progressButton": "Enviar informe"

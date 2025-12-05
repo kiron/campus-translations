@@ -18,7 +18,7 @@
     "analyticsLearnersCount": "یادگیرندگان در این برنامه",
     "progressHeadline": "پیشرفت خود را به‌روزرسانی کن برای:",
     "progressSubtitle": "پیشرفتت مهم است! تلاش هفتگی‌ات را به اشتراک بگذار تا رشد خود را دنبال کنی",
-    "progressMinutes": "این هفته چند دقیقه صرف کردی؟",
+    "progressMinutes": "چند دقیقه از آخرین گزارش، در یادگیری <1>{{courseName}}</1> سرمایه‌گذاری کرده‌اید؟",
     "progressPlaceholder": "تعداد دقیقه‌ها را اضافه کن",
     "progressCheckBox": "آیا دوره را تمام کردی؟",
     "progressButton": "ارسال گزارش"

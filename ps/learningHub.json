@@ -18,7 +18,7 @@
     "analyticsLearnersCount": "زده کوونکي په دې پروګرام کې",
     "progressHeadline": "خپل پرمختګ نوي کړه د:",
     "progressSubtitle": "ستا پرمختګ مهم دی! خپل اونیز هڅې شریک کړه ترڅو خپل وده تعقیب کړې",
-    "progressMinutes": "ته په دې اونۍ کې څو دقیقې مصرف کړې؟",
+    "progressMinutes": "تاسې له تیر راپور راهیسې په <1>{{courseName}}</1> کې د زده کړې لپاره څو دقیقې سرمایه‌ګذاري کړې؟",
     "progressPlaceholder": "د دقیقو شمېر ورکړه",
     "progressCheckBox": "ایا کورس دې بشپړ کړی؟",
     "progressButton": "راپور وسپاره"
