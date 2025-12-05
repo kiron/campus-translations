@@ -12,6 +12,15 @@
       "4": "أخرى"
     },
     "requestSent": "تم إرسال طلب الدعم.",
-    "requestSentDescription": "شكرًا لإبلاغنا، سيتواصل معك أحد أفراد الفريق قريبًا."
+    "requestSentDescription": "شكرًا لإبلاغنا، سيتواصل معك أحد أفراد الفريق قريبًا.",
+    "analyticsTotalHours": "لقد استثمرت في مسار تعلّمك",
+    "analyticsCoursesCompleted": "لقد أكملت",
+    "analyticsLearnersCount": "المتعلمون في هذا البرنامج",
+    "progressHeadline": "حدّث تقدّمك لـ:",
+    "progressSubtitle": "تقدّمك مهم! شارك جهدك الأسبوعي لتتبع نموك",
+    "progressMinutes": "كم دقيقة قضيتها هذا الأسبوع؟",
+    "progressPlaceholder": "أضف عدد الدقائق",
+    "progressCheckBox": "هل أنهيت الدورة؟",
+    "progressButton": "إرسال التقرير"
   }
   

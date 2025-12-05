@@ -12,6 +12,15 @@
       "4": "Otro"
     },
     "requestSent": "Solicitud de apoyo enviada.",
-    "requestSentDescription": "Gracias por avisarnos, alguien se pondrá en contacto contigo pronto."
+    "requestSentDescription": "Gracias por avisarnos, alguien se pondrá en contacto contigo pronto.",
+    "analyticsTotalHours": "Has invertido en tu camino de aprendizaje",
+    "analyticsCoursesCompleted": "Has completado",
+    "analyticsLearnersCount": "Estudiantes en este programa",
+    "progressHeadline": "Actualiza tu progreso para:",
+    "progressSubtitle": "¡Tu progreso importa! Comparte tu esfuerzo semanal para seguir tu crecimiento",
+    "progressMinutes": "¿Cuántos minutos pasaste esta semana?",
+    "progressPlaceholder": "Agregar número de minutos",
+    "progressCheckBox": "¿Has terminado el curso?",
+    "progressButton": "Enviar informe"
   }
   

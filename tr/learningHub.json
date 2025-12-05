@@ -12,6 +12,15 @@
       "4": "Diğer"
     },
     "requestSent": "Destek talebi gönderildi.",
-    "requestSentDescription": "Bize bildirdiğiniz için teşekkürler. Yakında biri sizinle iletişime geçecek."
+    "requestSentDescription": "Bize bildirdiğiniz için teşekkürler. Yakında biri sizinle iletişime geçecek.",
+    "analyticsTotalHours": "Öğrenim yoluna yatırım yaptın",
+    "analyticsCoursesCompleted": "Tamamladın",
+    "analyticsLearnersCount": "Bu programdaki öğrenciler",
+    "progressHeadline": "İlerlemeni güncelle:",
+    "progressSubtitle": "İlerlemen önemli! Haftalık çabanı paylaşarak gelişimini takip et",
+    "progressMinutes": "Bu hafta kaç dakika harcadın?",
+    "progressPlaceholder": "Dakika sayısını ekle",
+    "progressCheckBox": "Dersi bitirdin mi?",
+    "progressButton": "Raporu gönder"
   }
   

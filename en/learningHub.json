@@ -12,6 +12,15 @@
       "4": "Other"
     },
     "requestSent": "Support request sent.",
-    "requestSentDescription": "Thanks for letting us know, someone will reach out to you soon."
+    "requestSentDescription": "Thanks for letting us know, someone will reach out to you soon.",
+    "analyticsTotalHours": "You have invested in your learning path",
+    "analyticsCoursesCompleted": "You have completed",
+    "analyticsLearnersCount": "Learners in this program",
+    "progressHeadline": "Update your progress for:",
+    "progressSubtitle": "Your progress matters! Share your weekly effort to track your growth",
+    "progressMinutes": "How many minutes did you spend this week?",
+    "progressPlaceholder": "Add number of minutes",
+    "progressCheckBox": "Have you finished the course?",
+    "progressButton": "Submit Report",
   }
   

@@ -12,6 +12,15 @@
       "4": "Інше"
     },
     "requestSent": "Запит на підтримку надіслано.",
-    "requestSentDescription": "Дякуємо, що повідомили. Хтось із нашої команди скоро зв’яжеться з вами."
+    "requestSentDescription": "Дякуємо, що повідомили. Хтось із нашої команди скоро зв’яжеться з вами.",
+    "analyticsTotalHours": "Ти інвестував у свій шлях навчання",
+    "analyticsCoursesCompleted": "Ти завершив",
+    "analyticsLearnersCount": "Навчальних у цій програмі",
+    "progressHeadline": "Онови свій прогрес для:",
+    "progressSubtitle": "Твій прогрес важливий! Поділися своїми щотижневими зусиллями, щоб відстежувати свій розвиток",
+    "progressMinutes": "Скільки хвилин ти витратив цього тижня?",
+    "progressPlaceholder": "Додай кількість хвилин",
+    "progressCheckBox": "Ти завершив курс?",
+    "progressButton": "Надіслати звіт"
   }
   

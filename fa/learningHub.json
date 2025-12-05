@@ -12,6 +12,15 @@
       "4": "سایر موارد"
     },
     "requestSent": "درخواست پشتیبانی ارسال شد.",
-    "requestSentDescription": "ممنون که به ما اطلاع دادید. به‌زودی با شما تماس گرفته خواهد شد."
+    "requestSentDescription": "ممنون که به ما اطلاع دادید. به‌زودی با شما تماس گرفته خواهد شد.",
+    "analyticsTotalHours": "تو در مسیر یادگیری‌ات سرمایه‌گذاری کرده‌ای",
+    "analyticsCoursesCompleted": "تو تکمیل کرده‌ای",
+    "analyticsLearnersCount": "یادگیرندگان در این برنامه",
+    "progressHeadline": "پیشرفت خود را به‌روزرسانی کن برای:",
+    "progressSubtitle": "پیشرفتت مهم است! تلاش هفتگی‌ات را به اشتراک بگذار تا رشد خود را دنبال کنی",
+    "progressMinutes": "این هفته چند دقیقه صرف کردی؟",
+    "progressPlaceholder": "تعداد دقیقه‌ها را اضافه کن",
+    "progressCheckBox": "آیا دوره را تمام کردی؟",
+    "progressButton": "ارسال گزارش"
   }
   

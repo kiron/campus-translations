@@ -12,6 +12,15 @@
       "4": "نور"
     },
     "requestSent": "د ملاتړ غوښتنه ولېږل شوه.",
-    "requestSentDescription": "مننه چې موږ ته مو وویل، ډېر ژر به څوک له تاسو سره اړیکه ونیسي."
-  }
+    "requestSentDescription": "مننه چې موږ ته مو وویل، ډېر ژر به څوک له تاسو سره اړیکه ونیسي.",
+    "analyticsTotalHours": "ته د خپل د زده‌کړې په لاره کې پانګونه کړې ده",
+    "analyticsCoursesCompleted": "ته بشپړ کړي دي",
+    "analyticsLearnersCount": "زده کوونکي په دې پروګرام کې",
+    "progressHeadline": "خپل پرمختګ نوي کړه د:",
+    "progressSubtitle": "ستا پرمختګ مهم دی! خپل اونیز هڅې شریک کړه ترڅو خپل وده تعقیب کړې",
+    "progressMinutes": "ته په دې اونۍ کې څو دقیقې مصرف کړې؟",
+    "progressPlaceholder": "د دقیقو شمېر ورکړه",
+    "progressCheckBox": "ایا کورس دې بشپړ کړی؟",
+    "progressButton": "راپور وسپاره"
+}
   
