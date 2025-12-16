@@ -1,5 +1,5 @@
 {
-    "contactUs": "Bugün size nasıl destek olabiliriz?",
+    "contactUs": "{{denomination}} ile yolunda kalmak için yardıma mı ihtiyacınız var?",
     "contactButtonHeadline": "Desteğe mi ihtiyacınız var? Yalnız değilsiniz.",
     "contactButton": "Bizimle iletişime geçin",
     "contactReasonSelectionText": "Bizimle iletişime geçtiğiniz için teşekkürler. Bugün neye ihtiyacınız var?",
