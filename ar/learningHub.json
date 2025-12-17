@@ -1,26 +1,28 @@
 {
-    "contactUs": "هل تحتاج إلى مساعدة في البقاء على المسار الصحيح مع {{denomination}}؟",
-    "contactButtonHeadline": "تحتاج إلى دعم؟ لست وحدك.",
-    "contactButton": "تواصل معنا",
-    "contactReasonSelectionText": "شكرًا لتواصلك معنا. اختر ما تحتاجه اليوم:",
-    "contactReasonDescription": "أخبرنا المزيد...",
-    "contactOption": {
-      "0": "أنا متأخر في الدراسة",
-      "1": "أشعر بالإرهاق",
-      "2": "أتعامل مع أمر شخصي",
-      "3": "دوافعي منخفضة",
-      "4": "أخرى"
-    },
-    "requestSent": "تم إرسال طلب الدعم.",
-    "requestSentDescription": "شكرًا لإبلاغنا، سيتواصل معك أحد أفراد الفريق قريبًا.",
-    "analyticsTotalHours": "لقد استثمرت في مسار تعلّمك",
-    "analyticsCoursesCompleted": "لقد أكملت",
-    "analyticsLearnersCount": "المتعلمون في هذا البرنامج",
-    "progressHeadline": "حدّث تقدّمك لـ:",
-    "progressSubtitle": "تقدّمك مهم! شارك جهدك الأسبوعي لتتبع نموك",
-    "progressMinutes": "كم دقيقة استثمرتها في تعلم <1>{{courseName}}</1> منذ آخر تقرير؟",
-    "progressPlaceholder": "أضف عدد الدقائق",
-    "progressCheckBox": "هل أنهيت الدورة؟",
-    "progressButton": "إرسال التقرير"
-  }
-  
+  "contactUs": "هل تحتاج إلى مساعدة في البقاء على المسار الصحيح مع {{denomination}}؟",
+  "contactButtonHeadline": "تحتاج إلى دعم؟ لست وحدك.",
+  "contactButton": "تواصل معنا",
+  "contactReasonSelectionText": "شكرًا لتواصلك معنا. اختر ما تحتاجه اليوم:",
+  "contactReasonDescription": "أخبرنا المزيد...",
+  "contactOption": {
+    "0": "أنا متأخر في الدراسة",
+    "1": "أشعر بالإرهاق",
+    "2": "أتعامل مع أمر شخصي",
+    "3": "دوافعي منخفضة",
+    "4": "أخرى"
+  },
+  "requestSent": "تم إرسال طلب الدعم.",
+  "requestSentDescription": "شكرًا لإبلاغنا، سيتواصل معك أحد أفراد الفريق قريبًا.",
+  "analyticsTotalHours": "لقد استثمرت في مسار تعلّمك",
+  "analyticsCoursesCompleted": "لقد أكملت",
+  "analyticsLearnersCount": "المتعلمون في هذا البرنامج",
+  "progressHeadline": "حدّث تقدّمك لـ:",
+  "progressSubtitle": "تقدّمك مهم! شارك جهدك الأسبوعي لتتبع نموك",
+  "progressMinutes": "كم دقيقة استثمرتها في تعلم <1>{{courseName}}</1> منذ آخر تقرير؟",
+  "progressPlaceholder": "أضف عدد الدقائق",
+  "progressCheckBox": "هل أنهيت الدورة؟",
+  "progressButton": "إرسال التقرير",
+  "noAppointmentsDesc": "ليس لديك أي مواعيد بعد. انضم إلى محتوى إضافي لإضافة عناصر إلى رحلتك.",
+  "joinLearningContentDesc": "عند الانضمام إلى محتوى تعليمي، سيتم عرضه في رحلتك.",
+  "addExternalCourseDesc": "عند إضافة دورة خارجية، يمكنك تتبع وقتك هنا."
+}

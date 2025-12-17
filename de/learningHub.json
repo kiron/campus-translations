@@ -1,26 +1,28 @@
 {
-    "contactUs": "Brauchst du Hilfe, um mit {{denomination}} auf Kurs zu bleiben?",
-    "contactButtonHeadline": "Brauchst du Unterstützung? Du bist nicht allein.",
-    "contactButton": "Kontaktiere uns",
-    "contactReasonSelectionText": "Danke, dass du dich meldest. Wähle, was du heute brauchst:",
-    "contactReasonDescription": "Erzähl uns mehr...",
-    "contactOption": {
-      "0": "Ich komme nicht hinterher",
-      "1": "Ich bin überfordert",
-      "2": "Ich habe mit etwas Persönlichem zu tun",
-      "3": "Meine Motivation ist gering",
-      "4": "Anderes"
-    },
-    "requestSent": "Supportanfrage gesendet.",
-    "requestSentDescription": "Danke, dass du uns informiert hast. Jemand wird sich bald bei dir melden.",
-    "analyticsTotalHours": "Du hast in deinen Lernweg investiert",
-    "analyticsCoursesCompleted": "Du hast abgeschlossen",
-    "analyticsLearnersCount": "Lernende in diesem Programm",
-    "progressHeadline": "Aktualisiere deinen Fortschritt für:",
-    "progressSubtitle": "Dein Fortschritt zählt! Teile deinen wöchentlichen Einsatz, um dein Wachstum zu verfolgen",
-    "progressMinutes": "Wie viele Minuten hast du seit der letzten Meldung in das Lernen von <1>{{courseName}}</1> investiert?",
-    "progressPlaceholder": "Anzahl der Minuten hinzufügen",
-    "progressCheckBox": "Hast du den Kurs abgeschlossen?",
-    "progressButton": "Bericht einreichen"
-  }
-  
+  "contactUs": "Brauchst du Hilfe, um mit {{denomination}} auf Kurs zu bleiben?",
+  "contactButtonHeadline": "Brauchst du Unterstützung? Du bist nicht allein.",
+  "contactButton": "Kontaktiere uns",
+  "contactReasonSelectionText": "Danke, dass du dich meldest. Wähle, was du heute brauchst:",
+  "contactReasonDescription": "Erzähl uns mehr...",
+  "contactOption": {
+    "0": "Ich komme nicht hinterher",
+    "1": "Ich bin überfordert",
+    "2": "Ich habe mit etwas Persönlichem zu tun",
+    "3": "Meine Motivation ist gering",
+    "4": "Anderes"
+  },
+  "requestSent": "Supportanfrage gesendet.",
+  "requestSentDescription": "Danke, dass du uns informiert hast. Jemand wird sich bald bei dir melden.",
+  "analyticsTotalHours": "Du hast in deinen Lernweg investiert",
+  "analyticsCoursesCompleted": "Du hast abgeschlossen",
+  "analyticsLearnersCount": "Lernende in diesem Programm",
+  "progressHeadline": "Aktualisiere deinen Fortschritt für:",
+  "progressSubtitle": "Dein Fortschritt zählt! Teile deinen wöchentlichen Einsatz, um dein Wachstum zu verfolgen",
+  "progressMinutes": "Wie viele Minuten hast du seit der letzten Meldung in das Lernen von <1>{{courseName}}</1> investiert?",
+  "progressPlaceholder": "Anzahl der Minuten hinzufügen",
+  "progressCheckBox": "Hast du den Kurs abgeschlossen?",
+  "progressButton": "Bericht einreichen",
+  "noAppointmentsDesc": "Du hast noch keine Termine. Tritt mehr Inhalten bei, um Elemente zu deiner Reise hinzuzufügen.",
+  "joinLearningContentDesc": "Wenn du einem Lerninhalt beitrittst, wird dieser in deiner Reise angezeigt.",
+  "addExternalCourseDesc": "Wenn du einen externen Kurs hinzufügst, kannst du hier deine Zeit nachverfolgen."
+}

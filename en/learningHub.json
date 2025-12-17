@@ -1,26 +1,28 @@
 {
-    "contactUs": "Need help with staying on track with {{denomination}}?",
-    "contactButtonHeadline": "Need support? You are not alone.",
-    "contactButton": "Contact us",
-    "contactReasonSelectionText": "Thanks for checking in. Choose what you need today:",
-    "contactReasonDescription": "Tell us more...",
-    "contactOption": {
-      "0": "I’m falling behind",
-      "1": "I’m overwhelmed",
-      "2": "I’m dealing with something personal",
-      "3": "My motivation is low",
-      "4": "Other"
-    },
-    "requestSent": "Support request sent.",
-    "requestSentDescription": "Thanks for letting us know, someone will reach out to you soon.",
-    "analyticsTotalHours": "You have invested in your learning path",
-    "analyticsCoursesCompleted": "You have completed",
-    "analyticsLearnersCount": "Learners in this program",
-    "progressHeadline": "Update your progress for:",
-    "progressSubtitle": "Your progress matters! Share your weekly effort to track your growth",
-    "progressMinutes": "How many minutes did you invested learning in <1>{{courseName}}</1> since last reported?",
-    "progressPlaceholder": "Add number of minutes",
-    "progressCheckBox": "Have you finished the course?",
-    "progressButton": "Submit Report"
-  }
-  
+  "contactUs": "Need help with staying on track with {{denomination}}?",
+  "contactButtonHeadline": "Need support? You are not alone.",
+  "contactButton": "Contact us",
+  "contactReasonSelectionText": "Thanks for checking in. Choose what you need today:",
+  "contactReasonDescription": "Tell us more...",
+  "contactOption": {
+    "0": "I’m falling behind",
+    "1": "I’m overwhelmed",
+    "2": "I’m dealing with something personal",
+    "3": "My motivation is low",
+    "4": "Other"
+  },
+  "requestSent": "Support request sent.",
+  "requestSentDescription": "Thanks for letting us know, someone will reach out to you soon.",
+  "analyticsTotalHours": "You have invested in your learning path",
+  "analyticsCoursesCompleted": "You have completed",
+  "analyticsLearnersCount": "Learners in this program",
+  "progressHeadline": "Update your progress for:",
+  "progressSubtitle": "Your progress matters! Share your weekly effort to track your growth",
+  "progressMinutes": "How many minutes did you invested learning in <1>{{courseName}}</1> since last reported?",
+  "progressPlaceholder": "Add number of minutes",
+  "progressCheckBox": "Have you finished the course?",
+  "progressButton": "Submit Report",
+  "noAppointmentsDesc": "You have no appointments yet. Join more content to add elements to your journey.",
+  "joinLearningContentDesc": "When you join a learning content, it will be displayed in your journey.",
+  "addExternalCourseDesc": "When you add an external course, here you can track your time."
+}

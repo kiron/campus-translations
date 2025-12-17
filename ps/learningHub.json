@@ -1,26 +1,28 @@
 {
-    "contactUs": "د {{denomination}} سره په لار کې پاتې کیدو لپاره مرسته ته اړتیا لرئ؟",
-    "contactButtonHeadline": "مرسته ته اړتیا لرئ؟ تاسو یوازې نه یاست.",
-    "contactButton": "موږ سره اړیکه ونیسئ",
-    "contactReasonSelectionText": "مننه چې اړیکه مو ونیوله. مهرباني وکړئ وټاکئ چې نن څه ته اړتیا لرئ:",
-    "contactReasonDescription": "نوره معلومات راکړئ...",
-    "contactOption": {
-      "0": "زه شاته پاتې کېږم",
-      "1": "زه له ستونزو ډک یم",
-      "2": "زه د شخصي موضوع سره مخ یم",
-      "3": "زما هڅونه کمه ده",
-      "4": "نور"
-    },
-    "requestSent": "د ملاتړ غوښتنه ولېږل شوه.",
-    "requestSentDescription": "مننه چې موږ ته مو وویل، ډېر ژر به څوک له تاسو سره اړیکه ونیسي.",
-    "analyticsTotalHours": "ته د خپل د زده‌کړې په لاره کې پانګونه کړې ده",
-    "analyticsCoursesCompleted": "ته بشپړ کړي دي",
-    "analyticsLearnersCount": "زده کوونکي په دې پروګرام کې",
-    "progressHeadline": "خپل پرمختګ نوي کړه د:",
-    "progressSubtitle": "ستا پرمختګ مهم دی! خپل اونیز هڅې شریک کړه ترڅو خپل وده تعقیب کړې",
-    "progressMinutes": "تاسې له تیر راپور راهیسې په <1>{{courseName}}</1> کې د زده کړې لپاره څو دقیقې سرمایه‌ګذاري کړې؟",
-    "progressPlaceholder": "د دقیقو شمېر ورکړه",
-    "progressCheckBox": "ایا کورس دې بشپړ کړی؟",
-    "progressButton": "راپور وسپاره"
+  "contactUs": "د {{denomination}} سره په لار کې پاتې کیدو لپاره مرسته ته اړتیا لرئ؟",
+  "contactButtonHeadline": "مرسته ته اړتیا لرئ؟ تاسو یوازې نه یاست.",
+  "contactButton": "موږ سره اړیکه ونیسئ",
+  "contactReasonSelectionText": "مننه چې اړیکه مو ونیوله. مهرباني وکړئ وټاکئ چې نن څه ته اړتیا لرئ:",
+  "contactReasonDescription": "نوره معلومات راکړئ...",
+  "contactOption": {
+    "0": "زه شاته پاتې کېږم",
+    "1": "زه له ستونزو ډک یم",
+    "2": "زه د شخصي موضوع سره مخ یم",
+    "3": "زما هڅونه کمه ده",
+    "4": "نور"
+  },
+  "requestSent": "د ملاتړ غوښتنه ولېږل شوه.",
+  "requestSentDescription": "مننه چې موږ ته مو وویل، ډېر ژر به څوک له تاسو سره اړیکه ونیسي.",
+  "analyticsTotalHours": "ته د خپل د زده‌کړې په لاره کې پانګونه کړې ده",
+  "analyticsCoursesCompleted": "ته بشپړ کړي دي",
+  "analyticsLearnersCount": "زده کوونکي په دې پروګرام کې",
+  "progressHeadline": "خپل پرمختګ نوي کړه د:",
+  "progressSubtitle": "ستا پرمختګ مهم دی! خپل اونیز هڅې شریک کړه ترڅو خپل وده تعقیب کړې",
+  "progressMinutes": "تاسې له تیر راپور راهیسې په <1>{{courseName}}</1> کې د زده کړې لپاره څو دقیقې سرمایه‌ګذاري کړې؟",
+  "progressPlaceholder": "د دقیقو شمېر ورکړه",
+  "progressCheckBox": "ایا کورس دې بشپړ کړی؟",
+  "progressButton": "راپور وسپاره",
+  "noAppointmentsDesc": "تر اوسه پورې تاسې هیڅ کوم ناسته نلرئ. د خپل سفر عناصر اضافه کولو لپاره نورو منځپانګو سره یوځای شئ.",
+  "joinLearningContentDesc": "کله چې تاسې د زده کړې منځپانګې سره یوځای شئ، دا به ستاسې په سفر کې ښکاره شي.",
+  "addExternalCourseDesc": "کله چې تاسې یو بهرنی کورس اضافه کړئ، دلته تاسې کولی شئ خپل وخت پیټه کړئ."
 }
-  
