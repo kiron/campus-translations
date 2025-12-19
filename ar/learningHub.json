@@ -24,5 +24,8 @@
   "progressButton": "إرسال التقرير",
   "noAppointmentsDesc": "ليس لديك أي مواعيد بعد. انضم إلى محتوى إضافي لإضافة عناصر إلى رحلتك.",
   "joinLearningContentDesc": "عند الانضمام إلى محتوى تعليمي، سيتم عرضه في رحلتك.",
-  "addExternalCourseDesc": "عند إضافة دورة خارجية، يمكنك تتبع وقتك هنا."
+  "addExternalCourseDesc": "عند إضافة دورة خارجية، يمكنك تتبع وقتك هنا.",
+  "youHaveInvested": "لقد استثمرت",
+  "learningContent": "المحتوى التعليمي",
+  "selfTracking": "التتبع الذاتي"
 }

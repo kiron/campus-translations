@@ -24,5 +24,8 @@
   "progressButton": "Enviar informe",
   "noAppointmentsDesc": "Aún no tienes citas. Únete a más contenido para agregar elementos a tu viaje.",
   "joinLearningContentDesc": "Cuando te unas a un contenido de aprendizaje, se mostrará en tu viaje.",
-  "addExternalCourseDesc": "Cuando agregues un curso externo, aquí podrás realizar un seguimiento de tu tiempo."
+  "addExternalCourseDesc": "Cuando agregues un curso externo, aquí podrás realizar un seguimiento de tu tiempo.",
+  "youHaveInvested": "Has invertido",
+  "learningContent": "Contenido de aprendizaje",
+  "selfTracking": "Autoseguimiento"
 }

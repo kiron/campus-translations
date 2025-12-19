@@ -24,5 +24,8 @@
   "progressButton": "Submit Report",
   "noAppointmentsDesc": "You have no appointments yet. Join more content to add elements to your journey.",
   "joinLearningContentDesc": "When you join a learning content, it will be displayed in your journey.",
-  "addExternalCourseDesc": "When you add an external course, here you can track your time."
+  "addExternalCourseDesc": "When you add an external course, here you can track your time.",
+  "youHaveInvested": "You have invested",
+  "learningContent": "Learning content",
+  "selfTracking": "Self tracking"
 }

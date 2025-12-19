@@ -24,5 +24,8 @@
   "progressButton": "Bericht einreichen",
   "noAppointmentsDesc": "Du hast noch keine Termine. Tritt mehr Inhalten bei, um Elemente zu deiner Reise hinzuzufügen.",
   "joinLearningContentDesc": "Wenn du einem Lerninhalt beitrittst, wird dieser in deiner Reise angezeigt.",
-  "addExternalCourseDesc": "Wenn du einen externen Kurs hinzufügst, kannst du hier deine Zeit nachverfolgen."
+  "addExternalCourseDesc": "Wenn du einen externen Kurs hinzufügst, kannst du hier deine Zeit nachverfolgen.",
+  "youHaveInvested": "Du hast investiert",
+  "learningContent": "Lerninhalte",
+  "selfTracking": "Selbstverfolgung"
 }
