@@ -10,7 +10,7 @@
     "availableAppointments": "Verfügbare Termine",
     "noAvailableAppointments": "Derzeit gibt es leider keine verfügbaren Termine ",
     "yourAppointments": "Deine Termine",
-    "appointmentsInfo": "Aktiviere Benachrichtigungen, um hilfreiche Erinnerung an deine Termine zu erhalten.",
+    "appointmentsInfo": "Aktiviere Benachrichtigungen, um Erinnerungen an deine Termine zu erhalten.",
     "remainingSlots": "Freie Plätze",
     "registerUntil": "Anmelden bis zum {{date}}",
     "registerToday": "Anmeldefrist",
