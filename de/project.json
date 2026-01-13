@@ -37,7 +37,7 @@
   "toolsText": "In diesem Projekt kannst du mit {{count}} Tool arbeiten.",
   "toolsText_plural": "In diesem Projekt kannst du mit {{count}} Tools arbeiten.",
   "appointments": "Termine",
-  "appointmentsInfo": "Alle Zeiten sind in deiner Zeitzone",
+  "appointmentsInfo": "Aktiviere Benachrichtigungen, um hilfreiche Erinnerung an deine Termine zu erhalten.",
   "availableAppointments": "Verfügbare Termine",
   "appointmentsPlaceholder": "Du kannst die Termine sehen sobald Du am Projekt teilnimmst.",
   "nextUp": "Nächster Termin",
