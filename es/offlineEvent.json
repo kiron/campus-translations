@@ -10,7 +10,7 @@
   "availableAppointments": "Sesiones disponibles",
   "noAvailableAppointments": "No hay sesiones disponibles en este momento ",
   "yourAppointments": "Tus sesiones",
-  "appointmentsInfo": "Todas las horas están en tu zona horaria",
+  "appointmentsInfo": "Habilita las notificaciones para recibir recordatorios útiles sobre tus eventos programados.",
   "remainingSlots": "Plazas disponibles",
   "registerUntil": "Regístrese antes del {{date}}",
   "registerToday": "Última fecha de inscripción",

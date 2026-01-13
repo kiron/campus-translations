@@ -10,7 +10,7 @@
   "availableAppointments": "قرارهای موجود",
   "noAvailableAppointments": "در حال حاضر هیچ قرار ملاقات در دسترس نیست",
   "yourAppointments": "قرارهای شما",
-  "appointmentsInfo": "همه زمان ها در منطقه زمانی شما هستند",
+  "appointmentsInfo": "اعلان‌ها را فعال کنید تا یادآوری‌های مفیدی درباره قرارهای خود دریافت کنید.",
   "remainingSlots": "اسلات های باقی مانده",
   "registerUntil": "ثبت نام تا {{date}}",
   "registerToday": "آخرین تاریخ ثبت نام",

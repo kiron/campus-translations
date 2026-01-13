@@ -9,7 +9,7 @@
   "availableAppointments": "Доступні зустрічі",
   "noAvailableAppointments": "На даний момент вільних зустрічей немає",
   "yourAppointments": "Ваші зустрічі",
-  "appointmentsInfo": "Усі часи вказані у вашому часовому поясі",
+  "appointmentsInfo": "Увімкни сповіщення, щоб отримувати корисні нагадування про твої зустрічі.",
   "remainingSlots": "Залишилися слоти",
   "registerUntil": "Реєстрація до {{date}}",
   "registerToday": "Дата останньої реєстрації",

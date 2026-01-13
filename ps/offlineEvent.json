@@ -10,7 +10,7 @@
   "availableAppointments": "موجود ګمارنې",
   "noAvailableAppointments": "په اوس وخت کې شتون شتون نلري",
   "yourAppointments": "ستاسو ملاقاتونه",
-  "appointmentsInfo": "ټول وختونه ستاسو په وخت زون کې دي",
+  "appointmentsInfo": "خبرتیاوې فعال کړئ ترڅو د خپلو ناستو په اړه ګټور یادښتونه ترلاسه کړئ.",
   "remainingSlots": "پاتې سلاټونه",
   "registerUntil": "تر {{date}} پورې نوم لیکنه وکړئ",
   "registerToday": "د نوم لیکنې وروستۍ نیټه",
