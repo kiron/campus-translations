@@ -713,5 +713,9 @@
       "playOnce": "Play once",
       "alwaysPlay": "Always play"
     }
+  },
+  "common": {
+    "close": "Close",
+    "send": "Send"
   }
 }

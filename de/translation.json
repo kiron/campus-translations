@@ -738,5 +738,9 @@
       "playOnce": "Einmal abspielen",
       "alwaysPlay": "Immer abspielen"
     }
+  },
+  "common": {
+    "close": "Schließen",
+    "send": "Senden"
   }
 }

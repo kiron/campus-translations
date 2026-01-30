@@ -584,5 +584,9 @@
       "playOnce": "Bir kez oynat",
       "alwaysPlay": "Her zaman oynat"
     }
+  },
+  "common": {
+    "close": "Kapat",
+    "send": "Gönder"
   }
 }

@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "Cuando agregues un curso externo, aquí podrás realizar un seguimiento de tu tiempo.",
   "youHaveInvested": "Has invertido",
   "learningContent": "Contenido de aprendizaje",
-  "selfTracking": "Autoseguimiento"
+  "selfTracking": "Autoseguimiento",
+  "upcomingAppointments": "Próximas Citas",
+  "updateProgress": "Actualizar Progreso",
+  "updateProgressDesc": "Documenta el tiempo que has dedicado a este contenido.",
+  "documentProgress": "Documenta tu progreso",
+  "today": "Hoy",
+  "learningJourneySubtitle": "Sigue tu viaje de aprendizaje paso a paso. Haz clic en una fecha para ver tus tareas y realizar un seguimiento de tu progreso.",
+  "todo": {
+    "dueOnDate": "Fecha límite: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} completadas",
+    "markAsDone": "Marcar como hecho",
+    "markNotDone": "Marcar como no hecho",
+    "feedbackQuestion": "¿Cómo te sentiste al completar esta tarea?",
+    "tasks": "{{completedCount}}/{{todosCount}} tareas",
+    "send": "Enviar",
+    "back": "Atrás",
+    "markedCompleted": "Tarea marcada como completada",
+    "markedUncompleted": "Tarea marcada como no completada",
+    "feedbackSubmitted": "Comentario enviado",
+    "error": "¡Algo salió mal!"
+  }
 }

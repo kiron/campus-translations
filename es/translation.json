@@ -722,5 +722,9 @@
       "playOnce": "Reproducir una vez",
       "alwaysPlay": "Reproducir siempre"
     }
+  },
+  "common": {
+    "close": "Cerrar",
+    "send": "Enviar"
   }
 }

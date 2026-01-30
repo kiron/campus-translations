@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "وقتی یک دوره خارجی اضافه می‌کنید، می‌توانید زمان خود را در اینجا پیگیری کنید.",
   "youHaveInvested": "شما سرمایه‌گذاری کرده‌اید",
   "learningContent": "محتوای آموزشی",
-  "selfTracking": "پیگیری خودکار"
+  "selfTracking": "پیگیری خودکار",
+  "upcomingAppointments": "قرارهای آینده",
+  "updateProgress": "به‌روزرسانی پیشرفت",
+  "updateProgressDesc": "زمانی را که برای این محتوا صرف کرده‌اید مستند کنید.",
+  "documentProgress": "پیشرفت خود را مستند کنید",
+  "today": "امروز",
+  "learningJourneySubtitle": "سفر یادگیری خود را گام به گام دنبال کنید. برای دیدن کارهای خود و پیگیری پیشرفتتان، روی یک تاریخ کلیک کنید.",
+  "todo": {
+    "dueOnDate": "سررسید: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} تکمیل شده",
+    "markAsDone": "علامت‌گذاری به عنوان انجام شده",
+    "markNotDone": "علامت‌گذاری به عنوان انجام نشده",
+    "feedbackQuestion": "حس شما پس از اتمام این کار چگونه بود؟",
+    "tasks": "{{completedCount}}/{{todosCount}} کار",
+    "send": "ارسال",
+    "back": "بازگشت",
+    "markedCompleted": "وظیفه به عنوان تکمیل‌شده علامت‌گذاری شد",
+    "markedUncompleted": "وظیفه به عنوان تکمیل‌نشده علامت‌گذاری شد",
+    "feedbackSubmitted": "بازخورد ثبت شد",
+    "error": "مشکلی پیش آمد!"
+  }
 }

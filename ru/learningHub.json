@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "Когда вы добавляете внешний курс, здесь вы можете отслеживать свое время.",
   "youHaveInvested": "Вы инвестировали",
   "learningContent": "Учебный контент",
-  "selfTracking": "Самоотслеживание"
+  "selfTracking": "Самоотслеживание",
+  "upcomingAppointments": "Предстоящие встречи",
+  "updateProgress": "Обновить прогресс",
+  "updateProgressDesc": "Задокументируйте время, которое вы потратили на этот контент.",
+  "documentProgress": "Задокументируйте свой прогресс",
+  "today": "Сегодня",
+  "learningJourneySubtitle": "Следуйте за своим учебным путешествием шаг за шагом. Нажмите на дату, чтобы увидеть свои задачи и отслеживать прогресс.",
+  "todo": {
+    "dueOnDate": "Срок: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} выполнено",
+    "markAsDone": "Отметить как выполненное",
+    "markNotDone": "Отметить как невыполненное",
+    "feedbackQuestion": "Как вы себя чувствовали после выполнения этой задачи?",
+    "tasks": "{{completedCount}}/{{todosCount}} задач",
+    "send": "Отправить",
+    "back": "Назад",
+    "markedCompleted": "Задача отмечена как выполненная",
+    "markedUncompleted": "Задача отмечена как невыполненная",
+    "feedbackSubmitted": "Отзыв отправлен",
+    "error": "Что-то пошло не так!"
+  }
 }

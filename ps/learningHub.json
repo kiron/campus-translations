@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "کله چې تاسې یو بهرنی کورس اضافه کړئ، دلته تاسې کولی شئ خپل وخت پیټه کړئ.",
   "youHaveInvested": "تاسې سرمایه‌ګذاري کړې",
   "learningContent": "د زده کړې منځپانګه",
-  "selfTracking": "د ځان پیټه کول"
+  "selfTracking": "د ځان پیټه کول",
+  "upcomingAppointments": "راتلونکي ناستې",
+  "updateProgress": "پرمختګ تازه کړئ",
+  "updateProgressDesc": "دا وخت مستند کړئ چې تاسې په دې منځپانګې کې تیر کړی.",
+  "documentProgress": "خپل پرمختګ مستند کړئ",
+  "today": "نن",
+  "learningJourneySubtitle": "خپل د زده کړې سفر مرحله په مرحله تعقیب کړئ. د خپلو دندو لیدو او د خپل پرمختګ پیټه کولو لپاره په یوه تاریخ کلیک وکړئ.",
+  "todo": {
+    "dueOnDate": "په نېټه: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} بشپړ شوې",
+    "markAsDone": "د بشپړ شوي په توګه نښه کړئ",
+    "markNotDone": "د نابشپړ شوي په توګه نښه کړئ",
+    "feedbackQuestion": "د دې دندې بشپړولو وروسته تاسې څنګه احساس کړ؟",
+    "tasks": "{{completedCount}}/{{todosCount}} دندې",
+    "send": "لېږل",
+    "back": "بېرته",
+    "markedCompleted": "د بشپړ شوي په توګه نښه شو",
+    "markedUncompleted": "د نابشپړ شوي په توګه نښه شو",
+    "feedbackSubmitted": "باورونه وسپارل شول",
+    "error": "یو څه غلط شول!"
+  }
 }

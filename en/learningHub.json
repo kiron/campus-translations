@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "When you add an external course, here you can track your time.",
   "youHaveInvested": "You have invested",
   "learningContent": "Learning content",
-  "selfTracking": "Self tracking"
+  "selfTracking": "Self tracking",
+  "upcomingAppointments": "Upcoming Appointments",
+  "updateProgress": "Update Progress",
+  "updateProgressDesc": "Document the time you've spent on this content.",
+  "documentProgress": "Document your progress",
+  "today": "Today",
+  "learningJourneySubtitle": "Follow your learning journey step by step. Click a date to see your tasks and track your progress along the way.",
+  "todo": {
+    "dueOnDate": "Due on: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} completed",
+    "markAsDone": "Mark as done",
+    "markNotDone": "Mark as not done",
+    "feedbackQuestion": "How did you feel completing this task?",
+    "tasks": "{{completedCount}}/{{todosCount}} tasks",
+    "send": "Send",
+    "back": "Back",
+    "markedCompleted": "Todo marked as completed",
+    "markedUncompleted": "Todo marked as uncompleted",
+    "feedbackSubmitted": "Feedback submitted",
+    "error": "Something went wrong!"
+  }
 }

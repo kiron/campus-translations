@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "Коли ви додаєте зовнішній курс, тут ви можете відстежувати свій час.",
   "youHaveInvested": "Ви вклали",
   "learningContent": "Навчальний вміст",
-  "selfTracking": "Самостійне відстеження"
+  "selfTracking": "Самостійне відстеження",
+  "upcomingAppointments": "Майбутні зустрічі",
+  "updateProgress": "Оновити прогрес",
+  "updateProgressDesc": "Зафіксуйте час, витрачений на цей вміст.",
+  "documentProgress": "Зафіксуйте свій прогрес",
+  "today": "Сьогодні",
+  "learningJourneySubtitle": "Слідкуйте за своєю навчальною подорожжю крок за кроком. Натисніть на дату, щоб побачити свої завдання та відстежувати свій прогрес.",
+  "todo": {
+    "dueOnDate": "Термін: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} виконано",
+    "markAsDone": "Позначити як виконане",
+    "markNotDone": "Позначити як невиконане",
+    "feedbackQuestion": "Як ви себе почували після виконання цього завдання?",
+    "tasks": "{{completedCount}}/{{todosCount}} завдань",
+    "send": "Надіслати",
+    "back": "Назад",
+    "markedCompleted": "Завдання позначено як виконане",
+    "markedUncompleted": "Завдання позначено як невиконане",
+    "feedbackSubmitted": "Відгук надіслано",
+    "error": "Щось пішло не так!"
+  }
 }

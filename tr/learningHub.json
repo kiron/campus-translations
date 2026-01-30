@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "Harici bir kurs eklediğinizde, burada zamanınızı takip edebilirsiniz.",
   "youHaveInvested": "Yatırım yaptınız",
   "learningContent": "Öğrenme içeriği",
-  "selfTracking": "Kendi kendini izleme"
+  "selfTracking": "Kendi kendini izleme",
+  "upcomingAppointments": "Yaklaşan Randevular",
+  "updateProgress": "İlerlemeyi Güncelle",
+  "updateProgressDesc": "Bu içerik üzerinde harcadığınız zamanı belgeleyin.",
+  "documentProgress": "İlerlemenizi belgeleyin",
+  "today": "Bugün",
+  "learningJourneySubtitle": "Öğrenme yolculuğunuzu adım adım takip edin. Görevlerinizi görmek ve ilerlemenizi takip etmek için bir tarihe tıklayın.",
+  "todo": {
+    "dueOnDate": "Son Tarih: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} tamamlandı",
+    "markAsDone": "Tamamlandı olarak işaretle",
+    "markNotDone": "Tamamlanmadı olarak işaretle",
+    "feedbackQuestion": "Bu görevi tamamlarken nasıl hissettiniz?",
+    "tasks": "{{completedCount}}/{{todosCount}} görev",
+    "send": "Gönder",
+    "back": "Geri",
+    "markedCompleted": "Görev tamamlandı olarak işaretlendi",
+    "markedUncompleted": "Görev tamamlanmadı olarak işaretlendi",
+    "feedbackSubmitted": "Geri bildirim gönderildi",
+    "error": "Bir şeyler yanlış gitti!"
+  }
 }

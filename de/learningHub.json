@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "Wenn du einen externen Kurs hinzufügst, kannst du hier deine Zeit nachverfolgen.",
   "youHaveInvested": "Du hast investiert",
   "learningContent": "Lerninhalte",
-  "selfTracking": "Selbstverfolgung"
+  "selfTracking": "Selbstverfolgung",
+  "upcomingAppointments": "Bevorstehende Termine",
+  "updateProgress": "Fortschritt aktualisieren",
+  "updateProgressDesc": "Dokumentieren Sie die Zeit, die Sie für diesen Inhalt aufgewendet haben.",
+  "documentProgress": "Dokumentieren Sie Ihren Fortschritt",
+  "today": "Heute",
+  "learningJourneySubtitle": "Folgen Sie Ihrer Lernreise Schritt für Schritt. Klicken Sie auf ein Datum, um Ihre Aufgaben zu sehen und Ihren Fortschritt zu verfolgen.",
+  "todo": {
+    "dueOnDate": "Fällig am: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} erledigt",
+    "markAsDone": "Als erledigt markieren",
+    "markNotDone": "Als nicht erledigt markieren",
+    "feedbackQuestion": "Wie fühlen Sie sich nach Abschluss dieser Aufgabe?",
+    "tasks": "{{completedCount}}/{{todosCount}} Aufgaben",
+    "send": "Senden",
+    "back": "Zurück",
+    "markedCompleted": "Todo als erledigt markiert",
+    "markedUncompleted": "Todo als nicht erledigt markiert",
+    "feedbackSubmitted": "Feedback übermittelt",
+    "error": "Etwas ist schiefgelaufen!"
+  }
 }

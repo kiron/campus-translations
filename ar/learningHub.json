@@ -27,5 +27,25 @@
   "addExternalCourseDesc": "عند إضافة دورة خارجية، يمكنك تتبع وقتك هنا.",
   "youHaveInvested": "لقد استثمرت",
   "learningContent": "المحتوى التعليمي",
-  "selfTracking": "التتبع الذاتي"
+  "selfTracking": "التتبع الذاتي",
+  "upcomingAppointments": "المواعيد القادمة",
+  "updateProgress": "تحديث التقدم",
+  "updateProgressDesc": "وثق الوقت الذي قضيته على هذا المحتوى.",
+  "documentProgress": "وثق تقدمك",
+  "today": "اليوم",
+  "learningJourneySubtitle": "اتبع رحلتك التعليمية خطوة بخطوة. انقر على تاريخ لرؤية مهامك وتتبع تقدمك على طول الطريق.",
+  "todo": {
+    "dueOnDate": "تاريخ الاستحقاق: {{date}}",
+    "completed": "{{completedTodosCount}}/{{todosCount}} مكتمل",
+    "markAsDone": "وضع علامة كمكتمل",
+    "markNotDone": "وضع علامة كغير مكتمل",
+    "feedbackQuestion": "كيف شعرت عند إكمال هذه المهمة؟",
+    "tasks": "{{completedCount}}/{{todosCount}} مهام",
+    "send": "إرسال",
+    "back": "رجوع",
+    "markedCompleted": "تم وضع علامة على المهمة كمكتملة",
+    "markedUncompleted": "تم وضع علامة على المهمة كغير مكتملة",
+    "feedbackSubmitted": "تم إرسال التعليق",
+    "error": "حدث خطأ ما!"
+  }
 }
