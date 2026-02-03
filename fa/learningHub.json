@@ -36,6 +36,7 @@
   "learningJourneySubtitle": "سفر یادگیری خود را گام به گام دنبال کنید. برای دیدن کارهای خود و پیگیری پیشرفتتان، روی یک تاریخ کلیک کنید.",
   "todo": {
     "dueOnDate": "سررسید: {{date}}",
+    "availableOn": "در تاریخ: {{date}} در دسترس خواهد بود",
     "completed": "{{completedTodosCount}}/{{todosCount}} تکمیل شده",
     "markAsDone": "علامت‌گذاری به عنوان انجام شده",
     "markNotDone": "علامت‌گذاری به عنوان انجام نشده",

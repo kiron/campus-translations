@@ -36,6 +36,7 @@
   "learningJourneySubtitle": "Sigue tu viaje de aprendizaje paso a paso. Haz clic en una fecha para ver tus tareas y realizar un seguimiento de tu progreso.",
   "todo": {
     "dueOnDate": "Fecha límite: {{date}}",
+    "availableOn": "Estará disponible el: {{date}}",
     "completed": "{{completedTodosCount}}/{{todosCount}} completadas",
     "markAsDone": "Marcar como hecho",
     "markNotDone": "Marcar como no hecho",

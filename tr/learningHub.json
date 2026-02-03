@@ -36,6 +36,7 @@
   "learningJourneySubtitle": "Öğrenme yolculuğunuzu adım adım takip edin. Görevlerinizi görmek ve ilerlemenizi takip etmek için bir tarihe tıklayın.",
   "todo": {
     "dueOnDate": "Son Tarih: {{date}}",
+    "availableOn": "Şu tarihte kullanılabilir olacak: {{date}}",
     "completed": "{{completedTodosCount}}/{{todosCount}} tamamlandı",
     "markAsDone": "Tamamlandı olarak işaretle",
     "markNotDone": "Tamamlanmadı olarak işaretle",

@@ -36,6 +36,7 @@
   "learningJourneySubtitle": "خپل د زده کړې سفر مرحله په مرحله تعقیب کړئ. د خپلو دندو لیدو او د خپل پرمختګ پیټه کولو لپاره په یوه تاریخ کلیک وکړئ.",
   "todo": {
     "dueOnDate": "په نېټه: {{date}}",
+    "availableOn": "به په تاریخ: {{date}} کې په لاسرسي کې وي",
     "completed": "{{completedTodosCount}}/{{todosCount}} بشپړ شوې",
     "markAsDone": "د بشپړ شوي په توګه نښه کړئ",
     "markNotDone": "د نابشپړ شوي په توګه نښه کړئ",

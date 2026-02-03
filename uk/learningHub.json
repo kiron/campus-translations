@@ -36,6 +36,7 @@
   "learningJourneySubtitle": "Слідкуйте за своєю навчальною подорожжю крок за кроком. Натисніть на дату, щоб побачити свої завдання та відстежувати свій прогрес.",
   "todo": {
     "dueOnDate": "Термін: {{date}}",
+    "availableOn": "Буде доступно з: {{date}}",
     "completed": "{{completedTodosCount}}/{{todosCount}} виконано",
     "markAsDone": "Позначити як виконане",
     "markNotDone": "Позначити як невиконане",

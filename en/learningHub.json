@@ -36,6 +36,7 @@
   "learningJourneySubtitle": "Follow your learning journey step by step. Click a date to see your tasks and track your progress along the way.",
   "todo": {
     "dueOnDate": "Due on: {{date}}",
+    "availableOn": "Will be available on: {{date}}",
     "completed": "{{completedTodosCount}}/{{todosCount}} completed",
     "markAsDone": "Mark as done",
     "markNotDone": "Mark as not done",
