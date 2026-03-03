@@ -51,6 +51,7 @@
     "markedCompleted": "Görev tamamlandı olarak işaretlendi",
     "markedUncompleted": "Görev tamamlanmadı olarak işaretlendi",
     "feedbackSubmitted": "Geri bildirim gönderildi",
-    "error": "Bir şeyler yanlış gitti!"
+    "error": "Bir şeyler yanlış gitti!",
+    "needsAttention": "Görevlerini tamamla ve planına sadık kal"
   }
 }

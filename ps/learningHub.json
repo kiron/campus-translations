@@ -51,6 +51,7 @@
     "markedCompleted": "د بشپړ شوي په توګه نښه شو",
     "markedUncompleted": "د نابشپړ شوي په توګه نښه شو",
     "feedbackSubmitted": "باورونه وسپارل شول",
-    "error": "یو څه غلط شول!"
+    "error": "یو څه غلط شول!",
+    "needsAttention": "خپل کارونه بشپړ کړه او پر پلان پاتې شه"
   }
 }

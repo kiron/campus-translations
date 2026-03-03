@@ -51,6 +51,7 @@
     "markedCompleted": "Tarea marcada como completada",
     "markedUncompleted": "Tarea marcada como no completada",
     "feedbackSubmitted": "Comentario enviado",
-    "error": "¡Algo salió mal!"
+    "error": "¡Algo salió mal!",
+    "needsAttention": "Completa tus tareas y mantente al día"
   }
 }

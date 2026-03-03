@@ -51,6 +51,7 @@
     "markedCompleted": "Todo marked as completed",
     "markedUncompleted": "Todo marked as uncompleted",
     "feedbackSubmitted": "Feedback submitted",
-    "error": "Something went wrong!"
+    "error": "Something went wrong!",
+    "needsAttention": "Complete your tasks to stay on track"
   }
 }

@@ -53,6 +53,7 @@
     "markedCompleted": "تم وضع علامة على المهمة كمكتملة",
     "markedUncompleted": "تم وضع علامة على المهمة كغير مكتملة",
     "feedbackSubmitted": "تم إرسال التعليق",
-    "error": "حدث خطأ ما!"
+    "error": "حدث خطأ ما!",
+    "needsAttention": "أنهِ مهامك وابقَ على المسار"
   }
 }

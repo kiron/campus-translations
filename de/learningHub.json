@@ -51,6 +51,7 @@
     "markedCompleted": "Todo als erledigt markiert",
     "markedUncompleted": "Todo als nicht erledigt markiert",
     "feedbackSubmitted": "Feedback übermittelt",
-    "error": "Etwas ist schiefgelaufen!"
+    "error": "Etwas ist schiefgelaufen!",
+    "needsAttention": "Erledige deine Aufgaben, um auf Kurs zu bleiben."
   }
 }
