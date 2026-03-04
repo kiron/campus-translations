@@ -39,6 +39,14 @@
   "documentProgress": "وثق تقدمك",
   "today": "اليوم",
   "learningJourneySubtitle": "اتبع رحلتك التعليمية خطوة بخطوة. انقر على تاريخ لرؤية مهامك وتتبع تقدمك على طول الطريق.",
+  "uploadCertificate": "قم بتحميل شهادتك",
+  "markCourseCompleted": "وضع علامة مكتمل",
+  "reportSubmitted": "تم إرسال التقرير بنجاح.",
+  "errors": {
+    "enterMinutes": "يرجى إدخال عدد الدقائق التي قضيتها في الدورة.",
+    "invalidCertificate": "شهادة غير صالحة! يرجى التواصل مع الدعم.",
+    "errorMessage": "عذراً! حدث خطأ ما."
+  },
   "todo": {
     "dueOnDate": "تاريخ الاستحقاق: {{date}}",
     "availableOn": "سيكون متاحًا في: {{date}}",

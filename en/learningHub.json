@@ -37,6 +37,14 @@
   "documentProgress": "Document your progress",
   "today": "Today",
   "learningJourneySubtitle": "Follow your learning journey step by step. Click a date to see your tasks and track your progress along the way.",
+  "uploadCertificate": "Upload your certificate",
+  "markCourseCompleted": "Mark Course as Completed",
+  "reportSubmitted": "Your report has been submitted successfully.",
+  "errors": {
+    "enterMinutes": "Please enter the minutes spent on the course.",
+    "invalidCertificate": "Invalid certificate! please contact support.",
+    "errorMessage": "Oops! Something went wrong."
+  },
   "todo": {
     "dueOnDate": "Due on: {{date}}",
     "availableOn": "Will be available on: {{date}}",

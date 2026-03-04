@@ -37,6 +37,14 @@
   "documentProgress": "Documenta tu progreso",
   "today": "Hoy",
   "learningJourneySubtitle": "Sigue tu viaje de aprendizaje paso a paso. Haz clic en una fecha para ver tus tareas y realizar un seguimiento de tu progreso.",
+  "uploadCertificate": "Carga tu certificado",
+  "markCourseCompleted": "Marcar como Terminado",
+  "reportSubmitted": "Tu informe ha sido enviado con éxito.",
+  "errors": {
+    "enterMinutes": "Por favor ingresa los minutos dedicados al curso.",
+    "invalidCertificate": "¡Certificado inválido! por favor contacta al soporte.",
+    "errorMessage": "Ha ocurrido un error."
+  },
   "todo": {
     "dueOnDate": "Fecha límite: {{date}}",
     "availableOn": "Estará disponible el: {{date}}",

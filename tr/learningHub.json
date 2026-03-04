@@ -37,6 +37,14 @@
   "documentProgress": "İlerlemenizi belgeleyin",
   "today": "Bugün",
   "learningJourneySubtitle": "Öğrenme yolculuğunuzu adım adım takip edin. Görevlerinizi görmek ve ilerlemenizi takip etmek için bir tarihe tıklayın.",
+  "uploadCertificate": "Sertifikanızı yükleyin",
+  "markCourseCompleted": "Tamamlandı olarak işaretle",
+  "reportSubmitted": "Raporunuz başarıyla gönderildi.",
+  "errors": {
+    "enterMinutes": "Lütfen kursa harcadığınız dakika sayısını girin.",
+    "invalidCertificate": "Geçersiz sertifika! Lütfen destek ekibiyle iletişime geçin.",
+    "errorMessage": "Hata! Bir şeyler yanlış gitti."
+  },
   "todo": {
     "dueOnDate": "Son Tarih: {{date}}",
     "availableOn": "Şu tarihte kullanılabilir olacak: {{date}}",
