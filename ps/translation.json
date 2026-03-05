@@ -471,5 +471,6 @@
   "common": {
     "close": "تړل",
     "send": "لېږل"
-  }
+  },
+  "onboardingInfoBtn": "د آنبورډینګ معلومات"
 }

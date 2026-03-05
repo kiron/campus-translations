@@ -219,7 +219,7 @@
     "stayInOldProgram": "Stay in the old program",
     "updatedProgramMaintained": "Don't worry, your progress will be maintained when you join the new program.",
     "updatedProgramText": "Your progress is safe, you can continue right where you left off.",
-    "updatedProgram":  "We've refreshed your learning journey with new content!",
+    "updatedProgram": "We've refreshed your learning journey with new content!",
     "evaluate": "Evaluate the course",
     "evaluateHelp": "Help us improve your learning experience by answering some questions about this course.",
     "btnShareReview": "Share your review",
@@ -717,5 +717,6 @@
   "common": {
     "close": "Close",
     "send": "Send"
-  }
+  },
+  "onboardingInfoBtn": "Onboarding information"
 }

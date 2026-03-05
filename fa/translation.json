@@ -471,5 +471,6 @@
   "common": {
     "close": "بستن",
     "send": "ارسال"
-  }
+  },
+  "onboardingInfoBtn": "اطلاعات راه‌اندازی"
 }

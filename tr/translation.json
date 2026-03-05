@@ -588,5 +588,6 @@
   "common": {
     "close": "Kapat",
     "send": "Gönder"
-  }
+  },
+  "onboardingInfoBtn": "Oryantasyon bilgileri"
 }

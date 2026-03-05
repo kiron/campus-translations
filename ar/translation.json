@@ -774,5 +774,6 @@
   "common": {
     "close": "إغلاق",
     "send": "إرسال"
-  }
+  },
+  "onboardingInfoBtn": "معلومات التسجيل"
 }

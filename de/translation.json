@@ -742,5 +742,6 @@
   "common": {
     "close": "Schließen",
     "send": "Senden"
-  }
+  },
+  "onboardingInfoBtn": "Onboarding-Informationen"
 }

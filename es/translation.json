@@ -726,5 +726,6 @@
   "common": {
     "close": "Cerrar",
     "send": "Enviar"
-  }
+  },
+  "onboardingInfoBtn": "Información de incorporación"
 }
