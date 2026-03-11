@@ -87,6 +87,22 @@
       "openSettings": "Abrir configuración de cookies"
     }
   },
+  "profilePrivacy": {
+    "title": "Privacidad del perfil",
+    "info": "Controla cómo otros estudiantes ven tu perfil.",
+    "showFirstName": {
+      "title": "Nombre",
+      "description": "Muestra tu nombre en lugar de tu apodo."
+    },
+    "showActivity": {
+      "title": "Actividad",
+      "description": "Muestra tus cursos iniciados, proyectos y eventos a los que te uniste."
+    },
+    "enableDirectMessage": {
+      "title": "Mensajes directos",
+      "description": "Permite que otros estudiantes te contacten dentro del campus."
+    }
+  },
   "pageTitle": "Tus preferencias",
   "preferencesSaved": "Preferencias actualizadas con éxito",
   "preferencesError": "No se pudieron guardar las preferencias"

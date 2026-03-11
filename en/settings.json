@@ -75,6 +75,22 @@
       "openSettings": "Open Cookie Settings"
     }
   },
+  "profilePrivacy": {
+    "title": "Profile Privacy",
+    "info": "Control how other learners see your profile.",
+    "showFirstName": {
+      "title": "First Name",
+      "description": "Show your first name instead of your nickname."
+    },
+    "showActivity": {
+      "title": "Activity",
+      "description": "Show your started courses, joined projects and events."
+    },
+    "enableDirectMessage": {
+      "title": "Direct Messaging",
+      "description": "Allow other learners to contact you within campus."
+    }
+  },
   "pageTitle": "Your Preferences",
   "preferencesSaved": "Preferences updated successfully",
   "preferencesError": "Failed to save preferences"

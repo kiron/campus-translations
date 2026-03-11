@@ -87,6 +87,22 @@
       "openSettings": "Cookie-Einstellungen öffnen"
     }
   },
+  "profilePrivacy": {
+    "title": "Profil-Privatsphäre",
+    "info": "Bestimme, wie andere Lernende dein Profil sehen.",
+    "showFirstName": {
+      "title": "Vorname",
+      "description": "Zeige deinen Vornamen anstelle deines Nicknamens an."
+    },
+    "showActivity": {
+      "title": "Aktivität",
+      "description": "Zeige begonnene Kurse, beigetretene Projekte und Veranstaltungen an."
+    },
+    "enableDirectMessage": {
+      "title": "Direktnachrichten",
+      "description": "Erlaube anderen Lernenden, dich innerhalb des Campus zu kontaktieren."
+    }
+  },
   "pageTitle": "Deine Einstellungen",
   "preferencesSaved": "Einstellungen erfolgreich aktualisiert",
   "preferencesError": "Einstellungen konnten nicht gespeichert werden"

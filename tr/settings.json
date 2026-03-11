@@ -87,6 +87,22 @@
       "openSettings": "Çerez Ayarlarını Aç"
     }
   },
+  "profilePrivacy": {
+    "title": "Profil Gizliliği",
+    "info": "Diğer öğrencilerin profilinizi nasıl göreceğini kontrol edin.",
+    "showFirstName": {
+      "title": "Ad",
+      "description": "Takma adınız yerine adınızı gösterin."
+    },
+    "showActivity": {
+      "title": "Etkinlik",
+      "description": "Başladığınız kursları, katıldığınız projeleri ve etkinlikleri gösterin."
+    },
+    "enableDirectMessage": {
+      "title": "Doğrudan Mesajlaşma",
+      "description": "Diğer öğrencilerin kampüs içinde sizinle iletişim kurmasına izin verin."
+    }
+  },
   "pageTitle": "Tercihlerin",
   "preferencesSaved": "Tercihler başarıyla güncellendi",
   "preferencesError": "Tercihler kaydedilemedi"
