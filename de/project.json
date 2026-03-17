@@ -65,6 +65,12 @@
     "continue": "Fortfahren",
     "markAsCompletedComment": "Abschluss bestätigen bedeutet, dass die Lernenden nicht länger im Kurs/Projekt/Programm eingeschrieben ist",
     "errorMessage": "Ups! Etwas ist schiefgegangen.",
-    "retry": "Erneut versuchen"
+    "retry": "Erneut versuchen",
+    "allSelected": "Alle {{count}} Teilnehmenden sind ausgewählt.",
+    "selectAllPages": "Alle Seiten auswählen",
+    "clearSelection": "Auswahl aufheben",
+    "markAsCompleteSelected": "Abschluss für Ausgewählte bestätigen",
+    "markParticipantsAsCompleted": "Abschlüsse für Teilnehmende bestätigen",
+    "cancel": "Abbrechen"
   }
 }

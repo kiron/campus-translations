@@ -67,6 +67,12 @@
     "continue": "Continue",
     "markAsCompletedComment": "Marking as complete means the student will be no longer enrolled in the program.",
     "errorMessage": "Oops! Something went wrong.",
-    "retry": "Retry"
+    "retry": "Retry",
+    "allSelected": "All {{count}} participants are selected.",
+    "selectAllPages": "Select all pages",
+    "clearSelection": "Clear selection",
+    "markAsCompleteSelected": "Mark selected as complete",
+    "markParticipantsAsCompleted": "Mark participants as completed",
+    "cancel": "Cancel"
   }
 }

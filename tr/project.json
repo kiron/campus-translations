@@ -66,6 +66,12 @@
     "continue": "Devam et",
     "markAsCompletedComment": "Tamamlandı olarak işaretlemek, öğrencinin programdan kaydının silineceği anlamına gelir.",
     "errorMessage": "Hata oluştu.",
-    "retry": "Tekrar dene"
+    "retry": "Tekrar dene",
+    "allSelected": "{{count}} katılımcının tümü seçildi.",
+    "selectAllPages": "Tüm sayfaları seç",
+    "clearSelection": "Seçimi temizle",
+    "markAsCompleteSelected": "Seçilenleri tamamlandı olarak işaretle",
+    "markParticipantsAsCompleted": "Katılımcıları tamamlandı olarak işaretle",
+    "cancel": "İptal"
   }
 }

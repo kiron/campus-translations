@@ -66,6 +66,12 @@
     "continue": "Continuar",
     "markAsCompletedComment": "Al marcar como completado, el/la estudiante dejará de estar inscrito/a en el programa.",
     "errorMessage": "Ha ocurrido un error.",
-    "retry": "Reintentar"
+    "retry": "Reintentar",
+    "allSelected": "Se han seleccionado los {{count}} participantes.",
+    "selectAllPages": "Seleccionar todas las páginas",
+    "clearSelection": "Borrar selección",
+    "markAsCompleteSelected": "Marcar los seleccionados como completados",
+    "markParticipantsAsCompleted": "Marcar a los participantes como completados",
+    "cancel": "Cancelar"
   }
 }
