@@ -121,8 +121,11 @@
       "certificateDate": "تاریخ گواهی",
       "certificateDateDesc": "افزودن گواهینامه به درخواست شما در دانشگاه کمک می کند.",
       "yes": "آره",
-      "no": "خیر"
-    }
+      "no": "خیر",
+      "deleteCertificateTitle": "حذف گواهینامه"
+    },
+    "addToWallet": "افزودن به کیف داده",
+    "addedToWallet": "به کیف داده اضافه شد"
   },
   "transcriptOfRecords": {
     "descriptionSupport": "عالی! شما قبلاً دوره های تأیید شده زیادی دارید. یک PDF با لیستی از دستاوردهای خود بارگیری کنید. می توانید آن را به CV یا برنامه های دانشگاهی خود ضمیمه کنید."
@@ -472,5 +475,11 @@
     "close": "بستن",
     "send": "ارسال"
   },
-  "onboardingInfoBtn": "اطلاعات راه‌اندازی"
+  "onboardingInfoBtn": "اطلاعات راه‌اندازی",
+  "successPage": {
+    "addCert": "افزودن گواهینامه",
+    "completedPrograms": "برنامه‌های تکمیل‌شده شما",
+    "completedCourses": "دوره‌های تکمیل‌شده شما",
+    "learningMilestones": "نشان‌ها"
+  }
 }

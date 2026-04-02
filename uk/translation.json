@@ -97,6 +97,10 @@
     "coursesLeft_0": "курс залишився",
     "coursesLeft_1": "курси залишилися",
     "coursesLeft_2": "курсів залишилися",
+    "coursesFinished": "курс завершено",
+    "coursesFinished_plural": "курсів завершено",
+    "coursesLeft": "курс залишився",
+    "coursesLeft_plural": "курсів залишилось",
     "language": {
       "en": "англійська",
       "de": "німецька",
@@ -117,8 +121,11 @@
       "certificateDate": "Дата свідоцтва",
       "certificateDateDesc": "Додавання сертифіката допоможе з подачею до університету.",
       "yes": "Так",
-      "no": "Ні "
-    }
+      "no": "Ні ",
+      "deleteCertificateTitle": "Видалити сертифікат"
+    },
+    "addToWallet": "Додати до гаманця даних",
+    "addedToWallet": "Додано до гаманця даних"
   },
   "transcriptOfRecords": {
     "descriptionSupport": "Чудово, у вас вже є багато перевірених курсів! Якщо ви вступаєте в університет, ви можете попросити PDF зі списком своїх досягнень. Будь ласка зв'яжіться з {{orgDisplayName}} підтримкою"
@@ -582,5 +589,11 @@
     "close": "Закрити",
     "send": "Надіслати"
   },
-  "onboardingInfoBtn": "Інформація про введення в курс"
+  "onboardingInfoBtn": "Інформація про введення в курс",
+  "successPage": {
+    "addCert": "Додати сертифікат",
+    "completedPrograms": "Твої завершені програми",
+    "completedCourses": "Твої завершені курси",
+    "learningMilestones": "Значки"
+  }
 }

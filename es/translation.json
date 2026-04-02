@@ -76,8 +76,8 @@
     "unansweredQuestions_plural": "Las preguntas {{questionIDs}} aún no han sido respondidas."
   },
   "success": {
-    "introTitle": "¡Su historia de éxito!",
-    "introDescription": "¡Vuelva cada día y finalice cursos para más!",
+    "introTitle": "¡Mi progreso!",
+    "introDescription": "¡Aprende cada día para obtener más logros!",
     "titleNew": "Tus últimos logros",
     "courseVer": "✓ ¡Verificado!",
     "courseVerificationPend": "Esperando verificación",
@@ -85,8 +85,8 @@
     "autoVerified": "Auto-verificado",
     "imgAlt": "Su historia de éxito",
     "learningJourney": "Tu historial de aprendizaje",
-    "visit": "visitar",
-    "daysVisited": "días visitado",
+    "visit": "visita",
+    "daysVisited": "días visitados",
     "courseComplete": "curso completado",
     "coursesComplete": "cursos completados",
     "first": "1º",
@@ -629,7 +629,8 @@
   "successPage": {
     "addCert": "Añadir certificado",
     "completedPrograms": "Tus programas completados",
-    "completedCourses": "Tus cursos completados"
+    "completedCourses": "Tus cursos completados",
+    "learningMilestones": "Hitos de aprendizaje"
   },
   "accessibility": {
     "comingSoonSubHeader": "Estamos trabajando en esta página. ¡Gracias por tu paciencia!",

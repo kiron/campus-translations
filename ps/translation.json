@@ -121,8 +121,11 @@
       "certificateDate": "د سند نیټه",
       "certificateDateDesc": "د سند اضافه کول به پوهنتون ته ستاسو د غوښتنلیک سره مرسته وکړي.",
       "yes": "هو",
-      "no": "نه"
-    }
+      "no": "نه",
+      "deleteCertificateTitle": "سند حذف کړئ"
+    },
+    "addToWallet": "د معلوماتو بټوې ته اضافه کړئ",
+    "addedToWallet": "د معلوماتو بټوې ته اضافه شو"
   },
   "transcriptOfRecords": {
     "descriptionSupport": "غوره! تاسو دمخه ډیر تایید شوي کورسونه لرئ. د خپلو لاسته راوړنو لیست سره PDF ډاونلوډ کړئ. تاسو کولی شئ دا خپل CV یا د پوهنتون غوښتنلیکونو سره ضمیمه کړئ."
@@ -472,5 +475,11 @@
     "close": "تړل",
     "send": "لېږل"
   },
-  "onboardingInfoBtn": "د آنبورډینګ معلومات"
+  "onboardingInfoBtn": "د آنبورډینګ معلومات",
+  "successPage": {
+    "addCert": "سند اضافه کړئ",
+    "completedPrograms": "ستاسو بشپړ شوي پروګرامونه",
+    "completedCourses": "ستاسو بشپړ شوي کورسونه",
+    "learningMilestones": "نښانونه"
+  }
 }

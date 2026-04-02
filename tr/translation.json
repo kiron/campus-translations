@@ -495,7 +495,8 @@
   "successPage": {
     "addCert": "Bir sertifika ekle",
     "completedPrograms": "Tamamladığınız programlar",
-    "completedCourses": "Tamamladığınız kurslar"
+    "completedCourses": "Tamamladığınız kurslar",
+    "learningMilestones": "Rozetler"
   },
   "accessibility": {
     "comingSoonSubHeader": "Bu sayfa üzerinde çalışmaya devam ediyoruz. Sabrınız için teşekkür ederiz!",

@@ -81,6 +81,7 @@
     "verifyCta": "ПРОВЕРЬ",
     "autoVerified": "Автопроверка",
     "imgAlt": "Твоя история успеха",
+    "learningJourney": "Твой путь обучения",
     "visit": "посещение",
     "daysVisited": "дни посещения",
     "courseComplete": "курс завершен",
@@ -96,6 +97,10 @@
     "coursesLeft_0": "оставшийся курс",
     "coursesLeft_1": "оставшиеся курсы",
     "coursesLeft_2": "оставшиеся курсов",
+    "coursesFinished": "курс завершён",
+    "coursesFinished_plural": "курсов завершено",
+    "coursesLeft": "курс остался",
+    "coursesLeft_plural": "курсов осталось",
     "language": {
       "en": "Английский",
       "de": "Немецкий",
@@ -116,8 +121,11 @@
       "certificateDate": "Дата выдачи сертификата",
       "certificateDateDesc": "Добавление сертификата поможет при поступлении в университет.",
       "yes": "Да",
-      "no": "Нет"
-    }
+      "no": "Нет",
+      "deleteCertificateTitle": "Удалить сертификат"
+    },
+    "addToWallet": "Добавить в кошелёк данных",
+    "addedToWallet": "Добавлено в кошелёк данных"
   },
   "transcriptOfRecords": {
     "descriptionSupport": "Отлично, у тебя уже много проверенных курсов! Если ты поступаешь в университет, ты можешь запросить PDF с перечнем своих достижений. Обратись в службу поддержки {{orgDisplayName}}."
@@ -580,5 +588,11 @@
     "close": "Закрыть",
     "send": "Отправить"
   },
-  "onboardingInfoBtn": "Информация о вводном курсе"
+  "onboardingInfoBtn": "Информация о вводном курсе",
+  "successPage": {
+    "addCert": "Добавить сертификат",
+    "completedPrograms": "Твои завершённые программы",
+    "completedCourses": "Твои завершённые курсы",
+    "learningMilestones": "Значки"
+  }
 }

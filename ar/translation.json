@@ -677,7 +677,8 @@
   "successPage": {
     "addCert": "أضف شهادة",
     "completedPrograms": "البرامج المكتملة الخاصة بك",
-    "completedCourses": "الدورات المكتملة الخاصة بك"
+    "completedCourses": "الدورات المكتملة الخاصة بك",
+    "learningMilestones": "شارات"
   },
   "accessibility": {
     "comingSoonHeader": "قريباً!",
