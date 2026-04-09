@@ -35,7 +35,8 @@
     "city": "ښار",
     "none": "هیڅ",
     "btnLabel": "نور زده کونکي ومومئ",
-    "searchMsg": "Search for your city and select it from the list"
+    "searchMsg": "Search for your city and select it from the list",
+    "cookieConsentRequired": "د خپل ښار د سمون لپاره «نور، په شمول د Google Maps API (2)» فعال کړئ."
   },
   "contactDetails": {
     "title": "د اړیکې معلومات",

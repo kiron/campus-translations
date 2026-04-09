@@ -37,7 +37,8 @@
         "city": "City",
         "none": "None",
         "btnLabel": "Find other students",
-        "searchMsg": "Search for your city and select it from the list"
+        "searchMsg": "Search for your city and select it from the list",
+        "cookieConsentRequired": "Enable “Other, includes Google Maps API (2)” to edit your city."
     },
     "contactDetails": {
         "title": "Contact information",

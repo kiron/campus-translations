@@ -35,7 +35,8 @@
         "city": "Şehir",
         "none": "Hiçbiri",
         "btnLabel": "Diğer öğrencileri bul",
-        "searchMsg": "Search for your city and select it from the list"
+        "searchMsg": "Search for your city and select it from the list",
+        "cookieConsentRequired": "Şehrinizi düzenlemek için “Diğer, Google Maps API (2) dahil” seçeneğini etkinleştirin."
     },
     "contactDetails": {
         "title": "İletişim bilgileri",

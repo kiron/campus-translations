@@ -35,7 +35,8 @@
         "city": "Stadt",
         "none": "Keine",
         "btnLabel": "Finde andere Studierende",
-        "searchMsg": "Suche nach deiner Stadt und wähle sie aus der List aus"
+        "searchMsg": "Suche nach deiner Stadt und wähle sie aus der List aus",
+        "cookieConsentRequired": "Aktivieren Sie „Andere, einschließlich Google Maps API (2)“, um Ihre Stadt zu bearbeiten."
     },
     "contactDetails": {
         "title": "Kontakt Informationen",
