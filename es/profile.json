@@ -1,96 +1,101 @@
 {
-    "header": {
-        "imgSave": "Guardar",
-        "imgDelete": "Borrar",
-        "imgReplace": "Editar",
-        "imgTitle": "Suba su foto de perfil",
-        "imgInputLabel": "Permito mostrar mi imagen a otros estudiantes y empleados",
-        "imgUploadMsg": "Suba su foto de perfil",
-        "accountVerified": "Cuenta verificada",
-        "accountNotVerified": "Cuenta no verificada"
-    },
-    "editBox": {
-        "cancel": "Cancelar",
-        "save": "Guardar",
-        "edit": "Editar"
-    },
-    "languageSwitch": {
-        "title": "Idioma"
-    },
-    "personalInfo": {
-        "title": "Información personal",
-        "nickname": "Apodo",
-        "country": "Nacionalidad",
-        "countryPlaceholder": "Seleccione su nacionalidad",
-        "birthday": "Fecha de nacimiento",
-        "gender": "Género",
-        "male": "Masculino",
-        "female": "Femenino",
-        "other": "Otro"
-    },
-    "location": {
-        "title": "Localización",
-        "popup": "Algunos de nuestros servicios sólo están disponibles en algunos lugares. Conocer su localización nos permitirá enviarle la información adecuada.",
-        "infoMsg": "Nunca enviaremos información sensible a una tercera persona; sin embargo, para ofrecerle talleres personalizados o eventos cercanos a usted, necesitamos su localización.",
-        "country": "País",
-        "countryPlaceholder": "Seleccione un país",
-        "city": "Ciudad",
-        "none": "Ninguno",
-        "btnLabel": "Descubrir otros estudiantes",
-        "searchMsg": "Busque su ubicación y selecciónela en la lista",
-        "cookieConsentRequired": "Habilite «Otros, incluye Google Maps API (2)» para editar su ciudad."
-    },
-    "contactDetails": {
-        "title": "Información de contacto",
-        "popup": "Necesitaremos su email privado por si tiene que resetear su cuenta de {{orgDisplayName}}. Le contactaremos por teléfono para servicios adicionales.",
-        "infoMsg": "{{orgDisplayName}} no comparte su información de contacto con nadie sin su permiso.",
-        "phone": "Número de teléfono",
-        "whatsappCheck": "{{orgDisplayName}} puede contactarme a través de WhatsApp Messenger en este número",
-        "whatsappCheckPositive": "{{orgDisplayName}} <1>puede</1> contactarme a través de WhatsApp Messenger en este número",
-        "whatsappCheckNegative": "{{orgDisplayName}} <1>NO puede</1> contactarme a través de WhatsApp Messenger en este número",
-        "email": "Email privado",
-        "emailMsg": "¿Tiene una nueva dirección <1>privada</1> de email? Puede cambiarla aquí. Le enviaremos un email de confirmación a esta dirección - <2>confírmela por favor</2> en los próximos días.",
-        "emailVerified": "Correo electrónico verificado",
-        "privateEmailConfirmed": "¡Gracias! Tu dirección de correo eletrónico se ha confirmado.",
-        "emailChangesReverted": "Los cambios en tu correo electronico se han revertido.",
-        "privateEmailReverted": "Gracias. Has revertido el cambio de tu correo electrónico privado."
-    },
-    "certificate": {
-        "title": "Confirmación de registro",
-        "desc": "¿Necesita demostrar que está aprendiendo con {{orgDisplayName}}?",
-        "downloadDesc": "¡Descargue su confirmación de registro!",
-        "btnLabel": "Descargue aquí",
-        "downloadPlease": "Por favor",
-        "clickHere": "clique aquí",
-        "downloadLink": "para subir un documento de situación para poder descargar su certificado de inscripción.",
-        "noFirstAndLastNameProvided": "Por favor, escribe tu nombre y apellido(s) para obtener tu certificado.",
-        "contactSupport": "Pedir ayuda"
-    },
-    "COEContainer": {
-        "question": "¿Para qué está pensando utilizar su certificado de inscripción en los próximos seis meses?",
-        "info": "Para descargar su certificado de inscripción por favor seleccione uno o más usos para el certificado de inscripción.",
-        "downloadLng": "Descargar en",
-        "en": "Inglés",
-        "de": "Alemán",
-        "coeen": "Certificate of Registration",
-        "coede": "Registrierungsbestätigung"
-    },
-    "dataWallet": {
-        "accountConnected": "Tu cartera de datos está conectada.",
-        "cta": "Continuar",
-        "load": "Cargando"
-    },
-    "deletion": {
-        "title": "Eliminar mi cuenta",
-        "desc": "Eliminar permanentemente mi cuenta de la plataforma.",
-        "warning": "Esta acción no se puede deshacer, ¡así que asegúrate antes de continuar!",
-        "hint": "Sólo un recordatorio rápido, al cerrar tu cuenta todos tus progresos y datos se eliminarán permanentemente, incluyendo las certificaciones que hayas recibido.",
-        "cta": "Eliminar mi cuenta",
-        "delete": "Eliminar",
-        "explainText": "Por favor, recuerda que esta acción es permanente y no se puede deshacer. Asegúrate de estar seguro antes de continuar.",
-        "success": "Tu cuenta está ahora programada para su eliminación. Si cambias de opinión, puedes cancelar la solicitud dentro de los próximos 14 días.",
-        "alreadyExists": "Ya se ha realizado una solicitud de eliminación.",
-        "error": "¡Ups! Algo salió mal. Por favor, inténtalo más tarde.",
-        "kironHint": "Si tienes alguna pregunta sobre tus datos o participaste en un programa de aprendizaje combinado o mentoría y quieres que se eliminen tus datos, por favor contáctanos en:"
-    }
+  "header": {
+    "imgSave": "Guardar",
+    "imgDelete": "Borrar",
+    "imgReplace": "Editar",
+    "imgTitle": "Suba su foto de perfil",
+    "imgInputLabel": "Permito mostrar mi imagen a otros estudiantes y empleados",
+    "imgUploadMsg": "Suba su foto de perfil",
+    "accountVerified": "Cuenta verificada",
+    "accountNotVerified": "Cuenta no verificada"
+  },
+  "editBox": {
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "edit": "Editar"
+  },
+  "languageSwitch": {
+    "title": "Idioma"
+  },
+  "personalInfo": {
+    "title": "Información personal",
+    "nickname": "Apodo",
+    "country": "Nacionalidad",
+    "countryPlaceholder": "Seleccione su nacionalidad",
+    "birthday": "Fecha de nacimiento",
+    "gender": "Género",
+    "male": "Masculino",
+    "female": "Femenino",
+    "other": "Otro"
+  },
+  "location": {
+    "title": "Localización",
+    "popup": "Algunos de nuestros servicios sólo están disponibles en algunos lugares. Conocer su localización nos permitirá enviarle la información adecuada.",
+    "infoMsg": "Nunca enviaremos información sensible a una tercera persona; sin embargo, para ofrecerle talleres personalizados o eventos cercanos a usted, necesitamos su localización.",
+    "country": "País",
+    "countryPlaceholder": "Seleccione un país",
+    "city": "Ciudad",
+    "none": "Ninguno",
+    "btnLabel": "Descubrir otros estudiantes",
+    "searchMsg": "Busque su ubicación y selecciónela en la lista",
+    "cookieConsentRequired": "Habilite «Otros, incluye Google Maps API (2)» para editar su ciudad."
+  },
+  "contactDetails": {
+    "title": "Información de contacto",
+    "popup": "Necesitaremos su email privado por si tiene que resetear su cuenta de {{orgDisplayName}}. Le contactaremos por teléfono para servicios adicionales.",
+    "infoMsg": "{{orgDisplayName}} no comparte su información de contacto con nadie sin su permiso.",
+    "phone": "Número de teléfono",
+    "whatsappCheck": "{{orgDisplayName}} puede contactarme a través de WhatsApp Messenger en este número",
+    "whatsappCheckPositive": "{{orgDisplayName}} <1>puede</1> contactarme a través de WhatsApp Messenger en este número",
+    "whatsappCheckNegative": "{{orgDisplayName}} <1>NO puede</1> contactarme a través de WhatsApp Messenger en este número",
+    "email": "Email privado",
+    "emailMsg": "¿Tiene una nueva dirección <1>privada</1> de email? Puede cambiarla aquí. Le enviaremos un email de confirmación a esta dirección - <2>confírmela por favor</2> en los próximos días.",
+    "emailVerified": "Correo electrónico verificado",
+    "privateEmailConfirmed": "¡Gracias! Tu dirección de correo eletrónico se ha confirmado.",
+    "emailChangesReverted": "Los cambios en tu correo electronico se han revertido.",
+    "privateEmailReverted": "Gracias. Has revertido el cambio de tu correo electrónico privado."
+  },
+  "certificate": {
+    "title": "Confirmación de registro",
+    "desc": "¿Necesita demostrar que está aprendiendo con {{orgDisplayName}}?",
+    "downloadDesc": "¡Descargue su confirmación de registro!",
+    "btnLabel": "Descargue aquí",
+    "downloadPlease": "Por favor",
+    "clickHere": "clique aquí",
+    "downloadLink": "para subir un documento de situación para poder descargar su certificado de inscripción.",
+    "noFirstAndLastNameProvided": "Por favor, escribe tu nombre y apellido(s) para obtener tu certificado.",
+    "contactSupport": "Pedir ayuda"
+  },
+  "COEContainer": {
+    "question": "¿Para qué está pensando utilizar su certificado de inscripción en los próximos seis meses?",
+    "info": "Para descargar su certificado de inscripción por favor seleccione uno o más usos para el certificado de inscripción.",
+    "downloadLng": "Descargar en",
+    "en": "Inglés",
+    "de": "Alemán",
+    "coeen": "Certificate of Registration",
+    "coede": "Registrierungsbestätigung"
+  },
+  "dataWallet": {
+    "accountConnected": "Tu cartera de datos está conectada.",
+    "cta": "Continuar",
+    "load": "Cargando"
+  },
+  "deletion": {
+    "title": "Eliminar mi cuenta",
+    "desc": "Eliminar permanentemente mi cuenta de la plataforma.",
+    "warning": "Esta acción no se puede deshacer, ¡así que asegúrate antes de continuar!",
+    "hint": "Sólo un recordatorio rápido, al cerrar tu cuenta todos tus progresos y datos se eliminarán permanentemente, incluyendo las certificaciones que hayas recibido.",
+    "cta": "Eliminar mi cuenta",
+    "delete": "Eliminar",
+    "explainText": "Por favor, recuerda que esta acción es permanente y no se puede deshacer. Asegúrate de estar seguro antes de continuar.",
+    "success": "Tu cuenta está ahora programada para su eliminación. Si cambias de opinión, puedes cancelar la solicitud dentro de los próximos 14 días.",
+    "alreadyExists": "Ya se ha realizado una solicitud de eliminación.",
+    "error": "¡Ups! Algo salió mal. Por favor, inténtalo más tarde.",
+    "kironHint": "Si tienes alguna pregunta sobre tus datos o participaste en un programa de aprendizaje combinado o mentoría y quieres que se eliminen tus datos, por favor contáctanos en:"
+  },
+  "switchCampus": {
+    "cta": "Cambiar de campus",
+    "error": "Error al cambiar de campus",
+    "goBack": "Volver al menú principal"
+  }
 }

@@ -1,102 +1,107 @@
 {
-    "header": {
-        "imgSave": "Save",
-        "imgDelete": "Delete",
-        "imgReplace": "Edit",
-        "imgTitle": "Upload your profile picture",
-        "imgInputLabel": "I allow my image to be shown to other students & staff",
-        "imgUploadMsg": "Upload your profile picture",
-        "accountVerified": "Account verified",
-        "accountNotVerified": "Account not verified"
-    },
-    "editBox": {
-        "cancel": "Cancel",
-        "save": "Save",
-        "edit": "Edit"
-    },
-    "languageSwitch": {
-        "title": "Language"
-    },
-    "personalInfo": {
-        "title": "Personal Information",
-        "nickname": "Nickname",
-        "country": "Nationality",
-        "countryPlaceholder": "Select a nationality",
-        "birthday": "Date of Birth",
-        "gender": "Gender",
-        "male": "Male",
-        "female": "Female",
-        "other": "Other"
-    },
-    "location": {
-        "title": "Location",
-        "popup": "Some of our services are only available in certain areas. Knowing your location allows us to send you the right infos.",
-        "infoMsg": "We will not refer any sensitive information to a third party; however, in order to offer tailor-made workshops or events close to you, we need your location details.",
-        "country": "Country",
-        "countryPlaceholder": "Select a country",
-        "city": "City",
-        "none": "None",
-        "btnLabel": "Find other students",
-        "searchMsg": "Search for your city and select it from the list",
-        "cookieConsentRequired": "Enable “Other, includes Google Maps API (2)” to edit your city."
-    },
-    "contactDetails": {
-        "title": "Contact information",
-        "popup": "We will need your private email if you have to reset your {{orgDisplayName}} email account. We will contact you via phone for additional services.",
-        "infoMsg": "{{orgDisplayName}} does not share your contact details with anybody without your permission.",
-        "phone": "Phone number",
-        "whatsappCheck": "{{orgDisplayName}} can contact me via WhatsApp Messenger on this number",
-        "whatsappCheckPositive": "{{orgDisplayName}} <1>can</1> contact me via WhatsApp Messenger on this number",
-        "whatsappCheckNegative": "{{orgDisplayName}} <1>cannot</1> contact me via WhatsApp Messenger on this number",
-        "email": "Private email",
-        "emailMsg": "Have a new <1>private</1> email address? You can change it here. We will send you a confirmation email to this address - <2>please confirm</2> it within the next days.",
-        "emailVerified": "Email Verified",
-        "privateEmailConfirmed": "Thanks! Email address confirmed.",
-        "emailChangesReverted": "Email Changes Reverted",
-        "privateEmailReverted": "Thank you. You reverted the change of your private email."
-    },
-    "certificate": {
-        "title": "Confirmation of registration",
-        "desc": "Do you need to prove that you are learning with {{orgDisplayName}}?",
-        "downloadDesc": "Download your Confirmation of registration!",
-        "btnLabel": "Download here",
-        "downloadPlease": "Please",
-        "clickHere": "click here",
-        "downloadLink": "to upload a status document in order to download certificate of enrollment.",
-        "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-        "contactSupport": "Contact support"
-    },
-    "COEContainer": {
-        "question": "What are you planning to use your certificate for in the next six months?",
-        "info": "To download the certificate of enrollment, please select one or several uses of the certificate of enrollment above.",
-        "downloadLng": "Download in",
-        "en": "English",
-        "de": "German",
-        "coeen": "Certificate of Registration",
-        "coede": "Registrierungsbestätigung"
-    },
-    "dataWallet": {
-        "error": "Error loading Data Wallet details",
-        "loading": "Loading data wallet details...",
-        "connected": "Connected",
-        "connectionSuccess": "Connection Success",
-        "scan": "Scan this code using the enmeshed app to connect this account",
-        "link": "Link your account to your Enmeshed Data Wallet.",
-        "load": "Loading",
-        "cta": "Continue",
-        "accountConnected": "Your data wallet account is connected."
-    },
-    "deletion": {
-        "title": "Delete My Account",
-        "desc": "Permanently remove my account from the platform.",
-        "warning": "This action can't be undone, so please be sure before proceeding!",
-        "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received.",
-        "cta": "Delete My Account",
-        "delete": "Delete",
-        "explainText": "Please remember, this action is permanent and cannot be undone. Make sure you're certain before continuing.",
-        "success": "Your account is now scheduled for deletion. If you change your mind, you can cancel the request within the next 14 days.",
-        "alreadyExists": "A deletion request has already been made.",
-        "error": "Oops! Something went wrong. Please try again later.",
-        "kironHint": "If you have any questions about your data or took part in a blended learning or mentoring program and want your data deleted, please contact us at:"
-    }
+  "header": {
+    "imgSave": "Save",
+    "imgDelete": "Delete",
+    "imgReplace": "Edit",
+    "imgTitle": "Upload your profile picture",
+    "imgInputLabel": "I allow my image to be shown to other students & staff",
+    "imgUploadMsg": "Upload your profile picture",
+    "accountVerified": "Account verified",
+    "accountNotVerified": "Account not verified"
+  },
+  "editBox": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit"
+  },
+  "languageSwitch": {
+    "title": "Language"
+  },
+  "personalInfo": {
+    "title": "Personal Information",
+    "nickname": "Nickname",
+    "country": "Nationality",
+    "countryPlaceholder": "Select a nationality",
+    "birthday": "Date of Birth",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "location": {
+    "title": "Location",
+    "popup": "Some of our services are only available in certain areas. Knowing your location allows us to send you the right infos.",
+    "infoMsg": "We will not refer any sensitive information to a third party; however, in order to offer tailor-made workshops or events close to you, we need your location details.",
+    "country": "Country",
+    "countryPlaceholder": "Select a country",
+    "city": "City",
+    "none": "None",
+    "btnLabel": "Find other students",
+    "searchMsg": "Search for your city and select it from the list",
+    "cookieConsentRequired": "Enable “Other, includes Google Maps API (2)” to edit your city."
+  },
+  "contactDetails": {
+    "title": "Contact information",
+    "popup": "We will need your private email if you have to reset your {{orgDisplayName}} email account. We will contact you via phone for additional services.",
+    "infoMsg": "{{orgDisplayName}} does not share your contact details with anybody without your permission.",
+    "phone": "Phone number",
+    "whatsappCheck": "{{orgDisplayName}} can contact me via WhatsApp Messenger on this number",
+    "whatsappCheckPositive": "{{orgDisplayName}} <1>can</1> contact me via WhatsApp Messenger on this number",
+    "whatsappCheckNegative": "{{orgDisplayName}} <1>cannot</1> contact me via WhatsApp Messenger on this number",
+    "email": "Private email",
+    "emailMsg": "Have a new <1>private</1> email address? You can change it here. We will send you a confirmation email to this address - <2>please confirm</2> it within the next days.",
+    "emailVerified": "Email Verified",
+    "privateEmailConfirmed": "Thanks! Email address confirmed.",
+    "emailChangesReverted": "Email Changes Reverted",
+    "privateEmailReverted": "Thank you. You reverted the change of your private email."
+  },
+  "certificate": {
+    "title": "Confirmation of registration",
+    "desc": "Do you need to prove that you are learning with {{orgDisplayName}}?",
+    "downloadDesc": "Download your Confirmation of registration!",
+    "btnLabel": "Download here",
+    "downloadPlease": "Please",
+    "clickHere": "click here",
+    "downloadLink": "to upload a status document in order to download certificate of enrollment.",
+    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
+    "contactSupport": "Contact support"
+  },
+  "COEContainer": {
+    "question": "What are you planning to use your certificate for in the next six months?",
+    "info": "To download the certificate of enrollment, please select one or several uses of the certificate of enrollment above.",
+    "downloadLng": "Download in",
+    "en": "English",
+    "de": "German",
+    "coeen": "Certificate of Registration",
+    "coede": "Registrierungsbestätigung"
+  },
+  "dataWallet": {
+    "error": "Error loading Data Wallet details",
+    "loading": "Loading data wallet details...",
+    "connected": "Connected",
+    "connectionSuccess": "Connection Success",
+    "scan": "Scan this code using the enmeshed app to connect this account",
+    "link": "Link your account to your Enmeshed Data Wallet.",
+    "load": "Loading",
+    "cta": "Continue",
+    "accountConnected": "Your data wallet account is connected."
+  },
+  "deletion": {
+    "title": "Delete My Account",
+    "desc": "Permanently remove my account from the platform.",
+    "warning": "This action can't be undone, so please be sure before proceeding!",
+    "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received.",
+    "cta": "Delete My Account",
+    "delete": "Delete",
+    "explainText": "Please remember, this action is permanent and cannot be undone. Make sure you're certain before continuing.",
+    "success": "Your account is now scheduled for deletion. If you change your mind, you can cancel the request within the next 14 days.",
+    "alreadyExists": "A deletion request has already been made.",
+    "error": "Oops! Something went wrong. Please try again later.",
+    "kironHint": "If you have any questions about your data or took part in a blended learning or mentoring program and want your data deleted, please contact us at:"
+  },
+  "switchCampus": {
+    "cta": "Switch Campus",
+    "error": "Error switching campus",
+    "goBack": "Got Back to Main Menu"
+  }
 }

@@ -1,96 +1,101 @@
 {
-    "header": {
-        "imgSave": "Speichern",
-        "imgDelete": "Löschen",
-        "imgReplace": "Bearbeiten",
-        "imgTitle": "Lade dein Profil-Foto hoch",
-        "imgInputLabel": "Ich stimme zu, dass mein Foto anderen Studierenden & Mitarbeiter:innen gezeigt wird",
-        "imgUploadMsg": "Lade dein Profil-Foto hoch"
-    },
-    "editBox": {
-        "cancel": "Abbruch",
-        "save": "Speichern",
-        "edit": "Bearbeiten"
-    },
-    "languageSwitch": {
-        "title": "Sprache"
-    },
-    "personalInfo": {
-        "title": "Persönliche Informationen",
-        "nickname": "Nickname",
-        "country": "Nationalität",
-        "countryPlaceholder": "Wähle eine Nationalität",
-        "birthday": "Geburtsdatum",
-        "gender": "Geschlecht",
-        "male": "Männlich",
-        "female": "Weiblich",
-        "other": "Divers"
-    },
-    "location": {
-        "title": "Standort",
-        "popup": "Ein Teil unserer Leistungen sind nur an bestimmten Standorten verfügbar. Wenn wir deinen Standort kennen, können wir dir die richtigen Informationen schicken.",
-        "infoMsg": "Wir werden keine sensiblen Informationen and Dritte weitergeben; um jedoch maßgeschneiderte Workshops oder Veranstaltungen in deiner Nähe anbieten zu können, benötigen wir deine Standortangaben.",
-        "country": "Land",
-        "countryPlaceholder": "Wähle ein Land",
-        "city": "Stadt",
-        "none": "Keine",
-        "btnLabel": "Finde andere Studierende",
-        "searchMsg": "Suche nach deiner Stadt und wähle sie aus der List aus",
-        "cookieConsentRequired": "Aktivieren Sie „Andere, einschließlich Google Maps API (2)“, um Ihre Stadt zu bearbeiten."
-    },
-    "contactDetails": {
-        "title": "Kontakt Informationen",
-        "popup": "Wir benötigen deine private E-Mail, wenn du deinen {{orgDisplayName}} E-Mail Account zurücksetzen müsst. Für zusätzliche Dienstleistungen werden wir dich telefonisch kontaktieren.",
-        "infoMsg": "{{orgDisplayName}} gibt deine Kontaktdaten nicht ohne deine Zustimmung an Dritte weiter.",
-        "phone": "Telefonnummer",
-        "whatsappCheck": "{{orgDisplayName}} kann mich per WhatsApp Messenger unter dieser Nummer erreichen",
-        "whatsappCheckPositive": "{{orgDisplayName}} <1>kann<1> mich per WhatsApp Messenger unter dieser Nummer erreichen",
-        "whatsappCheckNegative": "{{orgDisplayName}} <1>kann mich nicht<1> per WhatsApp Messenger unter dieser Nummer erreichen",
-        "email": "Private E-Mail",
-        "emailMsg": "Hast du eine neue <1>private</1> E-Mail Adresse? Du kannst diese hier ändern. Wir senden dir anschließend eine E-Mail zur Bestätigungs an diese Adresse - <2>bitte bestätige</2> diese in den nächsten Tagen."
-    },
-    "certificate": {
-        "title": "Bestätigung der Registrierung",
-        "desc": "Möchten Sie nachweisen, dass Sie mit {{orgDisplayName}} lernen?",
-        "downloadDesc": "Laden Sie Ihre Anmeldebestätigung herunter!",
-        "btnLabel": "Download hier",
-        "downloadPlease": "Bitte",
-        "clickHere": "klicke hier",
-        "downloadLink": "lade ein Status Dokument hoch um deine Anmeldebebescheinigung herunterzuladen.",
-        "noFirstAndLastNameProvided": "Du musst einen Vor- und Nachnamen angeben, damit du ein Zertifikat bekommen kannst.",
-        "contactSupport": "Support kontaktieren"
-    },
-    "COEContainer": {
-        "question": "Wofür planst du dein Zertifikat in den nächsten sechs Monaten zu verwenden?",
-        "info": "Um die Anmeldebescheinigung herunterzuladen, wähle bitte oben eine oder mehrere Verwendungen der Anmeldebescheinigung aus.",
-        "downloadLng": "Download in",
-        "en": "Englisch",
-        "de": "Deutsch",
-        "coeen": "Certificate of Registration",
-        "coede": "Registrierungsbestätigung"
-    },
-    "dataWallet": {
-        "link": "Verknüpfe deinen Account mit deinem Enmeshed Data Wallet.",
-        "scan": "Scanne den Code mit der Enmeshed App um deinen Account zu verbinden",
-        "connectionSuccess": "Verbindung erfolgreich",
-        "connected": "Verbindung hergestellt",
-        "loading": "Lade Data Wallet Details...",
-        "error": "Fehler beim Laden der Data Wallet Details",
-        "load": "Lädt",
-        "cta": "Weiter",
-        "accountConnected": "Deine Data Wallet ist verknüpft."
-    },
-    "deletion": {
-        "title": "Mein Konto löschen",
-        "desc": "Dein Konto wird dauerhaft von der Plattform entfernt.",
-        "warning": "Diese Aktion kann nicht rückgängig gemacht werden, also stelle sicher, dass du das wirklich willst!",
-        "hint": "Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht.",
-        "cta": "Mein Konto löschen",
-        "delete": "Löschen",
-        "explainText": "Bitte denk daran: Diese Aktion ist endgültig und kann nicht rückgängig gemacht werden. Sei dir sicher, bevor du fortfährst.",
-        "success": "Dein Konto ist nun zur Löschung vorgesehen. Wenn du es dir anders überlegst, kannst du die Anfrage innerhalb von 14 Tagen stornieren.",
-        "alreadyExists": "Es wurde bereits eine Löschanfrage gestellt.",
-        "error": "Ups! Etwas ist schiefgelaufen. Bitte versuch es später nochmal.",
-        "kironHint": "Wenn du Fragen zu deinen Daten hast oder an einem Blended-Learning- oder Mentoring-Programm teilgenommen hast und möchtest, dass deine Daten gelöscht werden, dann schreib uns gerne an:"
-    }
+  "header": {
+    "imgSave": "Speichern",
+    "imgDelete": "Löschen",
+    "imgReplace": "Bearbeiten",
+    "imgTitle": "Lade dein Profil-Foto hoch",
+    "imgInputLabel": "Ich stimme zu, dass mein Foto anderen Studierenden & Mitarbeiter:innen gezeigt wird",
+    "imgUploadMsg": "Lade dein Profil-Foto hoch"
+  },
+  "editBox": {
+    "cancel": "Abbruch",
+    "save": "Speichern",
+    "edit": "Bearbeiten"
+  },
+  "languageSwitch": {
+    "title": "Sprache"
+  },
+  "personalInfo": {
+    "title": "Persönliche Informationen",
+    "nickname": "Nickname",
+    "country": "Nationalität",
+    "countryPlaceholder": "Wähle eine Nationalität",
+    "birthday": "Geburtsdatum",
+    "gender": "Geschlecht",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "other": "Divers"
+  },
+  "location": {
+    "title": "Standort",
+    "popup": "Ein Teil unserer Leistungen sind nur an bestimmten Standorten verfügbar. Wenn wir deinen Standort kennen, können wir dir die richtigen Informationen schicken.",
+    "infoMsg": "Wir werden keine sensiblen Informationen and Dritte weitergeben; um jedoch maßgeschneiderte Workshops oder Veranstaltungen in deiner Nähe anbieten zu können, benötigen wir deine Standortangaben.",
+    "country": "Land",
+    "countryPlaceholder": "Wähle ein Land",
+    "city": "Stadt",
+    "none": "Keine",
+    "btnLabel": "Finde andere Studierende",
+    "searchMsg": "Suche nach deiner Stadt und wähle sie aus der List aus",
+    "cookieConsentRequired": "Aktivieren Sie „Andere, einschließlich Google Maps API (2)“, um Ihre Stadt zu bearbeiten."
+  },
+  "contactDetails": {
+    "title": "Kontakt Informationen",
+    "popup": "Wir benötigen deine private E-Mail, wenn du deinen {{orgDisplayName}} E-Mail Account zurücksetzen müsst. Für zusätzliche Dienstleistungen werden wir dich telefonisch kontaktieren.",
+    "infoMsg": "{{orgDisplayName}} gibt deine Kontaktdaten nicht ohne deine Zustimmung an Dritte weiter.",
+    "phone": "Telefonnummer",
+    "whatsappCheck": "{{orgDisplayName}} kann mich per WhatsApp Messenger unter dieser Nummer erreichen",
+    "whatsappCheckPositive": "{{orgDisplayName}} <1>kann<1> mich per WhatsApp Messenger unter dieser Nummer erreichen",
+    "whatsappCheckNegative": "{{orgDisplayName}} <1>kann mich nicht<1> per WhatsApp Messenger unter dieser Nummer erreichen",
+    "email": "Private E-Mail",
+    "emailMsg": "Hast du eine neue <1>private</1> E-Mail Adresse? Du kannst diese hier ändern. Wir senden dir anschließend eine E-Mail zur Bestätigungs an diese Adresse - <2>bitte bestätige</2> diese in den nächsten Tagen."
+  },
+  "certificate": {
+    "title": "Bestätigung der Registrierung",
+    "desc": "Möchten Sie nachweisen, dass Sie mit {{orgDisplayName}} lernen?",
+    "downloadDesc": "Laden Sie Ihre Anmeldebestätigung herunter!",
+    "btnLabel": "Download hier",
+    "downloadPlease": "Bitte",
+    "clickHere": "klicke hier",
+    "downloadLink": "lade ein Status Dokument hoch um deine Anmeldebebescheinigung herunterzuladen.",
+    "noFirstAndLastNameProvided": "Du musst einen Vor- und Nachnamen angeben, damit du ein Zertifikat bekommen kannst.",
+    "contactSupport": "Support kontaktieren"
+  },
+  "COEContainer": {
+    "question": "Wofür planst du dein Zertifikat in den nächsten sechs Monaten zu verwenden?",
+    "info": "Um die Anmeldebescheinigung herunterzuladen, wähle bitte oben eine oder mehrere Verwendungen der Anmeldebescheinigung aus.",
+    "downloadLng": "Download in",
+    "en": "Englisch",
+    "de": "Deutsch",
+    "coeen": "Certificate of Registration",
+    "coede": "Registrierungsbestätigung"
+  },
+  "dataWallet": {
+    "link": "Verknüpfe deinen Account mit deinem Enmeshed Data Wallet.",
+    "scan": "Scanne den Code mit der Enmeshed App um deinen Account zu verbinden",
+    "connectionSuccess": "Verbindung erfolgreich",
+    "connected": "Verbindung hergestellt",
+    "loading": "Lade Data Wallet Details...",
+    "error": "Fehler beim Laden der Data Wallet Details",
+    "load": "Lädt",
+    "cta": "Weiter",
+    "accountConnected": "Deine Data Wallet ist verknüpft."
+  },
+  "deletion": {
+    "title": "Mein Konto löschen",
+    "desc": "Dein Konto wird dauerhaft von der Plattform entfernt.",
+    "warning": "Diese Aktion kann nicht rückgängig gemacht werden, also stelle sicher, dass du das wirklich willst!",
+    "hint": "Hinweis: Wenn Du dein Benutzerkonto löschst, werden alle deine Daten inklusive eventueller Lernnachweise (Zertifikate) unwiderruflich gelöscht.",
+    "cta": "Mein Konto löschen",
+    "delete": "Löschen",
+    "explainText": "Bitte denk daran: Diese Aktion ist endgültig und kann nicht rückgängig gemacht werden. Sei dir sicher, bevor du fortfährst.",
+    "success": "Dein Konto ist nun zur Löschung vorgesehen. Wenn du es dir anders überlegst, kannst du die Anfrage innerhalb von 14 Tagen stornieren.",
+    "alreadyExists": "Es wurde bereits eine Löschanfrage gestellt.",
+    "error": "Ups! Etwas ist schiefgelaufen. Bitte versuch es später nochmal.",
+    "kironHint": "Wenn du Fragen zu deinen Daten hast oder an einem Blended-Learning- oder Mentoring-Programm teilgenommen hast und möchtest, dass deine Daten gelöscht werden, dann schreib uns gerne an:"
+  },
+  "switchCampus": {
+    "cta": "Campus wechseln",
+    "error": "Fehler beim Wechseln des Campus",
+    "goBack": "Zurück zum Hauptmenü"
+  }
 }
