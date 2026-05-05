@@ -248,6 +248,7 @@
     "lessonNavigatorCtaNext": "Sonraki"
   },
   "unitCard": {
+    "applyBefore": "{{date}} tarihinden önce başvur",
     "liveUnit": "Canlı Ünite",
     "kironUnit": "{{orgDisplayName}} Ünitesi",
     "externalUnit": "Harici Ünite",

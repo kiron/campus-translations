@@ -242,6 +242,7 @@
     "lessonNavigatorCtaNext": "Далі "
   },
   "unitCard": {
+    "applyBefore": "Подайте заявку до {{date}}",
     "liveUnit": "Живий блок",
     "kironUnit": "{{orgDisplayName}} одиниця",
     "externalUnit": "Зовнішній блок",

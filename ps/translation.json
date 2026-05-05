@@ -234,6 +234,7 @@
     "lessonNavigatorCtaNext": "Next"
   },
   "unitCard": {
+    "applyBefore": "له {{date}} مخکې غوښتنه وکړئ",
     "register": "نوم لیکنه",
     "liveUnit": "Live Unit",
     "kironUnit": "{{orgDisplayName}} Unit",

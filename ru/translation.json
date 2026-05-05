@@ -242,6 +242,7 @@
     "lessonNavigatorCtaNext": "Следующий"
   },
   "unitCard": {
+    "applyBefore": "Подайте заявку до {{date}}",
     "liveUnit": "Блок прямых трансляций",
     "kironUnit": "{{orgDisplayName}} Блок",
     "externalUnit": "Внешний блок",

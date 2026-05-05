@@ -234,6 +234,7 @@
     "lessonNavigatorCtaNext": "Next"
   },
   "unitCard": {
+    "applyBefore": "قبل از {{date}} درخواست دهید",
     "liveUnit": "واحد زنده",
     "kironUnit": "{{orgDisplayName}} واحد ",
     "externalUnit": "واحد خارجی",

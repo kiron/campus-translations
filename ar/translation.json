@@ -219,6 +219,7 @@
     "lessonNavigatorCtaNext": "التالي"
   },
   "unitCard": {
+    "applyBefore": "قدّم قبل {{date}}",
     "liveUnit": "الوحدة المباشرة",
     "kironUnit": "وحدة {{orgDisplayName}}",
     "externalUnit": "وحدة خارجية",
