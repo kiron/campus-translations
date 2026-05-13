@@ -354,7 +354,10 @@
       "chatHeading": "Chat",
       "loading": "Enviando",
       "inputFieldPlaceholder": "Mensaje",
-      "sendButton": "Enviar"
+      "sendButton": "Enviar",
+      "openEmojiPicker": "Abrir selector de emojis",
+      "sendReply": "Enviar respuesta",
+      "sendMessage": "Enviar mensaje"
     },
     "verification": {
       "failed": "La Verificación falló - Intenta de nuevo",

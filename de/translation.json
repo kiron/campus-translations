@@ -357,7 +357,10 @@
       "loading": "Absenden",
       "inputFieldPlaceholder": "Nachricht",
       "replyPlaceholder": "Im Thread antworten...",
-      "newMessagePlaceholder": "Neue Nachricht senden..."
+      "newMessagePlaceholder": "Neue Nachricht senden...",
+      "openEmojiPicker": "Emoji-Auswahl öffnen",
+      "sendReply": "Antwort senden",
+      "sendMessage": "Nachricht senden"
     },
     "verification": {
       "failed": "Verifizierung fehlgeschlagen - Versuche es noch einmal",
