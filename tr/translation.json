@@ -403,7 +403,9 @@
     "backAndSave": "Geri Dön & İlerlemeyi Kaydet",
     "infoRating": "Lütfen tamamladıktan sonra puan verin — puanınızı daha sonra her zaman düzenleyebilirsiniz.",
     "notes": "Notlar",
-    "previewDesc": "Bu içeriğin önizlemesini görüntülüyorsunuz. Öğrenmeye başlamak için <1>genel bakış sayfasından</1> kayıt olun."
+    "previewDesc": "Bu içeriğin önizlemesini görüntülüyorsunuz. Öğrenmeye başlamak için <1>genel bakış sayfasından</1> kayıt olun.",
+    "appointmentsTab": "Randevular",
+    "pastAppointmentsTab": "Sertifikalı geçmiş randevular"
   },
   "errors": {
     "lostCourse": "Bu kurs kayıp",

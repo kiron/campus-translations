@@ -335,7 +335,7 @@
       "newMessagePlaceholder": "Send a new message...",
       "openEmojiPicker": "Open emoji picker",
       "sendReply": "Send reply",
-      "sendMessage": "Send message" 
+      "sendMessage": "Send message"
     },
     "verification": {
       "failed": "Verification failed - Try again",
@@ -474,6 +474,7 @@
     "aboutTab": "About",
     "attachmentsTab": "Attachments",
     "appointmentsTab": "Appointments",
+    "pastAppointmentsTab": "Past appointments with certificate",
     "chatTab": "Chat",
     "userContentTab": "User Content",
     "overviewTab": "Overview",
