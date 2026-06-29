@@ -45,6 +45,11 @@
     "invalidCertificate": "¡Certificado inválido! por favor contacta al soporte.",
     "errorMessage": "Ha ocurrido un error."
   },
+  "allAppointments": "Todas las citas disponibles",
+  "browseAll_prefix": "Ver todas las",
+  "browseAll_suffix": "citas",
+  "appointmentsTotal": "en total",
+  "appointmentsRegistered": "registrado",
   "todo": {
     "dueOnDate": "Fecha límite: {{date}}",
     "availableOn": "Estará disponible el: {{date}}",

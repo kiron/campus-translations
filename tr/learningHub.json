@@ -45,6 +45,11 @@
     "invalidCertificate": "Geçersiz sertifika! Lütfen destek ekibiyle iletişime geçin.",
     "errorMessage": "Hata! Bir şeyler yanlış gitti."
   },
+  "allAppointments": "Mevcut tüm randevular",
+  "browseAll_prefix": "Tüm",
+  "browseAll_suffix": "randevulara göz at",
+  "appointmentsTotal": "toplam",
+  "appointmentsRegistered": "kayıtlı",
   "todo": {
     "dueOnDate": "Son Tarih: {{date}}",
     "availableOn": "Şu tarihte kullanılabilir olacak: {{date}}",

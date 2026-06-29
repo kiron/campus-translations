@@ -49,6 +49,11 @@
     "invalidCertificate": "Невалидный сертификат. Пожалуйста, загрузите действительный сертификат.",
     "errorMessage": "Ой! Щось пішло не так."
   },
+  "allAppointments": "Усі доступні записи",
+  "browseAll_prefix": "Переглянути всі",
+  "browseAll_suffix": "записи",
+  "appointmentsTotal": "загалом",
+  "appointmentsRegistered": "зареєстровано",
   "todo": {
     "dueOnDate": "Термін: {{date}}",
     "availableOn": "Буде доступно з: {{date}}",

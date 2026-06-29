@@ -40,5 +40,6 @@
   "certificateBtn": "Katılım onayını indir",
   "joinInfoCTA": "Toplantı erişimi 15 dakika önce açılır ve başlangıç saatinden 90 dakika sonra kapanır.",
   "addToCalendar": "Takvime ekle",
-  "notifyRegisteredLearners": "Mevcut tüm katılımcılara bildirim e-postası gönderilsin mi?"
+  "notifyRegisteredLearners": "Mevcut tüm katılımcılara bildirim e-postası gönderilsin mi?",
+  "registrationClosed": "Kayıt kapalı"
 }

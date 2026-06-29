@@ -45,6 +45,11 @@
     "invalidCertificate": "Ungültiges Zertifikat! Bitte kontaktiere den Support.",
     "errorMessage": "Ups! Etwas ist schiefgegangen."
   },
+  "allAppointments": "Alle verfügbaren Termine",
+  "browseAll_prefix": "Alle",
+  "browseAll_suffix": "Termine ansehen",
+  "appointmentsTotal": "insgesamt",
+  "appointmentsRegistered": "angemeldet",
   "todo": {
     "dueOnDate": "Fällig am: {{date}}",
     "availableOn": "Wird verfügbar sein am: {{date}}",

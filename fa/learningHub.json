@@ -45,6 +45,11 @@
     "invalidCertificate": "گواهینامه نامعتبر! لطفاً با پشتیبانی تماس بگیرید.",
     "errorMessage": "اوه! چیزی اشتباه پیش رفت."
   },
+  "allAppointments": "تمام قرارهای موجود",
+  "browseAll_prefix": "مرور همه",
+  "browseAll_suffix": "قرارها",
+  "appointmentsTotal": "مجموع",
+  "appointmentsRegistered": "ثبت‌نام شده",
   "todo": {
     "dueOnDate": "سررسید: {{date}}",
     "availableOn": "در تاریخ: {{date}} در دسترس خواهد بود",

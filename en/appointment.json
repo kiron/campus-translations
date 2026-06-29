@@ -44,5 +44,6 @@
   "certificateBtn": "Download attendance confirmation",
   "joinInfoCTA": "Meeting access opens 15 minutes early and closes 90 minutes after start time.",
   "addToCalendar": "Add to Calendar",
-  "notifyRegisteredLearners": "Send a notification e-mail to all current participants?"
+  "notifyRegisteredLearners": "Send a notification e-mail to all current participants?",
+  "registrationClosed": "Registration closed"
 }

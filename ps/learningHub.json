@@ -45,6 +45,11 @@
     "invalidCertificate": "سند نامعتبر! مهرباني وکړئ له ملاتړ سره اړیکه ونیسئ.",
     "errorMessage": "اوپس! یو څه غلط پیش آمد."
   },
+  "allAppointments": "ټول شته وخت ټاکنې",
+  "browseAll_prefix": "ټولې",
+  "browseAll_suffix": "وخت ټاکنې وګورئ",
+  "appointmentsTotal": "ټولټال",
+  "appointmentsRegistered": "ثبت شوی",
   "todo": {
     "dueOnDate": "په نېټه: {{date}}",
     "availableOn": "به په تاریخ: {{date}} کې په لاسرسي کې وي",

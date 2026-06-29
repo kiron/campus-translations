@@ -47,6 +47,11 @@
     "invalidCertificate": "شهادة غير صالحة! يرجى التواصل مع الدعم.",
     "errorMessage": "عذراً! حدث خطأ ما."
   },
+  "allAppointments": "جميع المواعيد المتاحة",
+  "browseAll_prefix": "تصفح جميع",
+  "browseAll_suffix": "المواعيد",
+  "appointmentsTotal": "الإجمالي",
+  "appointmentsRegistered": "مسجل",
   "todo": {
     "dueOnDate": "تاريخ الاستحقاق: {{date}}",
     "availableOn": "سيكون متاحًا في: {{date}}",
