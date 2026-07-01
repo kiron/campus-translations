@@ -1,6 +1,8 @@
 {
-  "noUploadHeader": "Bitte verifiziere dein Konto, um unbegrenzten Zugang zu kostenlosen Kursen und Zertifikaten zu erhalten.",
-  "noUploadDescription": "Die Verifizierung steht Personen mit einem Status als Flüchtlinge, Asylsuchende, Asylbewerber oder einer anderen Form internationalen Schutzes zur Verfügung. Die Berechtigung zur Verifizierung kann je nach Standort erweitert werden. Wenn Sie nicht berechtigt sind, können Sie unsere von Kiron gehosteten Kurse weiterhin kostenlos studieren.",
+  "noUploadHeader": "Beantrage deine kostenlose Coursera-Lizenz",
+  "noUploadDescription": "Über Kiron kannst du die Coursera for Impact-Lizenz für Geflüchtete, Asylsuchende und Personen mit internationalem Schutzstatus erhalten. Eine kurze Verifizierung gibt dir Zugang zu deiner kostenlosen Coursera-Lizenz – unbegrenzt zertifizierte Kurse von Stanford, Yale, Google und über 300 Partnern.",
+  "noUploadNote": "Die Lizenz kann sich ändern und hängt von der Verfügbarkeit bei Coursera ab.",
+  "verificationDocumentBtn": "Verifizierung starten",
   "uploadDocumentBtn": "Dokument hochladen",
   "inReviewHeader": "Prüfung läuft",
   "inReviewDescription": "Vielen Dank für das Hochladen deines Dokuments. Wir prüfen es jetzt und du wirst in einigen Wochen von uns eine E-Mail erhalten.",
@@ -20,5 +22,9 @@
   "ineligibleUploadDescription": "Unser Team hat Ihre Dokumente geprüft und leider sind Sie nicht berechtigt, vollen Zugang zum Kiron-Katalog zu erhalten. Sie können jedoch weiterhin auf unsere grundlegenden Kurse und Ressourcen zugreifen und werden weiterhin relevante Mitteilungen von uns erhalten. Bitte beachten Sie, dass eine erneute Bewerbung momentan nicht möglich ist.",
   "documentCheckClosed": "Kiron hat ein neues System zur regelmäßigen Dokumentenprüfung und für Zulassungskriterien eingeführt. Sie haben weiterhin Zugriff auf den Kiron Campus und erhalten weiterhin Nachrichten von uns, sofern Sie sich nicht abmelden. Angebote für bestimmte Kurse und Programme stehen nur verifizierten Lernenden zur Verfügung. Lesen Sie mehr über den neuen Prozess auf",
   "moreInfo": "Mehr Informationen",
-  "thisPage": "dieser Seite."
+  "thisPage": "dieser Seite.",
+  "sponsoredAccessLabel": "Gesponserter Zugang",
+  "courseraPromotionTitle": "Unbegrenzte Coursera-Zertifikate",
+  "courseraPromotionSubtitle": "Über 300 Partneruniversitäten & Unternehmen",
+  "dismissPromoPanel": "Schließen"
 }

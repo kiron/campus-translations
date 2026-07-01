@@ -1,6 +1,8 @@
 {
-  "noUploadHeader": "Please verify your account to get access to unlimited free courses and certificates.",
-  "noUploadDescription": "Verification is available to people with a status as refugees, asylum, seekers, or another form of international protection. Eligibility for verification may be extendend according to your location. If you are not eligible you can still study our Kiron hosted courses for free.",
+  "noUploadHeader": "Apply for your free Coursera license",
+  "noUploadDescription": "Through Kiron, you can obtain the Coursera for Impact license for refugees, asylum seekers and people under international protection. A short verification gives you access to your free Coursera license — unlimited certified courses from Stanford, Yale, Google and 300+ partners.",
+  "noUploadNote": "The license is subject to change and depends on Coursera availability.",
+  "verificationDocumentBtn": "Start verification",
   "uploadDocumentBtn": "Upload document",
   "inReviewHeader": "Review in progress",
   "inReviewDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next few weeks.",
@@ -20,5 +22,9 @@
   "ineligibleUploadDescription": "Our team has reviewed them, and unfortunately, you are not eligible for full access to Kiron’s catalog. You can still access our basic courses and resources and will continue to receive relevant communications from us. Please note that reapplying is not possible at the moment.",
   "documentCheckClosed": "Kiron has introduced a new system for periodic documentation verification and eligibility criteria. You still have access to the Kiron Campus and will continue to receive messages from us, unless you unsubscribe. Offers to certain courses and programs are available only to verified learners. Read more about the new process on",
   "moreInfo": "More information",
-  "thisPage": "this page."
+  "thisPage": "this page.",
+  "sponsoredAccessLabel": "Sponsored Access",
+  "courseraPromotionTitle": "Unlimited Coursera certificates",
+  "courseraPromotionSubtitle": "300+ partner universities & companies",
+  "dismissPromoPanel": "Dismiss"
 }

@@ -1,13 +1,15 @@
 {
-  "noUploadHeader": "Sınırsız ücretsiz kurs ve sertifikalara erişim elde etmek için lütfen hesabınızı doğrulayın.",
-  "noUploadDescription": "Doğrulama, mülteci, sığınmacı, sığınma başvurusunda bulunan veya başka bir uluslararası koruma formu olarak statüye sahip kişilere sunulmaktadır. Doğrulama için uygunluk, bulunduğunuz yere göre uzatılabilir. Uygun değilseniz, yine de Kiron'un barındırdığı kurslarımızı ücretsiz olarak okuyabilirsiniz.",
+  "noUploadHeader": "Ücretsiz Coursera lisansınız için başvurun",
+  "noUploadDescription": "Kiron aracılığıyla mülteciler, sığınmacılar ve uluslararası koruma altındaki kişiler için Coursera for Impact lisansını alabilirsiniz. Kısa bir doğrulama işlemi, Stanford, Yale, Google ve 300'den fazla ortaktan sınırsız sertifikalı kursa erişim sağlayan ücretsiz Coursera lisansınıza erişim sağlar.",
+  "noUploadNote": "Lisans değişikliğe tabidir ve Coursera'nın uygunluğuna bağlıdır.",
+  "verificationDocumentBtn": "Doğrulamayı başlat",
   "uploadDocumentBtn": "Belge yükle",
   "inReviewHeader": "İnceleme devam ediyor",
   "inReviewDescription": "Belgenizi yüklediğiniz için teşekkür ederiz. Önümüzdeki birkaç hafta içinde bizden bir e-posta alacaksın.",
   "inReviewDescriptionComment": "Kiron'da küçük bir ekibiz, bu nedenle belgelerinin incelenmesi biraz zaman alabilir. Lütfen ne zaman onaylanacağınız konusunda bize mesaj göndermekten kaçının - sana geri döneceğiz!",
   "reuploadDocumentBtn": "Belgeyi yeniden yükle",
   "invalidUploadHeader": "Hmm, görünüşe göre doğru belge değil bu",
-  "invalidUploadDescription": "Kiron'un uygunluk kriterlerini anladığınızdan emin olun ve yeni belgenizi göndermek için aşağıda "belgeyi yeniden yükle"ye tıklayın. Sonraki sayfada, kabul edilen belge örneklerini göreceksiniz.",
+  "invalidUploadDescription": "Kiron'un uygunluk kriterlerini anladığınızdan emin olun ve yeni belgenizi göndermek için aşağıda \"belgeyi yeniden yükle\"ye tıklayın. Sonraki sayfada, kabul edilen belge örneklerini göreceksiniz.",
   "rejectedHeader": "Belgeniz doğrulanamadı",
   "rejectedDescription": "Özür dileriz, yüklenen belgeyi doğrulayamıyoruz. Yine de Kiron'un ücretsiz programlarına erişebilirsiniz. Sorularınız için student-support@kiron.ngo ile iletişime geçin.",
   "rejectedBtn": "Bize ulaşın",
@@ -20,5 +22,9 @@
   "ineligibleUploadDescription": "Ekibimiz belgelerinizi inceledi ve maalesef, Kiron'un kataloğuna tam erişim için uygun değilsiniz. Yine de temel kurslarımıza ve kaynaklarımıza erişebilir ve bizden ilgili iletişimleri almaya devam edebilirsiniz. Şu anda yeniden başvuru yapmak mümkün değildir.",
   "documentCheckClosed": "Kiron, periyodik belge doğrulama ve uygunluk kriterleri için yeni bir sistem başlattı. Kiron Kampüsü'ne erişiminiz devam ediyor ve aboneliğinizi iptal etmediğiniz sürece bizden mesaj almaya devam edeceksiniz. Belirli kurslar ve programlar için teklifler yalnızca doğrulanmış öğrencilere sunulmaktadır. Yeni süreç hakkında daha fazla bilgiyi",
   "moreInfo": "Daha fazla bilgi",
-  "thisPage": "bu sayfada okuyun."
+  "thisPage": "bu sayfada okuyun.",
+  "sponsoredAccessLabel": "Sponsorlu Erişim",
+  "courseraPromotionTitle": "Sınırsız Coursera sertifikaları",
+  "courseraPromotionSubtitle": "300'den fazla ortak üniversite ve şirket",
+  "dismissPromoPanel": "Kapat"
 }

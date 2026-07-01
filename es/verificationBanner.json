@@ -1,13 +1,15 @@
 {
-  "noUploadHeader": "Por favor, verifica tu cuenta para tener acceso ilimitado a cursos y certificados.",
-  "noUploadDescription": "La verificación está disponible para personas con estatus de refugiados, asilo, solicitantes de asilo u otra forma de protección internacional. La elegibilidad para la verificación puede extenderse según su ubicación. Si no es elegible, aún puede estudiar nuestros cursos alojados en Kiron de forma gratuita.",
+  "noUploadHeader": "Solicita tu licencia gratuita de Coursera",
+  "noUploadDescription": "A través de Kiron, puedes obtener la licencia Coursera for Impact para refugiados, solicitantes de asilo y personas bajo protección internacional. Una breve verificación te da acceso a tu licencia gratuita de Coursera: cursos certificados ilimitados de Stanford, Yale, Google y más de 300 socios.",
+  "noUploadNote": "La licencia puede cambiar y depende de la disponibilidad de Coursera.",
+  "verificationDocumentBtn": "Iniciar verificación",
   "uploadDocumentBtn": "Subir documento",
   "inReviewHeader": "La revisión está en curso.",
   "inReviewDescription": "Gracias por subir tu documento. Vamos a proceder con la revisión. Recibirás un email de nuestra parte en las próximas semanas.",
   "inReviewDescriptionComment": "Somos un equipo pequeño, así que revisar tus documentos puede tomarnos un tiempo. Por favor, evita escribirnos mensajes sobre cuándo será tu documentación verificada - nos pondremos en contacto contigo!",
   "reuploadDocumentBtn": "Volver a subir documento",
   "invalidUploadHeader": "Vaya, parece que ese no era el documento correcto.",
-  "invalidUploadDescription": "Asegúrese de que comprende los criterios de elegibilidad de Kiron y haga clic en "volver a cargar el documento" a continuación para enviar su nuevo documento. En la siguiente página, verá ejemplos de documentos aceptados.",
+  "invalidUploadDescription": "Asegúrese de que comprende los criterios de elegibilidad de Kiron y haga clic en \"volver a cargar el documento\" a continuación para enviar su nuevo documento. En la siguiente página, verá ejemplos de documentos aceptados.",
   "rejectedHeader": "No hemos podido verificarte con el documento subido.",
   "rejectedDescription": "Lo sentimos, no podemos verificar el documento subido. Aún puedes acceder a los programas gratuitos de Kiron. Para consultas, contacta student-support@kiron.ngo",
   "rejectedBtn": "Contáctanos",
@@ -20,5 +22,9 @@
   "ineligibleUploadDescription": "Nuestro equipo los ha revisado y, lamentablemente, no eres elegible para acceder al catálogo completo de Kiron. Sin embargo, aún puedes acceder a nuestros cursos y recursos básicos y seguirás recibiendo comunicaciones relevantes de nosotros. Ten en cuenta que en este momento no es posible volver a aplicar.",
   "documentCheckClosed": "Kiron ha introducido un nuevo sistema para la verificación periódica de documentos y los criterios de elegibilidad. Aún tiene acceso al Campus de Kiron y seguirá recibiendo mensajes nuestros, a menos que se dé de baja. Las ofertas para ciertos cursos y programas están disponibles solo para los estudiantes verificados. Lea más sobre el nuevo proceso en",
   "moreInfo": "Más información",
-  "thisPage": "esta página."
+  "thisPage": "esta página.",
+  "sponsoredAccessLabel": "Acceso patrocinado",
+  "courseraPromotionTitle": "Certificados ilimitados de Coursera",
+  "courseraPromotionSubtitle": "Más de 300 universidades y empresas asociadas",
+  "dismissPromoPanel": "Descartar"
 }
