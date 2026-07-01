@@ -24,5 +24,13 @@
   "sponsoredAccessLabel": "Спонсорований доступ",
   "courseraPromotionTitle": "Необмежені сертифікати Coursera",
   "courseraPromotionSubtitle": "Понад 300 партнерських університетів і компаній",
-  "dismissPromoPanel": "Закрити"
+  "dismissPromoPanel": "Закрити",
+  "verifiedHeader": "Ваша ліцензія Coursera активна",
+  "verifiedDescription": "Необмежена кількість сертифікованих курсів від понад 300 партнерів Coursera — ваші, на Kiron і Coursera.",
+  "verifiedCta": "Переглянути Coursera",
+  "pendingHeader": "Перевірка на розгляді",
+  "pendingDescription": "Ми перевіряємо ваш документ. Ви отримаєте електронний лист протягом 3 робочих днів. Наразі всі курси, розміщені на Kiron, доступні для вас.",
+  "pendingCta": "Переглянути статус",
+  "cycleClosedHeader": "Coursera for Impact — заявки відкриваються раундами",
+  "cycleClosedDescription": "Перевірка для безкоштовної ліцензії Coursera for Impact відкривається раундами протягом року. Коли відкриється наступний раунд і ви відповідатимете критеріям, ми повідомимо вас тут і електронною поштою."
 }

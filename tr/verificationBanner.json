@@ -26,5 +26,13 @@
   "sponsoredAccessLabel": "Sponsorlu Erişim",
   "courseraPromotionTitle": "Sınırsız Coursera sertifikaları",
   "courseraPromotionSubtitle": "300'den fazla ortak üniversite ve şirket",
-  "dismissPromoPanel": "Kapat"
+  "dismissPromoPanel": "Kapat",
+  "verifiedHeader": "Coursera lisansınız aktif",
+  "verifiedDescription": "Coursera'nın 300'den fazla ortağından sınırsız sertifikalı kurslar — Kiron ve Coursera'da sizin için hazır.",
+  "verifiedCta": "Coursera'ya göz atın",
+  "pendingHeader": "Doğrulama inceleniyor",
+  "pendingDescription": "Belgenizi kontrol ediyoruz. 3 iş günü içinde bir e-posta alacaksınız. Bu süre zarfında, Kiron'da barındırılan tüm kurslar sizin için açık.",
+  "pendingCta": "Durumu görüntüle",
+  "cycleClosedHeader": "Coursera for Impact — başvurular dönemler halinde açılır",
+  "cycleClosedDescription": "Ücretsiz Coursera for Impact lisansı için doğrulama, yıl boyunca dönemler halinde açılır. Bir sonraki dönem açıldığında ve uygun olduğunuzda, sizi burada ve e-posta yoluyla bilgilendireceğiz."
 }

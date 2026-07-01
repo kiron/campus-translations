@@ -24,5 +24,13 @@
   "sponsoredAccessLabel": "پیاوړی شوی لاسرسی",
   "courseraPromotionTitle": "بې حده Coursera تصدیقنامې",
   "courseraPromotionSubtitle": "له ۳۰۰ څخه ډیر همکار پوهنتونونه او شرکتونه",
-  "dismissPromoPanel": "لغوه کول"
+  "dismissPromoPanel": "لغوه کول",
+  "verifiedHeader": "ستاسو د Coursera جوازلیک فعال دی",
+  "verifiedDescription": "له ۳۰۰ څخه ډیرو د Coursera همکارانو نه بې حده تصدیق شوي کورسونه — ستاسو لپاره، په Kiron او Coursera کې.",
+  "verifiedCta": "Coursera وګورئ",
+  "pendingHeader": "تصدیق د بیاکتنې لاندې دی",
+  "pendingDescription": "موږ ستاسو سند بیاکتنه کوو. تاسو به د ۳ کاري ورځو دننه یو ایمیل ترلاسه کړئ. په دې مهال کې، ټول د Kiron کورسونه تاسو ته پرانستي دي.",
+  "pendingCta": "حالت وګورئ",
+  "cycleClosedHeader": "Coursera for Impact — غوښتنلیکونه په مرحلو کې پرانستل کیږي",
+  "cycleClosedDescription": "د وړیا Coursera for Impact جوازلیک لپاره تصدیق د کال په اوږدو کې په مرحلو کې پرانستل کیږي. کله چې راتلونکې مرحله پرانستل شي او تاسو د اجراتو وړ اوسئ، موږ به تاسو دلته او د ایمیل له لارې خبر کړو."
 }

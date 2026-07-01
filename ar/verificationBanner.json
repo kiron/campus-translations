@@ -26,5 +26,13 @@
   "sponsoredAccessLabel": "وصول ممنوح برعاية",
   "courseraPromotionTitle": "شهادات Coursera غير محدودة",
   "courseraPromotionSubtitle": "أكثر من 300 جامعة وشركة شريكة",
-  "dismissPromoPanel": "إغلاق"
+  "dismissPromoPanel": "إغلاق",
+  "verifiedHeader": "ترخيص Coursera الخاص بك نشط",
+  "verifiedDescription": "دورات معتمدة غير محدودة من أكثر من 300 شريك لـ Coursera — لك، على Kiron وCoursera.",
+  "verifiedCta": "استعرض Coursera",
+  "pendingHeader": "التحقق قيد المراجعة",
+  "pendingDescription": "نحن نراجع مستندك. ستتلقى بريدًا إلكترونيًا في غضون 3 أيام عمل. في هذه الأثناء، جميع الدورات المستضافة على Kiron متاحة لك.",
+  "pendingCta": "عرض الحالة",
+  "cycleClosedHeader": "Coursera for Impact — الطلبات تُفتح على جولات",
+  "cycleClosedDescription": "يُفتح التحقق للحصول على ترخيص Coursera for Impact المجاني على جولات خلال السنة. عندما تُفتح الجولة القادمة وتكون مؤهلًا، سنُخبرك هنا وعبر البريد الإلكتروني."
 }

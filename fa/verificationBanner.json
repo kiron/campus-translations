@@ -24,5 +24,13 @@
   "sponsoredAccessLabel": "دسترسی حمایت‌شده",
   "courseraPromotionTitle": "گواهی‌های نامحدود Coursera",
   "courseraPromotionSubtitle": "بیش از ۳۰۰ دانشگاه و شرکت همکار",
-  "dismissPromoPanel": "رد کردن"
+  "dismissPromoPanel": "رد کردن",
+  "verifiedHeader": "مجوز Coursera شما فعال است",
+  "verifiedDescription": "دوره‌های دارای گواهی نامحدود از بیش از ۳۰۰ همکار Coursera — از آنِ شما، در Kiron و Coursera.",
+  "verifiedCta": "مشاهده Coursera",
+  "pendingHeader": "تأیید در حال بررسی",
+  "pendingDescription": "ما سند شما را بررسی می‌کنیم. ظرف ۳ روز کاری یک ایمیل دریافت خواهید کرد. در این مدت، تمام دوره‌های میزبانی‌شده در Kiron برای شما در دسترس هستند.",
+  "pendingCta": "مشاهده وضعیت",
+  "cycleClosedHeader": "Coursera for Impact — درخواست‌ها به‌صورت دوره‌ای باز می‌شوند",
+  "cycleClosedDescription": "تأیید برای مجوز رایگان Coursera for Impact در طول سال به‌صورت دوره‌ای باز می‌شود. هنگامی که دوره بعدی باز شود و شما واجد شرایط باشید، از همین‌جا و از طریق ایمیل به شما اطلاع خواهیم داد."
 }

@@ -26,5 +26,13 @@
   "sponsoredAccessLabel": "Acceso patrocinado",
   "courseraPromotionTitle": "Certificados ilimitados de Coursera",
   "courseraPromotionSubtitle": "Más de 300 universidades y empresas asociadas",
-  "dismissPromoPanel": "Descartar"
+  "dismissPromoPanel": "Descartar",
+  "verifiedHeader": "Tu licencia de Coursera está activa",
+  "verifiedDescription": "Cursos certificados ilimitados de más de 300 socios de Coursera, tuyos en Kiron y Coursera.",
+  "verifiedCta": "Explorar Coursera",
+  "pendingHeader": "Verificación en revisión",
+  "pendingDescription": "Estamos revisando tu documento. Recibirás un correo electrónico dentro de 3 días laborables. Mientras tanto, todos los cursos alojados en Kiron están disponibles para ti.",
+  "pendingCta": "Ver estado",
+  "cycleClosedHeader": "Coursera for Impact — las solicitudes se abren por rondas",
+  "cycleClosedDescription": "La verificación para la licencia gratuita de Coursera for Impact se abre en rondas a lo largo del año. Cuando se abra la próxima ronda y seas elegible, te avisaremos aquí y por correo electrónico."
 }
