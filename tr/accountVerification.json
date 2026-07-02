@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "Kiron Yardım Merkezi'ne",
   "docGuideFindNumberSuffix": "bakın.",
   "aboutYouSectionTitle": "Sizin hakkınızda",
-  "aboutYouHelp": "İsteğe bağlı — öğrenme önerilerini kişiselleştirmemize ve programın etkisini ölçmemize yardımcı olur. Paylaşmak istemediğiniz alanları atlayın.",
+  "aboutYouHelp": "Bu, geçmişinizi anlamamıza yardımcı olur. Çalışma durumu ve aylık gelir zorunludur — bir profiliniz yoksa LinkedIn hariç zorunludur.",
   "employmentLabel": "İstihdam durumu",
   "employmentPlaceholder": "Seçin",
   "linkedinLabel": "LinkedIn profili",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "Beyan ve imza",
   "reviewSignedRow": "İmzalandı",
   "reviewDateRow": "Tarih",
-  "reviewPlaceRow": "Yer"
+  "reviewPlaceRow": "Yer",
+  "requiredFieldsHint": "Devam etmek için lütfen tüm zorunlu alanları doldurun.",
+  "noLinkedinLabel": "LinkedIn profilim yok",
+  "reviewLinkedinSkipped": "LinkedIn profili yok"
 }

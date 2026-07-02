@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "Kiron Help Center",
   "docGuideFindNumberSuffix": "for more.",
   "aboutYouSectionTitle": "About you",
-  "aboutYouHelp": "Optional — helps us tailor learning recommendations and measure the program's impact. Skip any field you'd rather not share.",
+  "aboutYouHelp": "This helps us understand your background. Employment status and monthly income are required — LinkedIn is required unless you don't have a profile.",
   "employmentLabel": "Employment status",
   "employmentPlaceholder": "Select",
   "linkedinLabel": "LinkedIn profile",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "Declaration & signature",
   "reviewSignedRow": "Signed",
   "reviewDateRow": "Date",
-  "reviewPlaceRow": "Place"
+  "reviewPlaceRow": "Place",
+  "requiredFieldsHint": "Please fill in all the required fields to continue.",
+  "noLinkedinLabel": "I don't have a LinkedIn profile",
+  "reviewLinkedinSkipped": "No LinkedIn profile"
 }

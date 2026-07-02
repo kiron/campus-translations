@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "Центр поддержки Kiron",
   "docGuideFindNumberSuffix": "для получения дополнительной информации.",
   "aboutYouSectionTitle": "О вас",
-  "aboutYouHelp": "Необязательно — помогает нам адаптировать рекомендации по обучению и оценивать эффективность программы. Пропустите любое поле, которым вы не хотите делиться.",
+  "aboutYouHelp": "Это поможет нам лучше понять вашу ситуацию. Статус занятости и ежемесячный доход обязательны для заполнения — LinkedIn также обязателен, если у вас нет профиля.",
   "employmentLabel": "Статус занятости",
   "employmentPlaceholder": "Выберите",
   "linkedinLabel": "Профиль LinkedIn",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "Декларация и подпись",
   "reviewSignedRow": "Подписано",
   "reviewDateRow": "Дата",
-  "reviewPlaceRow": "Место"
+  "reviewPlaceRow": "Место",
+  "requiredFieldsHint": "Пожалуйста, заполните все обязательные поля, чтобы продолжить.",
+  "noLinkedinLabel": "У меня нет профиля LinkedIn",
+  "reviewLinkedinSkipped": "Без профиля LinkedIn"
 }

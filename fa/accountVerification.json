@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "مرکز راهنمایی Kiron",
   "docGuideFindNumberSuffix": "مراجعه کنید.",
   "aboutYouSectionTitle": "درباره شما",
-  "aboutYouHelp": "اختیاری — به ما کمک می‌کند توصیه‌های یادگیری را متناسب‌سازی کنیم و تأثیر برنامه را اندازه‌گیری کنیم. هر فیلدی که ترجیح می‌دهید به اشتراک نگذارید را رد کنید.",
+  "aboutYouHelp": "این به ما کمک می‌کند تا زمینه شما را بهتر درک کنیم. وضعیت اشتغال و درآمد ماهانه الزامی است — LinkedIn نیز الزامی است مگر اینکه پروفایلی نداشته باشید.",
   "employmentLabel": "وضعیت اشتغال",
   "employmentPlaceholder": "انتخاب کنید",
   "linkedinLabel": "نمایه لینکدین",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "اظهارنامه و امضا",
   "reviewSignedRow": "امضا شده",
   "reviewDateRow": "تاریخ",
-  "reviewPlaceRow": "مکان"
+  "reviewPlaceRow": "مکان",
+  "requiredFieldsHint": "لطفاً برای ادامه، تمام فیلدهای الزامی را پر کنید.",
+  "noLinkedinLabel": "من پروفایل LinkedIn ندارم",
+  "reviewLinkedinSkipped": "بدون پروفایل LinkedIn"
 }

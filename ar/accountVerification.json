@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "مركز مساعدة Kiron",
   "docGuideFindNumberSuffix": "لمزيد من المعلومات.",
   "aboutYouSectionTitle": "عنك",
-  "aboutYouHelp": "اختياري — يساعدنا على تخصيص توصيات التعلم وقياس أثر البرنامج. تخطَّ أي حقل تفضل عدم مشاركته.",
+  "aboutYouHelp": "يساعدنا هذا على فهم خلفيتك. حالة التوظيف والدخل الشهري مطلوبان — حساب LinkedIn مطلوب ما لم يكن ليس لديك حساب.",
   "employmentLabel": "الحالة الوظيفية",
   "employmentPlaceholder": "اختر",
   "linkedinLabel": "ملف LinkedIn الشخصي",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "الإقرار والتوقيع",
   "reviewSignedRow": "موقَّع",
   "reviewDateRow": "التاريخ",
-  "reviewPlaceRow": "المكان"
+  "reviewPlaceRow": "المكان",
+  "requiredFieldsHint": "يرجى تعبئة جميع الحقول المطلوبة للمتابعة.",
+  "noLinkedinLabel": "ليس لدي حساب LinkedIn",
+  "reviewLinkedinSkipped": "لا يوجد حساب LinkedIn"
 }

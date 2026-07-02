@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "د Kiron د مرستې مرکز",
   "docGuideFindNumberSuffix": "د نورو معلوماتو لپاره.",
   "aboutYouSectionTitle": "ستاسو په اړه",
-  "aboutYouHelp": "اختیاري — موږ سره د زده کړې وړاندیزونه تنظیمولو او د پروګرام اغیز اندازه کولو کې مرسته کوي. هر هغه ساحه پریږدئ چې تاسو یې شریکول نه غواړئ.",
+  "aboutYouHelp": "دا موږ سره ستاسو د شالید په پوهیدو کې مرسته کوي. د دندې حالت او میاشتنی عاید اړین دي — LinkedIn اړین دی پرته له دې چې تاسو پروفایل ونلرئ.",
   "employmentLabel": "د دندې حالت",
   "employmentPlaceholder": "وټاکئ",
   "linkedinLabel": "د LinkedIn پروفایل",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "اعلامیه او لاسلیک",
   "reviewSignedRow": "لاسلیک شوی",
   "reviewDateRow": "نیټه",
-  "reviewPlaceRow": "ځای"
+  "reviewPlaceRow": "ځای",
+  "requiredFieldsHint": "د دوام لپاره مهرباني وکړئ ټول اړین ساحې ډک کړئ.",
+  "noLinkedinLabel": "زه د LinkedIn پروفایل نلرم",
+  "reviewLinkedinSkipped": "د LinkedIn پروفایل نشته"
 }

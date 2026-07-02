@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "Довідковий центр Kiron",
   "docGuideFindNumberSuffix": "для отримання додаткової інформації.",
   "aboutYouSectionTitle": "Про вас",
-  "aboutYouHelp": "Необов'язково — допомагає нам адаптувати рекомендації щодо навчання та вимірювати вплив програми. Пропустіть будь-яке поле, яким ви не хочете ділитися.",
+  "aboutYouHelp": "Це допомагає нам краще зрозуміти вашу ситуацію. Статус зайнятості та щомісячний дохід є обов'язковими — LinkedIn обов'язковий, якщо у вас немає профілю.",
   "employmentLabel": "Статус зайнятості",
   "employmentPlaceholder": "Оберіть",
   "linkedinLabel": "Профіль LinkedIn",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "Декларація та підпис",
   "reviewSignedRow": "Підписано",
   "reviewDateRow": "Дата",
-  "reviewPlaceRow": "Місце"
+  "reviewPlaceRow": "Місце",
+  "requiredFieldsHint": "Будь ласка, заповніть усі обов'язкові поля, щоб продовжити.",
+  "noLinkedinLabel": "У мене немає профілю LinkedIn",
+  "reviewLinkedinSkipped": "Без профілю LinkedIn"
 }

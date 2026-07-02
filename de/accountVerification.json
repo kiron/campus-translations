@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "Kiron-Hilfezentrum",
   "docGuideFindNumberSuffix": "für weitere Informationen.",
   "aboutYouSectionTitle": "Über dich",
-  "aboutYouHelp": "Optional — hilft uns, Lernempfehlungen anzupassen und die Wirkung des Programms zu messen. Überspringe Felder, die du lieber nicht teilen möchtest.",
+  "aboutYouHelp": "Das hilft uns, deinen Hintergrund besser zu verstehen. Beschäftigungsstatus und monatliches Einkommen sind erforderlich – LinkedIn ist erforderlich, außer du hast kein Profil.",
   "employmentLabel": "Beschäftigungsstatus",
   "employmentPlaceholder": "Auswählen",
   "linkedinLabel": "LinkedIn-Profil",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "Erklärung & Unterschrift",
   "reviewSignedRow": "Unterschrieben",
   "reviewDateRow": "Datum",
-  "reviewPlaceRow": "Ort"
+  "reviewPlaceRow": "Ort",
+  "requiredFieldsHint": "Bitte fülle alle Pflichtfelder aus, um fortzufahren.",
+  "noLinkedinLabel": "Ich habe kein LinkedIn-Profil",
+  "reviewLinkedinSkipped": "Kein LinkedIn-Profil"
 }

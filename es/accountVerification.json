@@ -61,7 +61,7 @@
   "docGuideHelpCenterLink": "Centro de ayuda de Kiron",
   "docGuideFindNumberSuffix": "para más información.",
   "aboutYouSectionTitle": "Sobre ti",
-  "aboutYouHelp": "Opcional — nos ayuda a personalizar las recomendaciones de aprendizaje y a medir el impacto del programa. Omite cualquier campo que prefieras no compartir.",
+  "aboutYouHelp": "Esto nos ayuda a entender tu situación. El estado laboral y los ingresos mensuales son obligatorios; LinkedIn es obligatorio a menos que no tengas un perfil.",
   "employmentLabel": "Situación laboral",
   "employmentPlaceholder": "Selecciona",
   "linkedinLabel": "Perfil de LinkedIn",
@@ -103,5 +103,8 @@
   "reviewDeclarationTitle": "Declaración y firma",
   "reviewSignedRow": "Firmado",
   "reviewDateRow": "Fecha",
-  "reviewPlaceRow": "Lugar"
+  "reviewPlaceRow": "Lugar",
+  "requiredFieldsHint": "Completa todos los campos obligatorios para continuar.",
+  "noLinkedinLabel": "No tengo un perfil de LinkedIn",
+  "reviewLinkedinSkipped": "Sin perfil de LinkedIn"
 }
