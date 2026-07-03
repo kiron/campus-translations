@@ -106,5 +106,7 @@
   "reviewPlaceRow": "المكان",
   "requiredFieldsHint": "يرجى تعبئة جميع الحقول المطلوبة للمتابعة.",
   "noLinkedinLabel": "ليس لدي حساب LinkedIn",
-  "reviewLinkedinSkipped": "لا يوجد حساب LinkedIn"
+  "reviewLinkedinSkipped": "لا يوجد حساب LinkedIn",
+  "submitSuccess": "تم إرسال طلب التحقق الخاص بك بنجاح.",
+  "submitError": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
 }

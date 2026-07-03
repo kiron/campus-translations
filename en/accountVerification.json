@@ -106,5 +106,7 @@
   "reviewPlaceRow": "Place",
   "requiredFieldsHint": "Please fill in all the required fields to continue.",
   "noLinkedinLabel": "I don't have a LinkedIn profile",
-  "reviewLinkedinSkipped": "No LinkedIn profile"
+  "reviewLinkedinSkipped": "No LinkedIn profile",
+  "submitSuccess": "Your verification has been submitted successfully.",
+  "submitError": "Something went wrong. Please try again."
 }

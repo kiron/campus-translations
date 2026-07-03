@@ -106,5 +106,7 @@
   "reviewPlaceRow": "Yer",
   "requiredFieldsHint": "Devam etmek için lütfen tüm zorunlu alanları doldurun.",
   "noLinkedinLabel": "LinkedIn profilim yok",
-  "reviewLinkedinSkipped": "LinkedIn profili yok"
+  "reviewLinkedinSkipped": "LinkedIn profili yok",
+  "submitSuccess": "Doğrulamanız başarıyla gönderildi.",
+  "submitError": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
 }

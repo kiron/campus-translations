@@ -106,5 +106,7 @@
   "reviewPlaceRow": "Місце",
   "requiredFieldsHint": "Будь ласка, заповніть усі обов'язкові поля, щоб продовжити.",
   "noLinkedinLabel": "У мене немає профілю LinkedIn",
-  "reviewLinkedinSkipped": "Без профілю LinkedIn"
+  "reviewLinkedinSkipped": "Без профілю LinkedIn",
+  "submitSuccess": "Вашу перевірку успішно надіслано.",
+  "submitError": "Щось пішло не так. Будь ласка, спробуйте ще раз."
 }

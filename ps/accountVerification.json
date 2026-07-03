@@ -106,5 +106,7 @@
   "reviewPlaceRow": "ځای",
   "requiredFieldsHint": "د دوام لپاره مهرباني وکړئ ټول اړین ساحې ډک کړئ.",
   "noLinkedinLabel": "زه د LinkedIn پروفایل نلرم",
-  "reviewLinkedinSkipped": "د LinkedIn پروفایل نشته"
+  "reviewLinkedinSkipped": "د LinkedIn پروفایل نشته",
+  "submitSuccess": "ستاسو تصدیق په بریالیتوب سره وسپارل شو.",
+  "submitError": "یو څه غلط شول. مهرباني وکړئ بیا هڅه وکړئ."
 }

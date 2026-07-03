@@ -106,5 +106,7 @@
   "reviewPlaceRow": "مکان",
   "requiredFieldsHint": "لطفاً برای ادامه، تمام فیلدهای الزامی را پر کنید.",
   "noLinkedinLabel": "من پروفایل LinkedIn ندارم",
-  "reviewLinkedinSkipped": "بدون پروفایل LinkedIn"
+  "reviewLinkedinSkipped": "بدون پروفایل LinkedIn",
+  "submitSuccess": "تأیید شما با موفقیت ارسال شد.",
+  "submitError": "مشکلی پیش آمد. لطفاً دوباره امتحان کنید."
 }

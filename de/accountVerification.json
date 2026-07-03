@@ -106,5 +106,7 @@
   "reviewPlaceRow": "Ort",
   "requiredFieldsHint": "Bitte fülle alle Pflichtfelder aus, um fortzufahren.",
   "noLinkedinLabel": "Ich habe kein LinkedIn-Profil",
-  "reviewLinkedinSkipped": "Kein LinkedIn-Profil"
+  "reviewLinkedinSkipped": "Kein LinkedIn-Profil",
+  "submitSuccess": "Deine Verifizierung wurde erfolgreich übermittelt.",
+  "submitError": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
 }
