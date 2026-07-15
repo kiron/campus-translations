@@ -108,5 +108,13 @@
   "noLinkedinLabel": "I don't have a LinkedIn profile",
   "reviewLinkedinSkipped": "No LinkedIn profile",
   "submitSuccess": "Your verification has been submitted successfully.",
-  "submitError": "Something went wrong. Please try again."
+  "submitError": "Something went wrong. Please try again.",
+  "missingInfoTitle": "Complete your verification information",
+  "missingInfoLede": "Some verification information is missing from your account. Please complete the fields below.",
+  "missingInfoSubmitBtn": "Submit information",
+  "missingInfoSubmitSuccess": "Your information has been submitted successfully.",
+  "missingInfoBannerTitle": "Please update your profile",
+  "missingInfoBannerSubtitle": "We're missing a few details in your profile. It only takes a minute to add them and keep your account information complete.",
+  "missingInfoBannerCta": "Update profile",
+  "missingInfoBannerSkip": "Skip for now"
 }

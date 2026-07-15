@@ -108,5 +108,13 @@
   "noLinkedinLabel": "LinkedIn profilim yok",
   "reviewLinkedinSkipped": "LinkedIn profili yok",
   "submitSuccess": "Doğrulamanız başarıyla gönderildi.",
-  "submitError": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+  "submitError": "Bir şeyler ters gitti. Lütfen tekrar deneyin.",
+  "missingInfoTitle": "Doğrulama bilgilerinizi tamamlayın",
+  "missingInfoLede": "Hesabınızda bazı doğrulama bilgileri eksik. Lütfen aşağıdaki alanları doldurun.",
+  "missingInfoSubmitBtn": "Bilgileri gönder",
+  "missingInfoSubmitSuccess": "Bilgileriniz başarıyla gönderildi.",
+  "missingInfoBannerTitle": "Lütfen profilinizi güncelleyin",
+  "missingInfoBannerSubtitle": "Profilinizde birkaç bilgi eksik. Eklemek yalnızca bir dakikanızı alır ve hesap bilgilerinizin eksiksiz kalmasını sağlar.",
+  "missingInfoBannerCta": "Profili güncelle",
+  "missingInfoBannerSkip": "Şimdilik atla"
 }

@@ -108,5 +108,13 @@
   "noLinkedinLabel": "من پروفایل LinkedIn ندارم",
   "reviewLinkedinSkipped": "بدون پروفایل LinkedIn",
   "submitSuccess": "تأیید شما با موفقیت ارسال شد.",
-  "submitError": "مشکلی پیش آمد. لطفاً دوباره امتحان کنید."
+  "submitError": "مشکلی پیش آمد. لطفاً دوباره امتحان کنید.",
+  "missingInfoTitle": "اطلاعات تأیید خود را تکمیل کنید",
+  "missingInfoLede": "برخی از اطلاعات تأیید در حساب شما موجود نیست. لطفاً فیلدهای زیر را تکمیل کنید.",
+  "missingInfoSubmitBtn": "ارسال اطلاعات",
+  "missingInfoSubmitSuccess": "اطلاعات شما با موفقیت ارسال شد.",
+  "missingInfoBannerTitle": "لطفاً پروفایل خود را به‌روزرسانی کنید",
+  "missingInfoBannerSubtitle": "چند مورد از اطلاعات پروفایل شما ناقص است. تکمیل آن فقط یک دقیقه طول می‌کشد و اطلاعات حساب شما را کامل نگه می‌دارد.",
+  "missingInfoBannerCta": "به‌روزرسانی پروفایل",
+  "missingInfoBannerSkip": "فعلاً رد کردن"
 }

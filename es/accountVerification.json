@@ -108,5 +108,13 @@
   "noLinkedinLabel": "No tengo un perfil de LinkedIn",
   "reviewLinkedinSkipped": "Sin perfil de LinkedIn",
   "submitSuccess": "Tu verificación se ha enviado correctamente.",
-  "submitError": "Algo salió mal. Inténtalo de nuevo."
+  "submitError": "Algo salió mal. Inténtalo de nuevo.",
+  "missingInfoTitle": "Completa tu información de verificación",
+  "missingInfoLede": "Falta información de verificación en tu cuenta. Completa los campos a continuación.",
+  "missingInfoSubmitBtn": "Enviar información",
+  "missingInfoSubmitSuccess": "Tu información se ha enviado correctamente.",
+  "missingInfoBannerTitle": "Actualiza tu perfil",
+  "missingInfoBannerSubtitle": "Faltan algunos datos en tu perfil. Solo te llevará un minuto completarlos y mantener tu información al día.",
+  "missingInfoBannerCta": "Actualizar perfil",
+  "missingInfoBannerSkip": "Omitir por ahora"
 }

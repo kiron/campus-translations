@@ -108,5 +108,13 @@
   "noLinkedinLabel": "ليس لدي حساب LinkedIn",
   "reviewLinkedinSkipped": "لا يوجد حساب LinkedIn",
   "submitSuccess": "تم إرسال طلب التحقق الخاص بك بنجاح.",
-  "submitError": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  "submitError": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "missingInfoTitle": "أكمل معلومات التحقق الخاصة بك",
+  "missingInfoLede": "بعض معلومات التحقق مفقودة من حسابك. يرجى تعبئة الحقول أدناه.",
+  "missingInfoSubmitBtn": "إرسال المعلومات",
+  "missingInfoSubmitSuccess": "تم إرسال معلوماتك بنجاح.",
+  "missingInfoBannerTitle": "يرجى تحديث ملفك الشخصي",
+  "missingInfoBannerSubtitle": "بعض البيانات مفقودة من ملفك الشخصي. لن يستغرق استكمالها سوى دقيقة واحدة للحفاظ على اكتمال معلومات حسابك.",
+  "missingInfoBannerCta": "تحديث الملف الشخصي",
+  "missingInfoBannerSkip": "التخطي الآن"
 }

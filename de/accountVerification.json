@@ -108,5 +108,13 @@
   "noLinkedinLabel": "Ich habe kein LinkedIn-Profil",
   "reviewLinkedinSkipped": "Kein LinkedIn-Profil",
   "submitSuccess": "Deine Verifizierung wurde erfolgreich übermittelt.",
-  "submitError": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+  "submitError": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+  "missingInfoTitle": "Vervollständige deine Verifizierungsinformationen",
+  "missingInfoLede": "In deinem Konto fehlen einige Verifizierungsinformationen. Bitte fülle die folgenden Felder aus.",
+  "missingInfoSubmitBtn": "Informationen absenden",
+  "missingInfoSubmitSuccess": "Deine Informationen wurden erfolgreich übermittelt.",
+  "missingInfoBannerTitle": "Bitte aktualisiere dein Profil",
+  "missingInfoBannerSubtitle": "In deinem Profil fehlen noch ein paar Angaben. Es dauert nur eine Minute, sie zu ergänzen und deine Kontoinformationen zu vervollständigen.",
+  "missingInfoBannerCta": "Profil aktualisieren",
+  "missingInfoBannerSkip": "Vorerst überspringen"
 }

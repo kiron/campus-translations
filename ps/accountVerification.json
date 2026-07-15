@@ -108,5 +108,13 @@
   "noLinkedinLabel": "زه د LinkedIn پروفایل نلرم",
   "reviewLinkedinSkipped": "د LinkedIn پروفایل نشته",
   "submitSuccess": "ستاسو تصدیق په بریالیتوب سره وسپارل شو.",
-  "submitError": "یو څه غلط شول. مهرباني وکړئ بیا هڅه وکړئ."
+  "submitError": "یو څه غلط شول. مهرباني وکړئ بیا هڅه وکړئ.",
+  "missingInfoTitle": "خپل د تصدیق معلومات بشپړ کړئ",
+  "missingInfoLede": "ستاسو په حساب کې د تصدیق ځینې معلومات نشته. مهرباني وکړئ لاندې برخې ډکې کړئ.",
+  "missingInfoSubmitBtn": "معلومات وسپارئ",
+  "missingInfoSubmitSuccess": "ستاسو معلومات په بریالیتوب سره وسپارل شول.",
+  "missingInfoBannerTitle": "مهرباني وکړئ خپل پروفایل تازه کړئ",
+  "missingInfoBannerSubtitle": "ستاسو په پروفایل کې یو څو معلومات نشته. بشپړول یې یوازې یوه دقیقه وخت نیسي او ستاسو د حساب معلومات بشپړ ساتي.",
+  "missingInfoBannerCta": "پروفایل تازه کړئ",
+  "missingInfoBannerSkip": "اوس مهال یې پرېږدئ"
 }
