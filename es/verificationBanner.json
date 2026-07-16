@@ -34,5 +34,8 @@
   "pendingDescription": "Estamos revisando tu documento. Recibirás un correo electrónico dentro de 3 días laborables. Mientras tanto, todos los cursos alojados en Kiron están disponibles para ti.",
   "pendingCta": "Ver estado",
   "cycleClosedHeader": "Coursera for Impact — las solicitudes se abren por rondas",
-  "cycleClosedDescription": "La verificación para la licencia gratuita de Coursera for Impact se abre en rondas a lo largo del año. Cuando se abra la próxima ronda y seas elegible, te avisaremos aquí y por correo electrónico."
+  "cycleClosedDescription": "La verificación para la licencia gratuita de Coursera for Impact se abre en rondas a lo largo del año. Cuando se abra la próxima ronda y seas elegible, te avisaremos aquí y por correo electrónico.",
+  "sampleUploadHeader": "Un paso más para completar tu verificación",
+  "sampleUploadDescription": "Para finalizar tu verificación, sube tu documento de verificación. Solo te llevará unos minutos.",
+  "sampleUploadBtn": "Subir documento"
 }
