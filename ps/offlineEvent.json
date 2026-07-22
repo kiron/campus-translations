@@ -8,7 +8,7 @@
   "aboutTitle": "په اړه",
   "detailsTitle": "جزیات",
   "availableAppointments": "موجود ګمارنې",
-  "noAvailableAppointments": "په اوس وخت کې شتون شتون نلري",
+  "noAvailableAppointments": "دا مهال د ښودلو لپاره کوم وختونه نشته",
   "yourAppointments": "ستاسو ملاقاتونه",
   "appointmentsInfo": "خبرتیاوې فعال کړئ ترڅو د خپلو ناستو په اړه ګټور یادښتونه ترلاسه کړئ.",
   "remainingSlots": "پاتې سلاټونه",
@@ -36,6 +36,6 @@
   "happeningNow": "اوس پیښیږي",
   "card": {
     "offline": "Offline",
-    "type": "Event" 
+    "type": "Event"
   }
 }

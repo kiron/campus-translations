@@ -8,7 +8,7 @@
   "aboutTitle": "در باره",
   "detailsTitle": "جزئیات",
   "availableAppointments": "قرارهای موجود",
-  "noAvailableAppointments": "در حال حاضر هیچ قرار ملاقات در دسترس نیست",
+  "noAvailableAppointments": "در حال حاضر قرار ملاقاتی برای نمایش وجود ندارد",
   "yourAppointments": "قرارهای شما",
   "appointmentsInfo": "اعلان‌ها را فعال کنید تا یادآوری‌های مفیدی درباره قرارهای خود دریافت کنید.",
   "remainingSlots": "اسلات های باقی مانده",
@@ -36,6 +36,6 @@
   "happeningNow": "در حال رخ دادن",
   "card": {
     "offline": "Offline",
-    "type": "Event" 
+    "type": "Event"
   }
 }
