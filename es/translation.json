@@ -292,7 +292,14 @@
       "course_plural": "{{0}} Cursos"
     },
     "unit": "{{0}} Unidad",
-    "unit_plural": "{{0}} Unidades"
+    "unit_plural": "{{0}} Unidades",
+    "availability": {
+      "fullyBooked": "No quedan plazas",
+      "few": "Quedan pocas plazas",
+      "enough": "Plazas disponibles",
+      "spotsLeft": "{{count}} de {{total}} plaza disponible",
+      "spotsLeft_plural": "{{count}} de {{total}} plazas disponibles"
+    }
   },
   "courseraProgress": {
     "title": "Progreso en Coursera",

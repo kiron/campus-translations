@@ -249,7 +249,14 @@
     "multiplier": "x",
     "type": "Course",
     "selfPaced": "Self-paced",
-    "inProgress": "In progress"
+    "inProgress": "In progress",
+    "availability": {
+      "fullyBooked": "ظرفیت تکمیل است",
+      "few": "ظرفیت محدود است",
+      "enough": "ظرفیت موجود است",
+      "spotsLeft": "{{count}} از {{total}} جای خالی",
+      "spotsLeft_plural": "{{count}} از {{total}} جای خالی"
+    }
   },
   "courseraProgress": {
     "title": "میزان پیشرفت شما در دوره ارائه شده توسط Coursera",

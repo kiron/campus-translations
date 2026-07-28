@@ -293,6 +293,13 @@
       "project_plural": "{{0}} Projekte",
       "event": "{{0}} Veranstaltung",
       "event_plural": "{{0}} Veranstaltungen"
+    },
+    "availability": {
+      "fullyBooked": "Keine freien Plätze",
+      "few": "Wenige Plätze",
+      "enough": "Genügend Plätze",
+      "spotsLeft": "{{count}} von {{total}} Platz frei",
+      "spotsLeft_plural": "{{count}} von {{total}} Plätzen frei"
     }
   },
   "courseraProgress": {

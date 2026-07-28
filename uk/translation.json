@@ -271,6 +271,14 @@
       "event_0": "{{0}} Подія",
       "event_1": "{{0}} Події",
       "event_2": "{{0}} Подій"
+    },
+    "availability": {
+      "fullyBooked": "Місць немає",
+      "few": "Залишилось мало місць",
+      "enough": "Місця доступні",
+      "spotsLeft_0": "Вільне {{count}} місце з {{total}}",
+      "spotsLeft_1": "Вільні {{count}} місця з {{total}}",
+      "spotsLeft_2": "Вільно {{count}} місць з {{total}}"
     }
   },
   "courseraProgress": {

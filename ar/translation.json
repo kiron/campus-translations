@@ -262,7 +262,18 @@
     "unit_2": "{{0}} وحدتين",
     "unit_3": "{{0}} وحدات",
     "unit_4": "{{0}} وحدات",
-    "unit_5": "{{0}} وحدات"
+    "unit_5": "{{0}} وحدات",
+    "availability": {
+      "fullyBooked": "لا توجد مقاعد متبقية",
+      "few": "مقاعد قليلة متبقية",
+      "enough": "مقاعد متاحة",
+      "spotsLeft_0": "{{count}} من {{total}} مقعد متبقي",
+      "spotsLeft_1": "{{count}} من {{total}} مقعد متبقي",
+      "spotsLeft_2": "{{count}} من {{total}} مقاعد متبقية",
+      "spotsLeft_3": "{{count}} من {{total}} مقاعد متبقية",
+      "spotsLeft_4": "{{count}} من {{total}} مقاعد متبقية",
+      "spotsLeft_5": "{{count}} من {{total}} مقاعد متبقية"
+    }
   },
   "courseraProgress": {
     "title": "معدل التقدم الخاص بك في مساق المقدم من كورسيرا",

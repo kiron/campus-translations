@@ -263,7 +263,14 @@
     "multiplier": "x",
     "type": "Kurs",
     "selfPaced": "Kendi hızınızda",
-    "inProgress": "Ilerleme halinde"
+    "inProgress": "Ilerleme halinde",
+    "availability": {
+      "fullyBooked": "Kontenjan doldu",
+      "few": "Az yer kaldı",
+      "enough": "Yer var",
+      "spotsLeft": "{{total}} yerden {{count}} tanesi boş",
+      "spotsLeft_plural": "{{total}} yerden {{count}} tanesi boş"
+    }
   },
   "courseraProgress": {
     "title": "Coursera durumu",

@@ -271,6 +271,14 @@
       "event_0": "{{0}} Событие",
       "event_1": "{{0}} События",
       "event_2": "{{0}} Событии"
+    },
+    "availability": {
+      "fullyBooked": "Мест не осталось",
+      "few": "Осталось мало мест",
+      "enough": "Места есть",
+      "spotsLeft_0": "Свободно {{count}} место из {{total}}",
+      "spotsLeft_1": "Свободно {{count}} места из {{total}}",
+      "spotsLeft_2": "Свободно {{count}} мест из {{total}}"
     }
   },
   "courseraProgress": {

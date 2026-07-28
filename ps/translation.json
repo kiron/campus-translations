@@ -250,7 +250,14 @@
     "multiplier": "x",
     "type": "Course",
     "selfPaced": "Self-paced",
-    "inProgress": "In progress"
+    "inProgress": "In progress",
+    "availability": {
+      "fullyBooked": "ځایونه نه دي پاتې",
+      "few": "لږ ځایونه پاتې دي",
+      "enough": "ځایونه موجود دي",
+      "spotsLeft": "د {{total}} څخه {{count}} ځای پاتې دی",
+      "spotsLeft_plural": "د {{total}} څخه {{count}} ځایونه پاتې دي"
+    }
   },
   "courseraProgress": {
     "title": "د کورسیرا پرمختګ",
