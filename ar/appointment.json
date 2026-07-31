@@ -41,5 +41,11 @@
   "joinInfoCTA": "يتم فتح الوصول إلى الاجتماع قبل 15 دقيقة ويُغلق بعد 90 دقيقة من وقت البدء.",
   "addToCalendar": "إضافة إلى التقويم",
   "notifyRegisteredLearners": "هل تريد إرسال بريد إلكتروني إشعاري إلى جميع المشاركين الحاليين؟",
-  "registrationClosed": "التسجيل مغلق"
+  "registrationClosed": "التسجيل مغلق",
+  "programEnrollmentModal": {
+    "title": "انضم إلى البرنامج أولاً",
+    "errorMessage": "'{{appointment}}' جزء من برنامج '{{program}}'. انضم إلى البرنامج أولاً للتسجيل في مواعيده.",
+    "viewProgramCTA": "عرض البرنامج",
+    "dismissCTA": "ليس الآن"
+  }
 }

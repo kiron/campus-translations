@@ -39,6 +39,8 @@
     "applyMapFilters": "Harita filtrelerini uygula",
     "cancelFilter": "Filtreleri iptal et",
     "concurrentCta": "Devam et ve kapat",
+    "viewProgram": "Programı görüntüle ve kapat",
+    "dismissProgramEnrollment": "Programa katılmadan kapat",
     "deleteAppointment": "Randevuyu sil",
     "abortDelete": "Silmeyi iptal et",
     "registerSuccess": "Başarıyla kayıt olundu ve kapatıldı",

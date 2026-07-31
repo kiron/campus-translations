@@ -39,6 +39,8 @@
     "applyMapFilters": "تطبيق عوامل تصفية الخريطة",
     "cancelFilter": "إلغاء الفلاتر",
     "concurrentCta": "المتابعة والإغلاق",
+    "viewProgram": "عرض البرنامج والإغلاق",
+    "dismissProgramEnrollment": "الإغلاق دون الانضمام إلى البرنامج",
     "deleteAppointment": "حذف الموعد",
     "abortDelete": "إلغاء الحذف",
     "registerSuccess": "التسجيل بنجاح والإغلاق",

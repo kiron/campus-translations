@@ -46,5 +46,11 @@
   "joinInfoCTA": "El acceso a la reunión se abre 15 minutos antes y se cierra 90 minutos después de la hora de inicio.",
   "addToCalendar": "Agregar al calendario",
   "notifyRegisteredLearners": "¿Enviar un correo electrónico de notificación a todos los participantes actuales?",
-  "registrationClosed": "Inscripción cerrada"
+  "registrationClosed": "Inscripción cerrada",
+  "programEnrollmentModal": {
+    "title": "Únete primero al programa",
+    "errorMessage": "'{{appointment}}' forma parte del programa '{{program}}'. Únete primero al programa para inscribirte en sus eventos.",
+    "viewProgramCTA": "Ver programa",
+    "dismissCTA": "Ahora no"
+  }
 }

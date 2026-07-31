@@ -39,6 +39,8 @@
     "applyMapFilters": "Застосувати фільтри карти",
     "cancelFilter": "Скасувати фільтри",
     "concurrentCta": "Продовжити та закрити",
+    "viewProgram": "Відкрити програму та закрити",
+    "dismissProgramEnrollment": "Закрити, не приєднуючись до програми",
     "deleteAppointment": "Видалити зустріч",
     "abortDelete": "Скасувати видалення",
     "registerSuccess": "Успішно зареєстровано та закрито",

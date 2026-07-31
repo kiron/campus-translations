@@ -41,5 +41,11 @@
   "joinInfoCTA": "Toplantı erişimi 15 dakika önce açılır ve başlangıç saatinden 90 dakika sonra kapanır.",
   "addToCalendar": "Takvime ekle",
   "notifyRegisteredLearners": "Mevcut tüm katılımcılara bildirim e-postası gönderilsin mi?",
-  "registrationClosed": "Kayıt kapalı"
+  "registrationClosed": "Kayıt kapalı",
+  "programEnrollmentModal": {
+    "title": "Önce programa katıl",
+    "errorMessage": "'{{appointment}}', '{{program}}' programının bir parçasıdır. Randevularına kaydolmak için önce programa katıl.",
+    "viewProgramCTA": "Programı görüntüle",
+    "dismissCTA": "Şimdi değil"
+  }
 }

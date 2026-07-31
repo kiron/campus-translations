@@ -40,5 +40,11 @@
   "joinInfoCTA": "د غونډې لاسرسی ۱۵ دقیقې مخکې خلاصیږي او د پیل وخت نه ۹۰ دقیقې وروسته تړل کیږي.",
   "addToCalendar": "کيلنډر ته یې اضافه کړئ",
   "notifyRegisteredLearners": "ایا د ټولو اوسني برخه اخیستونکو ته د خبرتیا بریښنالیک واستول شي؟",
-  "registrationClosed": "لیکنه بنده ده"
+  "registrationClosed": "لیکنه بنده ده",
+  "programEnrollmentModal": {
+    "title": "لومړی پروګرام سره یوځای شئ",
+    "errorMessage": "'{{appointment}}' د '{{program}}' پروګرام یوه برخه ده. د هغه موعدونو لپاره د نوم لیکنې لپاره لومړی پروګرام سره یوځای شئ.",
+    "viewProgramCTA": "پروګرام وګورئ",
+    "dismissCTA": "اوس نه"
+  }
 }

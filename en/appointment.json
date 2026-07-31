@@ -45,5 +45,11 @@
   "joinInfoCTA": "Meeting access opens 15 minutes early and closes 90 minutes after start time.",
   "addToCalendar": "Add to Calendar",
   "notifyRegisteredLearners": "Send a notification e-mail to all current participants?",
-  "registrationClosed": "Registration closed"
+  "registrationClosed": "Registration closed",
+  "programEnrollmentModal": {
+    "title": "Join the program first",
+    "errorMessage": "'{{appointment}}' is part of the program '{{program}}'. Join the program first to register for its appointments.",
+    "viewProgramCTA": "View program",
+    "dismissCTA": "Not now"
+  }
 }

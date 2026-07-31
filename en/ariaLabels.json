@@ -39,6 +39,8 @@
     "applyMapFilters": "Apply map filters",
     "cancelFilter": "Cancel filters",
     "concurrentCta": "Proceed and close",
+    "viewProgram": "View the program and close",
+    "dismissProgramEnrollment": "Close without joining the program",
     "deleteAppointment": "Delete appointment",
     "abortDelete": "Cancel deletion",
     "registerSuccess": "Registe successfully and close",

@@ -45,5 +45,11 @@
   "joinInfoCTA": "Der Zugang zum Meeting öffnet 15 Minuten vorher und schließt 90 Minuten nach Beginn.",
   "addToCalendar": "Zum Kalender hinzufügen",
   "notifyRegisteredLearners": "Eine Benachrichtigungs-E-Mail an alle aktuellen Teilnehmer:innen senden?",
-  "registrationClosed": "Anmeldung geschlossen"
+  "registrationClosed": "Anmeldung geschlossen",
+  "programEnrollmentModal": {
+    "title": "Melde dich zuerst zum Programm an",
+    "errorMessage": "'{{appointment}}' ist Teil des Programms '{{program}}'. Melde dich zuerst zum Programm an, um dich für dessen Termine anzumelden.",
+    "viewProgramCTA": "Programm ansehen",
+    "dismissCTA": "Nicht jetzt"
+  }
 }

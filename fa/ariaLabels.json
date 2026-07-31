@@ -39,6 +39,8 @@
     "applyMapFilters": "اعمال فیلترهای نقشه",
     "cancelFilter": "لغو فیلترها",
     "concurrentCta": "ادامه و بستن",
+    "viewProgram": "مشاهده برنامه و بستن",
+    "dismissProgramEnrollment": "بستن بدون پیوستن به برنامه",
     "deleteAppointment": "حذف قرار ملاقات",
     "abortDelete": "لغو حذف",
     "registerSuccess": "با موفقیت ثبت شد و بسته شد",

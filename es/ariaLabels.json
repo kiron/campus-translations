@@ -39,6 +39,8 @@
     "applyMapFilters": "Aplicar filtros del mapa",
     "cancelFilter": "Cancelar filtros",
     "concurrentCta": "Continuar y cerrar",
+    "viewProgram": "Ver el programa y cerrar",
+    "dismissProgramEnrollment": "Cerrar sin unirse al programa",
     "deleteAppointment": "Eliminar cita",
     "abortDelete": "Cancelar eliminación",
     "registerSuccess": "Registrado con éxito y cerrar",

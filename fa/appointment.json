@@ -41,5 +41,11 @@
   "joinInfoCTA": "دسترسی به جلسه ۱۵ دقیقه زودتر باز و ۹۰ دقیقه پس از زمان شروع بسته می‌شود.",
   "addToCalendar": "افزودن به تقویم",
   "notifyRegisteredLearners": "آیا یک ایمیل اطلاع‌رسانی به تمام شرکت‌کنندگان فعلی ارسال شود؟",
-  "registrationClosed": "ثبت‌نام بسته شده است"
+  "registrationClosed": "ثبت‌نام بسته شده است",
+  "programEnrollmentModal": {
+    "title": "ابتدا به برنامه بپیوندید",
+    "errorMessage": "'{{appointment}}' بخشی از برنامه '{{program}}' است. برای ثبت‌نام در قرارهای ملاقات آن، ابتدا به برنامه بپیوندید.",
+    "viewProgramCTA": "مشاهده برنامه",
+    "dismissCTA": "الآن نه"
+  }
 }
