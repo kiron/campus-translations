@@ -226,6 +226,7 @@
     "started": "بدأت!",
     "completed": "منجز!",
     "live": "مباشر",
+    "startsAt": "يبدأ {{- time}}",
     "provided": "مقدمة من",
     "courseProvider": "مقدمة من <1>{{1}}</1>",
     "hoursAbbreviation": "س",

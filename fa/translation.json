@@ -241,6 +241,7 @@
     "started": "آغاز شده!",
     "completed": "تکمیل شد!",
     "live": "زنده",
+    "startsAt": "{{- time}} شروع می‌شود",
     "provided": "تهیه شده توسط",
     "courseProvider": "تهیه شده توسط <1>{{1}}</1>",
     "hoursAbbreviation": "سا",

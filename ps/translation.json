@@ -242,6 +242,7 @@
     "started": "Started!",
     "completed": "Completed!",
     "live": "LIVE",
+    "startsAt": "{{- time}} پیل کیږي",
     "provided": "Provided by",
     "courseProvider": "Provided by <1>{{1}}</1>",
     "hoursAbbreviation": "h",

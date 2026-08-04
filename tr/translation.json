@@ -255,6 +255,7 @@
     "started": "Başladı!",
     "completed": "Bitti!",
     "live": "CANLI",
+    "startsAt": "{{- time}} başlıyor",
     "provided": "tarafından sağlanmıştır",
     "courseProvider": "<1>{{1}}</1> tarafından sağlanmıştır",
     "hoursAbbreviation": "S",

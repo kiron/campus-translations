@@ -275,6 +275,7 @@
     "started": "Begonnen!",
     "completed": "Abgeschlossen!",
     "live": "LIVE",
+    "startsAt": "Startet {{- time}}",
     "provided": "Bereitgestellt von",
     "courseProvider": "Bereitgestellt von <1>{{1}}</1>",
     "hoursAbbreviation": "h",

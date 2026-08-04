@@ -249,6 +249,7 @@
     "started": "Почалося!",
     "completed": "Завершено!",
     "live": "ЗАРАЗ ОНЛАЙН",
+    "startsAt": "Початок {{- time}}",
     "provided": "Забезпечується",
     "courseProvider": "Provided by <1>{{1}}</1>",
     "hoursAbbreviation": "год",

@@ -249,6 +249,7 @@
     "started": "Начато!",
     "completed": "Завершено!",
     "live": "ПРЯМОЙ ЭФИР",
+    "startsAt": "Начало {{- time}}",
     "provided": "Предоставлено",
     "courseProvider": "Предоставлено <1>{{1}}</1>",
     "hoursAbbreviation": "ч",

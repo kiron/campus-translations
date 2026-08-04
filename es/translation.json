@@ -274,6 +274,7 @@
     "started": "¡Comenzada!",
     "completed": "¡Completada!",
     "live": "EN VIVO",
+    "startsAt": "Comienza {{- time}}",
     "provided": "Proporcionada por",
     "courseProvider": "Proporcionada por <1>{{1}}</1>",
     "hoursAbbreviation": "h",
