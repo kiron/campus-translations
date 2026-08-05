@@ -253,7 +253,8 @@
     "inProgress": "In progress",
     "availability": {
       "fullyBooked": "ظرفیت تکمیل است",
-      "few": "ظرفیت محدود است",
+      "few": "{{count}} جای خالی",
+      "few_plural": "{{count}} جای خالی",
       "enough": "ظرفیت موجود است",
       "spotsLeft": "{{count}} از {{total}} جای خالی",
       "spotsLeft_plural": "{{count}} از {{total}} جای خالی"

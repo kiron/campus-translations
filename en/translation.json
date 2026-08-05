@@ -287,7 +287,8 @@
     },
     "availability": {
       "fullyBooked": "No spots left",
-      "few": "Few spots left",
+      "few": "{{count}} spot left",
+      "few_plural": "{{count}} spots left",
       "enough": "Spots available",
       "spotsLeft": "{{count}} of {{total}} spot left",
       "spotsLeft_plural": "{{count}} of {{total}} spots left"

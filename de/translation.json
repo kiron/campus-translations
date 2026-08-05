@@ -297,7 +297,8 @@
     },
     "availability": {
       "fullyBooked": "Keine freien Plätze",
-      "few": "Wenige Plätze",
+      "few": "{{count}} Platz frei",
+      "few_plural": "{{count}} Plätze frei",
       "enough": "Genügend Plätze",
       "spotsLeft": "{{count}} von {{total}} Platz frei",
       "spotsLeft_plural": "{{count}} von {{total}} Plätzen frei"

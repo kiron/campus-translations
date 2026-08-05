@@ -296,7 +296,8 @@
     "unit_plural": "{{0}} Unidades",
     "availability": {
       "fullyBooked": "No quedan plazas",
-      "few": "Quedan pocas plazas",
+      "few": "{{count}} plaza disponible",
+      "few_plural": "{{count}} plazas disponibles",
       "enough": "Plazas disponibles",
       "spotsLeft": "{{count}} de {{total}} plaza disponible",
       "spotsLeft_plural": "{{count}} de {{total}} plazas disponibles"
