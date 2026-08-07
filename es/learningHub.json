@@ -2,6 +2,8 @@
   "contactUs": "¿Necesitas ayuda para mantenerte en el camino con {{denomination}}?",
   "contactButtonHeadline": "¿Necesitas apoyo? No estás solo.",
   "contactButton": "Contáctanos",
+  "contactSupport": "Contactar con soporte",
+  "visitHelpCenter": "Visitar el centro de ayuda",
   "contactReasonSelectionText": "Gracias por comunicarte. Elige lo que necesitas hoy:",
   "contactReasonDescription": "Cuéntanos más...",
   "contactOption": {
@@ -29,6 +31,10 @@
   "dragCertificate": "Arrastra tu certificado aquí, o <1>búscalo</1>",
   "pdfSizeLimit": "Solo PDF · hasta 10 MB",
   "submitAndMarkComplete": "Enviar y marcar como completado",
+  "uploadDifferentFile": "Subir otro archivo",
+  "retry": "Reintentar",
+  "checkingCertificate": "Comprobando tu certificado…",
+  "certificateAccepted": "Certificado aceptado — curso marcado como completado",
   "noAppointmentsDesc": "Aún no tienes citas. Únete a más contenido para agregar elementos a tu viaje.",
   "joinLearningContentDesc": "Cuando te unas a un contenido de aprendizaje, se mostrará en tu viaje.",
   "addExternalCourseDesc": "Cuando agregues un curso externo, aquí podrás realizar un seguimiento de tu tiempo.",
@@ -47,7 +53,11 @@
   "errors": {
     "enterMinutes": "Por favor ingresa los minutos dedicados al curso.",
     "invalidCertificate": "¡Certificado inválido! por favor contacta al soporte.",
-    "errorMessage": "Ha ocurrido un error."
+    "errorMessage": "Ha ocurrido un error.",
+    "certificateWrongType": "Solo se aceptan archivos PDF.",
+    "certificateTooBig": "Este archivo es demasiado grande. Sube un PDF de hasta 10 MB.",
+    "certificateRejected": "No pudimos verificar este certificado. Asegúrate de que muestre claramente tu nombre y el proveedor del curso, e inténtalo de nuevo.",
+    "certificateSubmitFailed": "Algo salió mal al enviar tu certificado. Por favor, inténtalo de nuevo."
   },
   "allAppointments": "Todas las citas disponibles",
   "browseAll_prefix": "Ver todas las",

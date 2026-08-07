@@ -2,6 +2,8 @@
   "contactUs": "د {{denomination}} سره په لار کې پاتې کیدو لپاره مرسته ته اړتیا لرئ؟",
   "contactButtonHeadline": "مرسته ته اړتیا لرئ؟ تاسو یوازې نه یاست.",
   "contactButton": "موږ سره اړیکه ونیسئ",
+  "contactSupport": "ملاتړ سره اړیکه ونیسئ",
+  "visitHelpCenter": "د مرستې مرکز ته لاړ شئ",
   "contactReasonSelectionText": "مننه چې اړیکه مو ونیوله. مهرباني وکړئ وټاکئ چې نن څه ته اړتیا لرئ:",
   "contactReasonDescription": "نوره معلومات راکړئ...",
   "contactOption": {
@@ -29,6 +31,10 @@
   "dragCertificate": "خپل سند دلته راکش کړئ، یا <1>لټون</1>",
   "pdfSizeLimit": "یوازې PDF · تر 10 MB پورې",
   "submitAndMarkComplete": "وسپارئ او د بشپړ په توګه نښه کړئ",
+  "uploadDifferentFile": "بل فایل اپلوډ کړئ",
+  "retry": "بیا هڅه وکړئ",
+  "checkingCertificate": "ستاسو سند چک کیږي…",
+  "certificateAccepted": "سند ومنل شو — کورس د بشپړ په توګه نښه شو",
   "noAppointmentsDesc": "تر اوسه پورې تاسې هیڅ کوم ناسته نلرئ. د خپل سفر عناصر اضافه کولو لپاره نورو منځپانګو سره یوځای شئ.",
   "joinLearningContentDesc": "کله چې تاسې د زده کړې منځپانګې سره یوځای شئ، دا به ستاسې په سفر کې ښکاره شي.",
   "addExternalCourseDesc": "کله چې تاسې یو بهرنی کورس اضافه کړئ، دلته تاسې کولی شئ خپل وخت پیټه کړئ.",
@@ -47,7 +53,11 @@
   "errors": {
     "enterMinutes": "مهرباني وکړئ د کورس لپاره تیر شوي دقیقې داخل کړئ.",
     "invalidCertificate": "سند نامعتبر! مهرباني وکړئ له ملاتړ سره اړیکه ونیسئ.",
-    "errorMessage": "اوپس! یو څه غلط پیش آمد."
+    "errorMessage": "اوپس! یو څه غلط پیش آمد.",
+    "certificateWrongType": "یوازې PDF فایلونه منل کیږي.",
+    "certificateTooBig": "دا فایل ډیر لوی دی. مهرباني وکړئ تر 10 MB پورې PDF اپلوډ کړئ.",
+    "certificateRejected": "موږ نشو کولی دا سند تایید کړو. ډاډ ترلاسه کړئ چې دا په روښانه توګه ستاسو نوم او د کورس چمتوونکی ښیي، بیا هڅه وکړئ.",
+    "certificateSubmitFailed": "ستاسو سند لیږلو په جریان کې یو څه غلط شول. مهرباني وکړئ بیا هڅه وکړئ."
   },
   "allAppointments": "ټول شته وخت ټاکنې",
   "browseAll_prefix": "ټولې",

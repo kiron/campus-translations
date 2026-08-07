@@ -2,6 +2,8 @@
   "contactUs": "{{denomination}} ile yolunda kalmak için yardıma mı ihtiyacınız var?",
   "contactButtonHeadline": "Desteğe mi ihtiyacınız var? Yalnız değilsiniz.",
   "contactButton": "Bizimle iletişime geçin",
+  "contactSupport": "Destek ile iletişime geç",
+  "visitHelpCenter": "Yardım merkezini ziyaret et",
   "contactReasonSelectionText": "Bizimle iletişime geçtiğiniz için teşekkürler. Bugün neye ihtiyacınız var?",
   "contactReasonDescription": "Bize daha fazla bilgi verin...",
   "contactOption": {
@@ -29,6 +31,10 @@
   "dragCertificate": "Sertifikanı buraya sürükle veya <1>gözat</1>",
   "pdfSizeLimit": "Sadece PDF · 10 MB'a kadar",
   "submitAndMarkComplete": "Gönder ve tamamlandı olarak işaretle",
+  "uploadDifferentFile": "Farklı bir dosya yükle",
+  "retry": "Tekrar dene",
+  "checkingCertificate": "Sertifikan kontrol ediliyor…",
+  "certificateAccepted": "Sertifika kabul edildi — kurs tamamlandı olarak işaretlendi",
   "noAppointmentsDesc": "Henüz randevunuz yok. Yolculuğunuza öğe eklemek için daha fazla içeriğe katılın.",
   "joinLearningContentDesc": "Bir öğrenme içeriğine katıldığınızda, yolculuğunuzda görüntülenecektir.",
   "addExternalCourseDesc": "Harici bir kurs eklediğinizde, burada zamanınızı takip edebilirsiniz.",
@@ -47,7 +53,11 @@
   "errors": {
     "enterMinutes": "Lütfen kursa harcadığınız dakika sayısını girin.",
     "invalidCertificate": "Geçersiz sertifika! Lütfen destek ekibiyle iletişime geçin.",
-    "errorMessage": "Hata! Bir şeyler yanlış gitti."
+    "errorMessage": "Hata! Bir şeyler yanlış gitti.",
+    "certificateWrongType": "Sadece PDF dosyaları kabul edilir.",
+    "certificateTooBig": "Bu dosya çok büyük. Lütfen 10 MB'a kadar bir PDF yükle.",
+    "certificateRejected": "Bu sertifikayı doğrulayamadık. Adının ve kurs sağlayıcısının açıkça göründüğünden emin ol ve tekrar dene.",
+    "certificateSubmitFailed": "Sertifikan gönderilirken bir şeyler yanlış gitti. Lütfen tekrar dene."
   },
   "allAppointments": "Mevcut tüm randevular",
   "browseAll_prefix": "Tüm",

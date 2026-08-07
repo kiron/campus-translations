@@ -2,6 +2,8 @@
   "contactUs": "هل تحتاج إلى مساعدة في البقاء على المسار الصحيح مع {{denomination}}؟",
   "contactButtonHeadline": "تحتاج إلى دعم؟ لست وحدك.",
   "contactButton": "تواصل معنا",
+  "contactSupport": "الاتصال بالدعم",
+  "visitHelpCenter": "زيارة مركز المساعدة",
   "contactReasonSelectionText": "شكرًا لتواصلك معنا. اختر ما تحتاجه اليوم:",
   "contactReasonDescription": "أخبرنا المزيد...",
   "contactOption": {
@@ -31,6 +33,10 @@
   "dragCertificate": "اسحب شهادتك هنا، أو <1>تصفح</1>",
   "pdfSizeLimit": "PDF فقط · حتى 10 ميجابايت",
   "submitAndMarkComplete": "إرسال وتحديد كمكتمل",
+  "uploadDifferentFile": "تحميل ملف آخر",
+  "retry": "إعادة المحاولة",
+  "checkingCertificate": "جارٍ التحقق من شهادتك…",
+  "certificateAccepted": "تم قبول الشهادة — تم تعليم الدورة كمكتملة",
   "noAppointmentsDesc": "ليس لديك أي مواعيد بعد. انضم إلى محتوى إضافي لإضافة عناصر إلى رحلتك.",
   "joinLearningContentDesc": "عند الانضمام إلى محتوى تعليمي، سيتم عرضه في رحلتك.",
   "addExternalCourseDesc": "عند إضافة دورة خارجية، يمكنك تتبع وقتك هنا.",
@@ -49,7 +55,11 @@
   "errors": {
     "enterMinutes": "يرجى إدخال عدد الدقائق التي قضيتها في الدورة.",
     "invalidCertificate": "شهادة غير صالحة! يرجى التواصل مع الدعم.",
-    "errorMessage": "عذراً! حدث خطأ ما."
+    "errorMessage": "عذراً! حدث خطأ ما.",
+    "certificateWrongType": "يتم قبول ملفات PDF فقط.",
+    "certificateTooBig": "هذا الملف كبير جدًا. يرجى تحميل ملف PDF حتى 10 ميغابايت.",
+    "certificateRejected": "لم نتمكن من التحقق من هذه الشهادة. تأكد من أنها تُظهر اسمك ومزود الدورة بوضوح، ثم حاول مرة أخرى.",
+    "certificateSubmitFailed": "حدث خطأ ما أثناء إرسال شهادتك. يرجى المحاولة مرة أخرى."
   },
   "allAppointments": "جميع المواعيد المتاحة",
   "browseAll_prefix": "تصفح جميع",

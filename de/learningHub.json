@@ -2,6 +2,8 @@
   "contactUs": "Brauchst du Hilfe, um mit {{denomination}} auf Kurs zu bleiben?",
   "contactButtonHeadline": "Brauchst du Unterstützung? Du bist nicht allein.",
   "contactButton": "Kontaktiere uns",
+  "contactSupport": "Support kontaktieren",
+  "visitHelpCenter": "Hilfe-Center besuchen",
   "contactReasonSelectionText": "Danke, dass du dich meldest. Wähle, was du heute brauchst:",
   "contactReasonDescription": "Erzähl uns mehr...",
   "contactOption": {
@@ -29,6 +31,10 @@
   "dragCertificate": "Ziehe dein Zertifikat hierher oder <1>durchsuche</1> deine Dateien",
   "pdfSizeLimit": "Nur PDF · bis zu 10 MB",
   "submitAndMarkComplete": "Einreichen & als abgeschlossen markieren",
+  "uploadDifferentFile": "Andere Datei hochladen",
+  "retry": "Erneut versuchen",
+  "checkingCertificate": "Dein Zertifikat wird geprüft…",
+  "certificateAccepted": "Zertifikat akzeptiert — Kurs als abgeschlossen markiert",
   "noAppointmentsDesc": "Du hast noch keine Termine. Tritt mehr Inhalten bei, um Elemente zu deiner Reise hinzuzufügen.",
   "joinLearningContentDesc": "Wenn du einem Lerninhalt beitrittst, wird dieser in deiner Reise angezeigt.",
   "addExternalCourseDesc": "Wenn du einen externen Kurs hinzufügst, kannst du hier deine Zeit nachverfolgen.",
@@ -47,7 +53,11 @@
   "errors": {
     "enterMinutes": "Bitte gib die Minuten an, die du für diesen Kurs aufgewendet hast.",
     "invalidCertificate": "Ungültiges Zertifikat! Bitte kontaktiere den Support.",
-    "errorMessage": "Ups! Etwas ist schiefgegangen."
+    "errorMessage": "Ups! Etwas ist schiefgegangen.",
+    "certificateWrongType": "Es werden nur PDF-Dateien akzeptiert.",
+    "certificateTooBig": "Diese Datei ist zu groß. Bitte lade ein PDF mit bis zu 10 MB hoch.",
+    "certificateRejected": "Wir konnten dieses Zertifikat nicht verifizieren. Achte darauf, dass dein Name und der Kursanbieter deutlich erkennbar sind, und versuche es erneut.",
+    "certificateSubmitFailed": "Beim Einreichen deines Zertifikats ist etwas schiefgelaufen. Bitte versuche es erneut."
   },
   "allAppointments": "Alle verfügbaren Termine",
   "browseAll_prefix": "Alle",

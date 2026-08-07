@@ -29,6 +29,12 @@
   "dragCertificate": "Drag your certificate here, or <1>browse</1>",
   "pdfSizeLimit": "PDF only · up to 10 MB",
   "submitAndMarkComplete": "Submit & mark as complete",
+  "uploadDifferentFile": "Upload a different file",
+  "retry": "Retry",
+  "checkingCertificate": "Checking your certificate…",
+  "certificateAccepted": "Certificate accepted — course marked as complete",
+  "contactSupport": "Contact support",
+  "visitHelpCenter": "Visit help center",
   "noAppointmentsDesc": "You have no appointments yet. Join more content to add elements to your journey.",
   "joinLearningContentDesc": "When you join a learning content, it will be displayed in your journey.",
   "addExternalCourseDesc": "When you add an external course, here you can track your time.",
@@ -47,7 +53,11 @@
   "errors": {
     "enterMinutes": "Please enter the minutes spent on the course.",
     "invalidCertificate": "Invalid certificate! please contact support.",
-    "errorMessage": "Oops! Something went wrong."
+    "errorMessage": "Oops! Something went wrong.",
+    "certificateWrongType": "Only PDF files are accepted.",
+    "certificateTooBig": "This file is too large. Please upload a PDF up to 10 MB.",
+    "certificateRejected": "We couldn't verify this certificate. Make sure it clearly shows your name and the course provider, then try again.",
+    "certificateSubmitFailed": "Something went wrong while submitting your certificate. Please try again."
   },
   "allAppointments": "All available appointments",
   "browseAll_prefix": "Browse all",
