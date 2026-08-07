@@ -40,6 +40,8 @@
   "successfullyRegistered": "You have successfully registered.",
   "successfullyUnregistered": "You have successfully unenrolled.",
   "youAreRegistered": "Registered",
+  "participantsCount": "{{count}} participant",
+  "participantsCount_plural": "{{count}} participants",
   "OK": "OK",
   "certificateBtn": "Download attendance confirmation",
   "joinInfoCTA": "Meeting access opens 15 minutes early and closes 90 minutes after start time.",

@@ -30,6 +30,8 @@
   "url": "URL",
   "validUrlPrompt": "لطفاً یک آدرس اینترنتی معتبر اضافه کنید",
   "maxParticipants": "حداکثر تعداد شرکت‌کنندگان",
+  "participantsCount": "{{count}} شرکت‌کننده",
+  "participantsCount_plural": "{{count}} شرکت‌کننده",
   "unlimitedParticipants": "اگر نامحدود است، 0 را تنظیم کنید",
   "addAppointment": "اضافه کردن قرار ملاقات",
   "wasAdded": "قرار ملاقات با موفقیت اضافه شد!",

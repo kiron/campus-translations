@@ -37,6 +37,8 @@
   "successfullyRegistered": "Du hast dich erfolgreich angemeldet.",
   "successfullyUnregistered": "Du hast dich erfolgreich abgemeldet.",
   "youAreRegistered": "Angemeldet",
+  "participantsCount": "{{count}} Teilnehmer:in",
+  "participantsCount_plural": "{{count}} Teilnehmer:innen",
   "OK": "OK",
   "registerToAllButton": "Alle anmelden",
   "unregisterFromAllButton": "Alle abmelden",

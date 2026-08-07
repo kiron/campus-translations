@@ -38,6 +38,8 @@
   "successfullyRegistered": "Te has registrado con éxito.",
   "successfullyUnregistered": "Te has dado de baja con éxito.",
   "youAreRegistered": "Registrado",
+  "participantsCount_0": "{{count}} participante",
+  "participantsCount_1": "{{count}} participantes",
   "OK": "OK",
   "registerToAllButton": "Registrarse en todos",
   "unregisterFromAllButton": "Darse de baja de todos",
