@@ -49,7 +49,6 @@
   "learningJourneySubtitle": "Follow your learning journey step by step. Click a date to see your tasks and track your progress along the way.",
   "uploadCertificate": "Upload your certificate",
   "markCourseCompleted": "Mark Course as Completed",
-  "reportSubmitted": "Your report has been submitted successfully.",
   "errors": {
     "enterMinutes": "Please enter the minutes spent on the course.",
     "invalidCertificate": "Invalid certificate! please contact support.",
