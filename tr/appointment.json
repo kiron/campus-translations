@@ -10,6 +10,7 @@
   "upcomingSessionIn": "Oturum {{distance}} içinde başlayacaktır",
   "deleteAppointment": "Randevuyu sil",
   "deleteAppointmentConfirmationText": "Bu randevuyu silmek istediğinden emin misin?",
+  "deleteWillNotifyLearners": "Kayıtlı olan herkese iptal edildiğine dair bir e-posta gönderilecek.",
   "appointmentDeleted": "Randevu başarıyla silindi",
   "appointmentDeleteError": "Randevu silinirken hata oluştu",
   "unenroll": "Kaydı iptal et",

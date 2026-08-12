@@ -38,6 +38,7 @@
   "starts": "Empieza",
   "deleteAppointment": "Eliminar evento",
   "deleteAppointmentConfirmationText": "¿Estás seguro de que quieres eliminar esto evento?",
+  "deleteWillNotifyLearners": "Todas las personas inscritas recibirán un correo informando de que se ha cancelado.",
   "appointmentDeleted": "El evento se ha eliminado con éxito",
   "appointmentDeleteError": "Error al eliminar el evento",
   "successfullyRegistered": "Te has registrado con éxito.",

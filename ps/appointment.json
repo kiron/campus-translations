@@ -9,6 +9,7 @@
   "registerNowButton": "اوس ې ثبت کړه",
   "deleteAppointment": "موعد له منځه وړل",
   "deleteAppointmentConfirmationText": "آیا تاسو ډاډه یاست چې غواړئ دا موعد له منځه ووړئ؟",
+  "deleteWillNotifyLearners": "ټولو نوم لیکل شویو ته به بریښنالیک ولېږل شي چې دا موعد لغوه شوی دی.",
   "appointmentDeleted": "موعد په بریالیتوب سره له منځه وړل شوی دی",
   "appointmentDeleteError": "د موعد د له منځه وړلو په وخت کې تېروتنه",
   "unenroll": "نوم لیکنه لغوه کړئ",

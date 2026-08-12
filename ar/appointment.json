@@ -13,6 +13,7 @@
   "upcomingSessionIn": "ستبدأ الجلسة خلال {{distance}}",
   "deleteAppointment": "حذف الموعد",
   "deleteAppointmentConfirmationText": "هل أنت متأكد من أنك تريد حذف هذا الموعد؟",
+  "deleteWillNotifyLearners": "سيصل جميع المسجلين بريد إلكتروني يفيد بأن الموعد قد أُلغي.",
   "appointmentDeleted": "تم حذف الموعد بنجاح",
   "appointmentDeleteError": "خطأ في حذف الموعد",
   "drawerTitle": "أضف موعدًا",

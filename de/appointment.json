@@ -37,6 +37,7 @@
   "starts": "Beginnt",
   "deleteAppointment": "Termin löschen",
   "deleteAppointmentConfirmationText": "Bist du sicher, dass du diesen Termin löschen möchtest?",
+  "deleteWillNotifyLearners": "Alle Angemeldeten bekommen eine E-Mail, dass die Session abgesagt wurde.",
   "appointmentDeleted": "Der Termin wurde erfolgreich gelöscht",
   "appointmentDeleteError": "Fehler beim Löschen des Termins",
   "successfullyRegistered": "Du hast dich erfolgreich angemeldet.",

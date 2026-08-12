@@ -40,6 +40,7 @@
   "success": "Hooray!",
   "deleteAppointment": "Delete appointment",
   "deleteAppointmentConfirmationText": "Are you sure you want to delete this appointment?",
+  "deleteWillNotifyLearners": "Everyone who signed up will be emailed that it is cancelled.",
   "appointmentDeleted": "The appointment was successfully deleted",
   "appointmentDeleteError": "Error deleting appointment",
   "successfullyRegistered": "You have successfully registered.",

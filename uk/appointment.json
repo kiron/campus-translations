@@ -42,6 +42,7 @@
   "success": "Ура!",
   "deleteAppointment": "Видалити зустріч",
   "deleteAppointmentConfirmationText": "Ви впевнені, що хочете видалити цю зустріч?",
+  "deleteWillNotifyLearners": "Усі, хто записався, отримають лист про те, що зустріч скасовано.",
   "appointmentDeleted": "Зустріч успішно видалена",
   "appointmentDeleteError": "Помилка при видаленні зустрічі",
   "registerToAllButton": "Зареєструватися на всі",

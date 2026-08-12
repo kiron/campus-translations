@@ -9,6 +9,7 @@
   "registerNowButton": "همین حالا ثبت نام کنید",
   "deleteAppointment": "قرار ملاقات را حذف کن",
   "deleteAppointmentConfirmationText": "آیا مطمئنی که می‌خواهی این قرار ملاقات را حذف کنی؟",
+  "deleteWillNotifyLearners": "برای همه ثبت‌نام‌کنندگان ایمیلی ارسال می‌شود که این قرار ملاقات لغو شده است.",
   "appointmentDeleted": "قرار ملاقات با موفقیت حذف شد",
   "appointmentDeleteError": "خطا در حذف قرار ملاقات",
   "unenroll": "لغو ثبت نام",
