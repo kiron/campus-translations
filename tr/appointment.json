@@ -11,6 +11,7 @@
   "deleteAppointment": "Randevuyu sil",
   "deleteAppointmentConfirmationText": "Bu randevuyu silmek istediğinden emin misin?",
   "deleteWillNotifyLearners": "Kayıtlı olan herkese iptal edildiğine dair bir e-posta gönderilecek.",
+  "editWillNotifyLearners": "Saati veya bağlantıyı değiştirirseniz kayıtlı öğrencilere e-posta gönderilir. Diğer değişiklikler için e-posta gönderilmez.",
   "appointmentDeleted": "Randevu başarıyla silindi",
   "appointmentDeleteError": "Randevu silinirken hata oluştu",
   "unenroll": "Kaydı iptal et",
@@ -53,5 +54,14 @@
     "errorMessage": "'{{appointment}}', '{{program}}' programının bir parçasıdır. Randevularına kaydolmak için önce programa katıl.",
     "viewProgramCTA": "Programı görüntüle",
     "dismissCTA": "Şimdi değil"
+  },
+  "errors": {
+    "generic": "Randevu kaydedilemedi. Lütfen tekrar deneyin.",
+    "deadlineAfterStart": "Kayıt son tarihi, randevunun başlangıcından önce olmalı.",
+    "capacityBelowRegistered": "Bundan daha fazla öğrenci kayıtlı. Üst sınırı yükseltin ya da kaydı kapatmak için kayıtlı sayısına eşitleyin.",
+    "timezoneMovesToPast": "Bu saat diliminde randevu geçmişte kalır. Önce daha ileri bir saate taşıyın.",
+    "inheritedFromSeries": "Ad, açıklama, üst sınır ve kayıt son tarihi yinelenen randevudan gelir. Bunları orada değiştirin.",
+    "scopeNotSupported": "Bu değişiklik yinelenen bir randevunun tek bir tarihine uygulanamaz.",
+    "notAllowed": "Bu kurstaki randevuları düzenleme yetkiniz yok."
   }
 }

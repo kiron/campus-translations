@@ -39,6 +39,7 @@
   "deleteAppointment": "Eliminar evento",
   "deleteAppointmentConfirmationText": "¿Estás seguro de que quieres eliminar esto evento?",
   "deleteWillNotifyLearners": "Todas las personas inscritas recibirán un correo informando de que se ha cancelado.",
+  "editWillNotifyLearners": "Las personas inscritas reciben un correo si cambias la hora o el enlace. Los demás cambios no generan correo.",
   "appointmentDeleted": "El evento se ha eliminado con éxito",
   "appointmentDeleteError": "Error al eliminar el evento",
   "successfullyRegistered": "Te has registrado con éxito.",
@@ -61,5 +62,14 @@
     "errorMessage": "'{{appointment}}' forma parte del programa '{{program}}'. Únete primero al programa para inscribirte en sus eventos.",
     "viewProgramCTA": "Ver programa",
     "dismissCTA": "Ahora no"
+  },
+  "errors": {
+    "generic": "No se pudo guardar la cita. Inténtalo de nuevo.",
+    "deadlineAfterStart": "La fecha límite de inscripción debe ser anterior al inicio de la cita.",
+    "capacityBelowRegistered": "Ya hay más personas inscritas. Sube el máximo, o ponlo en el número de inscritas para cerrar la inscripción.",
+    "timezoneMovesToPast": "En esa zona horaria la cita quedaría en el pasado. Muévela primero a una hora posterior.",
+    "inheritedFromSeries": "El nombre, la descripción, el máximo y la fecha límite siguen a la cita periódica. Cámbialos allí.",
+    "scopeNotSupported": "Ese cambio no puede aplicarse a una sola fecha de una cita periódica.",
+    "notAllowed": "No tienes permiso para editar las citas de este curso."
   }
 }

@@ -38,6 +38,7 @@
   "deleteAppointment": "Termin löschen",
   "deleteAppointmentConfirmationText": "Bist du sicher, dass du diesen Termin löschen möchtest?",
   "deleteWillNotifyLearners": "Alle Angemeldeten bekommen eine E-Mail, dass die Session abgesagt wurde.",
+  "editWillNotifyLearners": "Wenn du die Zeit oder den Link änderst, werden angemeldete Lernende per E-Mail informiert. Andere Änderungen lösen keine E-Mail aus.",
   "appointmentDeleted": "Der Termin wurde erfolgreich gelöscht",
   "appointmentDeleteError": "Fehler beim Löschen des Termins",
   "successfullyRegistered": "Du hast dich erfolgreich angemeldet.",
@@ -60,5 +61,14 @@
     "errorMessage": "'{{appointment}}' ist Teil des Programms '{{program}}'. Melde dich zuerst zum Programm an, um dich für dessen Termine anzumelden.",
     "viewProgramCTA": "Programm ansehen",
     "dismissCTA": "Nicht jetzt"
+  },
+  "errors": {
+    "generic": "Der Termin konnte nicht gespeichert werden. Bitte versuche es erneut.",
+    "deadlineAfterStart": "Der Anmeldeschluss muss vor dem Beginn des Termins liegen.",
+    "capacityBelowRegistered": "Es haben sich bereits mehr Lernende angemeldet. Erhöhe die Höchstzahl oder setze sie auf die Zahl der Angemeldeten, um die Anmeldung zu schließen.",
+    "timezoneMovesToPast": "In dieser Zeitzone läge der Termin in der Vergangenheit. Verschiebe ihn zuerst auf eine spätere Zeit.",
+    "inheritedFromSeries": "Name, Beschreibung, Höchstzahl und Anmeldeschluss richten sich nach dem wiederkehrenden Termin. Ändere sie dort.",
+    "scopeNotSupported": "Diese Änderung lässt sich nicht auf einen einzelnen Termin einer Serie anwenden.",
+    "notAllowed": "Du darfst die Termine in diesem Kurs nicht bearbeiten."
   }
 }
