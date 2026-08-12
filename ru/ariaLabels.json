@@ -64,7 +64,13 @@
     "bookmarkItem": "Добавить в закладки",
     "shareList": "Поделиться списком",
     "accountMenu": "Открыть меню аккаунта",
-    "dropdownMenu": "Открыть выпадающее меню"
+    "dropdownMenu": "Открыть выпадающее меню",
+    "showMoreResults": "Показать больше результатов",
+    "showLessResults": "Показать меньше результатов",
+    "expandSection": "Развернуть {{title}}",
+    "collapseSection": "Свернуть {{title}}",
+    "playVideo": "Воспроизвести видео",
+    "loadingVideo": "Видео загружается"
   },
   "link": {
     "logo": "Перейти на главную страницу",
@@ -98,7 +104,7 @@
     "carouselDotButton": "Перейти к слайду",
     "modulesRegion": "Рекомендуемые курсы",
     "footerRegion": "Присоединяйтесь к нам",
-    "howToRegion": "Как это работает?", 
+    "howToRegion": "Как это работает?",
     "whyJoinRegion": "Почему стоит присоединиться?",
     "introRegion": "Введение в кампус"
   }

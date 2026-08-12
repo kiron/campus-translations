@@ -64,7 +64,13 @@
     "bookmarkItem": "إضافة هذا العنصر إلى العلامات المرجعية",
     "shareList": "مشاركة القائمة",
     "accountMenu": "فتح قائمة الحساب",
-    "dropdownMenu": "فتح القائمة المنسدلة"
+    "dropdownMenu": "فتح القائمة المنسدلة",
+    "showMoreResults": "إظهار المزيد من النتائج",
+    "showLessResults": "إظهار نتائج أقل",
+    "expandSection": "توسيع {{title}}",
+    "collapseSection": "تصغير {{title}}",
+    "playVideo": "تشغيل الفيديو",
+    "loadingVideo": "جارٍ تحميل الفيديو"
   },
   "link": {
     "logo": "الانتقال إلى الصفحة الرئيسية",

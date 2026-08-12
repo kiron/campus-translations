@@ -64,7 +64,13 @@
     "bookmarkItem": "Bu öğeyi yer imlerine ekle",
     "shareList": "Listeyi paylaş",
     "accountMenu": "Hesap menüsünü aç",
-    "dropdownMenu": "Açılır menüyü aç"
+    "dropdownMenu": "Açılır menüyü aç",
+    "showMoreResults": "Daha fazla sonuç göster",
+    "showLessResults": "Daha az sonuç göster",
+    "expandSection": "{{title}} bölümünü genişlet",
+    "collapseSection": "{{title}} bölümünü daralt",
+    "playVideo": "Videoyu oynat",
+    "loadingVideo": "Video yükleniyor"
   },
   "link": {
     "logo": "Başlangıç sayfasına git",
@@ -98,7 +104,7 @@
     "carouselDotButton": "Slayta git",
     "modulesRegion": "Önerilen kurslar",
     "footerRegion": "Bize katılın",
-    "howToRegion": "Nasıl çalışır?", 
+    "howToRegion": "Nasıl çalışır?",
     "whyJoinRegion": "Neden katılmalısınız?",
     "introRegion": "Kampüs Tanıtımı"
   }

@@ -64,7 +64,13 @@
     "bookmarkItem": "Додати цей елемент у закладки",
     "shareList": "Поділитися списком",
     "accountMenu": "Відкрити меню акаунта",
-    "dropdownMenu": "Відкрити випадаюче меню"
+    "dropdownMenu": "Відкрити випадаюче меню",
+    "showMoreResults": "Показати більше результатів",
+    "showLessResults": "Показати менше результатів",
+    "expandSection": "Розгорнути {{title}}",
+    "collapseSection": "Згорнути {{title}}",
+    "playVideo": "Відтворити відео",
+    "loadingVideo": "Відео завантажується"
   },
   "link": {
     "logo": "Перейти на головну сторінку",

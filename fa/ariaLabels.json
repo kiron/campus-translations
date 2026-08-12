@@ -64,7 +64,13 @@
     "bookmarkItem": "ذخیره این مورد",
     "shareList": "اشتراک‌گذاری لیست",
     "accountMenu": "باز کردن منوی حساب",
-    "dropdownMenu": "باز کردن منوی کشویی"
+    "dropdownMenu": "باز کردن منوی کشویی",
+    "showMoreResults": "نمایش نتایج بیشتر",
+    "showLessResults": "نمایش نتایج کمتر",
+    "expandSection": "باز کردن {{title}}",
+    "collapseSection": "بستن {{title}}",
+    "playVideo": "پخش ویدیو",
+    "loadingVideo": "ویدیو در حال بارگذاری است"
   },
   "link": {
     "logo": "رفتن به صفحه اصلی",
@@ -98,7 +104,7 @@
     "carouselDotButton": "رفتن به اسلاید",
     "modulesRegion": "دوره‌های پیشنهادی",
     "footerRegion": "به ما بپیوندید",
-    "howToRegion": "چگونه کار می‌کند؟", 
+    "howToRegion": "چگونه کار می‌کند؟",
     "whyJoinRegion": "چرا به ما بپیوندید؟",
     "introRegion": "معرفی پردیس"
   }

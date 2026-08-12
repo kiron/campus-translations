@@ -64,7 +64,13 @@
     "bookmarkItem": "Marcar este elemento",
     "shareList": "Compartir lista",
     "accountMenu": "Abrir menú de cuenta",
-    "dropdownMenu": "Abrir menú desplegable"
+    "dropdownMenu": "Abrir menú desplegable",
+    "showMoreResults": "Mostrar más resultados",
+    "showLessResults": "Mostrar menos resultados",
+    "expandSection": "Expandir {{title}}",
+    "collapseSection": "Contraer {{title}}",
+    "playVideo": "Reproducir video",
+    "loadingVideo": "El video se está cargando"
   },
   "link": {
     "logo": "Ir a la página de inicio",
@@ -98,7 +104,7 @@
     "carouselDotButton": "Ir a la diapositiva",
     "modulesRegion": "Cursos recomendados",
     "footerRegion": "Únete a nosotros",
-    "howToRegion": "¿Cómo funciona?", 
+    "howToRegion": "¿Cómo funciona?",
     "whyJoinRegion": "¿Por qué unirse a nosotros?",
     "introRegion": "Introducción al campus"
   },

@@ -64,7 +64,13 @@
     "bookmarkItem": "Bookmark this item",
     "shareList": "Share list",
     "accountMenu": "Open account menu",
-    "dropdownMenu": "Open dropdown menu"
+    "dropdownMenu": "Open dropdown menu",
+    "showMoreResults": "Show more results",
+    "showLessResults": "Show fewer results",
+    "expandSection": "Expand {{title}}",
+    "collapseSection": "Collapse {{title}}",
+    "playVideo": "Play video",
+    "loadingVideo": "Video is loading"
   },
   "link": {
     "logo": "Go to start page",

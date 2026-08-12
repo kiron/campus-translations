@@ -64,7 +64,13 @@
     "bookmarkItem": "Dieses Element speichern",
     "shareList": "Liste teilen",
     "accountMenu": "Kontomenü öffnen",
-    "dropdownMenu": "Dropdown-Menü öffnen"
+    "dropdownMenu": "Dropdown-Menü öffnen",
+    "showMoreResults": "Mehr Ergebnisse anzeigen",
+    "showLessResults": "Weniger Ergebnisse anzeigen",
+    "expandSection": "{{title}} ausklappen",
+    "collapseSection": "{{title}} einklappen",
+    "playVideo": "Video abspielen",
+    "loadingVideo": "Video wird geladen"
   },
   "link": {
     "logo": "Zur Startseite gehen",
@@ -98,7 +104,7 @@
     "carouselDotButton": "Zur Folie gehen",
     "modulesRegion": "Empfohlene Kurse",
     "footerRegion": "Mach mit",
-    "howToRegion": "Wie funktioniert es?", 
+    "howToRegion": "Wie funktioniert es?",
     "whyJoinRegion": "Warum mitmachen?",
     "introRegion": "Campus-Einführung"
   },
