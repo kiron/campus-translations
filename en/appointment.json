@@ -69,6 +69,18 @@
     "timezoneMovesToPast": "In that timezone the appointment would be in the past. Move it to a later time first.",
     "inheritedFromSeries": "Name, description, maximum and registration deadline follow the recurring appointment. Change them there.",
     "scopeNotSupported": "That change cannot be applied to a single date of a recurring appointment.",
-    "notAllowed": "You do not have permission to edit appointments in this course."
+    "notAllowed": "You do not have permission to edit appointments in this course.",
+    "alreadyStarted": "This appointment has already started, so it can no longer be edited.",
+    "nothingToUpdate": "Nothing was changed, so there is nothing to save.",
+    "doesNotRepeat": "This appointment does not repeat, so its schedule cannot be changed this way.",
+    "startNotBeforeEnd": "The appointment has to start before it ends.",
+    "startInPast": "The appointment has to start in the future.",
+    "seriesTooLong": "A series cannot run for more than 2 years.",
+    "seriesNeedsUpcomingOccurrence": "A series has to keep at least one appointment still to come.",
+    "scheduleChangeNotSupported": "That scheduling change is not supported here.",
+    "seriesFrequencyRequired": "A recurring appointment has to repeat at least every week.",
+    "seriesEndDateRequired": "Pick the day the series should run until.",
+    "seriesEndDateTooEarly": "The date the series runs until must be after the appointment ends.",
+    "scopeNotImplemented": "That kind of update is not supported yet."
   }
 }

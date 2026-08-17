@@ -70,6 +70,18 @@
     "timezoneMovesToPast": "En esa zona horaria la cita quedaría en el pasado. Muévela primero a una hora posterior.",
     "inheritedFromSeries": "El nombre, la descripción, el máximo y la fecha límite siguen a la cita periódica. Cámbialos allí.",
     "scopeNotSupported": "Ese cambio no puede aplicarse a una sola fecha de una cita periódica.",
-    "notAllowed": "No tienes permiso para editar las citas de este curso."
+    "notAllowed": "No tienes permiso para editar las citas de este curso.",
+    "alreadyStarted": "Esta cita ya ha comenzado, así que ya no se puede editar.",
+    "nothingToUpdate": "No se cambió nada, así que no hay nada que guardar.",
+    "doesNotRepeat": "Esta cita no se repite, así que su horario no se puede cambiar de esta manera.",
+    "startNotBeforeEnd": "La cita tiene que empezar antes de que termine.",
+    "startInPast": "La cita tiene que empezar en el futuro.",
+    "seriesTooLong": "Una serie no puede durar más de 2 años.",
+    "seriesNeedsUpcomingOccurrence": "Una serie tiene que conservar al menos una cita futura.",
+    "scheduleChangeNotSupported": "Ese cambio de horario no se admite aquí.",
+    "seriesFrequencyRequired": "Una cita periódica tiene que repetirse al menos cada semana.",
+    "seriesEndDateRequired": "Elige el día hasta el que debe durar la serie.",
+    "seriesEndDateTooEarly": "La fecha hasta la que dura la serie debe ser posterior al final de la cita.",
+    "scopeNotImplemented": "Ese tipo de cambio todavía no se admite."
   }
 }

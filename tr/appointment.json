@@ -62,6 +62,18 @@
     "timezoneMovesToPast": "Bu saat diliminde randevu geçmişte kalır. Önce daha ileri bir saate taşıyın.",
     "inheritedFromSeries": "Ad, açıklama, üst sınır ve kayıt son tarihi yinelenen randevudan gelir. Bunları orada değiştirin.",
     "scopeNotSupported": "Bu değişiklik yinelenen bir randevunun tek bir tarihine uygulanamaz.",
-    "notAllowed": "Bu kurstaki randevuları düzenleme yetkiniz yok."
+    "notAllowed": "Bu kurstaki randevuları düzenleme yetkiniz yok.",
+    "alreadyStarted": "Bu randevu zaten başladığı için artık düzenlenemez.",
+    "nothingToUpdate": "Hiçbir şey değişmedi, kaydedilecek bir şey yok.",
+    "doesNotRepeat": "Bu randevu tekrarlanmıyor, bu nedenle programı bu şekilde değiştirilemez.",
+    "startNotBeforeEnd": "Randevu, bitmeden önce başlamalı.",
+    "startInPast": "Randevu gelecekte bir zamanda başlamalı.",
+    "seriesTooLong": "Bir seri 2 yıldan daha uzun süremez.",
+    "seriesNeedsUpcomingOccurrence": "Bir seride en az bir gelecek randevu kalmalı.",
+    "scheduleChangeNotSupported": "Bu program değişikliği burada desteklenmiyor.",
+    "seriesFrequencyRequired": "Yinelenen bir randevu en az haftada bir tekrarlanmalı.",
+    "seriesEndDateRequired": "Serinin süreceği son günü seçin.",
+    "seriesEndDateTooEarly": "Serinin süreceği tarih, randevunun bitişinden sonra olmalı.",
+    "scopeNotImplemented": "Bu tür bir değişiklik henüz desteklenmiyor."
   }
 }

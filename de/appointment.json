@@ -69,6 +69,18 @@
     "timezoneMovesToPast": "In dieser Zeitzone läge der Termin in der Vergangenheit. Verschiebe ihn zuerst auf eine spätere Zeit.",
     "inheritedFromSeries": "Name, Beschreibung, Höchstzahl und Anmeldeschluss richten sich nach dem wiederkehrenden Termin. Ändere sie dort.",
     "scopeNotSupported": "Diese Änderung lässt sich nicht auf einen einzelnen Termin einer Serie anwenden.",
-    "notAllowed": "Du darfst die Termine in diesem Kurs nicht bearbeiten."
+    "notAllowed": "Du darfst die Termine in diesem Kurs nicht bearbeiten.",
+    "alreadyStarted": "Dieser Termin hat schon begonnen und kann nicht mehr bearbeitet werden.",
+    "nothingToUpdate": "Es wurde nichts geändert, daher gibt es nichts zu speichern.",
+    "doesNotRepeat": "Dieser Termin wiederholt sich nicht, daher kann sein Zeitplan so nicht geändert werden.",
+    "startNotBeforeEnd": "Der Termin muss beginnen, bevor er endet.",
+    "startInPast": "Der Termin muss in der Zukunft beginnen.",
+    "seriesTooLong": "Eine Serie kann nicht länger als 2 Jahre laufen.",
+    "seriesNeedsUpcomingOccurrence": "Eine Serie muss mindestens einen zukünftigen Termin behalten.",
+    "scheduleChangeNotSupported": "Diese Zeitplanänderung wird hier nicht unterstützt.",
+    "seriesFrequencyRequired": "Ein wiederkehrender Termin muss sich mindestens wöchentlich wiederholen.",
+    "seriesEndDateRequired": "Wähle den Tag, bis zu dem die Serie laufen soll.",
+    "seriesEndDateTooEarly": "Das Datum, bis zu dem die Serie läuft, muss nach dem Ende des Termins liegen.",
+    "scopeNotImplemented": "Diese Art von Änderung wird noch nicht unterstützt."
   }
 }
