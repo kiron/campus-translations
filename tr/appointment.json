@@ -40,6 +40,7 @@
   "saveAppointment": "Değişiklikleri kaydet",
   "wasUpdated": "Randevu başarıyla güncellendi!",
   "inheritedFromSeries": "Yinelenen randevudan alınır ve yalnızca orada değiştirilebilir",
+  "recurringTimingWarning": "Bu, yinelenen bir randevu. Aşağıdaki başlangıç saatini, bitiş saatini veya sıklığı değiştirirsen serideki tüm yaklaşan randevular yeniden planlanır.",
   "success": "Harika!",
   "registerToAllButton": "Tümüne kaydol",
   "unregisterFromAllButton": "Tümünden çıkış yap",

@@ -17,6 +17,7 @@
   "saveAppointment": "Änderungen speichern",
   "wasUpdated": "Der Termin wurde erfolgreich aktualisiert",
   "inheritedFromSeries": "Wird vom wiederkehrenden Termin übernommen und kann nur dort geändert werden",
+  "recurringTimingWarning": "Dies ist ein wiederkehrender Termin. Wenn du unten die Startzeit, die Endzeit oder die Häufigkeit änderst, werden alle kommenden Termine der Serie neu geplant.",
   "addAppointment": "Einen Termin hinzufügen",
   "createAppointment": "Termin anlegen",
   "title": "Titel",

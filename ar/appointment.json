@@ -43,6 +43,7 @@
   "saveAppointment": "حفظ التغييرات",
   "wasUpdated": "تم تحديث الموعد بنجاح!",
   "inheritedFromSeries": "يتبع الموعد المتكرر ولا يمكن تغييره إلا هناك",
+  "recurringTimingWarning": "هذا موعد متكرر. تغيير وقت البدء أو وقت الانتهاء أو التكرار أدناه سيؤدي إلى إعادة جدولة جميع المواعيد القادمة في السلسلة.",
   "success": "رائع!",
   "registerToAllButton": "التسجيل في الكل",
   "unregisterFromAllButton": "إلغاء التسجيل من الكل",
