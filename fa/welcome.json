@@ -1,16 +1,16 @@
 {
   "slideOne": {
-    "title": "Discover",
-    "content": "Discover {{orgDisplayName}} Campus and get access to online courses for free"
+    "title": "کشف کنید",
+    "content": "{{orgDisplayName}} Campus را کشف کنید و به دوره‌های آنلاین رایگان دسترسی پیدا کنید"
   },
   "slideTwo": {
-    "title": "Learn",
-    "content": "You can choose what you want to study: Web Design, Python, Online Business, Psychology, IT skills, English, and many more!"
+    "title": "یاد بگیرید",
+    "content": "می‌توانید انتخاب کنید چه چیزی بخوانید: طراحی وب، پایتون، کسب‌وکار آنلاین، روان‌شناسی، مهارت‌های IT، انگلیسی و بسیاری موارد دیگر!"
   },
   "slideThree": {
-    "title": "Connect",
-    "content": "More than 6.000 students around the world are a part of {{orgDisplayName}}. Share your study experience with them."
+    "title": "ارتباط برقرار کنید",
+    "content": "بیش از 6,000 دانشجو در سراسر جهان بخشی از {{orgDisplayName}} هستند. تجربهٔ یادگیری خود را با آن‌ها به اشتراک بگذارید."
   },
-  "buttonActive": "Get Started",
-  "buttonLoading": "Loading"
+  "buttonActive": "شروع کنید",
+  "buttonLoading": "در حال بارگذاری"
 }

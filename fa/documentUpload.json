@@ -2,32 +2,32 @@
   "reviewInProgress": {
     "title": "مرور در حال انجام است",
     "hello": "خوش آمدی،",
-    "descriptionJSX": "از اینکه سند خود را بارگذاری کردید متشکریم. ما در حال بررسی آن هستیم و شما طی سه روز آینده ایمیلی از ما دریافت خواهید کرد. در همین حال ، شما می توانید واحدهای خود را در <1> صفحه کاوش </ 1> انتخاب کنید یا سایر زبان آموزان منطقه خود را <2> در صفحه انجمن </ 2> مشاهده کنید"
+    "descriptionJSX": "از اینکه سند خود را بارگذاری کردید متشکریم. ما اکنون در حال بررسی آن هستیم و در ده روز آینده ایمیلی از ما دریافت خواهید کرد. در همین حال، می‌توانید برنامه‌های خود را در <1>صفحهٔ کاوش</1> انتخاب کنید یا دیگر یادگیرندگان منطقهٔ خود را <3>در صفحهٔ انجمن</3> ببینید."
   },
-  "uploadDocumentTitle": "Upload document",
-  "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
-  "description02": "recommendations ",
-  "description03": "for uploading in the best quality.",
-  "upload": "Click here or drop files to upload your document.",
+  "uploadDocumentTitle": "بارگذاری سند",
+  "description01": "سند خود را اسکن کنید یا از آن عکس بگیرید و آن را اینجا بارگذاری کنید. مطمئن شوید که همهٔ اطلاعات لازم به‌وضوح دیده می‌شوند. برای بارگذاری با بهترین کیفیت، ",
+  "description02": "توصیه‌های ما ",
+  "description03": "را ببینید.",
+  "upload": "برای بارگذاری سند خود، اینجا کلیک کنید یا فایل‌ها را اینجا رها کنید.",
   "button": "Send",
-  "buttonContinue": "Continue studying",
-  "uploadSuccessfulDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days.",
+  "buttonContinue": "ادامهٔ یادگیری",
+  "uploadSuccessfulDescription": "از اینکه سند خود را بارگذاری کردید متشکریم. ما اکنون در حال بررسی آن هستیم و در سه روز آینده ایمیلی از ما دریافت خواهید کرد.",
   "modal": {
-    "yes": "DO",
-    "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
-    "no": "DON’T",
-    "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
+    "yes": "درست",
+    "yesDescription": "فقط اسناد رسمی بارگذاری کنید. نام کامل، تاریخ تولد و تاریخ انقضا باید به‌وضوح دیده شوند.",
+    "no": "نادرست",
+    "noDescription": "چیزی را که سند رسمی نیست بارگذاری نکنید؛ مانند رزومه، عکس خودتان، یک پرچم یا هر عکس دیگری."
   },
-  "doucmentGuideTitle": "Document Guide",
+  "doucmentGuideTitle": "راهنمای اسناد",
   "documentAlternate": {
-    "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
-    "part02": "{{orgDisplayName}} Help Center",
-    "part03": "for more information.",
-    "part04": "{{orgDisplayName}} will store your documents safely on our servers and they will not be shared with others. ",
-    "part05": "Learn more about why we need your document "
+    "part01": "هیچ‌یک از این اسناد را ندارید؟ مشکلی نیست، می‌توانید سند مشابهی بارگذاری کنید و ما آن را بررسی می‌کنیم. برای اطلاعات بیشتر روی ",
+    "part02": "مرکز راهنمایی {{orgDisplayName}}",
+    "part03": "کلیک کنید.",
+    "part04": "{{orgDisplayName}} اسناد شما را به‌صورت امن روی سرورهای ما نگه می‌دارد و آن‌ها با دیگران به اشتراک گذاشته نمی‌شوند. ",
+    "part05": "بیشتر بدانید که چرا به سند شما نیاز داریم "
   },
   "sampleDocuments": {
-    "title": "Please upload your passport or a form of identification. Take a look at some examples:",
+    "title": "لطفاً گذرنامه یا یک مدرک شناسایی خود را بارگذاری کنید. چند نمونه را ببینید:",
     "germanRefugees": {
       "infoPoints": [
         "BüMA (Asylum application)",
@@ -55,50 +55,35 @@
       }
     },
     "jordanianIDPs": {
-      "infoPoints": [
-        "ID card هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID card هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card  هوية شخصية",
         "passport": "Passport  جواز سفر"
       }
     },
     "lebaneseRefugees": {
-      "infoPoints": [
-        "UNHCR card",
-        "UNRWA document"
-      ],
+      "infoPoints": ["UNHCR card", "UNRWA document"],
       "docImageTitles": {
         "unhcrDocument": "UNHCR document",
         "unrwaDocument": "UNRWA document"
       }
     },
     "lebaneseIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID هوية شخصية",
         "passport": "Passport جواز سفر"
       }
     },
     "yemenisIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card",
         "passport": "Passport"
       }
     },
     "syrianIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card",
         "passport": "Passport"
@@ -117,11 +102,7 @@
       }
     },
     "sudanisIPDs": {
-      "infoPoints": [
-        "Passport",
-        "IDP Darfur document",
-        "IDP card"
-      ],
+      "infoPoints": ["Passport", "IDP Darfur document", "IDP card"],
       "docImageTitles": {
         "passport": "Passport",
         "idpDarfurDocument": "IDP Darfur document",
@@ -136,12 +117,17 @@
         "UNHCR document"
       ],
       "docImageTitles": {
-          "unhcrCard": "UNHCR card",
-          "unhcrFamily": "UNHCR family",
-          "kenyaRefugeeCard": "Kenya refugee card"
+        "unhcrCard": "UNHCR card",
+        "unhcrFamily": "UNHCR family",
+        "kenyaRefugeeCard": "Kenya refugee card"
       }
     }
   },
-  "backWarningBtn": "Back to Profile",
-  "warningTextNationality": "Please enter your nationality on the profile page before reuploading your documents"
+  "backWarningBtn": "بازگشت به پروفایل",
+  "warningTextNationality": "لطفاً پیش از بارگذاری دوبارهٔ اسناد خود، ملیت خود را در صفحهٔ پروفایل وارد کنید",
+  "confirmReuploadHeader": "بارگذاری دوبارهٔ اسناد؟",
+  "confirmReuploadText": "برای حذف اسناد قدیمی خود روی «ادامه» کلیک کنید. سپس می‌توانید اسناد جدید اضافه کنید.",
+  "confirmReuploadBtnLabel": "ادامه",
+  "fileDeletionError": "خطا در حذف فایل‌ها",
+  "fileUploadError": "خطا در بارگذاری فایل‌ها"
 }

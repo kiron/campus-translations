@@ -31,8 +31,9 @@
   },
   "card": {
     "online": "Online",
-    "type": "Event",
-    "endsAt": "Ends at",
+    "type": "رویداد",
+    "endsAt": "پایان در",
+    "eventOver": "رویداد به پایان رسیده است",
     "certAvailable": "تأیید حضور در دسترس است"
   },
   "manageTable": {
@@ -70,7 +71,7 @@
       }
     },
     "noParticipants": "هنوز هیچ شرکت‌کننده‌ای در این قرار ملاقات وجود ندارد.",
-    "manageParticipations": "مدیریت مشارکت‌ها"    
+    "manageParticipations": "مدیریت مشارکت‌ها"
   },
   "tutorEvents": {
     "title": "رویدادهای خود را مدیریت کنید",
