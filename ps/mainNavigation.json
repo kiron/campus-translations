@@ -11,6 +11,7 @@
     "noNotifications": "تاسو همدا اوس کوم خبرتیا نلرئ",
     "notifications": "خبرتیاوې",
     "profile": "پروفایل",
+    "surveys": "زما سروې ګانې",
     "preferences": "غوره توبونه",
     "offerBoard": "وړاندیز بورډ",
     "support": "ملاتړ",
@@ -20,6 +21,7 @@
     "logout": "وتل",
     "joinForFree": "وړیا سره یوځای شئ",
     "subOrgConsent": "ځکه چې د دې معلوماتو شریکول د کیمپس تجربې اصلي برخه ده تاسو ممکن د دې پرته پرمخ لاړ نشئ.",
+    "mentoring": "د مینتورنګ پروګرامونه",
     "restrictedContent": "محدود لاسرسی",
     "skipToContent": "مينځپانګې ته ولاړ شئ"
-  }
+}

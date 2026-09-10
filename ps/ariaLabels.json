@@ -107,5 +107,12 @@
     "howToRegion": "چگونه کار می‌کند؟",
     "whyJoinRegion": "چرا به ما بپیوندید؟",
     "introRegion": "معرفی پردیس"
+  },
+  "dragAndDrop": {
+    "dragHandle": "د راکښلو لاستی. د توکي راکښلو لپاره command + D کېکاږئ.",
+    "pickedUp": "{{label}} پورته شو",
+    "dropped": "{{label}} کېښودل شو",
+    "hoveredOver": "د {{label}} له پاسه",
+    "cancelled": "راکښل لغوه شو"
   }
 }

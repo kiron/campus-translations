@@ -3,14 +3,14 @@
   "optInTitle": "د {{1}} ټولنې سره یوځای شئ",
   "optInSubtitle": "ستاسو د پروفایل عکس او مستعار نوم به ټولنې ته څرګند شي",
   "codeOfConductTitle": "د اخلاق اخلاق",
-  "codeOfConductSubtitle": "په دوام سره تاسو د <1> اخلاق اخلاق </1> سره موافق یاست. د کیرون خوندي ځای ساتلو لپاره مننه.",
+  "codeOfConductSubtitle": "په دوام سره تاسو د <2>چلند کوډ</2> سره موافق یاست. مننه چې {{2}} یو خوندي ځای ساتئ.",
   "enterButton": "ټولنې ته ننوځئ",
   "profileUpdateSuccess": "ستاسو پروفایل په بریالیتوب سره تازه شو",
   "profileUpdateFailure": "ستاسو د پروفایل تازه کولو پرمهال ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
   "communityAccountFailure": "ستاسو د ټولنې حساب جوړولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
   "communityAccountLoading": "د خپل حساب تنظیم کول ...",
   "communityLoadingFailure": "ستاسو د ټولنې حساب په بارولو کې ستونزه وه. مهرباني وکړئ بیا هڅه وکړئ",
-  "tryAgain": "Try again",
-  "verify": "Please verify your account on your profile to get access to Kiron's community space.",
-  "ctaVerify": "Go to profile"
+  "tryAgain": "بیا هڅه وکړئ",
+  "verify": "مهرباني وکړئ خپل حساب په خپل پروفایل کې تصدیق کړئ ترڅو د Kiron د ټولنې ځای ته لاسرسی ومومئ.",
+  "ctaVerify": "پروفایل ته لاړ شئ"
 }

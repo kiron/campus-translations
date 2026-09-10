@@ -5,7 +5,7 @@
   },
   "headers": {
     "yourPrivacy": "ستاسو محرمیت",
-    "privacyPolicy": "زموږ په {{privacyPolicyLink}} کې نور زده کړئ.",
+    "privacyPolicy": "زموږ په <0>د محرمیت تګلاره</0> کې نور زده کړئ.",
     "adjustProfile": "تنظیم کړئ چې نور زده کونکي ستاسو پروفایل څنګه ګوري",
     "communityHeader": "په ټولنه کې ګډون وکړئ",
     "privacyPreferences": "د محرمیت غوره توبونه",
@@ -19,7 +19,7 @@
     "managePreferences": "غوره توبونه اداره کړئ",
     "cancel": "لغوه کول",
     "joinCommunity": "ټولنې سره یوځای شئ",
-    "readMore": "Read more",
+    "readMore": "نور ولولئ",
     "close": "تړل"
   },
   "toasters": {
@@ -75,7 +75,7 @@
       "description": "مخکې لدې چې تاسو د پروفایل عکس اپلوډ کړئ ، موږ ستاسو رضایت ته اړتیا لرو ترڅو دا په کیمپس کې د نورو زده کونکو سره وښیو.",
       "header": "د پروفایل عکس",
       "checkbox": "زه په کیمپس کې د نورو زده کونکو سره زما د پروفایل عکس شریکولو سره سم یم.",
-      "uploadText": "خپل عکس دلته ولیکئ یا {{browse}}"
+      "uploadText": "خپل عکس دلته راکش کړئ یا یې ولټوئ"
     }
   },
   "codeOfConduct": {

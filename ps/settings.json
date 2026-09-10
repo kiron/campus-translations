@@ -1,6 +1,6 @@
 {
   "title": "د معلوماتو شریکول",
-  "info": "دا تنظیمات هغه معلومات ښیې چې تاسو کرون ته اجازه ورکړې د ځانګړي دریمې ډلې سره شریک کړئ. د دې رضایت توضیحاتو لیدو ، یا لغوه کولو لپاره د 'لید' ت buttonۍ وکاروئ.",
+  "info": "دا تنظیمات هغه معلومات ښیي چې تاسو {{orgDisplayName}} ته اجازه ورکړې د ځانګړو دریمو ډلو سره شریک کړي. د دې رضایت د توضیحاتو لیدو یا لغوه کولو لپاره د 'لید' تڼۍ وکاروئ.",
   "infoConsent": "تاسو تر دې دمه د رضایت هیڅ غوښتنه نه ده منلې.",
   "linkView": "لید",
   "linkCancel": "لغوه کول",
@@ -15,7 +15,7 @@
     "yes": "هو",
     "no": "نه",
     "title": "ایا تاسو واقعیا غواړئ دا رضایت لغوه کړئ؟",
-    "desc": "د دې رضایت په لغوه کولو سره تاسو ممکن د کرون لخوا چمتو شوي ځینې خدماتو ته لاسرسی له لاسه ورکړئ.",
+    "desc": "د دې رضایت په لغوه کولو سره تاسو ممکن د {{orgDisplayName}} لخوا چمتو شوي ځینې خدماتو ته لاسرسی له لاسه ورکړئ.",
     "goToSettings": "ترتیبات ته لاړشئ",
     "revoked": "لغوه شوی"
   },
@@ -24,7 +24,7 @@
   },
   "emailSubscription": {
     "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
+    "info": "هغه بریښنالیکونه اداره کړئ چې له موږ څخه یې ترلاسه کوئ.",
     "courseReminders": {
       "title": "Reminders",
       "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
@@ -38,19 +38,31 @@
       "info": "Send me emails about scholarships, offers, promotions, special events, etc."
     },
     "unsubscribe": {
-      "title": "You are successfully unsubscribed!",
-      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-      "unsubscribing": "Unsubscribing...",
-      "errorMessage": "Unsubscribing failed: {{0}}"
+      "title": "ستاسو ګډون په بریالیتوب سره لغوه شو!",
+      "descriptionHeadline": "له اوس وروسته، تاسو به له موږ څخه لاندې بریښنالیکونه نور ترلاسه نه کړئ:",
+      "descriptionFooter": "که غواړئ خپل د بریښنالیک ګډونونه تنظیم کړئ، <1>دلته یې اداره کړئ</1>.",
+      "unsubscribing": "ګډون لغوه کیږي...",
+      "errorMessage": "د ګډون لغوه کول ناکام شول: {{0}}"
+    },
+    "personalUpdates": {
+      "title": "شخصي تازه معلومات",
+      "info": "ما ته د هغو کورسونو او پروګرامونو په اړه یادونې او تازه معلومات راولیږئ چې اوس مهال پکې نوم لیکلی یم."
+    },
+    "updates": {
+      "title": "تازه معلومات",
+      "info": "ما ته د نویو منځپانګو (لکه نوي کورسونه یا پروګرامونه) په اړه معلومات راولیږئ چې ښایي زما لپاره په زړه پورې وي."
+    },
+    "additionalOffers": {
+      "title": "اضافي وړاندیزونه",
+      "info": "ما د زده کړې پلیټ فارم څخه بهر د په زړه پورې فرصتونو په اړه خبر ساتئ."
     }
   },
   "manageAccount": {
-    "title": "Account",
+    "title": "حساب",
     "deleteAccount": {
-      "title": "Delete account",
-      "info": "If you wish to delete permanently your account please send an email to:",
-      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+      "title": "حساب ړنګول",
+      "info": "که غواړئ خپل حساب په دایمي توګه ړنګ کړئ، مهرباني وکړئ دې پتې ته بریښنالیک ولیږئ:",
+      "hint": "یوازې یوه لنډه یادونه: د حساب تړل پدې معنی دي چې ستاسو ټول پرمختګ او معلومات، په ګډون د ترلاسه کړو سندونو، په دایمي توګه ړنګ کیږي."
     },
     "changePassword": {
       "title": "پاسورډ بدل کړئ",
