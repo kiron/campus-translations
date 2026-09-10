@@ -11,6 +11,6 @@
   "communityAccountLoading": "Настройка твоего аккаунта...",
   "communityLoadingFailure": "Возникла проблема с загрузкой твоего аккаунта в сообществе.",
   "tryAgain": "Попробуй еще раз",
-  "verify": "Please verify your account on your profile to get access to Kiron's community space.",
-  "ctaVerify": "Go to profile"
+  "verify": "Пожалуйста, подтверди свой аккаунт в профиле, чтобы получить доступ к сообществу Kiron.",
+  "ctaVerify": "Перейти в профиль"
 }
