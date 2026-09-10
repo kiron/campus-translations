@@ -76,6 +76,12 @@
     "coede": "Registrierungsbestätigung"
   },
   "dataWallet": {
+    "error": "No se pudieron cargar los detalles de la cartera de datos",
+    "loading": "Cargando los detalles de la cartera de datos...",
+    "connected": "Conexión establecida",
+    "connectionSuccess": "Conexión correcta",
+    "scan": "Escanea este código con la app enmeshed para conectar esta cuenta",
+    "link": "Vincula tu cuenta con tu cartera de datos Enmeshed.",
     "accountConnected": "Tu cartera de datos está conectada.",
     "cta": "Continuar",
     "load": "Cargando"

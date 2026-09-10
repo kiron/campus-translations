@@ -14,7 +14,9 @@
     "saveSuccess": "Tu contenido se ha guardado correctamente",
     "saveError": "Ha ocurrido un problema al guardar tu contenido",
     "deleteSuccess": "El contenido se ha eliminado correctamente",
-    "deleteError": "Error al eliminar el contenido"
+    "deleteError": "Error al eliminar el contenido",
+    "shareSuccess": "Tu contenido ahora es público y está listo para compartir",
+    "privateSuccess": "Tu contenido ahora es privado"
   },
   "leavePrompt": {
     "title": "¿Realmente deseas salir?",
@@ -26,7 +28,13 @@
     "cancel": "Cancelar",
     "delete": "Eliminar",
     "deleteConfirmation": "¿Estás seguro de que deseas eliminar {{denomination}}?",
-    "deleteCannotBeUndone": "Esta acción no se puede deshacer."
+    "deleteCannotBeUndone": "Esta acción no se puede deshacer.",
+    "conflictTitle": "Se detectaron cambios en conflicto",
+    "conflictDescription": "Parece que la persona propietaria o tutora de este contenido lo ha actualizado recientemente. Si sobrescribes sus cambios, se perderán sus aportaciones. ¿Seguro que quieres continuar?",
+    "overwriteBtn": "Sobrescribir cambios"
+  },
+  "shareModal": {
+    "title": "Compartir este contenido"
   },
   "table": {
     "title": "Nombre",
@@ -37,5 +45,8 @@
   "noUserContent": "Aún no hay contenido creado por usuarios.",
   "responsibilityAlert": "Por favor, ten en cuenta: Todo el contenido es visible públicamente. Ayúdanos a mantener un espacio seguro siguiendo estas pautas: No compartas información personal, respeta los derechos de autor y utiliza contenido apropiado y educativo.",
   "help": "Ayuda",
-  "join": "Únete al proyecto para crear tu propio contenido."
+  "join": "Únete al proyecto para crear tu propio contenido.",
+  "share": "Compartir",
+  "shareUrl": "Tu URL de contenido compartible",
+  "private": "Este contenido está configurado como privado y no se puede compartir"
 }

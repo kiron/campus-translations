@@ -40,6 +40,7 @@
   "attachmentsText": "Podrá añadir archivos aquí cuando se una al proyecto.",
   "instructionsText": "Únete al proyecto para saber más.",
   "toolsText": "{{count}} Las herramientas estarán disponibles cuando se haya unido al proyecto.",
+  "toolsText_plural": "{{count}} herramientas estarán disponibles cuando te unas a este proyecto.",
   "toolsTitle": "Herramientas",
   "leaveOpenProjectInfo": "Puede volver a unirse al proyecto hasta el {{registrationDeadline}}",
   "leaveClosedProjectInfo": "Atención, esta acción no puede modificarse. Usted no podrá asistir al proyecto.",
