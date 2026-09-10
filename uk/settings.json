@@ -43,14 +43,26 @@
       "descriptionFooter": "Якщо ви хочете налаштувати свої підписки на електронну пошту,<1> керувати ними тут </1>.",
       "unsubscribing": "Скасування підписки...",
       "errorMessage": "Не вдалося скасувати підписку: {{0}}"
+    },
+    "personalUpdates": {
+      "title": "Персональні оновлення",
+      "info": "Надсилайте мені нагадування та оновлення щодо курсів і програм, які я зараз проходжу."
+    },
+    "updates": {
+      "title": "Оновлення",
+      "info": "Надсилайте мені інформацію про нові навчальні пропозиції (наприклад, нові курси чи програми), які можуть бути мені цікаві."
+    },
+    "additionalOffers": {
+      "title": "Додаткові пропозиції",
+      "info": "Повідомляйте мені про цікаві можливості поза навчальною платформою."
     }
   },
   "manageAccount": {
-    "title": "Account",
+    "title": "Обліковий запис",
     "deleteAccount": {
-      "title": "Delete account",
-      "info": "If you wish to delete permanently your account please send an email to:",
-      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+      "title": "Видалити обліковий запис",
+      "info": "Якщо ви хочете назавжди видалити свій обліковий запис, будь ласка, надішліть електронний лист на адресу:",
+      "hint": "Коротке нагадування: закриття облікового запису означає, що весь ваш прогрес і дані буде безповоротно видалено, включно з отриманими сертифікатами."
     },
     "changePassword": {
       "title": "Змінити пароль",
