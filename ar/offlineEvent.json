@@ -1,7 +1,7 @@
 {
   "introPreHeading": "فعاليات على أرض الواقع ",
   "introCTA": "اطّلع على المواعيد",
-  "ctaJoin": "سجّّل الآن",
+  "ctaJoin": "سجّل الآن",
   "introCTALeave": "غادر الفعالية",
   "eventStarted": "بدأ الحدث",
   "hostedBy": "استضاف",
@@ -15,8 +15,8 @@
   "registerUntil": "قم بالتسجيل حتى {{date}}",
   "registerToday": "آخر موعد للتسجيل ",
   "seeAllDates": "شاهد كل التواريخ",
-  "registerButton": "سجّّل",
-  "registerNowButton": "سجّّل الآن",
+  "registerButton": "سجّل",
+  "registerNowButton": "سجّل الآن",
   "currentWeek": "هذا الأسبوع ",
   "registerInfo": "تم تسجيلك في هذه الفعالية بنجاح",
   "eventDays": "الفعالية القادمة خلال ",
@@ -39,7 +39,7 @@
   "daysCount_5": "{{count}} يوم",
   "happeningNow": "يحدث الآن",
   "card": {
-    "offline": "Offline",
+    "offline": "وجاهي",
     "type": "فعالية"
   },
   "multipleMeetingSeries": "يوجد عدة اجتماعات في هذه الفعالية",

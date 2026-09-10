@@ -18,7 +18,7 @@
   "analyticsCoursesCompleted": "Ти завершив",
   "analyticsLearnersCount": "Навчальних у цій програмі",
   "learner": "{{count}} учень",
-  "learner_few": "{{count}} учня",
+  "learner_few": "{{count}} учні",
   "learner_many": "{{count}} учнів",
   "learner_0": "{{count}} учень",
   "learner_1": "{{count}} учні",
