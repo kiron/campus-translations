@@ -107,5 +107,12 @@
     "howToRegion": "كيف يعمل؟",
     "whyJoinRegion": "لماذا تنضم إلينا؟",
     "introRegion": "مقدمة عن الحرم الجامعي"
+  },
+  "dragAndDrop": {
+    "dragHandle": "مقبض السحب. اضغط على Command + D لسحب العنصر.",
+    "pickedUp": "تم رفع {{label}}",
+    "dropped": "تم إفلات {{label}}",
+    "hoveredOver": "تم التمرير فوق {{label}}",
+    "cancelled": "تم إلغاء السحب"
   }
 }

@@ -9,7 +9,7 @@
   "placeholderLastName": "تفضل بكتابة اسمك الأخير باللغة الإنكليزية  هنا",
   "labelNickname": "كنية",
   "placeholderNickname": "تفضل بكتابة كنية باللغة الإنكليزية  هنا",
-  "errorInput": "Please use alphanumeric characters (A-Z, or a-z)",
+  "errorInput": "يرجى استخدام أحرف وأرقام لاتينية فقط (A-Z أو a-z)",
   "label01": "من أي بلد أنت؟",
   "placeholder01": "البلد الأم",
   "label02": "أين تقيم الآن؟",
@@ -45,5 +45,7 @@
       "12": "ديسمبر"
     }
   },
-  "dateOfBirthError": "نأسف، لكن المنصة متاح فقط لمن هم 18 عامًا وما فوق"
+  "dateOfBirthError": "نأسف، لكن المنصة متاح فقط لمن هم 18 عامًا وما فوق",
+  "phoneError": "يرجى إدخال رقم الهاتف مع رمز الدولة، مثل (+49 أو 0049)",
+  "provideEmail": "شيء أخير! للمتابعة، يرجى إدخال بريدك الإلكتروني أو ربط محفظة بياناتك (Data Wallet)."
 }
