@@ -107,5 +107,12 @@
     "howToRegion": "Как это работает?",
     "whyJoinRegion": "Почему стоит присоединиться?",
     "introRegion": "Введение в кампус"
+  },
+  "dragAndDrop": {
+    "dragHandle": "Ручка перетаскивания. Нажмите Command + D, чтобы перетащить элемент.",
+    "pickedUp": "Элемент {{label}} взят",
+    "dropped": "Элемент {{label}} отпущен",
+    "hoveredOver": "Наведено на {{label}}",
+    "cancelled": "Перетаскивание отменено"
   }
 }

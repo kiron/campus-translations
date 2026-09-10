@@ -43,14 +43,26 @@
       "descriptionFooter": "Если ты хочешь настроить свои подписки по электронной почте, <1> управляй ими здесь</1>.",
       "unsubscribing": "Отписаться от рассылки...",
       "errorMessage": "Отказаться от подписки не удалось: {{0}}"
+    },
+    "personalUpdates": {
+      "title": "Личные обновления",
+      "info": "Отправлять мне напоминания и новости о курсах и программах, на которые я записан/а."
+    },
+    "updates": {
+      "title": "Обновления",
+      "info": "Отправлять мне информацию о новых предложениях (например, о новых курсах или программах), которые могут меня заинтересовать."
+    },
+    "additionalOffers": {
+      "title": "Дополнительные предложения",
+      "info": "Сообщать мне об интересных возможностях за пределами учебной платформы."
     }
   },
   "manageAccount": {
-    "title": "Account",
+    "title": "Аккаунт",
     "deleteAccount": {
-      "title": "Delete account",
-      "info": "If you wish to delete permanently your account please send an email to:",
-      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+      "title": "Удалить аккаунт",
+      "info": "Если ты хочешь навсегда удалить свой аккаунт, пожалуйста, напиши нам по адресу:",
+      "hint": "Небольшое напоминание: при закрытии аккаунта весь твой прогресс и все данные будут удалены безвозвратно, включая полученные сертификаты."
     },
     "changePassword": {
       "title": "Изменить пароль",
@@ -81,10 +93,6 @@
     "showFirstName": {
       "title": "Имя",
       "description": "Показывать имя вместо никнейма."
-    },
-    "showActivity": {
-      "title": "Активность",
-      "description": "Показывать начатые курсы, проекты и мероприятия, к которым ты присоединился."
     },
     "showActivity": {
       "title": "Активность",
