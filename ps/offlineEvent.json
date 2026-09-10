@@ -25,6 +25,7 @@
   "locationTitle": "ځای",
   "Location": "آف لائن",
   "leaveEventTitle": "ایا تاسو واقعیا غواړئ پیښه پریږدئ؟",
+  "leaveEventDesc": "تاسو له ټولو ملاقاتونو څخه لرې کیږئ، او بیا یوځای کیدل ښایي ممکن نه وي.",
   "leaveOpenEventInfo": "تاسو لاهم کولی شئ تر {{1}} پورې پیښې سره یوځای شئ",
   "leaveClosedEventInfo": "دا عمل نشي لغوه کیدی. تاسو نور نشئ کولی پدې پیښه کې برخه واخلئ",
   "leaveNo": "نه ، پاتې شه",
@@ -36,6 +37,13 @@
   "happeningNow": "اوس پیښیږي",
   "card": {
     "offline": "Offline",
-    "type": "Event"
-  }
+    "type": "پیښه"
+  },
+  "multipleMeetingSeries": "دا پیښه څو غونډې لري",
+  "registrationClosed": "نوم لیکنه بنده ده",
+  "registrationOpenOtherMeetings": "د نورو غونډو لپاره نوم لیکنه پرانیستې ده",
+  "introPreHeadingOffline": "آفلاین پیښه",
+  "introPreHeadingOnline": "آنلاین پیښه",
+  "locationOffline": "آفلاین",
+  "locationOnline": "آنلاین"
 }

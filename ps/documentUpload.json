@@ -2,32 +2,32 @@
   "reviewInProgress": {
     "title": "بیاکتنه روانه ده",
     "hello": "سلام!",
-    "descriptionJSX": "د خپل سند پورته کولو لپاره مننه. موږ دا اوس بیاکتنه کوو او تاسو به په راتلونکو دریو ورځو کې له موږ څخه بریښنالیک ترلاسه کړئ. په عین وخت کې ، تاسو لا دمخه کولی شئ خپل واحدونه په <1> پا Exploreه وپلټئ </ 1> کې وټاکئ یا په خپله سیمه کې نور زده کونکي وګورئ <2> د ټولنې پا Pageې کې </ 2>"
+    "descriptionJSX": "د خپل سند پورته کولو لپاره مننه. موږ اوس دا بیاکتنه کوو او تاسو به په راتلونکو لسو ورځو کې له موږ څخه بریښنالیک ترلاسه کړئ. په دې موده کې، تاسو کولی شئ خپل پروګرامونه د <1>سپړنې پاڼه</1> کې وټاکئ یا په خپله سیمه کې نور زده کوونکي <3>د ټولنې پاڼه کې</3> وګورئ."
   },
-  "uploadDocumentTitle": "Upload document",
-  "description01": "Scan your document or take a photo and upload it here. Make sure all the necessary information is clearly visible. Check our ",
-  "description02": "recommendations ",
-  "description03": "for uploading in the best quality.",
-  "upload": "Click here or drop files to upload your document.",
+  "uploadDocumentTitle": "سند پورته کړئ",
+  "description01": "خپل سند سکن کړئ یا یې عکس واخلئ او دلته پورته کړئ. ډاډ ترلاسه کړئ چې ټول اړین معلومات په څرګنده توګه لیدل کیږي. د غوره کیفیت سره د پورته کولو لپاره زموږ ",
+  "description02": "سپارښتنې ",
+  "description03": "وګورئ.",
+  "upload": "د خپل سند پورته کولو لپاره دلته کلیک وکړئ یا فایلونه دلته راکش کړئ.",
   "button": "Send",
-  "buttonContinue": "Continue studying",
-  "uploadSuccessfulDescription": "Thank you for uploading your document. We are now reviewing it and you will receive an email from us in the next three days.",
+  "buttonContinue": "زده کړې ته دوام ورکړئ",
+  "uploadSuccessfulDescription": "د خپل سند پورته کولو لپاره مننه. موږ اوس دا بیاکتنه کوو او تاسو به په راتلونکو دریو ورځو کې له موږ څخه بریښنالیک ترلاسه کړئ.",
   "modal": {
     "yes": "DO",
-    "yesDescription": "Upload official documents only. Your full name, date of birth, and the expiration date should be clearly visible.",
-    "no": "DON’T",
-    "noDescription": "Don’t upload anything that is not an official document, like your CV, a picture of you, a flag, or any other photo."
+    "yesDescription": "یوازې رسمي سندونه پورته کړئ. ستاسو بشپړ نوم، د زیږون نیټه او د پای نیټه باید په څرګنده توګه لیدل کیږي.",
+    "no": "مه کوئ",
+    "noDescription": "هغه څه مه پورته کوئ چې رسمي سند نه وي، لکه ستاسو CV، ستاسو عکس، بیرغ یا کوم بل عکس."
   },
-  "doucmentGuideTitle": "Document Guide",
+  "doucmentGuideTitle": "د سندونو لارښود",
   "documentAlternate": {
-    "part01": "You don’t have one of these documents? No problem, you can upload a similar document and we will review it. Click on ",
-    "part02": "{{orgDisplayName}} Help Center",
-    "part03": "for more information.",
-    "part04": "{{orgDisplayName}} will store your documents safely on our servers and they will not be shared with others. ",
-    "part05": "Learn more about why we need your document "
+    "part01": "له دې سندونو څخه یو هم نه لرئ؟ ستونزه نشته، تاسو کولی شئ یو ورته سند پورته کړئ او موږ به یې بیاکتنه وکړو. د نورو معلوماتو لپاره په ",
+    "part02": "د {{orgDisplayName}} د مرستې مرکز",
+    "part03": "کلیک وکړئ.",
+    "part04": "{{orgDisplayName}} ستاسو سندونه زموږ په سرورونو کې په خوندي ډول ساتي او له بل چا سره یې نه شریکوي. ",
+    "part05": "نور زده کړئ چې موږ ولې ستاسو سند ته اړتیا لرو "
   },
   "sampleDocuments": {
-    "title": "Please upload your passport or a form of identification. Take a look at some examples:",
+    "title": "مهرباني وکړئ خپل پاسپورټ یا یو پیژندپاڼه پورته کړئ. څو بیلګې وګورئ:",
     "germanRefugees": {
       "infoPoints": [
         "BüMA (Asylum application)",
@@ -55,50 +55,35 @@
       }
     },
     "jordanianIDPs": {
-      "infoPoints": [
-        "ID card هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID card هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card  هوية شخصية",
         "passport": "Passport  جواز سفر"
       }
     },
     "lebaneseRefugees": {
-      "infoPoints": [
-        "UNHCR card",
-        "UNRWA document"
-      ],
+      "infoPoints": ["UNHCR card", "UNRWA document"],
       "docImageTitles": {
         "unhcrDocument": "UNHCR document",
         "unrwaDocument": "UNRWA document"
       }
     },
     "lebaneseIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID هوية شخصية",
         "passport": "Passport جواز سفر"
       }
     },
     "yemenisIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card",
         "passport": "Passport"
       }
     },
     "syrianIDPs": {
-      "infoPoints": [
-        "ID هوية شخصية",
-        "Passport جواز سفر"
-      ],
+      "infoPoints": ["ID هوية شخصية", "Passport جواز سفر"],
       "docImageTitles": {
         "idCard": "ID card",
         "passport": "Passport"
@@ -117,11 +102,7 @@
       }
     },
     "sudanisIPDs": {
-      "infoPoints": [
-        "Passport",
-        "IDP Darfur document",
-        "IDP card"
-      ],
+      "infoPoints": ["Passport", "IDP Darfur document", "IDP card"],
       "docImageTitles": {
         "passport": "Passport",
         "idpDarfurDocument": "IDP Darfur document",
@@ -136,12 +117,17 @@
         "UNHCR document"
       ],
       "docImageTitles": {
-          "unhcrCard": "UNHCR card",
-          "unhcrFamily": "UNHCR family",
-          "kenyaRefugeeCard": "Kenya refugee card"
+        "unhcrCard": "UNHCR card",
+        "unhcrFamily": "UNHCR family",
+        "kenyaRefugeeCard": "Kenya refugee card"
       }
     }
   },
-  "backWarningBtn": "Back to Profile",
-  "warningTextNationality": "Please enter your nationality on the profile page before reuploading your documents"
+  "backWarningBtn": "بېرته پروفایل ته",
+  "warningTextNationality": "مهرباني وکړئ د خپلو سندونو بیا پورته کولو دمخه د پروفایل پاڼه کې خپل ملیت ولیکئ",
+  "confirmReuploadHeader": "سندونه بیا پورته کړئ؟",
+  "confirmReuploadText": "د خپلو زړو سندونو لرې کولو لپاره په 'دوام ورکړئ' کلیک وکړئ. بیا کولی شئ نوي سندونه اضافه کړئ.",
+  "confirmReuploadBtnLabel": "دوام ورکړئ",
+  "fileDeletionError": "د فایلونو په ړنګولو کې تېروتنه",
+  "fileUploadError": "د فایلونو په پورته کولو کې تېروتنه"
 }

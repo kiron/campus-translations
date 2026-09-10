@@ -1,16 +1,16 @@
 {
   "slideOne": {
-    "title": "Discover",
-    "content": "Discover {{orgDisplayName}} Campus and get access to online courses for free"
+    "title": "ومومئ",
+    "content": "{{orgDisplayName}} Campus ومومئ او آنلاین کورسونو ته وړیا لاسرسی ترلاسه کړئ"
   },
   "slideTwo": {
-    "title": "Learn",
-    "content": "You can choose what you want to study: Web Design, Python, Online Business, Psychology, IT skills, English, and many more!"
+    "title": "زده کړئ",
+    "content": "تاسو کولی شئ وټاکئ چې څه زده کړئ: ویب ډیزاین، Python، آنلاین سوداګري، ارواپوهنه، د IT مهارتونه، انګلیسي او ډېر نور!"
   },
   "slideThree": {
-    "title": "Connect",
-    "content": "More than 6.000 students around the world are a part of {{orgDisplayName}}. Share your study experience with them."
+    "title": "اړیکه ونیسئ",
+    "content": "په ټوله نړۍ کې له 6.000 څخه ډېر زده کوونکي د {{orgDisplayName}} برخه دي. خپله د زده کړې تجربه له هغوی سره شریکه کړئ."
   },
-  "buttonActive": "Get Started",
-  "buttonLoading": "Loading"
+  "buttonActive": "پیل کړئ",
+  "buttonLoading": "لوډ کیږي"
 }
