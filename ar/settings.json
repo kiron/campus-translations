@@ -40,7 +40,7 @@
     "unsubscribe": {
       "title": "لقد تم إلغاء اشتراكك بنجاح!",
       "descriptionHeadline": "من الآن فصاعدًا ، لن تتلقى رسائل البريد الإلكتروني التالية منا بعد الآن:",
-      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
+      "descriptionFooter": "إذا كنت تريد تخصيص اشتراكات بريدك الإلكتروني، <1>يمكنك إدارتها هنا</1>.",
       "unsubscribing": "إلغاء الاشتراك ...",
       "errorMessage": "فشل إلغاء الاشتراك: {{0}}"
     },
@@ -58,11 +58,11 @@
     }
   },
   "manageAccount": {
-    "title": "Account",
+    "title": "الحساب",
     "deleteAccount": {
-      "title": "Delete account",
-      "info": "If you wish to delete permanently your account please send an email to:",
-      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+      "title": "حذف الحساب",
+      "info": "إذا كنت ترغب في حذف حسابك نهائيًا، يرجى إرسال بريد إلكتروني إلى:",
+      "hint": "تذكير سريع: إغلاق حسابك يعني حذف كل تقدمك وبياناتك نهائيًا، بما في ذلك الشهادات التي حصلت عليها."
     },
     "changePassword": {
       "title": "تغيير كلمة المرور",
