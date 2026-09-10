@@ -107,5 +107,12 @@
     "howToRegion": "چگونه کار می‌کند؟",
     "whyJoinRegion": "چرا به ما بپیوندید؟",
     "introRegion": "معرفی پردیس"
+  },
+  "dragAndDrop": {
+    "dragHandle": "دستگیرهٔ کشیدن. برای کشیدن این مورد، کلیدهای command + D را فشار دهید.",
+    "pickedUp": "{{label}} برداشته شد",
+    "dropped": "{{label}} رها شد",
+    "hoveredOver": "روی {{label}} قرار گرفت",
+    "cancelled": "کشیدن لغو شد"
   }
 }

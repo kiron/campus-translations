@@ -21,10 +21,11 @@
   "registerInfo": "شما با موفقیت در این رویداد ثبت نام کرده اید",
   "eventDays": "رویداد بعدی در",
   "eventDay": "رویداد بعدی",
-  "today": "Today",
+  "today": "امروز",
   "locationTitle": "محل",
   "Location": "آفلاین",
   "leaveEventTitle": "آیا مطمئن هستید که می خواهید رویداد را ترک کنید؟",
+  "leaveEventDesc": "شما از همهٔ قرارها حذف خواهید شد و ممکن است پیوستن دوباره امکان‌پذیر نباشد.",
   "leaveOpenEventInfo": "هنوز می توانید تا {{1}} به رویداد بپیوندید",
   "leaveClosedEventInfo": "این عملکرد قابل واگرد نیست. دیگر نمی توانید در رویداد شرکت کنید",
   "leaveNo": "نه ، بمان",
@@ -36,6 +37,13 @@
   "happeningNow": "در حال رخ دادن",
   "card": {
     "offline": "Offline",
-    "type": "Event"
-  }
+    "type": "رویداد"
+  },
+  "multipleMeetingSeries": "این رویداد چند جلسه دارد",
+  "registrationClosed": "ثبت‌نام بسته شده است",
+  "registrationOpenOtherMeetings": "ثبت‌نام برای جلسات دیگر باز است",
+  "introPreHeadingOffline": "رویداد آفلاین",
+  "introPreHeadingOnline": "رویداد آنلاین",
+  "locationOffline": "آفلاین",
+  "locationOnline": "آنلاین"
 }

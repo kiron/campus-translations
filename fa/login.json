@@ -1,5 +1,6 @@
 {
   "privacy": "سیاست حفظ حریم خصوصی",
+  "imprint": "اطلاعات ناشر",
   "pleaseWait": "لطفا صبر کنید...",
   "language": "زبان",
   "openCampusLink": "قبل از ثبت نام کاتالوگ را بررسی کنید",
@@ -15,12 +16,13 @@
     "forgotPassword": "رمز عبور خود را فراموش کرده اید؟",
     "createAccountTitle": "هنوز حسابی ندارید؟",
     "createAccountLink": "ثبت نام",
-    "passwordReset": "به زودی ایمیلی در صندوق ورودی شخصی خود با رمز عبور جدید برای حساب Google Kiron خود دریافت خواهید کرد.",
-    "sessionTerminated": "You're logged out.",
+    "passwordReset": "به‌زودی ایمیلی در صندوق ورودی شخصی خود با رمز عبور جدید برای حساب Google {{orgDisplayName}} خود دریافت خواهید کرد.",
+    "sessionTerminated": "از حساب خود خارج شدید.",
     "wrongGoogleAccount": "شما از حساب Google اشتباه برای دسترسی به محوطه دانشگاه استفاده کرده اید. لطفاً مطمئن شوید که در مرحله بعد حساب '@students.kiron.ngo' خود را انتخاب کرده اید!",
     "logout": "شما از سیستم خارج شده اید",
     "loginFailed": "ورود ناموفق بود ، لطفاً دوباره امتحان کنید.",
-    "loginRequired": "برای مشاهده این صفحه باید وارد شوید"
+    "loginRequired": "برای مشاهده این صفحه باید وارد شوید",
+    "daadCTA": "ادامه با DAAD ID"
   },
   "forgotPassword": {
     "title": "آدرس ایمیلی را که برای ثبت نام استفاده کرده اید وارد کنید",
@@ -42,5 +44,6 @@
     "submit": "ارسال",
     "passwordChangedTitle": "رمز عبور تغییر کرد!",
     "login": "وارد شدن"
-  }
+  },
+  "accessibility": "دسترسی‌پذیری"
 }

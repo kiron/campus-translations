@@ -1,6 +1,6 @@
 {
   "title": "به اشتراک گذاری داده ها",
-  "info": "این تنظیمات داده هایی را نشان می دهد که به Kiron اجازه داده اید با اشخاص ثالث خاصی به اشتراک بگذارد. از دکمه «مشاهده» برای مشاهده جزئیات یا لغو رضایت نامه استفاده کنید.",
+  "info": "این تنظیمات داده‌هایی را نشان می‌دهد که به {{orgDisplayName}} اجازه داده‌اید با اشخاص ثالث خاصی به اشتراک بگذارد. از دکمهٔ «مشاهده» برای مشاهدهٔ جزئیات یا لغو آن رضایت استفاده کنید.",
   "infoConsent": "شما هنوز هیچ گونه درخواست رضایت را نپذیرفته اید.",
   "linkView": "چشم انداز",
   "linkCancel": "لغو کنید",
@@ -15,7 +15,7 @@
     "yes": "آره",
     "no": "خیر",
     "title": "آیا مطمئن هستید که می خواهید این رضایت را لغو کنید؟",
-    "desc": "با لغو این رضایت ممکن است دسترسی به برخی از خدمات ارائه شده توسط Kiron را از دست بدهید.",
+    "desc": "با لغو این رضایت ممکن است دسترسی به برخی از خدمات ارائه‌شده توسط {{orgDisplayName}} را از دست بدهید.",
     "goToSettings": "به تنظیمات بروید",
     "revoked": "ابطال شد"
   },
@@ -23,8 +23,8 @@
     "view": "چشم انداز"
   },
   "emailSubscription": {
-    "title": "Email Subscription",
-    "info": "Manage the emails you receive from us.",
+    "title": "اشتراک‌های ایمیل شما",
+    "info": "ایمیل‌هایی را که از ما دریافت می‌کنید مدیریت کنید.",
     "courseReminders": {
       "title": "Reminders",
       "info": "Send me updates on my progress, motivational reminders, and other information about the courses I have joined."
@@ -38,19 +38,31 @@
       "info": "Send me emails about scholarships, offers, promotions, special events, etc."
     },
     "unsubscribe": {
-      "title": "You are successfully unsubscribed!",
-      "descriptionHeadline": "From now on, you will no longer receive the following emails from us:",
-      "descriptionFooter": "If you want to customize your email subscriptions, <1>manage them here</1>.",
-      "unsubscribing": "Unsubscribing...",
-      "errorMessage": "Unsubscribing failed: {{0}}"
+      "title": "اشتراک شما با موفقیت لغو شد!",
+      "descriptionHeadline": "از این پس دیگر ایمیل‌های زیر را از ما دریافت نخواهید کرد:",
+      "descriptionFooter": "اگر می‌خواهید اشتراک ایمیل‌های خود را تنظیم کنید، <1>آن‌ها را اینجا مدیریت کنید</1>.",
+      "unsubscribing": "در حال لغو اشتراک...",
+      "errorMessage": "لغو اشتراک انجام نشد: {{0}}"
+    },
+    "personalUpdates": {
+      "title": "به‌روزرسانی‌های شخصی",
+      "info": "یادآوری‌ها و به‌روزرسانی‌های مربوط به دوره‌ها و برنامه‌هایی که در آن‌ها ثبت‌نام کرده‌ام برای من ارسال شود."
+    },
+    "updates": {
+      "title": "به‌روزرسانی‌ها",
+      "info": "اطلاعات مربوط به محتوای جدید (مانند دوره‌ها یا برنامه‌های جدید) که می‌تواند برای من جالب باشد برای من ارسال شود."
+    },
+    "additionalOffers": {
+      "title": "پیشنهادهای بیشتر",
+      "info": "مرا از فرصت‌های جالب خارج از پلتفرم یادگیری باخبر کنید."
     }
   },
   "manageAccount": {
-    "title": "Account",
+    "title": "حساب کاربری",
     "deleteAccount": {
-      "title": "Delete account",
-      "info": "If you wish to delete permanently your account please send an email to:",
-      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+      "title": "حذف حساب کاربری",
+      "info": "اگر می‌خواهید حساب خود را برای همیشه حذف کنید، لطفاً ایمیلی به این نشانی بفرستید:",
+      "hint": "فقط یک یادآوری کوتاه: بستن حساب کاربری‌تان به این معناست که تمام پیشرفت‌ها و داده‌های شما، از جمله گواهینامه‌هایی که دریافت کرده‌اید، به‌طور دائمی حذف خواهند شد."
     },
     "changePassword": {
       "title": "تغییر رمز عبور",
