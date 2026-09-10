@@ -53,8 +53,8 @@
       "notificationHeader": "Hurrah! Du bist nun Teil von {{subOrganizations}}",
       "notificationDescription": "Um diese Inhalte anzuzeigen ist deine Zustimmung benötigt.",
       "description": "Damit du die Inhalte von {{subOrganizations}} sehen kannst, brauchen wir deine Zustimmung, dass deine Daten mit dieser Organisation geteilt werden darf.",
-      "checkbox": "Ich stimme zu, dass meine persönlichen Daten mit {{subOrganizations}} geteilt werden dürfen.",
-      "details": "Ich erlaube Kiron, meine persönlichen Daten (Name, Kiron-Emailadresse, Herkunftsland, Geschlecht, Geburtsdatum) mit {{subOrganizations}} zu teilen, um Zugang zu deren Inhalten zu bekommen. Meine Daten werden von {{subOrganizations}} auf sicheren Servern gespeichert, und nur qualifizierte Mitarbeiter:innen von {{subOrganizations}} erhalten nach schriflticher Zustimmung zu den einschlägigen Datenschutzregelungen Zugang dazu. Ich kann jederzeit meine Daten korrigieren oder löschen lassen, per schriftlicher Anfrage an student-support@kiron.ngo."
+      "checkbox": "Ich stimme zu, dass meine persönlichen Daten mit {{subOrganization}} geteilt werden dürfen.",
+      "details": "Ich erlaube Kiron, meine persönlichen Daten (Name, Kiron-Emailadresse, Herkunftsland, Geschlecht, Geburtsdatum) mit {{subOrganization}} zu teilen, um Zugang zu deren Inhalten zu bekommen. Meine Daten werden von {{subOrganization}} auf sicheren Servern gespeichert, und nur qualifizierte Mitarbeiter:innen von {{subOrganization}} erhalten nach schriflticher Zustimmung zu den einschlägigen Datenschutzregelungen Zugang dazu. Ich kann jederzeit meine Daten korrigieren oder löschen lassen, per schriftlicher Anfrage an student-support@kiron.ngo."
     },
     "directMessaging": {
       "description": "Wusstest du, dass du direkt über den Campus kontaktiert werden kannst? Du musst nur deine Zustimmung dazu geben.s",
