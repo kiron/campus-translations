@@ -356,7 +356,7 @@
     "minutes_plural": "{{0}} minutos",
     "messageBoard": {
       "description": "Comunícate con otros estudiantes, preséntate, y conoce a otros estudiantes aquí.",
-      "reportMessage": "Si encuentra un mensaje ofensivo, violento o de publicidad ajena a esta plataforma, por favor mande un correo electrónico a <1>student-support@kiron.ngo</1>. ",
+      "reportMessage": "Si encuentra un mensaje ofensivo, violento o de publicidad ajena a esta plataforma, por favor mande un correo electrónico a ",
       "messageButton": "Mensaje",
       "defaultText": "Todavía no se ha iniciado una conversación. Saluda a los otros participantes de este proyecto.",
       "confirmDeleteReply": "¿Está seguro/a que quiere borrar su respuesta?",

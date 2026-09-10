@@ -45,7 +45,7 @@
             "12": "Diciembre"
         }
     },
-    "dateOfBirthError": "Lo sentimos, {{orgDisplayName}} Campus está disponible solamente para personas mayores de 18 años",
+    "dateOfBirthError": "Lo sentimos, el campus está disponible solamente para personas mayores de 18 años",
     "phoneError": "Por favor, añade un número de teléfono con el prefijo de tu país. Por ejemplo (+57)",
     "provideEmail": "¡Una cosa más! Para continuar, indícanos un correo electrónico o conecta tu cartera de datos."
 }
