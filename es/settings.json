@@ -40,7 +40,7 @@
     "unsubscribe": {
       "title": "¡Ha anulado la suscripción correctamente!",
       "descriptionHeadline": "A partir de ahora, no le enviaremos más correos electrónicos:",
-      "descriptionFooter": "Si quiere cambiar sus suscripciones, haga clic aquí.",
+      "descriptionFooter": "Si quiere personalizar sus suscripciones de correo electrónico, <1>gestiónelas aquí</1>.",
       "unsubscribing": "Anulando la suscripción...",
       "errorMessage": "Anulación cancelada: {{0}}"
     },

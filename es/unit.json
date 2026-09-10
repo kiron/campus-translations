@@ -1,0 +1,8 @@
+{
+  "blockConcurrentModal": {
+    "CTA": "OK",
+    "title": "Vaya, encontramos un conflicto de horario",
+    "errorMessage": "No puedes inscribirte aquí porque ya participas en la siguiente cita a la misma hora:",
+    "decide": "Elige en cuál de las dos quieres participar."
+  }
+}

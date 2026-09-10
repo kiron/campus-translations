@@ -8,7 +8,8 @@
       "termsLink": "Política de Privacidad.",
       "alreadyUserTitle": "¿Ya es usuario?",
       "alreadyUserLink": "Entrar",
-      "or": "o"
+      "or": "o",
+      "termsTextKdls": "Se aplican nuestras <1>Condiciones de uso</1>."
     },
     "registerWithEmail": {
       "labelEmail": "Email",
@@ -66,6 +67,8 @@
     "collapseTags": "Colapsar etiquetas",
     "programs": "Programas",
     "heading": "Explora nuestras ofertas educativas",
+    "learningContentHeader": "Creadores de contenido educativo",
+    "learningContentDescSubHeader": "Amplía tus conocimientos con cursos y programas certificados de instituciones y empresas reconocidas.",
     "startHere": "Elige tu punto de partida",
     "filterContent": "Filtra nuestro contenido",
     "applySelection": "Aplicar selección",
@@ -244,6 +247,7 @@
     "earnedACertificateHeader": "¡Hurra! Te has ganado un certificado.",
     "downloadCertificateBtn": "Descarga el certificado",
     "sentCertificateDatawalletBtn": "Envía el certificado a tu cartera de datos",
+    "syncCourseCompletionDatawalletBtn": "Sincronizar el curso completado con la cartera de datos",
     "socialShareTextBtn": "He completado {{courseDenomination}}",
     "exploreMoreProgramsBtn": "Descubre más programas",
     "completedACourseHeader": "¡Hurra! Has completado este curso.",
@@ -352,10 +356,12 @@
     "minutes_plural": "{{0}} minutos",
     "messageBoard": {
       "description": "Comunícate con otros estudiantes, preséntate, y conoce a otros estudiantes aquí.",
-      "reportMessage": "Si encuentra un mensaje ofensivo, violento o de publicidad ajena a esta plataforma, por favor mande un correo electrónico a <1>student-support@kiron.ngo</1>. ",
+      "reportMessage": "Si encuentra un mensaje ofensivo, violento o de publicidad ajena a esta plataforma, por favor mande un correo electrónico a ",
       "messageButton": "Mensaje",
       "defaultText": "Todavía no se ha iniciado una conversación. Saluda a los otros participantes de este proyecto.",
       "confirmDeleteReply": "¿Está seguro/a que quiere borrar su respuesta?",
+      "replyPlaceholder": "Responder en el hilo...",
+      "newMessagePlaceholder": "Enviar un mensaje nuevo...",
       "confirmDeleteMessage": "¿Está seguro/a que quiere borrar su mensaje? Recuerde que todas las respuestas serán también eliminadas.",
       "cancel": "Cancelar",
       "delete": "Borrar",
@@ -433,7 +439,9 @@
     "testNonRetakeable": "Lo sentimos, no has conseguido puntos suficientes para aprobar el test. Puedes seguir aprendiendo en esta unidad pero no podrás marcarla como completada.",
     "retakeTest": "Repetir el test",
     "sending": "Enviando resultados...",
-    "continueHint": "Por favor, comente en “{{0}}“ para poder continuar"
+    "continueHint": "Por favor, comente en “{{0}}“ para poder continuar",
+    "unansweredQuestions": "La pregunta {{questionIDs}} aún no ha sido respondida.",
+    "unansweredQuestions_plural": "Las preguntas {{questionIDs}} aún no han sido respondidas."
   },
   "attachmentItem": {
     "download": "Descargar",
@@ -538,6 +546,7 @@
     "badges": "Insignias",
     "platform": "Portal web",
     "participantsTitle": "Participantes",
+    "relatedTopics": "Temas relacionados",
     "backAndSave": "Volver y guardar progreso",
     "notes": "Notas",
     "previewDesc": "Estás viendo una vista previa de este contenido. Inscríbete desde la <1>página de resumen</1> para comenzar a aprender."
@@ -677,6 +686,7 @@
     "listUpdateError": "Se ha producido un error actualizando la lista",
     "confirmDelete": "Borrar lista",
     "renameList": "Cambiar nombre a la lista",
+    "editList": "Editar lista",
     "areYouSure": "¿De verdad quieres borrar esta lista?",
     "listDeleted": "La lista se ha borrado con éxito",
     "listDeleteError": "Se ha producido un error al borrar la lista",
@@ -697,6 +707,15 @@
     "followList": "Seguir",
     "unfollowList": "Dejar de seguir",
     "undo": "Deshacer"
+  },
+  "contentProviders": {
+    "offerContentSubHeader": "Ofrecemos contenido de {{cpCount}} proveedores diferentes",
+    "noDescriptionAvailable": "Parece que por ahora no hay una descripción disponible.",
+    "btnOthers": "Otros",
+    "btnShowLess": "Mostrar menos",
+    "preHeadingComingSoon": "Próximamente...",
+    "headingContentNotFound": "Lo sentimos, no se encontró contenido",
+    "headingContent": "Contenido"
   },
   "sessions": {
     "joinMeeting": "Unirse a la reunión",
