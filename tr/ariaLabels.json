@@ -107,5 +107,12 @@
     "howToRegion": "Nasıl çalışır?",
     "whyJoinRegion": "Neden katılmalısınız?",
     "introRegion": "Kampüs Tanıtımı"
+  },
+  "dragAndDrop": {
+    "dragHandle": "Sürükleme tutamacı. Öğeyi sürüklemek için Command + D tuşlarına basın.",
+    "pickedUp": "{{label}} alındı",
+    "dropped": "{{label}} bırakıldı",
+    "hoveredOver": "{{label}} üzerine getirildi",
+    "cancelled": "Sürükleme iptal edildi"
   }
 }

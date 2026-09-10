@@ -33,6 +33,7 @@
     "online": "Çevrimiçi",
     "type": "Etkinlik",
     "endsAt": "Endet um",
+    "eventOver": "Etkinlik sona erdi",
     "certAvailable": "Katılım onayı mevcut"
   },
   "manageTable": {
@@ -71,5 +72,9 @@
     },
     "noParticipants": "Bu randevuda henüz katılımcı yok.",
     "manageParticipations": "Katılımları yönet"
+  },
+  "tutorEvents": {
+    "title": "Etkinliklerinizi yönetin",
+    "subtitle": "Eğitmen olarak randevularınızı görüntüleyin ve katılımı takip edin"
   }
 }

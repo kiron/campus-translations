@@ -5,7 +5,9 @@
     "imgReplace": "Değiştir",
     "imgTitle": "Profil resmi yükle",
     "imgInputLabel": "Resmimin öğrencileri ve ekibine gösterilmesine izin veriyorum",
-    "imgUploadMsg": "Profil resmi yükle"
+    "imgUploadMsg": "Profil resmi yükle",
+    "accountVerified": "Hesap doğrulandı",
+    "accountNotVerified": "Hesap doğrulanmadı"
   },
   "editBox": {
     "cancel": "İptal",
@@ -35,7 +37,7 @@
     "city": "Şehir",
     "none": "Hiçbiri",
     "btnLabel": "Diğer öğrencileri bul",
-    "searchMsg": "Search for your city and select it from the list",
+    "searchMsg": "Şehrinizi arayın ve listeden seçin",
     "cookieConsentRequired": "Şehrinizi düzenlemek için “Diğer, Google Maps API (2) dahil” seçeneğini etkinleştirin."
   },
   "contactDetails": {
@@ -47,7 +49,11 @@
     "whatsappCheckPositive": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim <1>kurabilir</1>.",
     "whatsappCheckNegative": "{{orgDisplayName}}, WhatsApp Messenger aracılığıyla benimle iletişim <1>kuramaz</1>.",
     "email": "Özel Eposta",
-    "emailMsg": "Yeni bir <1>özel</1> eposta adresin mi var? Burada değiştirebilirsin. Bu adrese bir onay epostası göndereceğiz- <2>lütfen önümüzdeki günlerde onayla</2>."
+    "emailMsg": "Yeni bir <1>özel</1> eposta adresin mi var? Burada değiştirebilirsin. Bu adrese bir onay epostası göndereceğiz- <2>lütfen önümüzdeki günlerde onayla</2>.",
+    "emailVerified": "E-posta Doğrulandı",
+    "privateEmailConfirmed": "Teşekkürler! E-posta adresi onaylandı.",
+    "emailChangesReverted": "E-posta Değişikliği Geri Alındı",
+    "privateEmailReverted": "Teşekkürler. Özel e-posta adresinizdeki değişikliği geri aldınız."
   },
   "certificate": {
     "title": "Kayıt Onayı",
@@ -57,8 +63,8 @@
     "downloadPlease": "Lütfen",
     "clickHere": "Buraya tıkla",
     "downloadLink": "kayıt sertifikasını indirmek amacıyla bir durum belgesi yüklemek için.",
-    "noFirstAndLastNameProvided": "You need to provide your first and last name in order to receive a certificate.",
-    "contactSupport": "Contact support"
+    "noFirstAndLastNameProvided": "Sertifika alabilmek için adınızı ve soyadınızı girmeniz gerekiyor.",
+    "contactSupport": "Destek ile iletişime geç"
   },
   "COEContainer": {
     "question": "Önümüzdeki altı ay içinde sertifikanı ne için kullanmayı planlıyorsun?",
@@ -70,6 +76,14 @@
     "coede": "Registrierungsbestätigung"
   },
   "dataWallet": {
+    "error": "Veri cüzdanı bilgileri yüklenirken hata oluştu",
+    "loading": "Veri cüzdanı bilgileri yükleniyor...",
+    "connected": "Bağlandı",
+    "connectionSuccess": "Bağlantı Başarılı",
+    "scan": "Bu hesabı bağlamak için enmeshed uygulamasıyla bu kodu tarayın",
+    "link": "Hesabınızı Enmeshed veri cüzdanınıza bağlayın.",
+    "load": "Yükleniyor",
+    "cta": "Devam et",
     "accountConnected": "Data wallet hesabınız bağlandı."
   },
   "deletion": {

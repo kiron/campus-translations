@@ -1,0 +1,8 @@
+{
+  "blockConcurrentModal": {
+    "CTA": "Tamam",
+    "title": "Bir zamanlama çakışması bulduk",
+    "errorMessage": "Aynı saatte aşağıdaki randevuya zaten katıldığınız için buraya kaydolamıyorsunuz:",
+    "decide": "Lütfen hangisine katılmak istediğinize karar verin."
+  }
+}
