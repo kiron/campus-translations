@@ -1,5 +1,6 @@
 {
   "privacy": "Gizlilik Politikası",
+  "imprint": "Künye",
   "pleaseWait": "Lütfen bekleyin...",
   "language": "Dil",
   "openCampusLink": "kaydolmadan önce kataloğu inceleyin",
@@ -20,7 +21,8 @@
     "wrongGoogleAccount": "Kampüse erişmek için yanlış Google hesabını kullandın. Lütfen bir sonraki adımda öğrenci hesabını seçtiğinden emin ol!",
     "logout": "Çıkış yaptın.",
     "loginFailed": "Oturum açılamadı, lütfen tekrar dene.",
-    "loginRequired": "Bu sayfayı görmek için giriş yapmalısınız"
+    "loginRequired": "Bu sayfayı görmek için giriş yapmalısınız",
+    "daadCTA": "DAAD ID ile devam et"
   },
   "forgotPassword": {
     "title": "Kayıt için kullandığın e-posta adresini gir",

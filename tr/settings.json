@@ -58,11 +58,11 @@
     }
   },
   "manageAccount": {
-    "title": "Account",
+    "title": "Hesap",
     "deleteAccount": {
-      "title": "Delete account",
-      "info": "If you wish to delete permanently your account please send an email to:",
-      "hint": "Just a quick reminder, closing your account means all your progress and data will be permanently deleted, including certifications you've received."
+      "title": "Hesabı sil",
+      "info": "Hesabınızı kalıcı olarak silmek istiyorsanız lütfen şu adrese bir e-posta gönderin:",
+      "hint": "Kısa bir hatırlatma: Hesabınızı kapatmanız, aldığınız sertifikalar dahil tüm ilerlemenizin ve verilerinizin kalıcı olarak silineceği anlamına gelir."
     },
     "changePassword": {
       "title": "Şifre değiştir",

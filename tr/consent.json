@@ -1,87 +1,87 @@
 {
   "extras": {
-    "preview": "Preview",
-    "step": "Step {{currentStep}}/{{totalSteps}}"
+    "preview": "Önizleme",
+    "step": "Adım {{currentStep}}/{{totalSteps}}"
   },
   "headers": {
-    "yourPrivacy": "Your Privacy",
-    "privacyPolicy": "Learn more in our <0>privacy policy</0>.",
-    "adjustProfile": "Adjust how other students see your profile",
-    "communityHeader": "Join the Community",
-    "privacyPreferences": "Privacy preferences",
-    "updatedPreferences": "Hello there {{studentName}}, we updated the privacy preferences"
+    "yourPrivacy": "Gizliliğiniz",
+    "privacyPolicy": "Daha fazla bilgi için <0>gizlilik politikamıza</0> göz atın.",
+    "adjustProfile": "Diğer öğrencilerin profilinizi nasıl göreceğini ayarlayın",
+    "communityHeader": "Topluluğa Katılın",
+    "privacyPreferences": "Gizlilik tercihleri",
+    "updatedPreferences": "Merhaba {{studentName}}, gizlilik tercihlerini güncelledik"
   },
   "buttons": {
-    "getStarted": "Get started",
-    "noThanks": "No, thanks",
-    "save": "Save",
-    "shareLocation": "Share location",
-    "managePreferences": "Manage preferences",
-    "cancel": "Cancel",
-    "joinCommunity": "Join community",
+    "getStarted": "Başlayın",
+    "noThanks": "Hayır, teşekkürler",
+    "save": "Kaydet",
+    "shareLocation": "Konumu paylaş",
+    "managePreferences": "Tercihleri yönet",
+    "cancel": "İptal",
+    "joinCommunity": "Topluluğa katıl",
     "readMore": "Okumaya devam et",
-    "close": "Close"
+    "close": "Kapat"
   },
   "toasters": {
-    "newSubOrgContent": "New content is added from {{subOrganizations}}. Have fun learning!",
-    "savedPreferences": "Your preferences are saved. You can always change them in Privacy Preferences.",
-    "partOfCommunity": "You are now part of the community. Have fun learning with other students!",
-    "partOfCommunityMap": "You are now part of the community map. Have fun learning with other students!"
+    "newSubOrgContent": "{{subOrganizations}} tarafından yeni içerik eklendi. İyi öğrenmeler!",
+    "savedPreferences": "Tercihleriniz kaydedildi. Bunları istediğiniz zaman Gizlilik Tercihleri bölümünden değiştirebilirsiniz.",
+    "partOfCommunity": "Artık topluluğun bir parçasısınız. Diğer öğrencilerle birlikte iyi öğrenmeler!",
+    "partOfCommunityMap": "Artık topluluk haritasının bir parçasısınız. Diğer öğrencilerle birlikte iyi öğrenmeler!"
   },
   "privacyPreferences": {
     "tabs": {
       "general": "General",
-      "profile": "Profile",
-      "partnerOrgs": "Partner Organizations",
-      "externalPlatforms": "External Platforms"
+      "profile": "Profil",
+      "partnerOrgs": "Partner Kuruluşlar",
+      "externalPlatforms": "Harici Platformlar"
     },
     "displayedName": {
-      "header": "First Name",
-      "checkbox": "Show first name instead of the nickname.",
-      "errorInput": "Nickname should only contain letters, numbers, spaces and dashes"
+      "header": "Ad",
+      "checkbox": "Takma ad yerine adı göster.",
+      "errorInput": "Takma ad yalnızca harf, rakam, boşluk ve tire içerebilir"
     },
     "profilePhoto": {
-      "header": "Profile Photo",
-      "checkbox01": "Upload profile photo. (.jpeg, .png, .jpg)",
-      "checkbox02": "Show uploaded profile photo instead of the default one."
+      "header": "Profil Fotoğrafı",
+      "checkbox01": "Profil fotoğrafı yükle. (.jpeg, .png, .jpg)",
+      "checkbox02": "Varsayılan fotoğraf yerine yüklenen profil fotoğrafını göster."
     },
     "activity": {
-      "header": "Activity",
-      "checkbox": "Show started courses, joined projects and events."
+      "header": "Aktivite",
+      "checkbox": "Başladığınız kursları, katıldığınız projeleri ve etkinlikleri göster."
     },
     "subOrg": {
-      "notificationHeader": "Hooray! You are part of {{subOrganizations}}.",
-      "notificationDescription": "Your consent is needed to activate their content.",
-      "description": "To access {{subOrganizations}} content, we need your consent to share your personal data with them.",
-      "checkbox": "I am OK with sharing my personal data with {{subOrganization}}",
-      "details": "I allow Kiron to share my personal data (full name, Kiron e-mail address, country of origin, gender, date of birth) with {{subOrganization}} for the purposes of accessing their content. My data will be stored by {{subOrganization}} on secure servers and only eligible {{subOrganization}} employees, which are required to comply with data protection regulations in writing, will be given access to them. I can always request a correction of this data and their deletion writing to student-support@kiron.ngo."
+      "notificationHeader": "Yaşasın! Artık {{subOrganizations}} kuruluşunun bir parçasısınız.",
+      "notificationDescription": "İçeriklerini etkinleştirmek için onayınız gerekiyor.",
+      "description": "{{subOrganizations}} içeriklerine erişmek için kişisel verilerinizi bu kuruluşla paylaşmamıza onay vermeniz gerekiyor.",
+      "checkbox": "Kişisel verilerimin {{subOrganization}} ile paylaşılmasını kabul ediyorum",
+      "details": "Kiron'un kişisel verilerimi (ad ve soyad, Kiron e-posta adresi, menşe ülke, cinsiyet, doğum tarihi) içeriklerine erişebilmem amacıyla {{subOrganization}} ile paylaşmasına izin veriyorum. Verilerim {{subOrganization}} tarafından güvenli sunucularda saklanacak ve yalnızca veri koruma kurallarına uymayı yazılı olarak kabul etmiş yetkili {{subOrganization}} çalışanları bu verilere erişebilecektir. student-support@kiron.ngo adresine yazarak bu verilerin düzeltilmesini ve silinmesini her zaman talep edebilirim."
     },
     "directMessaging": {
-      "description": "Did you know that you can get contacted directly from campus spaces? Just a consent away.",
-      "header": "Direct Messaging (optional)",
-      "checkbox": "I am OK with being contacted by other students within campus.",
-      "details": "If you agree to the community code of conduct, a community profile will be created for you. You can access the community via the community tab in the top navigation."
+      "description": "Kampüs alanlarından size doğrudan ulaşılabileceğini biliyor muydunuz? Tek gereken onayınız.",
+      "header": "Doğrudan Mesajlaşma (isteğe bağlı)",
+      "checkbox": "Kampüs içinde diğer öğrencilerin benimle iletişime geçmesini kabul ediyorum.",
+      "details": "Topluluk kurallarını kabul ederseniz sizin için bir topluluk profili oluşturulur. Topluluğa üst menüdeki Topluluk sekmesinden erişebilirsiniz."
     },
     "communityMap": {
-      "header": "Community Map Privacy",
-      "shareLocation": "Before using the map we need your consent for sharing your location with other students.",
-      "shareData": "Before using the map we need your consent for sharing your data with other students.",
-      "locationHeader": "Location",
-      "locationCheckbox": "I am OK with sharing my location in the community map.",
-      "inputLabel": "Please share your city so you can be visible on the map",
-      "inputPlaceholder": "City"
+      "header": "Topluluk Haritası Gizliliği",
+      "shareLocation": "Haritayı kullanmadan önce konumunuzu diğer öğrencilerle paylaşmak için onayınıza ihtiyacımız var.",
+      "shareData": "Haritayı kullanmadan önce verilerinizi diğer öğrencilerle paylaşmak için onayınıza ihtiyacımız var.",
+      "locationHeader": "Konum",
+      "locationCheckbox": "Konumumun topluluk haritasında paylaşılmasını kabul ediyorum.",
+      "inputLabel": "Haritada görünebilmeniz için lütfen şehrinizi paylaşın",
+      "inputPlaceholder": "Şehir"
     },
     "uploadPhoto": {
-      "description": "Before you upload a profile photo, we need your consent to show it with other students in campus.",
-      "header": "Profile Photo",
-      "checkbox": "I am OK with sharing my profile photo with other students within campus.",
-      "uploadText": "Drop your photo here or browse"
+      "description": "Profil fotoğrafı yüklemeden önce, fotoğrafı kampüsteki diğer öğrencilere göstermek için onayınıza ihtiyacımız var.",
+      "header": "Profil Fotoğrafı",
+      "checkbox": "Profil fotoğrafımın kampüs içinde diğer öğrencilerle paylaşılmasını kabul ediyorum.",
+      "uploadText": "Fotoğrafınızı buraya bırakın veya göz atın"
     }
   },
   "codeOfConduct": {
-    "header": "Code of Conduct",
-    "description": "Before you join, please read our Code of Conduct below.",
-    "checkbox": "I agree to the community code of conduct.",
+    "header": "Topluluk Kuralları",
+    "description": "Katılmadan önce lütfen aşağıdaki Topluluk Kurallarımızı okuyun.",
+    "checkbox": "Topluluk kurallarını kabul ediyorum.",
     "details": "{{codeOfConduct}}"
   },
   "cookieBanner": {

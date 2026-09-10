@@ -1,0 +1,52 @@
+{
+  "document": {
+    "titleInputLabel": "İçerik başlığı",
+    "titleInputDefault": "Adsız İçerik",
+    "titleInputPlaceholder": "İçerik başlığı"
+  },
+  "toolbar": {
+    "back": "Geri",
+    "save": "Kaydet",
+    "edit": "Düzenle",
+    "preview": "Önizleme"
+  },
+  "notifications": {
+    "saveSuccess": "İçeriğiniz başarıyla kaydedildi",
+    "saveError": "İçeriğiniz kaydedilirken bir sorun oluştu",
+    "deleteSuccess": "İçerik başarıyla silindi",
+    "deleteError": "İçerik silinirken hata oluştu",
+    "shareSuccess": "İçeriğiniz artık herkese açık ve paylaşıma hazır",
+    "privateSuccess": "İçeriğiniz artık özel"
+  },
+  "leavePrompt": {
+    "title": "Gerçekten ayrılmak istiyor musunuz?",
+    "description": "Kaydedilmemiş değişiklikleriniz kaybolacak",
+    "stay": "Kal",
+    "leave": "Ayrıl"
+  },
+  "modal": {
+    "cancel": "İptal",
+    "delete": "Sil",
+    "deleteConfirmation": "{{denomination}} öğesini silmek istediğinizden emin misiniz?",
+    "deleteCannotBeUndone": "Silme işlemi geri alınamaz.",
+    "conflictTitle": "Çakışan Değişiklikler Algılandı",
+    "conflictDescription": "Görünüşe göre içeriğin sahibi veya eğitmen bu içeriği yakın zamanda güncelledi. Değişikliklerinin üzerine yazmak, yaptıkları katkıları silecek. Devam etmek istediğinizden emin misiniz?",
+    "overwriteBtn": "Değişikliklerin Üzerine Yaz"
+  },
+  "shareModal": {
+    "title": "Bu içeriği paylaş"
+  },
+  "table": {
+    "title": "Başlık",
+    "owner": "Oluşturan",
+    "lastUpdated": "Son güncelleme"
+  },
+  "createNewContent": "Yeni içerik oluştur",
+  "noUserContent": "Henüz kullanıcı tarafından oluşturulan içerik yok.",
+  "responsibilityAlert": "Lütfen unutmayın: Tüm içerikler herkese açıktır. Şu kurallara uyarak güvenli bir alan oluşturmamıza yardımcı olun: Kişisel bilgi paylaşmayın, telif hakkına ve fikri mülkiyete saygı gösterin ve uygun, eğitici içerikler kullanın.",
+  "help": "Kendi öğrenme içeriğinizi oluşturma hakkında daha fazla bilgi almak veya yardım almak ister misiniz? Doğrudan Serlo'yu ziyaret edin",
+  "join": "Kendi içeriğinizi oluşturmak için projeye katılın.",
+  "share": "Paylaş",
+  "shareUrl": "Paylaşılabilir içerik URL'niz",
+  "private": "Bu içerik özel olarak ayarlanmış ve paylaşılamaz"
+}

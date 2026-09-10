@@ -45,5 +45,7 @@
       "12": "Aralık"
     }
   },
-  "dateOfBirthError": "Üzgünüz, ama kampüs sadece 18 yaşın üzerinde olanlar içindir"
+  "dateOfBirthError": "Üzgünüz, ama kampüs sadece 18 yaşın üzerinde olanlar içindir",
+  "phoneError": "Lütfen ülke koduyla birlikte bir telefon numarası girin, örneğin (+49, 0049)",
+  "provideEmail": "Son bir adım! Devam etmek için lütfen bir e-posta adresi girin veya veri cüzdanınızı bağlayın."
 }
