@@ -5,7 +5,9 @@
     "imgReplace": "Bearbeiten",
     "imgTitle": "Lade dein Profil-Foto hoch",
     "imgInputLabel": "Ich stimme zu, dass mein Foto anderen Studierenden & Mitarbeiter:innen gezeigt wird",
-    "imgUploadMsg": "Lade dein Profil-Foto hoch"
+    "imgUploadMsg": "Lade dein Profil-Foto hoch",
+    "accountVerified": "Konto verifiziert",
+    "accountNotVerified": "Konto nicht verifiziert"
   },
   "editBox": {
     "cancel": "Abbruch",
@@ -44,10 +46,14 @@
     "infoMsg": "{{orgDisplayName}} gibt deine Kontaktdaten nicht ohne deine Zustimmung an Dritte weiter.",
     "phone": "Telefonnummer",
     "whatsappCheck": "{{orgDisplayName}} kann mich per WhatsApp Messenger unter dieser Nummer erreichen",
-    "whatsappCheckPositive": "{{orgDisplayName}} <1>kann<1> mich per WhatsApp Messenger unter dieser Nummer erreichen",
-    "whatsappCheckNegative": "{{orgDisplayName}} <1>kann mich nicht<1> per WhatsApp Messenger unter dieser Nummer erreichen",
+    "whatsappCheckPositive": "{{orgDisplayName}} <1>kann</1> mich per WhatsApp Messenger unter dieser Nummer erreichen",
+    "whatsappCheckNegative": "{{orgDisplayName}} <1>kann mich nicht</1> per WhatsApp Messenger unter dieser Nummer erreichen",
     "email": "Private E-Mail",
-    "emailMsg": "Hast du eine neue <1>private</1> E-Mail Adresse? Du kannst diese hier ändern. Wir senden dir anschließend eine E-Mail zur Bestätigungs an diese Adresse - <2>bitte bestätige</2> diese in den nächsten Tagen."
+    "emailMsg": "Hast du eine neue <1>private</1> E-Mail Adresse? Du kannst diese hier ändern. Wir senden dir anschließend eine E-Mail zur Bestätigungs an diese Adresse - <2>bitte bestätige</2> diese in den nächsten Tagen.",
+    "emailVerified": "E-Mail-Adresse bestätigt",
+    "privateEmailConfirmed": "Danke! Deine E-Mail-Adresse wurde bestätigt.",
+    "emailChangesReverted": "E-Mail-Änderung rückgängig gemacht",
+    "privateEmailReverted": "Vielen Dank. Du hast die Änderung deiner privaten E-Mail-Adresse rückgängig gemacht."
   },
   "certificate": {
     "title": "Bestätigung der Registrierung",

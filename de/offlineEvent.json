@@ -25,6 +25,7 @@
   "locationTitle": "Ort",
   "Location": "Offline",
   "leaveEventTitle": "Veranstaltung verlassen",
+  "leaveEventDesc": "Du wirst aus allen Terminen entfernt. Ein späterer Wiederbeitritt ist möglicherweise nicht mehr möglich.",
   "leaveOpenEventInfo": "Du kannst dieser Veranstaltung noch bis zum {{1}} wieder beitreten.",
   "leaveClosedEventInfo": "Diese Aktion kann nicht rückgängig gemacht werden. Du wirst an der Veranstaltung nicht mehr teilnehmen können.",
   "leaveNo": "Nein, bleiben",

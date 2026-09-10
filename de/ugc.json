@@ -14,7 +14,9 @@
     "saveSuccess": "Dein Inhalt wurde erfolgreich gespeichert",
     "saveError": "Beim Speichern deines Inhalts ist ein Problem aufgetreten",
     "deleteSuccess": "Der Inhalt wurde erfolgreich gelöscht",
-    "deleteError": "Fehler beim Löschen des Inhalts"
+    "deleteError": "Fehler beim Löschen des Inhalts",
+    "shareSuccess": "Dein Inhalt ist jetzt öffentlich und bereit zum Teilen",
+    "privateSuccess": "Dein Inhalt ist jetzt privat"
   },
   "leavePrompt": {
     "title": "Möchtest du die Seite wirklich verlassen?",
@@ -31,6 +33,9 @@
     "conflictDescription": "Es scheint, dass der Eigentümer oder ein Tutor diesen Inhalt gerade geändert hat. Diese Änderungen werden überschrieben und gehen verloren, wenn du auf ‘speichern’ klickst. Bist du sicher, dass du speichern möchtest?",
     "overwriteBtn": "Speichern und überschreiben"
   },
+  "shareModal": {
+    "title": "Diesen Inhalt teilen"
+  },
   "table": {
     "title": "Name",
     "owner": "Erstellt von",
@@ -40,5 +45,8 @@
   "noUserContent": "Es gibt noch keine selbst erstellten Inhalte.",
   "responsibilityAlert": "Bitte beachte: Alle Inhalte sind öffentlich sichtbar. Hilf uns, einen sicheren Raum zu bewahren, indem du diese Richtlinien befolgst: Teile keine persönlichen Daten, beachte das Urheberrecht und verwende angemessene, lehrreiche Inhalte.",
   "help": "Du möchtest mehr über das Erstellen von eigenen Lerninhalten erfahren oder benötigest Hilfe dabei? Schau direkt bei Serlo vorbei",
-  "join": "Tritt dem Projekt bei, um selbst Inhalte zu erstellen."
+  "join": "Tritt dem Projekt bei, um selbst Inhalte zu erstellen.",
+  "share": "Teilen",
+  "shareUrl": "Deine teilbare URL für diesen Inhalt",
+  "private": "Dieser Inhalt ist privat und kann nicht geteilt werden"
 }
