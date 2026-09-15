@@ -268,7 +268,7 @@
     "lessonNavigatorCtaNext": "Weiter"
   },
   "unitCard": {
-    "applyBefore": "قدّم قبل {{date}}",
+    "applyBefore": "Bewirb dich vor {{date}}",
     "liveUnit": "Live Einheit",
     "kironUnit": "{{orgDisplayName}} Einheit",
     "externalUnit": "Externe Einheit",
