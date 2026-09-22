@@ -91,7 +91,7 @@
     "courseComplete": "Kurs abgeschlossen",
     "coursesComplete": "Kurse abgeschlossen",
     "first": "1.",
-    "shortProgram": "Kurzprogramm",
+    "shortProgram": "Short Program",
     "completed": "abgeschlossen",
     "finishedCourses": "Beendete Kurse",
     "toBeVerified": "zu überprüfen",
@@ -160,7 +160,18 @@
     "day": "Tag:",
     "month": "Monat:",
     "year": "Jahr:",
-    "ago": "vor {{elapsedTime}}"
+    "ago": "vor {{elapsedTime}}",
+    "compact": {
+      "now": "now",
+      "minute_one": "{{count}} m",
+      "minute_other": "{{count}} m",
+      "hour_one": "{{count}} h",
+      "hour_other": "{{count}} h",
+      "day_one": "{{count}} d",
+      "day_other": "{{count}} d",
+      "week_one": "{{count}} w",
+      "week_other": "{{count}} w"
+    }
   },
   "shortProgram": {
     "loading": "Programm wird geladen",
@@ -268,7 +279,7 @@
     "lessonNavigatorCtaNext": "Weiter"
   },
   "unitCard": {
-    "applyBefore": "Bewirb dich vor {{date}}",
+    "applyBefore": "قدّم قبل {{date}}",
     "liveUnit": "Live Einheit",
     "kironUnit": "{{orgDisplayName}} Einheit",
     "externalUnit": "Externe Einheit",
@@ -684,7 +695,6 @@
     "listUpdateError": "Beim Aktualisieren der Liste ist ein Fehler aufgetreten",
     "confirmDelete": "Liste löschen",
     "renameList": "Liste umbenennen",
-    "editList": "Liste bearbeiten",
     "areYouSure": "Bist Du sicher, dass Du die Liste löschen möchtest? Beachte, dass alle gespeicherten Inhalte in der Liste ebenfalls entfernt werden",
     "listDeleted": "Die Liste wurde erfolgreich gelöscht",
     "listDeleteError": "Beim Löschen der Liste ist ein Problem aufgetreten",
@@ -711,7 +721,7 @@
     "noDescriptionAvailable": "Es scheint, als wäre noch keine Beschreibung vorhanden.",
     "btnOthers": "Andere",
     "btnShowLess": "Weniger anzeigen",
-    "preHeadingComingSoon": "Bald verfügbar...",
+    "preHeadingComingSoon": "Coming soon...",
     "headingContentNotFound": "Noch sind keine Inhalte vorhanden",
     "headingContent": "Inhalte"
   },

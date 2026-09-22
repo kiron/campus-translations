@@ -158,7 +158,18 @@
     "day": "Day:",
     "month": "Month:",
     "year": "Year:",
-    "ago": "{{elapsedTime}} ago"
+    "ago": "{{elapsedTime}} ago",
+    "compact": {
+      "now": "now",
+      "minute_one": "{{count}} m",
+      "minute_other": "{{count}} m",
+      "hour_one": "{{count}} h",
+      "hour_other": "{{count}} h",
+      "day_one": "{{count}} d",
+      "day_other": "{{count}} d",
+      "week_one": "{{count}} w",
+      "week_other": "{{count}} w"
+    }
   },
   "shortProgram": {
     "loading": "Loading Program",
