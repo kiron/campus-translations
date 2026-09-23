@@ -162,14 +162,14 @@
     "ago": "Hace {{elapsedTime}} días",
     "compact": {
       "now": "now",
-      "minute_one": "{{count}} m",
-      "minute_other": "{{count}} m",
-      "hour_one": "{{count}} h",
-      "hour_other": "{{count}} h",
-      "day_one": "{{count}} d",
-      "day_other": "{{count}} d",
-      "week_one": "{{count}} w",
-      "week_other": "{{count}} w"
+      "minute": "{{count}} m",
+      "minute_plural": "{{count}} m",
+      "hour": "{{count}} h",
+      "hour_plural": "{{count}} h",
+      "day": "{{count}} d",
+      "day_plural": "{{count}} d",
+      "week": "{{count}} w",
+      "week_plural": "{{count}} w"
     }
   },
   "shortProgram": {
@@ -728,6 +728,12 @@
     "requestError": "Ocurrió un error",
     "requestSuccess": "Has enviado con éxito la solicitud de acceso",
     "duplicateRequest": "Ya has enviado una solicitud"
+  },
+  "switchLearningHub": {
+    "title": "Switch to ",
+    "subtitle": "This content belongs to {{targetName}}. Switch now to continue viewing it.",
+    "cta": "Switch to {{targetName}}",
+    "error": "Something went wrong while switching. Please try again."
   },
   "logoutAlert": {
     "title": "Alerta de inactividad",
