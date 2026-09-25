@@ -57,6 +57,15 @@
       "title": "Persönliche Updates"
     }
   },
+  "pushNotifications": {
+    "title": "Push-Benachrichtigungen",
+    "info": "Erhalte Benachrichtigungen auf diesem Gerät, auch wenn Campus nicht geöffnet ist.",
+    "enable": {
+      "title": "Benachrichtigungen auf diesem Gerät",
+      "info": "Erhalte Erinnerungen und Neuigkeiten von Campus in deinem Browser. Du kannst dies jederzeit deaktivieren.",
+      "blocked": "Benachrichtigungen für Campus sind in deinem Browser blockiert. Klicke auf das Symbol links neben der Adressleiste, erlaube Benachrichtigungen und lade diese Seite neu."
+    }
+  },
   "manageAccount": {
     "title": "Benutzerkonto",
     "deleteAccount": {

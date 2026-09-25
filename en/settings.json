@@ -45,6 +45,15 @@
       "info": "Keep me updated about interesting opportunities outside the learning platform."
     }
   },
+  "pushNotifications": {
+    "title": "Push Notifications",
+    "info": "Get notified on this device, even when Campus is not open.",
+    "enable": {
+      "title": "Notifications on this device",
+      "info": "Receive reminders and updates from Campus in your browser. You can turn this off at any time.",
+      "blocked": "Notifications are blocked for Campus in your browser. Click the icon to the left of the address bar, allow notifications, then reload this page."
+    }
+  },
   "manageAccount": {
     "title": "Account",
     "deleteAccount": {

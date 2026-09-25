@@ -57,6 +57,15 @@
       "title": "Kişisel Güncellemeler"
     }
   },
+  "pushNotifications": {
+    "title": "Anlık bildirimler",
+    "info": "Campus açık olmasa bile bu cihazda bildirim al.",
+    "enable": {
+      "title": "Bu cihazdaki bildirimler",
+      "info": "Campus'tan hatırlatmaları ve güncellemeleri tarayıcında al. Bunu istediğin zaman kapatabilirsin.",
+      "blocked": "Campus bildirimleri tarayıcında engellenmiş. Adres çubuğunun solundaki simgeye tıkla, bildirimlere izin ver ve bu sayfayı yeniden yükle."
+    }
+  },
   "manageAccount": {
     "title": "Hesap",
     "deleteAccount": {

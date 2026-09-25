@@ -57,6 +57,15 @@
       "title": "Novedades personalizadas"
     }
   },
+  "pushNotifications": {
+    "title": "Notificaciones push",
+    "info": "Recibe notificaciones en este dispositivo, incluso cuando Campus no esté abierto.",
+    "enable": {
+      "title": "Notificaciones en este dispositivo",
+      "info": "Recibe recordatorios y novedades de Campus en tu navegador. Puedes desactivarlo cuando quieras.",
+      "blocked": "Las notificaciones de Campus están bloqueadas en tu navegador. Haz clic en el icono a la izquierda de la barra de direcciones, permite las notificaciones y recarga esta página."
+    }
+  },
   "manageAccount": {
     "title": "Cuenta",
     "deleteAccount": {
