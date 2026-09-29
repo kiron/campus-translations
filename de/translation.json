@@ -91,7 +91,7 @@
     "courseComplete": "Kurs abgeschlossen",
     "coursesComplete": "Kurse abgeschlossen",
     "first": "1.",
-    "shortProgram": "Short Program",
+    "shortProgram": "Kurzprogramm",
     "completed": "abgeschlossen",
     "finishedCourses": "Beendete Kurse",
     "toBeVerified": "zu überprüfen",
@@ -162,15 +162,15 @@
     "year": "Jahr:",
     "ago": "vor {{elapsedTime}}",
     "compact": {
-      "now": "now",
-      "minute": "{{count}} m",
-      "minute_plural": "{{count}} m",
-      "hour": "{{count}} h",
-      "hour_plural": "{{count}} h",
-      "day": "{{count}} d",
-      "day_plural": "{{count}} d",
-      "week": "{{count}} w",
-      "week_plural": "{{count}} w"
+      "now": "jetzt",
+      "minute": "{{count}} Min.",
+      "minute_plural": "{{count}} Min.",
+      "hour": "{{count}} Std.",
+      "hour_plural": "{{count}} Std.",
+      "day": "{{count}} T.",
+      "day_plural": "{{count}} T.",
+      "week": "{{count}} W.",
+      "week_plural": "{{count}} W."
     }
   },
   "shortProgram": {
@@ -279,7 +279,7 @@
     "lessonNavigatorCtaNext": "Weiter"
   },
   "unitCard": {
-    "applyBefore": "قدّم قبل {{date}}",
+    "applyBefore": "Bewirb dich vor {{date}}",
     "liveUnit": "Live Einheit",
     "kironUnit": "{{orgDisplayName}} Einheit",
     "externalUnit": "Externe Einheit",
@@ -695,6 +695,7 @@
     "listUpdateError": "Beim Aktualisieren der Liste ist ein Fehler aufgetreten",
     "confirmDelete": "Liste löschen",
     "renameList": "Liste umbenennen",
+    "editList": "Liste bearbeiten",
     "areYouSure": "Bist Du sicher, dass Du die Liste löschen möchtest? Beachte, dass alle gespeicherten Inhalte in der Liste ebenfalls entfernt werden",
     "listDeleted": "Die Liste wurde erfolgreich gelöscht",
     "listDeleteError": "Beim Löschen der Liste ist ein Problem aufgetreten",
@@ -721,7 +722,7 @@
     "noDescriptionAvailable": "Es scheint, als wäre noch keine Beschreibung vorhanden.",
     "btnOthers": "Andere",
     "btnShowLess": "Weniger anzeigen",
-    "preHeadingComingSoon": "Coming soon...",
+    "preHeadingComingSoon": "Bald verfügbar...",
     "headingContentNotFound": "Noch sind keine Inhalte vorhanden",
     "headingContent": "Inhalte"
   },
@@ -745,10 +746,10 @@
     "duplicateRequest": "Du hast bereits eine Zugriffsanfrage gestellt"
   },
   "switchLearningHub": {
-    "title": "Switch to ",
-    "subtitle": "This content belongs to {{targetName}}. Switch now to continue viewing it.",
-    "cta": "Switch to {{targetName}}",
-    "error": "Something went wrong while switching. Please try again."
+    "title": "Wechseln zu ",
+    "subtitle": "Dieser Inhalt gehört zu {{targetName}}. Wechsle jetzt, um ihn weiter anzusehen.",
+    "cta": "Zu {{targetName}} wechseln",
+    "error": "Beim Wechseln ist etwas schiefgelaufen. Bitte versuche es erneut."
   },
   "logoutAlert": {
     "title": "Inaktivitäts-Hinweis",
