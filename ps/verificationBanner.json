@@ -49,5 +49,9 @@
   "courseraAlumniHeader": "ستاسو د Coursera جوازلیک پای ته رسېدلی",
   "courseraAlumniDescription": "Coursera په تیرو څو کلونو کې په سخاوت سره کیرون زده کوونکو ته د کورسونو جوازلیکونه ورکړي او اوس هغه شمیر کموي چې وړاندې کولی شي. د کیرون له لارې Coursera ته لاسرسی هر زده کوونکي ته یو کال پورې محدود دی، نو ستاسو د Coursera جوازلیک پای ته رسېدلی دی. مننه چې زموږ سره مو زده کړه وکړه!",
   "courseraAlumniCampusInfo": "ستاسو د کیرون کیمپس حساب لا هم فعال دی. د نوي منځپانګې او وړاندیزونو لپاره کیمپس وګورئ او زموږ د ټولنې په چینلونو کې له نورو زده کوونکو سره اړیکه ونیسئ.",
-  "courseraAlumniCta": "کیمپس وسپړئ"
+  "courseraAlumniCta": "کیمپس وسپړئ",
+  "courseraLicenseDaysLeft": "ورځې پاتې",
+  "courseraLicenseValidUntil": "تر {{date}} پورې اعتبار لري",
+  "courseraLicenseHintSoon": "ستاسو جوازلیک ژر پای ته رسېږي. مهرباني وکړئ هغه کورسونه بشپړ کړئ چې اوس یې زده کوئ.",
+  "courseraLicenseAria": "ستاسو د Coursera جوازلیک پاتې ورځې: {{days}}"
 }

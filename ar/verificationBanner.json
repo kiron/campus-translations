@@ -41,5 +41,9 @@
   "courseraAlumniHeader": "انتهت صلاحية ترخيص Coursera الخاص بك",
   "courseraAlumniDescription": "قدّمت Coursera بسخاء تراخيص دورات لمتعلمي Kiron خلال السنوات الماضية، وهي الآن تقلّص عدد التراخيص التي يمكنها توفيرها. الوصول إلى Coursera عبر Kiron مقتصر على سنة واحدة لكل متعلم، ولذلك انتهى ترخيص Coursera الخاص بك. شكرًا لتعلّمك معنا!",
   "courseraAlumniCampusInfo": "حسابك في حرم كيرون لا يزال نشطًا. تفقّد الحرم للاطلاع على المحتوى والعروض الجديدة، وتواصل مع المتعلمين الآخرين في قنوات مجتمعنا.",
-  "courseraAlumniCta": "استكشف حرم كيرون"
+  "courseraAlumniCta": "استكشف حرم كيرون",
+  "courseraLicenseDaysLeft": "أيام متبقية",
+  "courseraLicenseValidUntil": "صالح حتى {{date}}",
+  "courseraLicenseHintSoon": "ينتهي ترخيصك قريبًا. يُرجى إنهاء الدورات التي تدرسها حاليًا.",
+  "courseraLicenseAria": "الأيام المتبقية في ترخيص Coursera الخاص بك: {{days}}"
 }

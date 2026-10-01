@@ -41,5 +41,9 @@
   "courseraAlumniHeader": "Coursera lisansınızın süresi doldu",
   "courseraAlumniDescription": "Coursera, son birkaç yıldır Kiron öğrencilerine cömertçe kurs lisansları bağışladı ve şimdi sunabileceği lisans sayısını azaltıyor. Kiron üzerinden Coursera erişimi öğrenci başına bir yılla sınırlıdır; bu nedenle Coursera lisansınız sona erdi. Bizimle öğrendiğiniz için teşekkür ederiz!",
   "courseraAlumniCampusInfo": "Kiron Kampüsü hesabınız hâlâ aktif. Yeni içerik ve fırsatlar için Kampüs'e göz atın ve topluluk kanallarımızda diğer öğrencilerle iletişim kurun.",
-  "courseraAlumniCta": "Kampüsü keşfet"
+  "courseraAlumniCta": "Kampüsü keşfet",
+  "courseraLicenseDaysLeft": "gün kaldı",
+  "courseraLicenseValidUntil": "{{date}} tarihine kadar geçerli",
+  "courseraLicenseHintSoon": "Lisansınızın süresi yakında doluyor. Lütfen şu anda aldığınız kursları tamamlayın.",
+  "courseraLicenseAria": "Coursera lisansınızda kalan gün: {{days}}"
 }

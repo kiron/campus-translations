@@ -41,5 +41,9 @@
   "courseraAlumniHeader": "Tu licencia de Coursera ha caducado",
   "courseraAlumniDescription": "Coursera ha donado generosamente licencias de cursos a los estudiantes de Kiron durante los últimos años y ahora está reduciendo el número que puede ofrecer. El acceso a Coursera a través de Kiron se limita a un año por estudiante, por lo que tu licencia de Coursera ha finalizado. ¡Gracias por aprender con nosotros!",
   "courseraAlumniCampusInfo": "Tu cuenta del Campus de Kiron sigue activa. Consulta el Campus para descubrir nuevos contenidos y ofertas, y conecta con otros estudiantes en nuestros canales de la comunidad.",
-  "courseraAlumniCta": "Explorar el Campus"
+  "courseraAlumniCta": "Explorar el Campus",
+  "courseraLicenseDaysLeft": "días restantes",
+  "courseraLicenseValidUntil": "Válida hasta el {{date}}",
+  "courseraLicenseHintSoon": "Tu licencia termina pronto. Por favor, termina los cursos que estás realizando.",
+  "courseraLicenseAria": "Días restantes de tu licencia de Coursera: {{days}}"
 }

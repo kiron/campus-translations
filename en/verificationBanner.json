@@ -41,5 +41,9 @@
   "courseraAlumniHeader": "Your Coursera license has expired",
   "courseraAlumniDescription": "Coursera has generously donated course licenses to Kiron learners for the past several years and is now reducing the number it can provide. Coursera access through Kiron is limited to one year per learner, so your Coursera license has ended. Thank you for learning with us!",
   "courseraAlumniCampusInfo": "Your Kiron Campus account is still active. Check the Campus for new content and offers, and connect with other learners in our community channels.",
-  "courseraAlumniCta": "Explore Campus"
+  "courseraAlumniCta": "Explore Campus",
+  "courseraLicenseDaysLeft": "days left",
+  "courseraLicenseValidUntil": "Valid until {{date}}",
+  "courseraLicenseHintSoon": "Your license ends soon. Please finish the courses you are currently learning.",
+  "courseraLicenseAria": "Days left on your Coursera license: {{days}}"
 }

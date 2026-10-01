@@ -41,5 +41,9 @@
   "courseraAlumniHeader": "Deine Coursera-Lizenz ist abgelaufen",
   "courseraAlumniDescription": "Coursera hat Kiron-Lernenden in den vergangenen Jahren großzügig Kurslizenzen zur Verfügung gestellt und kann nun weniger Lizenzen anbieten. Der Coursera-Zugang über Kiron ist auf ein Jahr pro Lernende*n begrenzt, deshalb ist deine Coursera-Lizenz ausgelaufen. Danke, dass du mit uns gelernt hast!",
   "courseraAlumniCampusInfo": "Dein Kiron-Campus-Konto ist weiterhin aktiv. Schau auf dem Campus nach neuen Inhalten und Angeboten und tausche dich in unseren Community-Kanälen mit anderen Lernenden aus.",
-  "courseraAlumniCta": "Campus entdecken"
+  "courseraAlumniCta": "Campus entdecken",
+  "courseraLicenseDaysLeft": "Tage übrig",
+  "courseraLicenseValidUntil": "Gültig bis {{date}}",
+  "courseraLicenseHintSoon": "Deine Lizenz läuft bald aus. Bitte schließe die Kurse ab, die du gerade belegst.",
+  "courseraLicenseAria": "Verbleibende Tage deiner Coursera-Lizenz: {{days}}"
 }
