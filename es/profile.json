@@ -7,7 +7,8 @@
     "imgInputLabel": "Permito mostrar mi imagen a otros estudiantes y empleados",
     "imgUploadMsg": "Suba su foto de perfil",
     "accountVerified": "Cuenta verificada",
-    "accountNotVerified": "Cuenta no verificada"
+    "accountNotVerified": "Cuenta no verificada",
+    "accountVerifiedAlumni": "Verificado · Alumni de Coursera"
   },
   "editBox": {
     "cancel": "Cancelar",

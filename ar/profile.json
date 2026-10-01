@@ -7,7 +7,8 @@
     "imgInputLabel": "أسمح بعرض صورتي للطلاب الآخرين والموظفين",
     "imgUploadMsg": "قم بتحميل صورة ملفك الشخصي",
     "accountVerified": "تم التحقق من الحساب",
-    "accountNotVerified": "لم يتم التحقق من الحساب"
+    "accountNotVerified": "لم يتم التحقق من الحساب",
+    "accountVerifiedAlumni": "تم التحقق · خريج Coursera"
   },
   "editBox": {
     "cancel": "إلغاء",

@@ -7,7 +7,8 @@
     "imgInputLabel": "Я дозволяю показувати своє зображення іншим студентам та співробітникам",
     "imgUploadMsg": "Завантажте своє зображення профіл",
     "accountVerified": "Обліковий запис підтверджено",
-    "accountNotVerified": "Обліковий запис не підтверджено"
+    "accountNotVerified": "Обліковий запис не підтверджено",
+    "accountVerifiedAlumni": "Підтверджено · випускник Coursera"
   },
   "editBox": {
     "cancel": "Скасувати",

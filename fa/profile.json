@@ -7,7 +7,8 @@
     "imgInputLabel": "من اجازه می دهم تصویر من به سایر دانش آموزان و کارکنان Kiron نشان داده شود",
     "imgUploadMsg": "عکس پروفایل خود را بارگذاری کنید",
     "accountVerified": "حساب تأیید شده",
-    "accountNotVerified": "حساب تأیید نشده"
+    "accountNotVerified": "حساب تأیید نشده",
+    "accountVerifiedAlumni": "تأییدشده · فارغ‌التحصیل Coursera"
   },
   "editBox": {
     "cancel": "لغو کنید",

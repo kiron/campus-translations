@@ -7,7 +7,8 @@
     "imgInputLabel": "Ich stimme zu, dass mein Foto anderen Studierenden & Mitarbeiter:innen gezeigt wird",
     "imgUploadMsg": "Lade dein Profil-Foto hoch",
     "accountVerified": "Konto verifiziert",
-    "accountNotVerified": "Konto nicht verifiziert"
+    "accountNotVerified": "Konto nicht verifiziert",
+    "accountVerifiedAlumni": "Verifiziert · Coursera-Alumni"
   },
   "editBox": {
     "cancel": "Abbruch",

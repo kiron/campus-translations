@@ -37,5 +37,9 @@
   "cycleClosedDescription": "Die Verifizierung für die kostenlose Coursera for Impact-Lizenz öffnet über das Jahr verteilt in Runden. Sobald die nächste Runde startet und du berechtigt bist, benachrichtigen wir dich hier und per E-Mail.",
   "sampleUploadHeader": "Nur noch ein Schritt bis zur abgeschlossenen Verifizierung",
   "sampleUploadDescription": "Um deine Verifizierung abzuschließen, lade bitte dein Verifizierungsdokument hoch. Es dauert nur wenige Minuten.",
-  "sampleUploadBtn": "Dokument hochladen"
+  "sampleUploadBtn": "Dokument hochladen",
+  "courseraAlumniHeader": "Deine Coursera-Lizenz ist abgelaufen",
+  "courseraAlumniDescription": "Coursera hat Kiron-Lernenden in den vergangenen Jahren großzügig Kurslizenzen zur Verfügung gestellt und kann nun weniger Lizenzen anbieten. Der Coursera-Zugang über Kiron ist auf ein Jahr pro Lernende*n begrenzt, deshalb ist deine Coursera-Lizenz ausgelaufen. Danke, dass du mit uns gelernt hast!",
+  "courseraAlumniCampusInfo": "Dein Kiron-Campus-Konto ist weiterhin aktiv. Schau auf dem Campus nach neuen Inhalten und Angeboten und tausche dich in unseren Community-Kanälen mit anderen Lernenden aus.",
+  "courseraAlumniCta": "Campus entdecken"
 }
