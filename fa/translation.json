@@ -560,6 +560,7 @@
     "students": "دانشجویان",
     "documentsInReview": "اسناد شما در حال بررسی است.",
     "documentsIneligible": "این دوره/برنامه فقط برای یادگیرندگان تأییدشده در دسترس است",
+    "courseraLicenseExpired": "مجوز Coursera شما منقضی شده است، بنابراین دوره‌های Coursera دیگر با حساب شما در دسترس نیستند.",
     "moreInfo": "اطلاعات بیشتر",
     "close": "بستن",
     "youWillGetNotified": "وقتی بررسی تمام شد، به شما اطلاع می‌دهیم",

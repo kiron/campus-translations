@@ -561,6 +561,7 @@
     "students": "زده کوونکي",
     "documentsInReview": "ستاسو سندونه تصدیق کیږي.",
     "documentsIneligible": "دا کورس/پروګرام یوازې تصدیق شویو زده کوونکو لپاره شتون لري",
+    "courseraLicenseExpired": "ستاسو د Coursera جوازلیک پای ته رسېدلی، نو د Coursera کورسونه نور ستاسو له حساب سره شتون نلري.",
     "moreInfo": "نور معلومات",
     "close": "تړل",
     "youWillGetNotified": "کله چې موږ بشپړ کړو، تاسو ته خبر درکول کیږي",

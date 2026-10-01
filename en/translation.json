@@ -514,6 +514,7 @@
     "students": "Students",
     "documentsInReview": "Your documents are being verified.",
     "documentsIneligible": "This course/program is only available to verified learners",
+    "courseraLicenseExpired": "Your Coursera license has expired, so Coursera courses are no longer available with your account.",
     "moreInfo": "More information",
     "close": "Close",
     "youWillGetNotified": "You will get notified once we are done",

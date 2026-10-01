@@ -586,6 +586,7 @@
     "close": "أغلق",
     "documentsInReview": "يتم التحقق من وثائقك.",
     "documentsIneligible": "هذا الدورة/البرنامج متاحة فقط للمتعلمين الموثقين.",
+    "courseraLicenseExpired": "انتهت صلاحية ترخيص Coursera الخاص بك، لذلك لم تعد دورات Coursera متاحة لحسابك.",
     "moreInfo": "مزيد من المعلومات",
     "students": "طُلاب",
     "contains": "يحتوي",

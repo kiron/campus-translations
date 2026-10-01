@@ -512,6 +512,7 @@
     "close": "Cerrar",
     "documentsInReview": "Sus documentos están siendo verificados.",
     "documentsIneligible": "Este curso/programa solo está disponible para estudiantes verificados.",
+    "courseraLicenseExpired": "Tu licencia de Coursera ha caducado, por lo que los cursos de Coursera ya no están disponibles con tu cuenta.",
     "moreInfo": "Más información",
     "students": "Estudiantes",
     "contains": "Contiene",
