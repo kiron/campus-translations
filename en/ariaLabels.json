@@ -114,5 +114,8 @@
     "dropped": "Dropped {{label}}",
     "hoveredOver": "Hovered over {{label}}",
     "cancelled": "Drag cancelled"
+  },
+  "tabs": {
+    "courseNavigation": "Course sections"
   }
 }

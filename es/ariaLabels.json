@@ -114,5 +114,8 @@
     "dropped": "Has soltado {{label}}",
     "hoveredOver": "Pasaste por encima de {{label}}",
     "cancelled": "Arrastre cancelado"
+  },
+  "tabs": {
+    "courseNavigation": "Secciones del curso"
   }
 }

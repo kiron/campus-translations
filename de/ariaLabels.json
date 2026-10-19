@@ -114,5 +114,8 @@
     "dropped": "{{label}} abgelegt",
     "hoveredOver": "{{label}} anvisiert",
     "cancelled": "Abgebrochen"
+  },
+  "tabs": {
+    "courseNavigation": "Kursbereiche"
   }
 }

@@ -114,5 +114,8 @@
     "dropped": "Элемент {{label}} отпущен",
     "hoveredOver": "Наведено на {{label}}",
     "cancelled": "Перетаскивание отменено"
+  },
+  "tabs": {
+    "courseNavigation": "Разделы курса"
   }
 }

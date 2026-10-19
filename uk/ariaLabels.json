@@ -114,5 +114,8 @@
     "dropped": "Відпущено {{label}}",
     "hoveredOver": "Наведено на {{label}}",
     "cancelled": "Перетягування скасовано"
+  },
+  "tabs": {
+    "courseNavigation": "Розділи курсу"
   }
 }

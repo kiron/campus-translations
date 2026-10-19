@@ -114,5 +114,8 @@
     "dropped": "{{label}} رها شد",
     "hoveredOver": "روی {{label}} قرار گرفت",
     "cancelled": "کشیدن لغو شد"
+  },
+  "tabs": {
+    "courseNavigation": "بخش‌های دوره"
   }
 }

@@ -114,5 +114,8 @@
     "dropped": "{{label}} bırakıldı",
     "hoveredOver": "{{label}} üzerine getirildi",
     "cancelled": "Sürükleme iptal edildi"
+  },
+  "tabs": {
+    "courseNavigation": "Kurs bölümleri"
   }
 }

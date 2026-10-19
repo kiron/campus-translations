@@ -114,5 +114,8 @@
     "dropped": "تم إفلات {{label}}",
     "hoveredOver": "تم التمرير فوق {{label}}",
     "cancelled": "تم إلغاء السحب"
+  },
+  "tabs": {
+    "courseNavigation": "أقسام الدورة"
   }
 }
