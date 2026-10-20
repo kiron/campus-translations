@@ -380,7 +380,14 @@
       "newMessagePlaceholder": "Neue Nachricht senden...",
       "openEmojiPicker": "Emoji-Auswahl öffnen",
       "sendReply": "Antwort senden",
-      "sendMessage": "Nachricht senden"
+      "sendMessage": "Nachricht senden",
+      "authorProfile": "Profil der verfassenden Person",
+      "loadingProfile": "Profil wird geladen...",
+      "profileNotFound": "Profil nicht gefunden",
+      "viewMoreReplies": "Weitere Antworten anzeigen",
+      "newMessageFrom": "Neue Nachricht von {{name}}",
+      "messageSent": "Nachricht gesendet",
+      "replySent": "Antwort gesendet"
     },
     "verification": {
       "failed": "Verifizierung fehlgeschlagen - Versuche es noch einmal",

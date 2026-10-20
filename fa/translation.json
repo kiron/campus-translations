@@ -390,7 +390,14 @@
       "newMessagePlaceholder": "پیام جدیدی بفرستید...",
       "openEmojiPicker": "باز کردن انتخابگر ایموجی",
       "sendReply": "ارسال پاسخ",
-      "sendMessage": "ارسال پیام"
+      "sendMessage": "ارسال پیام",
+      "authorProfile": "پروفایل نویسنده",
+      "loadingProfile": "در حال بارگذاری پروفایل...",
+      "profileNotFound": "پروفایل یافت نشد",
+      "viewMoreReplies": "نمایش پاسخ‌های بیشتر",
+      "newMessageFrom": "پیام جدید از {{name}}",
+      "messageSent": "پیام ارسال شد",
+      "replySent": "پاسخ ارسال شد"
     },
     "verification": {
       "failed": "تأیید صحت انجام نشد - دوباره امتحان کنید",

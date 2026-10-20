@@ -387,7 +387,14 @@
       "newMessagePlaceholder": "Надіслати нове повідомлення...",
       "openEmojiPicker": "Відкрити вибір емодзі",
       "sendReply": "Надіслати відповідь",
-      "sendMessage": "Надіслати повідомлення"
+      "sendMessage": "Надіслати повідомлення",
+      "authorProfile": "Профіль автора",
+      "loadingProfile": "Завантаження профілю...",
+      "profileNotFound": "Профіль не знайдено",
+      "viewMoreReplies": "Показати більше відповідей",
+      "newMessageFrom": "Нове повідомлення від {{name}}",
+      "messageSent": "Повідомлення надіслано",
+      "replySent": "Відповідь надіслано"
     },
     "verification": {
       "failed": "Помилка перевірки - Повторіть спробу",

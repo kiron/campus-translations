@@ -387,7 +387,14 @@
       "newMessagePlaceholder": "Написать новое сообщение...",
       "openEmojiPicker": "Открыть выбор эмодзи",
       "sendReply": "Отправить ответ",
-      "sendMessage": "Отправить сообщение"
+      "sendMessage": "Отправить сообщение",
+      "authorProfile": "Профиль автора",
+      "loadingProfile": "Загрузка профиля...",
+      "profileNotFound": "Профиль не найден",
+      "viewMoreReplies": "Показать больше ответов",
+      "newMessageFrom": "Новое сообщение от {{name}}",
+      "messageSent": "Сообщение отправлено",
+      "replySent": "Ответ отправлен"
     },
     "verification": {
       "failed": "Верификация не удалась - попробуй еще раз",

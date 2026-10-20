@@ -381,7 +381,14 @@
       "newMessagePlaceholder": "Yeni bir mesaj gönderin...",
       "openEmojiPicker": "Emoji seçiciyi aç",
       "sendReply": "Yanıt gönder",
-      "sendMessage": "Mesaj gönder"
+      "sendMessage": "Mesaj gönder",
+      "authorProfile": "Yazar profili",
+      "loadingProfile": "Profil yükleniyor...",
+      "profileNotFound": "Profil bulunamadı",
+      "viewMoreReplies": "Daha fazla yanıt göster",
+      "newMessageFrom": "{{name}} kişisinden yeni mesaj",
+      "messageSent": "Mesaj gönderildi",
+      "replySent": "Yanıt gönderildi"
     },
     "verification": {
       "failed": "Doğrulama başarısız oldu - Tekrar deneyin",

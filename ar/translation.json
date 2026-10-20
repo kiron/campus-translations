@@ -421,7 +421,14 @@
       "defaultText": "لا توجد مناقشة هنا حتى الان. قل مرحباً للمشاركين الآخرين في هذا المشروع.",
       "openEmojiPicker": "فتح منتقي الرموز التعبيرية",
       "sendReply": "إرسال الرد",
-      "sendMessage": "إرسال الرسالة"
+      "sendMessage": "إرسال الرسالة",
+      "authorProfile": "الملف الشخصي للكاتب",
+      "loadingProfile": "جاري تحميل الملف الشخصي...",
+      "profileNotFound": "لم يتم العثور على الملف الشخصي",
+      "viewMoreReplies": "عرض المزيد من الردود",
+      "newMessageFrom": "رسالة جديدة من {{name}}",
+      "messageSent": "تم إرسال الرسالة",
+      "replySent": "تم إرسال الرد"
     },
     "verification": {
       "failed": "فشل التحقق - حاول مرة أخرى",

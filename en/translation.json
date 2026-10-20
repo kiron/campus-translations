@@ -355,7 +355,14 @@
       "newMessagePlaceholder": "Send a new message...",
       "openEmojiPicker": "Open emoji picker",
       "sendReply": "Send reply",
-      "sendMessage": "Send message"
+      "sendMessage": "Send message",
+      "authorProfile": "Author profile",
+      "loadingProfile": "Loading profile...",
+      "profileNotFound": "Profile not found",
+      "viewMoreReplies": "View more replies",
+      "newMessageFrom": "New message from {{name}}",
+      "messageSent": "Message sent",
+      "replySent": "Reply sent"
     },
     "verification": {
       "failed": "Verification failed - Try again",

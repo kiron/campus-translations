@@ -383,7 +383,14 @@
       "sendButton": "Enviar",
       "openEmojiPicker": "Abrir selector de emojis",
       "sendReply": "Enviar respuesta",
-      "sendMessage": "Enviar mensaje"
+      "sendMessage": "Enviar mensaje",
+      "authorProfile": "Perfil del autor/a",
+      "loadingProfile": "Cargando perfil...",
+      "profileNotFound": "Perfil no encontrado",
+      "viewMoreReplies": "Ver más respuestas",
+      "newMessageFrom": "Nuevo mensaje de {{name}}",
+      "messageSent": "Mensaje enviado",
+      "replySent": "Respuesta enviada"
     },
     "verification": {
       "failed": "La Verificación falló - Intenta de nuevo",

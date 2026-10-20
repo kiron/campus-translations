@@ -391,7 +391,14 @@
       "newMessagePlaceholder": "نوی پیغام ولیږئ...",
       "openEmojiPicker": "د ایموجي ټاکونکی پرانیستل",
       "sendReply": "ځواب لېږل",
-      "sendMessage": "پیغام لېږل"
+      "sendMessage": "پیغام لېږل",
+      "authorProfile": "د لیکوال پروفایل",
+      "loadingProfile": "پروفایل لوډ کیږي...",
+      "profileNotFound": "پروفایل ونه موندل شو",
+      "viewMoreReplies": "نور ځوابونه وګورئ",
+      "newMessageFrom": "د {{name}} لخوا نوی پیغام",
+      "messageSent": "پیغام ولېږل شو",
+      "replySent": "ځواب ولېږل شو"
     },
     "verification": {
       "failed": "تایید ناکام شو - بیا هڅه وکړئ",
