@@ -112,7 +112,7 @@
     "firstUpload": "{{name}} завантажив(-ла) {{fileName}}",
     "versionUpload": "{{name}} завантажив(-ла) версію {{version}}: {{fileName}}",
     "statusReset": "Статус скинуто на «Очікує відгуку»",
-    "changedStatus": "Змінив(-ла) статус",
+    "eventStatusChanged": "{{name}} змінив(-ла) статус версії {{version}} на «{{status}}»",
     "emptyTutor": "Відгуків ще немає. {{name}} отримає сповіщення про ваше повідомлення.",
     "emptyLearner": "Відгуків ще немає. Ви отримаєте сповіщення, коли викладач відповість.",
     "tutorPlaceholder": "Напишіть відгук для {{name}} щодо версії {{version}}…",

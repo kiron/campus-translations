@@ -106,7 +106,7 @@
     "firstUpload": "{{name}} فایل {{fileName}} را بارگذاری کرد",
     "versionUpload": "{{name}} نسخه {{version}} را بارگذاری کرد: {{fileName}}",
     "statusReset": "وضعیت به «در انتظار بازخورد» بازگردانده شد",
-    "changedStatus": "وضعیت را تغییر داد",
+    "eventStatusChanged": "{{name}} وضعیت نسخه {{version}} را به «{{status}}» تغییر داد",
     "emptyTutor": "هنوز بازخوردی نیست. پیام شما به {{name}} اطلاع داده می‌شود.",
     "emptyLearner": "هنوز بازخوردی نیست. وقتی مربی شما پاسخ دهد، اعلانی دریافت می‌کنید.",
     "tutorPlaceholder": "برای {{name}} درباره نسخه {{version}} بازخورد بنویسید…",

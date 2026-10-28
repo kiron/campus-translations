@@ -106,7 +106,7 @@
     "firstUpload": "{{name}} uploaded {{fileName}}",
     "versionUpload": "{{name}} uploaded version {{version}}: {{fileName}}",
     "statusReset": "Status reset to Awaiting feedback",
-    "changedStatus": "Changed the status",
+    "eventStatusChanged": "{{name}} set the status of version {{version}} to “{{status}}”",
     "emptyTutor": "No feedback yet. Your message will notify {{name}}.",
     "emptyLearner": "No feedback yet. You'll get a notification when your tutor replies.",
     "tutorPlaceholder": "Write feedback for {{name}} on version {{version}}…",

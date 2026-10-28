@@ -106,7 +106,7 @@
     "firstUpload": "{{name}} hat {{fileName}} hochgeladen",
     "versionUpload": "{{name}} hat Version {{version}} hochgeladen: {{fileName}}",
     "statusReset": "Status zurückgesetzt auf „Wartet auf Feedback“",
-    "changedStatus": "Hat den Status geändert",
+    "eventStatusChanged": "{{name}} hat den Status von Version {{version}} auf „{{status}}“ gesetzt",
     "emptyTutor": "Noch kein Feedback. {{name}} wird über deine Nachricht benachrichtigt.",
     "emptyLearner": "Noch kein Feedback. Du bekommst eine Benachrichtigung, wenn deine Tutor*in antwortet.",
     "tutorPlaceholder": "Schreib Feedback für {{name}} zu Version {{version}}…",

@@ -106,7 +106,7 @@
     "firstUpload": "{{name}} subió {{fileName}}",
     "versionUpload": "{{name}} subió la versión {{version}}: {{fileName}}",
     "statusReset": "El estado volvió a «Esperando comentarios»",
-    "changedStatus": "Cambió el estado",
+    "eventStatusChanged": "{{name}} cambió el estado de la versión {{version}} a «{{status}}»",
     "emptyTutor": "Aún no hay comentarios. {{name}} recibirá una notificación de tu mensaje.",
     "emptyLearner": "Aún no hay comentarios. Recibirás una notificación cuando tu tutor responda.",
     "tutorPlaceholder": "Escribe comentarios para {{name}} sobre la versión {{version}}…",

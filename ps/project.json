@@ -106,7 +106,7 @@
     "firstUpload": "{{name}} {{fileName}} پورته کړ",
     "versionUpload": "{{name}} نسخه {{version}} پورته کړه: {{fileName}}",
     "statusReset": "حالت بېرته «د نظر په تمه» ته واړول شو",
-    "changedStatus": "حالت یې بدل کړ",
+    "eventStatusChanged": "{{name}} د {{version}} نسخې حالت «{{status}}» ته بدل کړ",
     "emptyTutor": "تر اوسه هېڅ نظر نشته. ستاسو پیغام به {{name}} ته خبرتیا ورکړي.",
     "emptyLearner": "تر اوسه هېڅ نظر نشته. کله چې ستاسو ښوونکی ځواب ورکړي، تاسو به خبرتیا ترلاسه کړئ.",
     "tutorPlaceholder": "د {{name}} لپاره د نسخې {{version}} په اړه نظر ولیکئ…",

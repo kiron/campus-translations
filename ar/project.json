@@ -121,7 +121,7 @@
     "firstUpload": "قام {{name}} برفع {{fileName}}",
     "versionUpload": "قام {{name}} برفع الإصدار {{version}}: {{fileName}}",
     "statusReset": "تمت إعادة الحالة إلى «بانتظار الملاحظات»",
-    "changedStatus": "غيّر الحالة",
+    "eventStatusChanged": "غيّر {{name}} حالة الإصدار {{version}} إلى «{{status}}»",
     "emptyTutor": "لا توجد ملاحظات بعد. سيتلقى {{name}} إشعاراً برسالتك.",
     "emptyLearner": "لا توجد ملاحظات بعد. ستتلقى إشعاراً عندما يرد معلمك.",
     "tutorPlaceholder": "اكتب ملاحظاتك لـ {{name}} على الإصدار {{version}}…",

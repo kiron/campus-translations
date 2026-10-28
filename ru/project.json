@@ -112,7 +112,7 @@
     "firstUpload": "{{name}} загрузил(а) {{fileName}}",
     "versionUpload": "{{name}} загрузил(а) версию {{version}}: {{fileName}}",
     "statusReset": "Статус сброшен на «Ожидает отзыва»",
-    "changedStatus": "Изменил(а) статус",
+    "eventStatusChanged": "{{name}} изменил(а) статус версии {{version}} на «{{status}}»",
     "emptyTutor": "Отзывов пока нет. {{name}} получит уведомление о вашем сообщении.",
     "emptyLearner": "Отзывов пока нет. Вы получите уведомление, когда преподаватель ответит.",
     "tutorPlaceholder": "Напишите отзыв для {{name}} о версии {{version}}…",
