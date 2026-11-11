@@ -45,16 +45,24 @@
       "errorMessage": "Anulación cancelada: {{0}}"
     },
     "additionalOffers": {
-      "info": "Por favor, infórmame sobre oportunidades interesantes que puedo encontrar fuera de la plataforma.",
-      "title": "Ofertas adicionales"
+      "info": "Eventos, oportunidades de aprendizaje y otras ofertas fuera de la plataforma.",
+      "title": "Oportunidades"
+    },
+    "unreadMessages": {
+      "title": "Mensajes y comentarios",
+      "info": "Un correo cuando tengas mensajes, respuestas o comentarios sobre tus archivos sin leer."
+    },
+    "weeklyDigest": {
+      "title": "Resumen semanal",
+      "info": "Cada lunes, un breve resumen de las notificaciones que aún no has leído."
     },
     "updates": {
-      "info": "Envíame información sobre novedades como cursos o programas que puedan ser interesantes para mí.",
-      "title": "Actualizaciones"
+      "info": "Nuevos cursos, programas y noticias de la plataforma.",
+      "title": "Noticias y nuevos cursos"
     },
     "personalUpdates": {
-      "info": "Enviadme recordatorios y novedades sobre los cursos y programas a los que me he inscrito.",
-      "title": "Novedades personalizadas"
+      "info": "Recordatorios y cambios sobre tus cursos y sesiones en línea.\nRecomendado: si lo desactivas, podrías perderte cambios en las sesiones.",
+      "title": "Novedades de cursos y sesiones"
     }
   },
   "pushNotifications": {

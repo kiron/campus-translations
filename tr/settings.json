@@ -45,16 +45,24 @@
       "errorMessage": "Abonelikten çıkılamadı: {{0}}"
     },
     "additionalOffers": {
-      "info": "Öğrenme platformunun dışındaki ilginç fırsatlar hakkında beni bilgilendir.",
-      "title": "Ek Teklifler"
+      "info": "Platform dışından etkinlikler, öğrenme fırsatları ve diğer teklifler.",
+      "title": "Fırsatlar"
+    },
+    "unreadMessages": {
+      "title": "Mesajlar ve geri bildirimler",
+      "info": "Okunmamış mesajlarınız, yanıtlarınız veya dosyalarınızla ilgili geri bildirimleriniz olduğunda bir e-posta."
+    },
+    "weeklyDigest": {
+      "title": "Haftalık özet",
+      "info": "Her pazartesi, henüz okumadığınız bildirimlerin kısa bir özeti."
     },
     "updates": {
-      "info": "İlgimi çekebilecek yeni içerik teklifleri (yeni kurslar veya programlar gibi) hakkında bana bilgi gönderin.",
-      "title": "Güncellemeler"
+      "info": "Yeni kurslar, programlar ve platform haberleri.",
+      "title": "Haberler ve yeni kurslar"
     },
     "personalUpdates": {
-      "info": "Kayıtlı olduğum kurslar ve programlarla ilgili hatırlatıcılar ve güncellemeler gönderin.",
-      "title": "Kişisel Güncellemeler"
+      "info": "Kurslarınız ve canlı oturumlarınızla ilgili hatırlatıcılar ve değişiklikler.\nÖnerilir: kapatırsanız oturum değişikliklerini kaçırabilirsiniz.",
+      "title": "Kurs ve oturum güncellemeleri"
     }
   },
   "pushNotifications": {

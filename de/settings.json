@@ -45,16 +45,24 @@
       "errorMessage": "Abmeldung abgebrochen: {{0}}"
     },
     "additionalOffers": {
-      "info": "Ich möchte über neue interessante Angebote von Dritten informiert werden.",
-      "title": "Weitere Angebote"
+      "info": "Events, Lernmöglichkeiten und weitere Angebote außerhalb der Plattform.",
+      "title": "Chancen"
+    },
+    "unreadMessages": {
+      "title": "Nachrichten & Feedback",
+      "info": "Eine E-Mail, wenn du ungelesene Nachrichten, Antworten oder Feedback zu deinen Dateien hast."
+    },
+    "weeklyDigest": {
+      "title": "Wöchentliche Zusammenfassung",
+      "info": "Jeden Montag eine kurze Zusammenfassung der Benachrichtigungen, die du noch nicht gelesen hast."
     },
     "updates": {
-      "info": "Ich möchte Informationen über neue Angebote erhalten (z. B. neue Kurse oder Programme).",
-      "title": "Updates"
+      "info": "Neue Kurse, Programme und Neuigkeiten von der Plattform.",
+      "title": "Neuigkeiten & neue Kurse"
     },
     "personalUpdates": {
-      "info": "Ich möchte Erinnerungen und Updates zu Kursen und Programmen erhalten, an denen ich teilnehme.",
-      "title": "Persönliche Updates"
+      "info": "Erinnerungen und Änderungen zu deinen Kursen und Veranstaltungen.\nEmpfohlen: Wenn du das ausschaltest, verpasst du eventuell Änderungen an Veranstaltungen.",
+      "title": "Updates zu Kursen & Veranstaltungen"
     }
   },
   "pushNotifications": {
